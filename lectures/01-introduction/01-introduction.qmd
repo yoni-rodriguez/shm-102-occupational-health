@@ -5,6 +5,7 @@ format:
     toc-location: right
     smooth-scroll: true
     code-fold: true
+    embed-resources: true
 editor: visual
 ---
 
@@ -107,11 +108,9 @@ University of Washington
 
 # Where is paraquat used?
 
-<iframe src="https://water.usgs.gov/nawqa/pnsp/usage/maps/show_map.php?year=2018&amp;map=PARAQUAT&amp;hilo=L&amp;disp=Paraquat" width="100%" height="650" style="border:1px solid #ccc;" loading="lazy">
+[![Estimated agricultural use of paraquat in the United States, 2018.](https://water.usgs.gov/nawqa/pnsp/usage/maps/graphics/L_PARAQUAT_2018.png){fig-alt="USGS map showing estimated agricultural paraquat use across the United States in 2018, with higher estimated use concentrated in agricultural regions." width="90%"}](https://water.usgs.gov/nawqa/pnsp/usage/maps/show_map.php?year=2018&map=PARAQUAT&hilo=L&disp=Paraquat)
 
-</iframe>
-
-*Source: U.S. Geological Survey.*\
+*Source: U.S. Geological Survey.*  
 [Explore paraquat use map →](https://water.usgs.gov/nawqa/pnsp/usage/maps/show_map.php?year=2018&map=PARAQUAT&hilo=L&disp=Paraquat)
 
 # Who is exposed?
