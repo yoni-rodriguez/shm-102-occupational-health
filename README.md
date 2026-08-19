@@ -8,7 +8,7 @@ SHM 102 introduces students to the fundamental concepts of occupational health t
 
 ## Course Organization
 
-Rather than treating occupational hazards as isolated categories, the course examines worker health across multiple scales:
+Rather than treating occupational hazards as isolated categories, the course examines worker health across multiple interconnected scales:
 
 ```text
 Climate & Environment
@@ -26,7 +26,7 @@ Cells, Molecules & Microorganisms
 
 Chemical, biological, physical, ergonomic, and psychosocial hazards are examined across these scales through real-world occupational health cases.
 
-Cases repeatedly use a common framework:
+Cases repeatedly use a common occupational health reasoning framework:
 
 ```text
 Worker → Task → Hazard → Exposure → Health Effect → Risk → Controls
@@ -68,13 +68,15 @@ shm-102-occupational-health/
 │   ├── week-01/
 │   ├── week-02/
 │   ├── ...
-│   └── week-10/
+│   └── week-11/
 │
 ├── assessments/
 │   ├── midterm/
 │   └── engagement/
 │
 ├── final-project/
+│
+├── vocabulary/
 │
 ├── resources/
 │
@@ -83,12 +85,13 @@ shm-102-occupational-health/
 
 ### Repository Contents
 
-- **`course-blueprint.qmd`** — Course philosophy, organization, learning progression, and instructional planning
+- **`course-blueprint.qmd`** — Course purpose, teaching philosophy, organizing framework, course architecture, assessment structure, and instructional planning
 - **`syllabus/`** — Current and archived course syllabi
 - **`course-resources/`** — Student-facing course orientation and supporting materials
 - **`lectures/`** — Quarto/Reveal.js lecture presentations organized by instructional week
 - **`assessments/`** — Midterm and engagement assessment materials
-- **`final-project/`** — Final group project instructions, cases, and supporting materials
+- **`final-project/`** — Final group project instructions, cases, rubrics, and supporting materials
+- **`vocabulary/`** — Course vocabulary and study resources for foundational occupational health concepts
 - **`resources/`** — Additional course resources and reference materials
 - **`images/`** — Images and visual assets used throughout the course
 

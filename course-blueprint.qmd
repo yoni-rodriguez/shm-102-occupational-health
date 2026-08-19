@@ -3,9 +3,13 @@ title: "SHM 102 Course Blueprint"
 author: "Yoni Rodriguez"
 format:
   html:
+    theme: cosmo
     toc: true
     toc-depth: 3
+    toc-location: left
     number-sections: false
+    smooth-scroll: true
+    embed-resources: true
 ---
 
 # Course Purpose
