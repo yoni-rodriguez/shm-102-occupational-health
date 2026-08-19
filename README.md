@@ -11,19 +11,15 @@ SHM 102 introduces students to the fundamental concepts of occupational health t
 Rather than treating occupational hazards as isolated categories, the course examines worker health across multiple scales:
 
 ```text
-Society & Policy
-       ↓
 Climate & Environment
        ↓
-Communities
+Society & Policy
        ↓
-Workplaces
+Community Health
        ↓
-Jobs & Tasks
+Workplace Environment
        ↓
-Workers
-       ↓
-Body Systems
+Worker Health & Behaviors
        ↓
 Cells, Molecules & Microorganisms
 ```
