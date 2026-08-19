@@ -1,0 +1,261 @@
+---
+title: "SHM 102 Course Blueprint"
+author: "Yoni Rodriguez"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: false
+---
+
+# Course Purpose
+
+SHM 102 introduces students to the foundational concepts and reasoning used to understand occupational health problems.
+
+The course develops a common language for recognizing occupational hazards, understanding how workers are exposed, identifying potential health effects, evaluating factors that influence risk, and considering strategies for prevention and control.
+
+Rather than examining workplace hazards in isolation, students explore how worker health is shaped by interactions among environmental conditions, public policy, communities, workplaces, individual behaviors and susceptibility, and biological processes.
+
+By the end of the course, students should be able to recognize occupational health problems, investigate how and why they occur, evaluate evidence, and propose practical approaches for protecting worker health.
+
+# Course Philosophy
+
+Occupational health problems rarely exist in isolation. Worker exposures are shaped by environmental conditions, laws and policies, community conditions, workplace organization, job tasks, individual characteristics, and biological processes.
+
+SHM 102 therefore uses a systems-based, case-study approach rather than organizing the course exclusively around individual hazard categories. Chemical, biological, physical, ergonomic, and psychosocial hazards remain foundational concepts, but students encounter these hazards within real occupational health problems.
+
+The course moves repeatedly between scales:
+
+Climate & Environment
+       ↓
+Society & Policy
+       ↓
+Community Health
+       ↓
+Workplace Environment
+       ↓
+Worker Health & Behaviors
+       ↓
+Cells, Molecules & Microorganisms
+
+Students will examine cases from global, national, regional, and local contexts and practice asking the same fundamental questions across different problems:
+
+Worker → Task → Hazard → Exposure → Health Effect → Risk → Controls
+
+The goal is not simply for students to memorize lists of hazards or regulations. The goal is to develop the ability to recognize an occupational health problem, ask useful questions, evaluate evidence, understand connections across scales, and reason toward practical approaches for prevention.
+
+# Organizing Framework: Scale
+
+SHM 102 examines occupational health across multiple interconnected scales:
+
+```text
+Climate & Environment
+       ↓
+Society & Policy
+       ↓
+Community Health
+       ↓
+Workplace Environment
+       ↓
+Worker Health & Behaviors
+       ↓
+Cells, Molecules & Microorganisms
+```
+
+## How Scale Organizes the Course
+
+The scale framework provides an organizing structure for examining occupational health problems from broad environmental and societal forces to workplace conditions, individual workers, and biological mechanisms.
+
+The scales are interconnected rather than a strictly one-way causal pathway. Occupational health cases may move upward or downward across multiple scales depending on the problem being examined.
+
+## Design Rationale
+
+Climate change begins the scale-based portion of the course because it allows students to move from a global environmental driver through societal, community, workplace, worker, and biological consequences.
+
+Beginning at this broad scale establishes the central idea that occupational health does not begin and end at the workplace. Changes in climate can influence land use, food systems, migration, working and living conditions, heat exposure, air quality, vector ecology, infectious disease, and other factors that ultimately shape worker health.
+
+The course can then progressively move across smaller scales while repeatedly showing students how those scales remain connected.
+
+# Occupational Health Reasoning Framework
+
+Throughout the course, occupational health cases will repeatedly be examined using a common framework:
+
+```text
+Worker → Task → Hazard → Exposure → Health Effect → Risk → Controls
+```
+
+This framework provides students with a consistent approach for identifying and analyzing occupational health problems across different hazards, workplaces, populations, and scales.
+
+# Core Concepts
+
+## Foundations of Occupational Health
+
+## History, Policy, and Public Health
+
+## Hazard Categories
+
+- Chemical
+- Biological
+- Physical
+- Ergonomic
+- Psychosocial
+
+## Exposure Pathways and Routes
+
+## Dose, Frequency, Duration, and Intensity
+
+## Risk and Susceptibility
+
+## Prevention and the Hierarchy of Controls
+
+# Fall 2026 Course Architecture
+
+The Fall 2026 course schedule is organized around the Central Washington University academic calendar. Course content, case studies, assessments, and final-project milestones will be mapped onto this calendar as the course is developed.
+
+## Week 1 — September 23–24
+
+## Week 2 — September 28–October 1
+
+## Week 3 — October 5–8
+
+## Week 4 — October 12–15
+
+## Week 5 — October 19–22
+
+## Week 6 — October 26–29
+
+## Week 7 — November 2–5
+
+## Week 8 — November 9–12
+
+**Veterans Day:** Wednesday, November 11 — No class
+
+## Week 9 — November 16–19
+
+## Week 10 — November 23–24
+
+**Thanksgiving Recess:** November 25–27 — No class
+
+## Week 11 — November 30–December 3
+
+### Final Project Presentations
+
+- 12 groups
+- Approximately 5 students per group
+- 3 groups presenting per class meeting
+- 15-minute presentation slots
+  - 10–12 minutes presentation
+  - 3–5 minutes questions and discussion
+- Peer review and audience participation incorporated into Engagement
+
+## End-of-Quarter Period — December 4–11
+
+**December 4:** Last day of instruction
+
+**December 7:** Study Day
+
+**December 8–11:** Final examination period
+
+No regularly scheduled SHM 102 coursework is planned during the final examination period. This period provides time for students to focus on other final examinations and for completion of grading and approved presentation make-ups, if needed.
+
+# Assessment Architecture
+
+SHM 102 uses a 400-point course structure emphasizing foundational knowledge, engagement with occupational health issues, and application of course concepts to a real-world problem.
+
+## Midterm — Foundations
+
+**Points:** 100
+
+The midterm assesses students' understanding of the foundational language and concepts needed to analyze occupational health problems.
+
+## Engagement & Current Events
+
+**Points:** 100
+
+Engagement activities provide opportunities for students to recognize, discuss, and apply occupational health concepts throughout the quarter.
+
+Activities may include current-event analyses, case discussions, readings, peer review, and other course participation activities.
+
+## Final Group Project
+
+**Points:** 200
+
+The final group project serves as the primary application-based assessment for the course. Students work collaboratively to investigate a real occupational or environmental health problem and apply the concepts and reasoning framework developed throughout the quarter.
+
+# Final Project Structure
+
+## Group Organization
+
+- Approximately 60 students
+- Approximately 5 students per group
+- Approximately 12 project groups
+
+## Case Framework
+
+Final-project cases will use the same occupational health reasoning framework practiced throughout the course:
+
+```text
+What's happening?
+       ↓
+Who is affected?
+       ↓
+What is the hazard?
+       ↓
+How are people exposed?
+       ↓
+What are the health consequences?
+       ↓
+What factors make the problem better or worse?
+       ↓
+What controls would you recommend?
+       ↓
+How would you know whether the intervention worked?
+```
+
+## Library Research Sessions
+
+Two library research sessions will introduce students to strategies for finding and evaluating evidence for their final group projects.
+
+Approximately half of the class will attend each session.
+
+The library sessions should occur early in the quarter, after students have been assigned their groups and project topics, so students can immediately apply research skills to their own occupational health problem.
+
+## Candidate Project Topics
+
+# Case Study Bank
+
+# Vocabulary Progression
+
+# Student Onboarding
+
+## Welcome to SHM 102
+
+A short student-facing course orientation will introduce students to the structure of SHM 102, expectations for participation, major assessments, course resources, and the approach used to examine occupational health problems.
+
+## Who Is SHM 102? Survey
+
+An introductory survey will be used to better understand the backgrounds and interests represented in the class.
+
+Potential information may include:
+
+- Class standing
+- Major or academic program
+- Previous work experience
+- Previous exposure to occupational or environmental health
+- Occupational health topics of interest
+- Students' initial understanding of occupational health
+- What students hope to learn during the course
+
+Aggregate results may be incorporated into an early course meeting to introduce the class to the range of backgrounds, experiences, and interests represented in SHM 102.
+
+# Instructor Notes and Reflections
+
+## Fall 2026
+
+### Keep
+
+### Modify
+
+### Remove
+
+### Ideas for Future Offerings

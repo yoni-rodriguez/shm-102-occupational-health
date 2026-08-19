@@ -1,0 +1,802 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.38">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Yoni Rodriguez">
+
+<title>SHM 102 Course Blueprint</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="course-blueprint_files/libs/clipboard/clipboard.min.js"></script>
+<script src="course-blueprint_files/libs/quarto-html/quarto.js" type="module"></script>
+<script src="course-blueprint_files/libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="course-blueprint_files/libs/quarto-html/popper.min.js"></script>
+<script src="course-blueprint_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="course-blueprint_files/libs/quarto-html/anchor.min.js"></script>
+<link href="course-blueprint_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="course-blueprint_files/libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="course-blueprint_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="course-blueprint_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="course-blueprint_files/libs/bootstrap/bootstrap-efbb37e9afcc02144ebbc7afd12a776f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+
+
+</head>
+
+<body class="quarto-light">
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+<div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+  <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#course-purpose" id="toc-course-purpose" class="nav-link active" data-scroll-target="#course-purpose">Course Purpose</a></li>
+  <li><a href="#course-philosophy" id="toc-course-philosophy" class="nav-link" data-scroll-target="#course-philosophy">Course Philosophy</a></li>
+  <li><a href="#organizing-framework-scale" id="toc-organizing-framework-scale" class="nav-link" data-scroll-target="#organizing-framework-scale">Organizing Framework: Scale</a>
+  <ul class="collapse">
+  <li><a href="#how-scale-organizes-the-course" id="toc-how-scale-organizes-the-course" class="nav-link" data-scroll-target="#how-scale-organizes-the-course">How Scale Organizes the Course</a></li>
+  <li><a href="#design-rationale" id="toc-design-rationale" class="nav-link" data-scroll-target="#design-rationale">Design Rationale</a></li>
+  </ul></li>
+  <li><a href="#occupational-health-reasoning-framework" id="toc-occupational-health-reasoning-framework" class="nav-link" data-scroll-target="#occupational-health-reasoning-framework">Occupational Health Reasoning Framework</a></li>
+  <li><a href="#core-concepts" id="toc-core-concepts" class="nav-link" data-scroll-target="#core-concepts">Core Concepts</a>
+  <ul class="collapse">
+  <li><a href="#foundations-of-occupational-health" id="toc-foundations-of-occupational-health" class="nav-link" data-scroll-target="#foundations-of-occupational-health">Foundations of Occupational Health</a></li>
+  <li><a href="#history-policy-and-public-health" id="toc-history-policy-and-public-health" class="nav-link" data-scroll-target="#history-policy-and-public-health">History, Policy, and Public Health</a></li>
+  <li><a href="#hazard-categories" id="toc-hazard-categories" class="nav-link" data-scroll-target="#hazard-categories">Hazard Categories</a></li>
+  <li><a href="#exposure-pathways-and-routes" id="toc-exposure-pathways-and-routes" class="nav-link" data-scroll-target="#exposure-pathways-and-routes">Exposure Pathways and Routes</a></li>
+  <li><a href="#dose-frequency-duration-and-intensity" id="toc-dose-frequency-duration-and-intensity" class="nav-link" data-scroll-target="#dose-frequency-duration-and-intensity">Dose, Frequency, Duration, and Intensity</a></li>
+  <li><a href="#risk-and-susceptibility" id="toc-risk-and-susceptibility" class="nav-link" data-scroll-target="#risk-and-susceptibility">Risk and Susceptibility</a></li>
+  <li><a href="#prevention-and-the-hierarchy-of-controls" id="toc-prevention-and-the-hierarchy-of-controls" class="nav-link" data-scroll-target="#prevention-and-the-hierarchy-of-controls">Prevention and the Hierarchy of Controls</a></li>
+  </ul></li>
+  <li><a href="#fall-2026-course-architecture" id="toc-fall-2026-course-architecture" class="nav-link" data-scroll-target="#fall-2026-course-architecture">Fall 2026 Course Architecture</a>
+  <ul class="collapse">
+  <li><a href="#week-1-september-2324" id="toc-week-1-september-2324" class="nav-link" data-scroll-target="#week-1-september-2324">Week 1 — September 23–24</a></li>
+  <li><a href="#week-2-september-28october-1" id="toc-week-2-september-28october-1" class="nav-link" data-scroll-target="#week-2-september-28october-1">Week 2 — September 28–October 1</a></li>
+  <li><a href="#week-3-october-58" id="toc-week-3-october-58" class="nav-link" data-scroll-target="#week-3-october-58">Week 3 — October 5–8</a></li>
+  <li><a href="#week-4-october-1215" id="toc-week-4-october-1215" class="nav-link" data-scroll-target="#week-4-october-1215">Week 4 — October 12–15</a></li>
+  <li><a href="#week-5-october-1922" id="toc-week-5-october-1922" class="nav-link" data-scroll-target="#week-5-october-1922">Week 5 — October 19–22</a></li>
+  <li><a href="#week-6-october-2629" id="toc-week-6-october-2629" class="nav-link" data-scroll-target="#week-6-october-2629">Week 6 — October 26–29</a></li>
+  <li><a href="#week-7-november-25" id="toc-week-7-november-25" class="nav-link" data-scroll-target="#week-7-november-25">Week 7 — November 2–5</a></li>
+  <li><a href="#week-8-november-912" id="toc-week-8-november-912" class="nav-link" data-scroll-target="#week-8-november-912">Week 8 — November 9–12</a></li>
+  <li><a href="#week-9-november-1619" id="toc-week-9-november-1619" class="nav-link" data-scroll-target="#week-9-november-1619">Week 9 — November 16–19</a></li>
+  <li><a href="#week-10-november-2324" id="toc-week-10-november-2324" class="nav-link" data-scroll-target="#week-10-november-2324">Week 10 — November 23–24</a></li>
+  <li><a href="#week-11-november-30december-3" id="toc-week-11-november-30december-3" class="nav-link" data-scroll-target="#week-11-november-30december-3">Week 11 — November 30–December 3</a>
+  <ul class="collapse">
+  <li><a href="#final-project-presentations" id="toc-final-project-presentations" class="nav-link" data-scroll-target="#final-project-presentations">Final Project Presentations</a></li>
+  </ul></li>
+  <li><a href="#end-of-quarter-period-december-411" id="toc-end-of-quarter-period-december-411" class="nav-link" data-scroll-target="#end-of-quarter-period-december-411">End-of-Quarter Period — December 4–11</a></li>
+  </ul></li>
+  <li><a href="#assessment-architecture" id="toc-assessment-architecture" class="nav-link" data-scroll-target="#assessment-architecture">Assessment Architecture</a>
+  <ul class="collapse">
+  <li><a href="#midterm-foundations" id="toc-midterm-foundations" class="nav-link" data-scroll-target="#midterm-foundations">Midterm — Foundations</a></li>
+  <li><a href="#engagement-current-events" id="toc-engagement-current-events" class="nav-link" data-scroll-target="#engagement-current-events">Engagement &amp; Current Events</a></li>
+  <li><a href="#final-group-project" id="toc-final-group-project" class="nav-link" data-scroll-target="#final-group-project">Final Group Project</a></li>
+  </ul></li>
+  <li><a href="#final-project-structure" id="toc-final-project-structure" class="nav-link" data-scroll-target="#final-project-structure">Final Project Structure</a>
+  <ul class="collapse">
+  <li><a href="#group-organization" id="toc-group-organization" class="nav-link" data-scroll-target="#group-organization">Group Organization</a></li>
+  <li><a href="#case-framework" id="toc-case-framework" class="nav-link" data-scroll-target="#case-framework">Case Framework</a></li>
+  <li><a href="#library-research-sessions" id="toc-library-research-sessions" class="nav-link" data-scroll-target="#library-research-sessions">Library Research Sessions</a></li>
+  <li><a href="#candidate-project-topics" id="toc-candidate-project-topics" class="nav-link" data-scroll-target="#candidate-project-topics">Candidate Project Topics</a></li>
+  </ul></li>
+  <li><a href="#case-study-bank" id="toc-case-study-bank" class="nav-link" data-scroll-target="#case-study-bank">Case Study Bank</a></li>
+  <li><a href="#vocabulary-progression" id="toc-vocabulary-progression" class="nav-link" data-scroll-target="#vocabulary-progression">Vocabulary Progression</a></li>
+  <li><a href="#student-onboarding" id="toc-student-onboarding" class="nav-link" data-scroll-target="#student-onboarding">Student Onboarding</a>
+  <ul class="collapse">
+  <li><a href="#welcome-to-shm-102" id="toc-welcome-to-shm-102" class="nav-link" data-scroll-target="#welcome-to-shm-102">Welcome to SHM 102</a></li>
+  <li><a href="#who-is-shm-102-survey" id="toc-who-is-shm-102-survey" class="nav-link" data-scroll-target="#who-is-shm-102-survey">Who Is SHM 102? Survey</a></li>
+  </ul></li>
+  <li><a href="#instructor-notes-and-reflections" id="toc-instructor-notes-and-reflections" class="nav-link" data-scroll-target="#instructor-notes-and-reflections">Instructor Notes and Reflections</a>
+  <ul class="collapse">
+  <li><a href="#fall-2026" id="toc-fall-2026" class="nav-link" data-scroll-target="#fall-2026">Fall 2026</a>
+  <ul class="collapse">
+  <li><a href="#keep" id="toc-keep" class="nav-link" data-scroll-target="#keep">Keep</a></li>
+  <li><a href="#modify" id="toc-modify" class="nav-link" data-scroll-target="#modify">Modify</a></li>
+  <li><a href="#remove" id="toc-remove" class="nav-link" data-scroll-target="#remove">Remove</a></li>
+  <li><a href="#ideas-for-future-offerings" id="toc-ideas-for-future-offerings" class="nav-link" data-scroll-target="#ideas-for-future-offerings">Ideas for Future Offerings</a></li>
+  </ul></li>
+  </ul></li>
+  </ul>
+</nav>
+</div>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">SHM 102 Course Blueprint</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Yoni Rodriguez </p>
+          </div>
+  </div>
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="course-purpose" class="level1">
+<h1>Course Purpose</h1>
+<p>SHM 102 introduces students to the foundational concepts and reasoning used to understand occupational health problems.</p>
+<p>The course develops a common language for recognizing occupational hazards, understanding how workers are exposed, identifying potential health effects, evaluating factors that influence risk, and considering strategies for prevention and control.</p>
+<p>Rather than examining workplace hazards in isolation, students explore how worker health is shaped by interactions among environmental conditions, public policy, communities, workplaces, individual behaviors and susceptibility, and biological processes.</p>
+<p>By the end of the course, students should be able to recognize occupational health problems, investigate how and why they occur, evaluate evidence, and propose practical approaches for protecting worker health.</p>
+</section>
+<section id="course-philosophy" class="level1">
+<h1>Course Philosophy</h1>
+<p>Occupational health problems rarely exist in isolation. Worker exposures are shaped by environmental conditions, laws and policies, community conditions, workplace organization, job tasks, individual characteristics, and biological processes.</p>
+<p>SHM 102 therefore uses a systems-based, case-study approach rather than organizing the course exclusively around individual hazard categories. Chemical, biological, physical, ergonomic, and psychosocial hazards remain foundational concepts, but students encounter these hazards within real occupational health problems.</p>
+<p>The course moves repeatedly between scales:</p>
+<p>Climate &amp; Environment ↓ Society &amp; Policy ↓ Community Health ↓ Workplace Environment ↓ Worker Health &amp; Behaviors ↓ Cells, Molecules &amp; Microorganisms</p>
+<p>Students will examine cases from global, national, regional, and local contexts and practice asking the same fundamental questions across different problems:</p>
+<p>Worker → Task → Hazard → Exposure → Health Effect → Risk → Controls</p>
+<p>The goal is not simply for students to memorize lists of hazards or regulations. The goal is to develop the ability to recognize an occupational health problem, ask useful questions, evaluate evidence, understand connections across scales, and reason toward practical approaches for prevention.</p>
+</section>
+<section id="organizing-framework-scale" class="level1">
+<h1>Organizing Framework: Scale</h1>
+<p>SHM 102 examines occupational health across multiple interconnected scales:</p>
+<pre class="text"><code>Climate &amp; Environment
+       ↓
+Society &amp; Policy
+       ↓
+Community Health
+       ↓
+Workplace Environment
+       ↓
+Worker Health &amp; Behaviors
+       ↓
+Cells, Molecules &amp; Microorganisms</code></pre>
+<section id="how-scale-organizes-the-course" class="level2">
+<h2 class="anchored" data-anchor-id="how-scale-organizes-the-course">How Scale Organizes the Course</h2>
+<p>The scale framework provides an organizing structure for examining occupational health problems from broad environmental and societal forces to workplace conditions, individual workers, and biological mechanisms.</p>
+<p>The scales are interconnected rather than a strictly one-way causal pathway. Occupational health cases may move upward or downward across multiple scales depending on the problem being examined.</p>
+</section>
+<section id="design-rationale" class="level2">
+<h2 class="anchored" data-anchor-id="design-rationale">Design Rationale</h2>
+<p>Climate change begins the scale-based portion of the course because it allows students to move from a global environmental driver through societal, community, workplace, worker, and biological consequences.</p>
+<p>Beginning at this broad scale establishes the central idea that occupational health does not begin and end at the workplace. Changes in climate can influence land use, food systems, migration, working and living conditions, heat exposure, air quality, vector ecology, infectious disease, and other factors that ultimately shape worker health.</p>
+<p>The course can then progressively move across smaller scales while repeatedly showing students how those scales remain connected.</p>
+</section>
+</section>
+<section id="occupational-health-reasoning-framework" class="level1">
+<h1>Occupational Health Reasoning Framework</h1>
+<p>Throughout the course, occupational health cases will repeatedly be examined using a common framework:</p>
+<pre class="text"><code>Worker → Task → Hazard → Exposure → Health Effect → Risk → Controls</code></pre>
+<p>This framework provides students with a consistent approach for identifying and analyzing occupational health problems across different hazards, workplaces, populations, and scales.</p>
+</section>
+<section id="core-concepts" class="level1">
+<h1>Core Concepts</h1>
+<section id="foundations-of-occupational-health" class="level2">
+<h2 class="anchored" data-anchor-id="foundations-of-occupational-health">Foundations of Occupational Health</h2>
+</section>
+<section id="history-policy-and-public-health" class="level2">
+<h2 class="anchored" data-anchor-id="history-policy-and-public-health">History, Policy, and Public Health</h2>
+</section>
+<section id="hazard-categories" class="level2">
+<h2 class="anchored" data-anchor-id="hazard-categories">Hazard Categories</h2>
+<ul>
+<li>Chemical</li>
+<li>Biological</li>
+<li>Physical</li>
+<li>Ergonomic</li>
+<li>Psychosocial</li>
+</ul>
+</section>
+<section id="exposure-pathways-and-routes" class="level2">
+<h2 class="anchored" data-anchor-id="exposure-pathways-and-routes">Exposure Pathways and Routes</h2>
+</section>
+<section id="dose-frequency-duration-and-intensity" class="level2">
+<h2 class="anchored" data-anchor-id="dose-frequency-duration-and-intensity">Dose, Frequency, Duration, and Intensity</h2>
+</section>
+<section id="risk-and-susceptibility" class="level2">
+<h2 class="anchored" data-anchor-id="risk-and-susceptibility">Risk and Susceptibility</h2>
+</section>
+<section id="prevention-and-the-hierarchy-of-controls" class="level2">
+<h2 class="anchored" data-anchor-id="prevention-and-the-hierarchy-of-controls">Prevention and the Hierarchy of Controls</h2>
+</section>
+</section>
+<section id="fall-2026-course-architecture" class="level1">
+<h1>Fall 2026 Course Architecture</h1>
+<p>The Fall 2026 course schedule is organized around the Central Washington University academic calendar. Course content, case studies, assessments, and final-project milestones will be mapped onto this calendar as the course is developed.</p>
+<section id="week-1-september-2324" class="level2">
+<h2 class="anchored" data-anchor-id="week-1-september-2324">Week 1 — September 23–24</h2>
+</section>
+<section id="week-2-september-28october-1" class="level2">
+<h2 class="anchored" data-anchor-id="week-2-september-28october-1">Week 2 — September 28–October 1</h2>
+</section>
+<section id="week-3-october-58" class="level2">
+<h2 class="anchored" data-anchor-id="week-3-october-58">Week 3 — October 5–8</h2>
+</section>
+<section id="week-4-october-1215" class="level2">
+<h2 class="anchored" data-anchor-id="week-4-october-1215">Week 4 — October 12–15</h2>
+</section>
+<section id="week-5-october-1922" class="level2">
+<h2 class="anchored" data-anchor-id="week-5-october-1922">Week 5 — October 19–22</h2>
+</section>
+<section id="week-6-october-2629" class="level2">
+<h2 class="anchored" data-anchor-id="week-6-october-2629">Week 6 — October 26–29</h2>
+</section>
+<section id="week-7-november-25" class="level2">
+<h2 class="anchored" data-anchor-id="week-7-november-25">Week 7 — November 2–5</h2>
+</section>
+<section id="week-8-november-912" class="level2">
+<h2 class="anchored" data-anchor-id="week-8-november-912">Week 8 — November 9–12</h2>
+<p><strong>Veterans Day:</strong> Wednesday, November 11 — No class</p>
+</section>
+<section id="week-9-november-1619" class="level2">
+<h2 class="anchored" data-anchor-id="week-9-november-1619">Week 9 — November 16–19</h2>
+</section>
+<section id="week-10-november-2324" class="level2">
+<h2 class="anchored" data-anchor-id="week-10-november-2324">Week 10 — November 23–24</h2>
+<p><strong>Thanksgiving Recess:</strong> November 25–27 — No class</p>
+</section>
+<section id="week-11-november-30december-3" class="level2">
+<h2 class="anchored" data-anchor-id="week-11-november-30december-3">Week 11 — November 30–December 3</h2>
+<section id="final-project-presentations" class="level3">
+<h3 class="anchored" data-anchor-id="final-project-presentations">Final Project Presentations</h3>
+<ul>
+<li>12 groups</li>
+<li>Approximately 5 students per group</li>
+<li>3 groups presenting per class meeting</li>
+<li>15-minute presentation slots
+<ul>
+<li>10–12 minutes presentation</li>
+<li>3–5 minutes questions and discussion</li>
+</ul></li>
+<li>Peer review and audience participation incorporated into Engagement</li>
+</ul>
+</section>
+</section>
+<section id="end-of-quarter-period-december-411" class="level2">
+<h2 class="anchored" data-anchor-id="end-of-quarter-period-december-411">End-of-Quarter Period — December 4–11</h2>
+<p><strong>December 4:</strong> Last day of instruction</p>
+<p><strong>December 7:</strong> Study Day</p>
+<p><strong>December 8–11:</strong> Final examination period</p>
+<p>No regularly scheduled SHM 102 coursework is planned during the final examination period. This period provides time for students to focus on other final examinations and for completion of grading and approved presentation make-ups, if needed.</p>
+</section>
+</section>
+<section id="assessment-architecture" class="level1">
+<h1>Assessment Architecture</h1>
+<p>SHM 102 uses a 400-point course structure emphasizing foundational knowledge, engagement with occupational health issues, and application of course concepts to a real-world problem.</p>
+<section id="midterm-foundations" class="level2">
+<h2 class="anchored" data-anchor-id="midterm-foundations">Midterm — Foundations</h2>
+<p><strong>Points:</strong> 100</p>
+<p>The midterm assesses students’ understanding of the foundational language and concepts needed to analyze occupational health problems.</p>
+</section>
+<section id="engagement-current-events" class="level2">
+<h2 class="anchored" data-anchor-id="engagement-current-events">Engagement &amp; Current Events</h2>
+<p><strong>Points:</strong> 100</p>
+<p>Engagement activities provide opportunities for students to recognize, discuss, and apply occupational health concepts throughout the quarter.</p>
+<p>Activities may include current-event analyses, case discussions, readings, peer review, and other course participation activities.</p>
+</section>
+<section id="final-group-project" class="level2">
+<h2 class="anchored" data-anchor-id="final-group-project">Final Group Project</h2>
+<p><strong>Points:</strong> 200</p>
+<p>The final group project serves as the primary application-based assessment for the course. Students work collaboratively to investigate a real occupational or environmental health problem and apply the concepts and reasoning framework developed throughout the quarter.</p>
+</section>
+</section>
+<section id="final-project-structure" class="level1">
+<h1>Final Project Structure</h1>
+<section id="group-organization" class="level2">
+<h2 class="anchored" data-anchor-id="group-organization">Group Organization</h2>
+<ul>
+<li>Approximately 60 students</li>
+<li>Approximately 5 students per group</li>
+<li>Approximately 12 project groups</li>
+</ul>
+</section>
+<section id="case-framework" class="level2">
+<h2 class="anchored" data-anchor-id="case-framework">Case Framework</h2>
+<p>Final-project cases will use the same occupational health reasoning framework practiced throughout the course:</p>
+<pre class="text"><code>What's happening?
+       ↓
+Who is affected?
+       ↓
+What is the hazard?
+       ↓
+How are people exposed?
+       ↓
+What are the health consequences?
+       ↓
+What factors make the problem better or worse?
+       ↓
+What controls would you recommend?
+       ↓
+How would you know whether the intervention worked?</code></pre>
+</section>
+<section id="library-research-sessions" class="level2">
+<h2 class="anchored" data-anchor-id="library-research-sessions">Library Research Sessions</h2>
+<p>Two library research sessions will introduce students to strategies for finding and evaluating evidence for their final group projects.</p>
+<p>Approximately half of the class will attend each session.</p>
+<p>The library sessions should occur early in the quarter, after students have been assigned their groups and project topics, so students can immediately apply research skills to their own occupational health problem.</p>
+</section>
+<section id="candidate-project-topics" class="level2">
+<h2 class="anchored" data-anchor-id="candidate-project-topics">Candidate Project Topics</h2>
+</section>
+</section>
+<section id="case-study-bank" class="level1">
+<h1>Case Study Bank</h1>
+</section>
+<section id="vocabulary-progression" class="level1">
+<h1>Vocabulary Progression</h1>
+</section>
+<section id="student-onboarding" class="level1">
+<h1>Student Onboarding</h1>
+<section id="welcome-to-shm-102" class="level2">
+<h2 class="anchored" data-anchor-id="welcome-to-shm-102">Welcome to SHM 102</h2>
+<p>A short student-facing course orientation will introduce students to the structure of SHM 102, expectations for participation, major assessments, course resources, and the approach used to examine occupational health problems.</p>
+</section>
+<section id="who-is-shm-102-survey" class="level2">
+<h2 class="anchored" data-anchor-id="who-is-shm-102-survey">Who Is SHM 102? Survey</h2>
+<p>An introductory survey will be used to better understand the backgrounds and interests represented in the class.</p>
+<p>Potential information may include:</p>
+<ul>
+<li>Class standing</li>
+<li>Major or academic program</li>
+<li>Previous work experience</li>
+<li>Previous exposure to occupational or environmental health</li>
+<li>Occupational health topics of interest</li>
+<li>Students’ initial understanding of occupational health</li>
+<li>What students hope to learn during the course</li>
+</ul>
+<p>Aggregate results may be incorporated into an early course meeting to introduce the class to the range of backgrounds, experiences, and interests represented in SHM 102.</p>
+</section>
+</section>
+<section id="instructor-notes-and-reflections" class="level1">
+<h1>Instructor Notes and Reflections</h1>
+<section id="fall-2026" class="level2">
+<h2 class="anchored" data-anchor-id="fall-2026">Fall 2026</h2>
+<section id="keep" class="level3">
+<h3 class="anchored" data-anchor-id="keep">Keep</h3>
+</section>
+<section id="modify" class="level3">
+<h3 class="anchored" data-anchor-id="modify">Modify</h3>
+</section>
+<section id="remove" class="level3">
+<h3 class="anchored" data-anchor-id="remove">Remove</h3>
+</section>
+<section id="ideas-for-future-offerings" class="level3">
+<h3 class="anchored" data-anchor-id="ideas-for-future-offerings">Ideas for Future Offerings</h3>
+</section>
+</section>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
