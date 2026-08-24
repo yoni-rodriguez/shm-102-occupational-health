@@ -20,11 +20,14 @@ editor: visual
 ::: {.column width="56%"}
 ## SHM 102: Occupational Health
 
-### Occupational Safety and Health Management
+### Introduction to Occupational Health
+
+**Lecture 01 · Fall 2026**
 
 Yoni Rodriguez\
 Engineering Technologies, Safety, and Construction\
-Central Washington University
+Central Washington University\
+[Yoni.Rodriguez@cwu.edu](mailto:Yoni.Rodriguez@cwu.edu)
 :::
 ::::::
 
@@ -68,6 +71,31 @@ Central Washington University
 University of Washington
 :::
 ::::::
+
+# Tell Me About You
+
+Before we get started, I'd like to learn a little about who's in the room.
+
+### Poll Everywhere — First-Time Setup
+
+1. Scan the QR code below.
+2. Sign in/register using your **CWU account**.
+3. Complete the **Tell Me About You** survey.
+4. We'll use this same response page throughout SHM 102.
+
+![](poll-everywhere-response.jpg){
+  fig-alt="Poll Everywhere QR code and response link for SHM 102"
+  width="700"
+}
+
+**Today's survey:**
+
+- What is your year in school?
+- What is your major?
+- Are you a transfer student?
+- Have you taken a course related to occupational or environmental health before?
+
+
 
 # What is Occupational Health?
 
