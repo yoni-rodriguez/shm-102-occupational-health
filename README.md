@@ -102,3 +102,26 @@ shm-102-occupational-health/
 This repository is under active development for SHM 102 — Occupational Health at Central Washington University.
 
 Course materials are designed to evolve as new occupational and environmental health issues, research, and case studies emerge.
+
+## Copyright and License
+
+Copyright © 2026 Yoni Rodriguez.
+
+Except where otherwise noted, original educational materials in this repository
+are licensed under the Creative Commons Attribution-NonCommercial 4.0
+International License (CC BY-NC 4.0).
+
+You may share and adapt the original educational materials for noncommercial
+purposes provided appropriate attribution is given.
+
+### Third-Party Materials
+
+This repository contains images, figures, excerpts, datasets, and other
+materials from third-party sources for educational purposes. These materials
+remain the property of their respective copyright holders and are not covered
+by the CC BY-NC 4.0 license unless explicitly stated otherwise.
+
+### Course Assessments and Student Information
+
+Assessments, answer keys, student records, student submissions, and other
+restricted course materials are not included in this public repository.
