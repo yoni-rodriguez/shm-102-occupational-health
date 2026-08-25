@@ -30,6 +30,7 @@ SHM 102 therefore uses a systems-based, case-study approach rather than organizi
 
 The course moves repeatedly between scales:
 
+```text
 Climate & Environment
        ↓
 Society & Policy
@@ -41,10 +42,13 @@ Workplace Environment
 Worker Health & Behaviors
        ↓
 Cells, Molecules & Microorganisms
+```
 
 Students will examine cases from global, national, regional, and local contexts and practice asking the same fundamental questions across different problems:
 
+```text
 Worker → Task → Hazard → Exposure → Health Effect → Risk → Controls
+```
 
 The goal is not simply for students to memorize lists of hazards or regulations. The goal is to develop the ability to recognize an occupational health problem, ask useful questions, evaluate evidence, understand connections across scales, and reason toward practical approaches for prevention.
 
@@ -178,7 +182,7 @@ The midterm assesses students' understanding of the foundational language and co
 
 Engagement activities provide opportunities for students to recognize, discuss, and apply occupational health concepts throughout the quarter.
 
-Activities may include current-event analyses, case discussions, readings, peer review, and other course participation activities.
+Activities may include current-event analyses, case discussions, readings, Poll Everywhere activities, and other course participation activities.
 
 ## Final Group Project
 
@@ -186,13 +190,42 @@ Activities may include current-event analyses, case discussions, readings, peer 
 
 The final group project serves as the primary application-based assessment for the course. Students work collaboratively to investigate a real occupational or environmental health problem and apply the concepts and reasoning framework developed throughout the quarter.
 
-# Final Project Structure
+The 200 points are divided into two components:
 
-## Group Organization
+### Group Presentation — 100 Points
 
-- Approximately 60 students
+Students work in approximately five-person groups to investigate and present a real occupational or environmental health problem.
+
+The presentation is evaluated using a grading rubric based on the quality of the group's analysis, application of course concepts, use of evidence, proposed prevention and control strategies, communication, and presentation.
+
+**Points:** 100
+
+### Presentation Peer Review & Participation — 100 Points
+
+The second half of the final-project grade is earned through active participation in the presentations delivered by other groups.
+
+Students are expected to attend their classmates' presentations, engage with the material being presented, and complete structured peer feedback.
+
+Peer review serves two purposes:
+
+1. Students continue learning from occupational health cases beyond their own group's topic.
+2. Every presenting group receives an engaged audience and meaningful feedback from their classmates.
+
+Students therefore remain responsible for participating in the final-project presentation period after their own group has presented.
+
+**Points:** 100
+
+### Final Project Presentations
+
+- 12 groups
 - Approximately 5 students per group
-- Approximately 12 project groups
+- 3 groups presenting per class meeting
+- 15-minute presentation slots
+  - 10–12 minutes presentation
+  - 3–5 minutes questions and discussion
+- Group presentation: **100 points**
+- Presentation peer review and participation: **100 points**
+- Students remain responsible for attending and engaging with presentations after their own group has presented
 
 ## Case Framework
 
@@ -252,14 +285,332 @@ Potential information may include:
 
 Aggregate results may be incorporated into an early course meeting to introduce the class to the range of backgrounds, experiences, and interests represented in SHM 102.
 
-# Instructor Notes and Reflections
+# Poll Everywhere
 
-## Fall 2026
+Poll Everywhere will be used throughout SHM 102 for interactive questions, surveys, knowledge checks, discussion prompts, and case-study activities.
 
-### Keep
+The goal is to integrate student participation into lectures rather than reserve interaction for separate discussion activities.
 
-### Modify
+## Standard Response Page
 
-### Remove
+Students will use the same Poll Everywhere response page throughout SHM 102:
 
-### Ideas for Future Offerings
+**PollEv.com/yonirodriguez**
+
+The standard QR-code image used in lecture materials is:
+
+```text
+poll-everywhere-response.jpg
+```
+
+Students authenticate using their CWU account.
+
+Because the response page is associated with the instructor rather than an individual activity, the same URL and QR code can be reused throughout the course.
+
+The instructor activates the appropriate activity when students reach that portion of the lecture.
+
+## First-Time Setup
+
+Lecture 01 introduces Poll Everywhere using the following instructions:
+
+1. Scan the QR code.
+2. Sign in/register using your **CWU account**.
+3. Complete the introductory activity.
+4. Continue using the same Poll Everywhere response page throughout SHM 102.
+
+The QR code and response page do not need to change for individual activities. The instructor activates the appropriate Poll Everywhere activity when it is needed during class.
+
+## Lecture 01 Poll Everywhere Sequence
+
+Lecture 01 establishes the basic Poll Everywhere workflow students will encounter throughout SHM 102.
+
+### Activity 1 — Tell Me About You
+
+The first activity introduces students to Poll Everywhere while allowing the instructor to learn about the composition of the class.
+
+Questions include:
+
+- What is your year in school?
+- What is your major?
+- Are you a transfer student?
+- Have you taken a course related to occupational or environmental health before?
+
+This activity is activated near the beginning of Lecture 01 after the instructor introduction.
+
+### Activity 2 — Defining Occupational Health
+
+Before presenting the formal working definition of occupational health, students respond to two questions:
+
+- What comes to mind when you hear the term **occupational health**?
+- In your own words, how would you define **occupational health**?
+
+The activity is intended to elicit prior knowledge and assumptions before formal instruction.
+
+Responses can then be compared with the working definition introduced during the lecture.
+
+### Activity 3 — Applying the Hierarchy of Controls
+
+Near the end of the pesticide case, students apply concepts developed during the lecture.
+
+Students are prompted to discuss the case with classmates before submitting their responses.
+
+The activity centers on questions such as:
+
+- How could we reduce pesticide exposure?
+- Where would you intervene?
+- How could the hierarchy of controls be applied to this case?
+- What could prevention look like?
+- Could environmental conditions be measured and used before exposure occurs?
+
+This activity moves Poll Everywhere from individual response toward collaborative problem-solving and application.
+
+## Poll Everywhere Teaching Workflow
+
+The standard classroom workflow is:
+
+```text
+Introduce question or problem
+        ↓
+Activate Poll Everywhere activity
+        ↓
+Students respond individually
+        OR
+Students discuss with classmates
+        ↓
+Students submit responses
+        ↓
+Display and discuss results
+        ↓
+Connect responses to course concepts
+        ↓
+Deactivate activity when finished
+```
+
+Only the activity currently being used should generally be active.
+
+Students can therefore remain on the same response page throughout class while the instructor controls which activity appears.
+
+## Lecture Integration
+
+Poll Everywhere activities should be placed at meaningful points in the lecture rather than used simply for participation.
+
+Potential uses include:
+
+- Learning about the students in the course
+- Eliciting prior knowledge
+- Asking students to define a concept before formal instruction
+- Knowledge checks
+- Case-study questions
+- Small-group discussion followed by response submission
+- Applying the occupational health reasoning framework
+- Applying the hierarchy of controls
+- End-of-lecture reflection or synthesis
+
+Poll Everywhere should support the instructional sequence rather than interrupt it.
+
+A useful pattern is:
+
+```text
+Ask
+ ↓
+Think
+ ↓
+Discuss
+ ↓
+Respond
+ ↓
+Examine Results
+ ↓
+Teach / Connect
+```
+
+## Standard QMD Integration
+
+When students need access to Poll Everywhere during a lecture, the standard response image may be included using:
+
+```markdown
+![](poll-everywhere-response.jpg){
+  fig-alt="Poll Everywhere QR code and response link for SHM 102"
+  width="700"
+}
+```
+
+The full first-time setup instructions should generally appear only in Lecture 01.
+
+Subsequent lectures can use a shorter prompt such as:
+
+```markdown
+### Poll Everywhere
+
+Scan the QR code or go to **PollEv.com/yonirodriguez**.
+
+![](poll-everywhere-response.jpg){
+  fig-alt="Poll Everywhere QR code and response link for SHM 102"
+  width="700"
+}
+```
+
+For discussion-based activities, the lecture can use:
+
+```markdown
+### Discuss → Respond
+
+Take a couple of minutes to discuss the question with your classmates.
+
+Then submit your response through Poll Everywhere.
+
+**PollEv.com/yonirodriguez**
+
+![](poll-everywhere-response.jpg){
+  fig-alt="Poll Everywhere QR code and response link for SHM 102"
+  width="700"
+}
+```
+
+# Standard Lecture Components
+
+To maintain consistency across SHM 102, lectures should use a common set of structural elements where appropriate.
+
+## Course Identification
+
+Lecture materials should identify:
+
+- **SHM 102: Occupational Health**
+- Occupational Safety and Health Management
+- Yoni Rodriguez
+- Engineering Technologies, Safety, and Construction
+- Central Washington University
+- Yoni.Rodriguez@cwu.edu
+
+## Interactive Activities
+
+Lectures should incorporate Poll Everywhere, discussion, cases, or other active-learning activities where they advance the learning objectives.
+
+Poll Everywhere activities should use the permanent SHM 102 response page:
+
+**PollEv.com/yonirodriguez**
+
+Activities should progress beyond simple recall where appropriate.
+
+Early activities may emphasize:
+
+- Prior knowledge
+- Definitions
+- Recognition
+
+Later activities should increasingly emphasize:
+
+- Interpretation
+- Comparison
+- Application
+- Problem-solving
+- Prevention
+- Decision-making
+
+## Case-Based Reasoning
+
+Where appropriate, lectures should return to the common reasoning framework:
+
+```text
+Worker → Task → Hazard → Exposure → Health Effect → Risk → Controls
+```
+
+Students should progressively become responsible for applying more of this framework themselves as the quarter progresses.
+
+## Lecture Closing
+
+Where appropriate, lectures should conclude by reinforcing the major conceptual connections rather than simply ending after the final content section.
+
+Lecture materials should also contain the standard copyright and use statement.
+
+# Copyright, Licensing, and Attribution
+
+## Course Materials
+
+Original SHM 102 materials created for the course should clearly identify authorship and copyright.
+
+The intended licensing framework for original course materials is the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**, subject to confirmation of applicable Central Washington University intellectual-property policies and guidance.
+
+Third-party materials incorporated into lectures remain subject to their respective copyright, licensing, attribution, and permitted-use requirements.
+
+The presence of third-party material within an SHM 102 lecture does not place that material under the license applied to original SHM 102 content.
+
+## Standard Lecture Footer
+
+Each lecture should conclude with a copyright and use statement similar to:
+
+```markdown
+---
+
+### Copyright & Use
+
+**SHM 102: Occupational Health**  
+© 2026 Yoni Rodriguez
+
+Except where otherwise noted, original course materials are licensed under the
+Creative Commons Attribution-NonCommercial 4.0 International License
+(CC BY-NC 4.0).
+
+Third-party materials remain subject to their respective copyright and
+licensing terms.
+```
+
+The final wording may be revised following clarification of Central Washington University intellectual-property policy.
+
+## Attribution
+
+Sources used in course materials should be appropriately attributed.
+
+Attribution is particularly important for:
+
+- Figures
+- Photographs
+- Maps
+- Tables
+- Government resources
+- Published research
+- Textbook or book excerpts
+- Case-study materials
+- Adapted diagrams or frameworks
+- External datasets
+
+Where practical, original course materials should distinguish between:
+
+- Original instructor-created content
+- Adapted content
+- Third-party content reproduced under an applicable license or permitted use
+
+## Course Repository
+
+The SHM 102 course repository is intended to be publicly accessible.
+
+The public repository provides students with direct access to course materials without requiring them to follow the instructor or maintain a continuing relationship with Central Washington University. Students may continue accessing the materials after completing the course or graduating.
+
+Public access also allows the repository to serve as an educational resource and example for instructors, students, and programs at other institutions.
+
+The repository should include a `LICENSE.md` file documenting the licensing terms for original course materials.
+
+Except where otherwise noted, original course materials are licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
+
+This allows others to share and adapt original course materials with appropriate attribution for noncommercial purposes while preserving the instructor's authorship and limiting commercial reuse.
+
+The course license does not automatically apply to third-party materials contained within or referenced by the repository. Third-party materials remain subject to their respective copyright and licensing terms.
+
+The public repository may include:
+
+- Lecture `.qmd` files
+- Rendered lecture HTML files
+- Instructor-created figures and graphics
+- Publicly distributable supporting resources
+- Course vocabulary and study materials
+- Repository documentation
+- `LICENSE.md`
+
+The public repository should not include:
+
+- Student information or student-generated data
+- Poll Everywhere response data
+- Grades
+- Assessments or answer keys that should remain restricted
+- Copyrighted third-party materials that cannot legally be redistributed
+- Internal university records or protected materials

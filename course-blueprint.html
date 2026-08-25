@@ -21,6 +21,41 @@ ul.task-list li input[type="checkbox"] {
 width: 0.8em;
 margin: 0 0.8em 0.2em -1em;  vertical-align: middle;
 }
+
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+{ counter-reset: source-line 0; }
+pre.numberSource code > span
+{ position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+{ content: counter(source-line);
+position: relative; left: -1em; text-align: right; vertical-align: baseline;
+border: none; display: inline-block;
+-webkit-touch-callout: none; -webkit-user-select: none;
+-khtml-user-select: none; -moz-user-select: none;
+-ms-user-select: none; user-select: none;
+padding: 0 4px; width: 4em;
+}
+pre.numberSource { margin-left: 3em; padding-left: 4px; }
+div.sourceCode
+{ }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -2214,11 +2249,12 @@ vertical-align: -.125em;
   <ul class="collapse">
   <li><a href="#midterm-foundations" id="toc-midterm-foundations" class="nav-link" data-scroll-target="#midterm-foundations">Midterm — Foundations</a></li>
   <li><a href="#engagement-current-events" id="toc-engagement-current-events" class="nav-link" data-scroll-target="#engagement-current-events">Engagement &amp; Current Events</a></li>
-  <li><a href="#final-group-project" id="toc-final-group-project" class="nav-link" data-scroll-target="#final-group-project">Final Group Project</a></li>
-  </ul></li>
-  <li><a href="#final-project-structure" id="toc-final-project-structure" class="nav-link" data-scroll-target="#final-project-structure">Final Project Structure</a>
+  <li><a href="#final-group-project" id="toc-final-group-project" class="nav-link" data-scroll-target="#final-group-project">Final Group Project</a>
   <ul class="collapse">
-  <li><a href="#group-organization" id="toc-group-organization" class="nav-link" data-scroll-target="#group-organization">Group Organization</a></li>
+  <li><a href="#group-presentation-100-points" id="toc-group-presentation-100-points" class="nav-link" data-scroll-target="#group-presentation-100-points">Group Presentation — 100 Points</a></li>
+  <li><a href="#presentation-peer-review-participation-100-points" id="toc-presentation-peer-review-participation-100-points" class="nav-link" data-scroll-target="#presentation-peer-review-participation-100-points">Presentation Peer Review &amp; Participation — 100 Points</a></li>
+  <li><a href="#final-project-presentations-1" id="toc-final-project-presentations-1" class="nav-link" data-scroll-target="#final-project-presentations-1">Final Project Presentations</a></li>
+  </ul></li>
   <li><a href="#case-framework" id="toc-case-framework" class="nav-link" data-scroll-target="#case-framework">Case Framework</a></li>
   <li><a href="#library-research-sessions" id="toc-library-research-sessions" class="nav-link" data-scroll-target="#library-research-sessions">Library Research Sessions</a></li>
   <li><a href="#candidate-project-topics" id="toc-candidate-project-topics" class="nav-link" data-scroll-target="#candidate-project-topics">Candidate Project Topics</a></li>
@@ -2230,15 +2266,33 @@ vertical-align: -.125em;
   <li><a href="#welcome-to-shm-102" id="toc-welcome-to-shm-102" class="nav-link" data-scroll-target="#welcome-to-shm-102">Welcome to SHM 102</a></li>
   <li><a href="#who-is-shm-102-survey" id="toc-who-is-shm-102-survey" class="nav-link" data-scroll-target="#who-is-shm-102-survey">Who Is SHM 102? Survey</a></li>
   </ul></li>
-  <li><a href="#instructor-notes-and-reflections" id="toc-instructor-notes-and-reflections" class="nav-link" data-scroll-target="#instructor-notes-and-reflections">Instructor Notes and Reflections</a>
+  <li><a href="#poll-everywhere" id="toc-poll-everywhere" class="nav-link" data-scroll-target="#poll-everywhere">Poll Everywhere</a>
   <ul class="collapse">
-  <li><a href="#fall-2026" id="toc-fall-2026" class="nav-link" data-scroll-target="#fall-2026">Fall 2026</a>
+  <li><a href="#standard-response-page" id="toc-standard-response-page" class="nav-link" data-scroll-target="#standard-response-page">Standard Response Page</a></li>
+  <li><a href="#first-time-setup" id="toc-first-time-setup" class="nav-link" data-scroll-target="#first-time-setup">First-Time Setup</a></li>
+  <li><a href="#lecture-01-poll-everywhere-sequence" id="toc-lecture-01-poll-everywhere-sequence" class="nav-link" data-scroll-target="#lecture-01-poll-everywhere-sequence">Lecture 01 Poll Everywhere Sequence</a>
   <ul class="collapse">
-  <li><a href="#keep" id="toc-keep" class="nav-link" data-scroll-target="#keep">Keep</a></li>
-  <li><a href="#modify" id="toc-modify" class="nav-link" data-scroll-target="#modify">Modify</a></li>
-  <li><a href="#remove" id="toc-remove" class="nav-link" data-scroll-target="#remove">Remove</a></li>
-  <li><a href="#ideas-for-future-offerings" id="toc-ideas-for-future-offerings" class="nav-link" data-scroll-target="#ideas-for-future-offerings">Ideas for Future Offerings</a></li>
+  <li><a href="#activity-1-tell-me-about-you" id="toc-activity-1-tell-me-about-you" class="nav-link" data-scroll-target="#activity-1-tell-me-about-you">Activity 1 — Tell Me About You</a></li>
+  <li><a href="#activity-2-defining-occupational-health" id="toc-activity-2-defining-occupational-health" class="nav-link" data-scroll-target="#activity-2-defining-occupational-health">Activity 2 — Defining Occupational Health</a></li>
+  <li><a href="#activity-3-applying-the-hierarchy-of-controls" id="toc-activity-3-applying-the-hierarchy-of-controls" class="nav-link" data-scroll-target="#activity-3-applying-the-hierarchy-of-controls">Activity 3 — Applying the Hierarchy of Controls</a></li>
   </ul></li>
+  <li><a href="#poll-everywhere-teaching-workflow" id="toc-poll-everywhere-teaching-workflow" class="nav-link" data-scroll-target="#poll-everywhere-teaching-workflow">Poll Everywhere Teaching Workflow</a></li>
+  <li><a href="#lecture-integration" id="toc-lecture-integration" class="nav-link" data-scroll-target="#lecture-integration">Lecture Integration</a></li>
+  <li><a href="#standard-qmd-integration" id="toc-standard-qmd-integration" class="nav-link" data-scroll-target="#standard-qmd-integration">Standard QMD Integration</a></li>
+  </ul></li>
+  <li><a href="#standard-lecture-components" id="toc-standard-lecture-components" class="nav-link" data-scroll-target="#standard-lecture-components">Standard Lecture Components</a>
+  <ul class="collapse">
+  <li><a href="#course-identification" id="toc-course-identification" class="nav-link" data-scroll-target="#course-identification">Course Identification</a></li>
+  <li><a href="#interactive-activities" id="toc-interactive-activities" class="nav-link" data-scroll-target="#interactive-activities">Interactive Activities</a></li>
+  <li><a href="#case-based-reasoning" id="toc-case-based-reasoning" class="nav-link" data-scroll-target="#case-based-reasoning">Case-Based Reasoning</a></li>
+  <li><a href="#lecture-closing" id="toc-lecture-closing" class="nav-link" data-scroll-target="#lecture-closing">Lecture Closing</a></li>
+  </ul></li>
+  <li><a href="#copyright-licensing-and-attribution" id="toc-copyright-licensing-and-attribution" class="nav-link" data-scroll-target="#copyright-licensing-and-attribution">Copyright, Licensing, and Attribution</a>
+  <ul class="collapse">
+  <li><a href="#course-materials" id="toc-course-materials" class="nav-link" data-scroll-target="#course-materials">Course Materials</a></li>
+  <li><a href="#standard-lecture-footer" id="toc-standard-lecture-footer" class="nav-link" data-scroll-target="#standard-lecture-footer">Standard Lecture Footer</a></li>
+  <li><a href="#attribution" id="toc-attribution" class="nav-link" data-scroll-target="#attribution">Attribution</a></li>
+  <li><a href="#course-repository" id="toc-course-repository" class="nav-link" data-scroll-target="#course-repository">Course Repository</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -2284,9 +2338,19 @@ vertical-align: -.125em;
 <p>Occupational health problems rarely exist in isolation. Worker exposures are shaped by environmental conditions, laws and policies, community conditions, workplace organization, job tasks, individual characteristics, and biological processes.</p>
 <p>SHM 102 therefore uses a systems-based, case-study approach rather than organizing the course exclusively around individual hazard categories. Chemical, biological, physical, ergonomic, and psychosocial hazards remain foundational concepts, but students encounter these hazards within real occupational health problems.</p>
 <p>The course moves repeatedly between scales:</p>
-<p>Climate &amp; Environment ↓ Society &amp; Policy ↓ Community Health ↓ Workplace Environment ↓ Worker Health &amp; Behaviors ↓ Cells, Molecules &amp; Microorganisms</p>
+<pre class="text"><code>Climate &amp; Environment
+       ↓
+Society &amp; Policy
+       ↓
+Community Health
+       ↓
+Workplace Environment
+       ↓
+Worker Health &amp; Behaviors
+       ↓
+Cells, Molecules &amp; Microorganisms</code></pre>
 <p>Students will examine cases from global, national, regional, and local contexts and practice asking the same fundamental questions across different problems:</p>
-<p>Worker → Task → Hazard → Exposure → Health Effect → Risk → Controls</p>
+<pre class="text"><code>Worker → Task → Hazard → Exposure → Health Effect → Risk → Controls</code></pre>
 <p>The goal is not simply for students to memorize lists of hazards or regulations. The goal is to develop the ability to recognize an occupational health problem, ask useful questions, evaluate evidence, understand connections across scales, and reason toward practical approaches for prevention.</p>
 </section>
 <section id="organizing-framework-scale" class="level1">
@@ -2424,23 +2488,47 @@ Cells, Molecules &amp; Microorganisms</code></pre>
 <h2 class="anchored" data-anchor-id="engagement-current-events">Engagement &amp; Current Events</h2>
 <p><strong>Points:</strong> 100</p>
 <p>Engagement activities provide opportunities for students to recognize, discuss, and apply occupational health concepts throughout the quarter.</p>
-<p>Activities may include current-event analyses, case discussions, readings, peer review, and other course participation activities.</p>
+<p>Activities may include current-event analyses, case discussions, readings, Poll Everywhere activities, and other course participation activities.</p>
 </section>
 <section id="final-group-project" class="level2">
 <h2 class="anchored" data-anchor-id="final-group-project">Final Group Project</h2>
 <p><strong>Points:</strong> 200</p>
 <p>The final group project serves as the primary application-based assessment for the course. Students work collaboratively to investigate a real occupational or environmental health problem and apply the concepts and reasoning framework developed throughout the quarter.</p>
+<p>The 200 points are divided into two components:</p>
+<section id="group-presentation-100-points" class="level3">
+<h3 class="anchored" data-anchor-id="group-presentation-100-points">Group Presentation — 100 Points</h3>
+<p>Students work in approximately five-person groups to investigate and present a real occupational or environmental health problem.</p>
+<p>The presentation is evaluated using a grading rubric based on the quality of the group’s analysis, application of course concepts, use of evidence, proposed prevention and control strategies, communication, and presentation.</p>
+<p><strong>Points:</strong> 100</p>
 </section>
+<section id="presentation-peer-review-participation-100-points" class="level3">
+<h3 class="anchored" data-anchor-id="presentation-peer-review-participation-100-points">Presentation Peer Review &amp; Participation — 100 Points</h3>
+<p>The second half of the final-project grade is earned through active participation in the presentations delivered by other groups.</p>
+<p>Students are expected to attend their classmates’ presentations, engage with the material being presented, and complete structured peer feedback.</p>
+<p>Peer review serves two purposes:</p>
+<ol type="1">
+<li>Students continue learning from occupational health cases beyond their own group’s topic.</li>
+<li>Every presenting group receives an engaged audience and meaningful feedback from their classmates.</li>
+</ol>
+<p>Students therefore remain responsible for participating in the final-project presentation period after their own group has presented.</p>
+<p><strong>Points:</strong> 100</p>
 </section>
-<section id="final-project-structure" class="level1">
-<h1>Final Project Structure</h1>
-<section id="group-organization" class="level2">
-<h2 class="anchored" data-anchor-id="group-organization">Group Organization</h2>
+<section id="final-project-presentations-1" class="level3">
+<h3 class="anchored" data-anchor-id="final-project-presentations-1">Final Project Presentations</h3>
 <ul>
-<li>Approximately 60 students</li>
+<li>12 groups</li>
 <li>Approximately 5 students per group</li>
-<li>Approximately 12 project groups</li>
+<li>3 groups presenting per class meeting</li>
+<li>15-minute presentation slots
+<ul>
+<li>10–12 minutes presentation</li>
+<li>3–5 minutes questions and discussion</li>
+</ul></li>
+<li>Group presentation: <strong>100 points</strong></li>
+<li>Presentation peer review and participation: <strong>100 points</strong></li>
+<li>Students remain responsible for attending and engaging with presentations after their own group has presented</li>
 </ul>
+</section>
 </section>
 <section id="case-framework" class="level2">
 <h2 class="anchored" data-anchor-id="case-framework">Case Framework</h2>
@@ -2499,22 +2587,280 @@ How would you know whether the intervention worked?</code></pre>
 <p>Aggregate results may be incorporated into an early course meeting to introduce the class to the range of backgrounds, experiences, and interests represented in SHM 102.</p>
 </section>
 </section>
-<section id="instructor-notes-and-reflections" class="level1">
-<h1>Instructor Notes and Reflections</h1>
-<section id="fall-2026" class="level2">
-<h2 class="anchored" data-anchor-id="fall-2026">Fall 2026</h2>
-<section id="keep" class="level3">
-<h3 class="anchored" data-anchor-id="keep">Keep</h3>
+<section id="poll-everywhere" class="level1">
+<h1>Poll Everywhere</h1>
+<p>Poll Everywhere will be used throughout SHM 102 for interactive questions, surveys, knowledge checks, discussion prompts, and case-study activities.</p>
+<p>The goal is to integrate student participation into lectures rather than reserve interaction for separate discussion activities.</p>
+<section id="standard-response-page" class="level2">
+<h2 class="anchored" data-anchor-id="standard-response-page">Standard Response Page</h2>
+<p>Students will use the same Poll Everywhere response page throughout SHM 102:</p>
+<p><strong>PollEv.com/yonirodriguez</strong></p>
+<p>The standard QR-code image used in lecture materials is:</p>
+<pre class="text"><code>poll-everywhere-response.jpg</code></pre>
+<p>Students authenticate using their CWU account.</p>
+<p>Because the response page is associated with the instructor rather than an individual activity, the same URL and QR code can be reused throughout the course.</p>
+<p>The instructor activates the appropriate activity when students reach that portion of the lecture.</p>
 </section>
-<section id="modify" class="level3">
-<h3 class="anchored" data-anchor-id="modify">Modify</h3>
+<section id="first-time-setup" class="level2">
+<h2 class="anchored" data-anchor-id="first-time-setup">First-Time Setup</h2>
+<p>Lecture 01 introduces Poll Everywhere using the following instructions:</p>
+<ol type="1">
+<li>Scan the QR code.</li>
+<li>Sign in/register using your <strong>CWU account</strong>.</li>
+<li>Complete the introductory activity.</li>
+<li>Continue using the same Poll Everywhere response page throughout SHM 102.</li>
+</ol>
+<p>The QR code and response page do not need to change for individual activities. The instructor activates the appropriate Poll Everywhere activity when it is needed during class.</p>
 </section>
-<section id="remove" class="level3">
-<h3 class="anchored" data-anchor-id="remove">Remove</h3>
+<section id="lecture-01-poll-everywhere-sequence" class="level2">
+<h2 class="anchored" data-anchor-id="lecture-01-poll-everywhere-sequence">Lecture 01 Poll Everywhere Sequence</h2>
+<p>Lecture 01 establishes the basic Poll Everywhere workflow students will encounter throughout SHM 102.</p>
+<section id="activity-1-tell-me-about-you" class="level3">
+<h3 class="anchored" data-anchor-id="activity-1-tell-me-about-you">Activity 1 — Tell Me About You</h3>
+<p>The first activity introduces students to Poll Everywhere while allowing the instructor to learn about the composition of the class.</p>
+<p>Questions include:</p>
+<ul>
+<li>What is your year in school?</li>
+<li>What is your major?</li>
+<li>Are you a transfer student?</li>
+<li>Have you taken a course related to occupational or environmental health before?</li>
+</ul>
+<p>This activity is activated near the beginning of Lecture 01 after the instructor introduction.</p>
 </section>
-<section id="ideas-for-future-offerings" class="level3">
-<h3 class="anchored" data-anchor-id="ideas-for-future-offerings">Ideas for Future Offerings</h3>
+<section id="activity-2-defining-occupational-health" class="level3">
+<h3 class="anchored" data-anchor-id="activity-2-defining-occupational-health">Activity 2 — Defining Occupational Health</h3>
+<p>Before presenting the formal working definition of occupational health, students respond to two questions:</p>
+<ul>
+<li>What comes to mind when you hear the term <strong>occupational health</strong>?</li>
+<li>In your own words, how would you define <strong>occupational health</strong>?</li>
+</ul>
+<p>The activity is intended to elicit prior knowledge and assumptions before formal instruction.</p>
+<p>Responses can then be compared with the working definition introduced during the lecture.</p>
 </section>
+<section id="activity-3-applying-the-hierarchy-of-controls" class="level3">
+<h3 class="anchored" data-anchor-id="activity-3-applying-the-hierarchy-of-controls">Activity 3 — Applying the Hierarchy of Controls</h3>
+<p>Near the end of the pesticide case, students apply concepts developed during the lecture.</p>
+<p>Students are prompted to discuss the case with classmates before submitting their responses.</p>
+<p>The activity centers on questions such as:</p>
+<ul>
+<li>How could we reduce pesticide exposure?</li>
+<li>Where would you intervene?</li>
+<li>How could the hierarchy of controls be applied to this case?</li>
+<li>What could prevention look like?</li>
+<li>Could environmental conditions be measured and used before exposure occurs?</li>
+</ul>
+<p>This activity moves Poll Everywhere from individual response toward collaborative problem-solving and application.</p>
+</section>
+</section>
+<section id="poll-everywhere-teaching-workflow" class="level2">
+<h2 class="anchored" data-anchor-id="poll-everywhere-teaching-workflow">Poll Everywhere Teaching Workflow</h2>
+<p>The standard classroom workflow is:</p>
+<pre class="text"><code>Introduce question or problem
+        ↓
+Activate Poll Everywhere activity
+        ↓
+Students respond individually
+        OR
+Students discuss with classmates
+        ↓
+Students submit responses
+        ↓
+Display and discuss results
+        ↓
+Connect responses to course concepts
+        ↓
+Deactivate activity when finished</code></pre>
+<p>Only the activity currently being used should generally be active.</p>
+<p>Students can therefore remain on the same response page throughout class while the instructor controls which activity appears.</p>
+</section>
+<section id="lecture-integration" class="level2">
+<h2 class="anchored" data-anchor-id="lecture-integration">Lecture Integration</h2>
+<p>Poll Everywhere activities should be placed at meaningful points in the lecture rather than used simply for participation.</p>
+<p>Potential uses include:</p>
+<ul>
+<li>Learning about the students in the course</li>
+<li>Eliciting prior knowledge</li>
+<li>Asking students to define a concept before formal instruction</li>
+<li>Knowledge checks</li>
+<li>Case-study questions</li>
+<li>Small-group discussion followed by response submission</li>
+<li>Applying the occupational health reasoning framework</li>
+<li>Applying the hierarchy of controls</li>
+<li>End-of-lecture reflection or synthesis</li>
+</ul>
+<p>Poll Everywhere should support the instructional sequence rather than interrupt it.</p>
+<p>A useful pattern is:</p>
+<pre class="text"><code>Ask
+ ↓
+Think
+ ↓
+Discuss
+ ↓
+Respond
+ ↓
+Examine Results
+ ↓
+Teach / Connect</code></pre>
+</section>
+<section id="standard-qmd-integration" class="level2">
+<h2 class="anchored" data-anchor-id="standard-qmd-integration">Standard QMD Integration</h2>
+<p>When students need access to Poll Everywhere during a lecture, the standard response image may be included using:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb9"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="al">![](poll-everywhere-response.jpg)</span>{</span>
+<span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a>  fig-alt=&quot;Poll Everywhere QR code and response link for SHM 102&quot;</span>
+<span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a>  width=&quot;700&quot;</span>
+<span id="cb9-4"><a href="#cb9-4" aria-hidden="true" tabindex="-1"></a>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>The full first-time setup instructions should generally appear only in Lecture 01.</p>
+<p>Subsequent lectures can use a shorter prompt such as:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb10"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a><span class="fu">### Poll Everywhere</span></span>
+<span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a>Scan the QR code or go to **PollEv.com/yonirodriguez**.</span>
+<span id="cb10-4"><a href="#cb10-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-5"><a href="#cb10-5" aria-hidden="true" tabindex="-1"></a><span class="al">![](poll-everywhere-response.jpg)</span>{</span>
+<span id="cb10-6"><a href="#cb10-6" aria-hidden="true" tabindex="-1"></a>  fig-alt=&quot;Poll Everywhere QR code and response link for SHM 102&quot;</span>
+<span id="cb10-7"><a href="#cb10-7" aria-hidden="true" tabindex="-1"></a>  width=&quot;700&quot;</span>
+<span id="cb10-8"><a href="#cb10-8" aria-hidden="true" tabindex="-1"></a>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>For discussion-based activities, the lecture can use:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb11"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a><span class="fu">### Discuss → Respond</span></span>
+<span id="cb11-2"><a href="#cb11-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb11-3"><a href="#cb11-3" aria-hidden="true" tabindex="-1"></a>Take a couple of minutes to discuss the question with your classmates.</span>
+<span id="cb11-4"><a href="#cb11-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb11-5"><a href="#cb11-5" aria-hidden="true" tabindex="-1"></a>Then submit your response through Poll Everywhere.</span>
+<span id="cb11-6"><a href="#cb11-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb11-7"><a href="#cb11-7" aria-hidden="true" tabindex="-1"></a>**PollEv.com/yonirodriguez**</span>
+<span id="cb11-8"><a href="#cb11-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb11-9"><a href="#cb11-9" aria-hidden="true" tabindex="-1"></a><span class="al">![](poll-everywhere-response.jpg)</span>{</span>
+<span id="cb11-10"><a href="#cb11-10" aria-hidden="true" tabindex="-1"></a>  fig-alt=&quot;Poll Everywhere QR code and response link for SHM 102&quot;</span>
+<span id="cb11-11"><a href="#cb11-11" aria-hidden="true" tabindex="-1"></a>  width=&quot;700&quot;</span>
+<span id="cb11-12"><a href="#cb11-12" aria-hidden="true" tabindex="-1"></a>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</section>
+</section>
+<section id="standard-lecture-components" class="level1">
+<h1>Standard Lecture Components</h1>
+<p>To maintain consistency across SHM 102, lectures should use a common set of structural elements where appropriate.</p>
+<section id="course-identification" class="level2">
+<h2 class="anchored" data-anchor-id="course-identification">Course Identification</h2>
+<p>Lecture materials should identify:</p>
+<ul>
+<li><strong>SHM 102: Occupational Health</strong></li>
+<li>Occupational Safety and Health Management</li>
+<li>Yoni Rodriguez</li>
+<li>Engineering Technologies, Safety, and Construction</li>
+<li>Central Washington University</li>
+<li>Yoni.Rodriguez@cwu.edu</li>
+</ul>
+</section>
+<section id="interactive-activities" class="level2">
+<h2 class="anchored" data-anchor-id="interactive-activities">Interactive Activities</h2>
+<p>Lectures should incorporate Poll Everywhere, discussion, cases, or other active-learning activities where they advance the learning objectives.</p>
+<p>Poll Everywhere activities should use the permanent SHM 102 response page:</p>
+<p><strong>PollEv.com/yonirodriguez</strong></p>
+<p>Activities should progress beyond simple recall where appropriate.</p>
+<p>Early activities may emphasize:</p>
+<ul>
+<li>Prior knowledge</li>
+<li>Definitions</li>
+<li>Recognition</li>
+</ul>
+<p>Later activities should increasingly emphasize:</p>
+<ul>
+<li>Interpretation</li>
+<li>Comparison</li>
+<li>Application</li>
+<li>Problem-solving</li>
+<li>Prevention</li>
+<li>Decision-making</li>
+</ul>
+</section>
+<section id="case-based-reasoning" class="level2">
+<h2 class="anchored" data-anchor-id="case-based-reasoning">Case-Based Reasoning</h2>
+<p>Where appropriate, lectures should return to the common reasoning framework:</p>
+<pre class="text"><code>Worker → Task → Hazard → Exposure → Health Effect → Risk → Controls</code></pre>
+<p>Students should progressively become responsible for applying more of this framework themselves as the quarter progresses.</p>
+</section>
+<section id="lecture-closing" class="level2">
+<h2 class="anchored" data-anchor-id="lecture-closing">Lecture Closing</h2>
+<p>Where appropriate, lectures should conclude by reinforcing the major conceptual connections rather than simply ending after the final content section.</p>
+<p>Lecture materials should also contain the standard copyright and use statement.</p>
+</section>
+</section>
+<section id="copyright-licensing-and-attribution" class="level1">
+<h1>Copyright, Licensing, and Attribution</h1>
+<section id="course-materials" class="level2">
+<h2 class="anchored" data-anchor-id="course-materials">Course Materials</h2>
+<p>Original SHM 102 materials created for the course should clearly identify authorship and copyright.</p>
+<p>The intended licensing framework for original course materials is the <strong>Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)</strong>, subject to confirmation of applicable Central Washington University intellectual-property policies and guidance.</p>
+<p>Third-party materials incorporated into lectures remain subject to their respective copyright, licensing, attribution, and permitted-use requirements.</p>
+<p>The presence of third-party material within an SHM 102 lecture does not place that material under the license applied to original SHM 102 content.</p>
+</section>
+<section id="standard-lecture-footer" class="level2">
+<h2 class="anchored" data-anchor-id="standard-lecture-footer">Standard Lecture Footer</h2>
+<p>Each lecture should conclude with a copyright and use statement similar to:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb13"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
+<span id="cb13-2"><a href="#cb13-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-3"><a href="#cb13-3" aria-hidden="true" tabindex="-1"></a><span class="co">### Copyright &amp; Use</span></span>
+<span id="cb13-4"><a href="#cb13-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-5"><a href="#cb13-5" aria-hidden="true" tabindex="-1"></a><span class="co">**SHM 102: Occupational Health**  </span></span>
+<span id="cb13-6"><a href="#cb13-6" aria-hidden="true" tabindex="-1"></a><span class="co">© 2026 Yoni Rodriguez</span></span>
+<span id="cb13-7"><a href="#cb13-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-8"><a href="#cb13-8" aria-hidden="true" tabindex="-1"></a><span class="co">Except where otherwise noted, original course materials are licensed under the</span></span>
+<span id="cb13-9"><a href="#cb13-9" aria-hidden="true" tabindex="-1"></a><span class="co">Creative Commons Attribution-NonCommercial 4.0 International License</span></span>
+<span id="cb13-10"><a href="#cb13-10" aria-hidden="true" tabindex="-1"></a><span class="co">(CC BY-NC 4.0).</span></span>
+<span id="cb13-11"><a href="#cb13-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-12"><a href="#cb13-12" aria-hidden="true" tabindex="-1"></a><span class="co">Third-party materials remain subject to their respective copyright and</span></span>
+<span id="cb13-13"><a href="#cb13-13" aria-hidden="true" tabindex="-1"></a><span class="co">licensing terms.</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>The final wording may be revised following clarification of Central Washington University intellectual-property policy.</p>
+</section>
+<section id="attribution" class="level2">
+<h2 class="anchored" data-anchor-id="attribution">Attribution</h2>
+<p>Sources used in course materials should be appropriately attributed.</p>
+<p>Attribution is particularly important for:</p>
+<ul>
+<li>Figures</li>
+<li>Photographs</li>
+<li>Maps</li>
+<li>Tables</li>
+<li>Government resources</li>
+<li>Published research</li>
+<li>Textbook or book excerpts</li>
+<li>Case-study materials</li>
+<li>Adapted diagrams or frameworks</li>
+<li>External datasets</li>
+</ul>
+<p>Where practical, original course materials should distinguish between:</p>
+<ul>
+<li>Original instructor-created content</li>
+<li>Adapted content</li>
+<li>Third-party content reproduced under an applicable license or permitted use</li>
+</ul>
+</section>
+<section id="course-repository" class="level2">
+<h2 class="anchored" data-anchor-id="course-repository">Course Repository</h2>
+<p>The SHM 102 course repository is intended to be publicly accessible.</p>
+<p>The public repository provides students with direct access to course materials without requiring them to follow the instructor or maintain a continuing relationship with Central Washington University. Students may continue accessing the materials after completing the course or graduating.</p>
+<p>Public access also allows the repository to serve as an educational resource and example for instructors, students, and programs at other institutions.</p>
+<p>The repository should include a <code>LICENSE.md</code> file documenting the licensing terms for original course materials.</p>
+<p>Except where otherwise noted, original course materials are licensed under the <strong>Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)</strong>.</p>
+<p>This allows others to share and adapt original course materials with appropriate attribution for noncommercial purposes while preserving the instructor’s authorship and limiting commercial reuse.</p>
+<p>The course license does not automatically apply to third-party materials contained within or referenced by the repository. Third-party materials remain subject to their respective copyright and licensing terms.</p>
+<p>The public repository may include:</p>
+<ul>
+<li>Lecture <code>.qmd</code> files</li>
+<li>Rendered lecture HTML files</li>
+<li>Instructor-created figures and graphics</li>
+<li>Publicly distributable supporting resources</li>
+<li>Course vocabulary and study materials</li>
+<li>Repository documentation</li>
+<li><code>LICENSE.md</code></li>
+</ul>
+<p>The public repository should not include:</p>
+<ul>
+<li>Student information or student-generated data</li>
+<li>Poll Everywhere response data</li>
+<li>Grades</li>
+<li>Assessments or answer keys that should remain restricted</li>
+<li>Copyrighted third-party materials that cannot legally be redistributed</li>
+<li>Internal university records or protected materials</li>
+</ul>
 </section>
 </section>
 

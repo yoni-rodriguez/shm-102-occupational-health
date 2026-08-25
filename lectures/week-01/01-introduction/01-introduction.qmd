@@ -96,11 +96,26 @@ Before we get started, I'd like to learn a little about who's in the room.
 - Have you taken a course related to occupational or environmental health before?
 
 
-
 # What is Occupational Health?
 
+## Before We Define It...
+
+Let's start with what you already think.
+
+### Poll Everywhere
+
+1. **What comes to mind when you hear the term "occupational health"?**
+2. **In your own words, how would you define occupational health?**
+
+There is no expectation that you know the formal definition yet. Give me your best answer.
+
+![](poll-everywhere-response.jpg){
+  fig-alt="Poll Everywhere QR code and response link for SHM 102"
+  width="500"
+}
+
+
 ::: {style="text-align:center; margin: 4rem 0;"}
-## What is Occupational Health?
 
 ### A working definition
 
@@ -282,6 +297,24 @@ We use that information to understand **risk** and develop strategies to\
 
 ### Where would you intervene?
 :::
+
+## Apply the Hierarchy of Controls
+
+Take a couple of minutes to discuss with your classmates.
+
+Using the **Hierarchy of Controls**, consider:
+
+1. **What could we do to reduce or prevent pesticide exposure?**
+2. **Where in the hierarchy would your intervention fall?**
+3. **Why would your approach reduce exposure?**
+
+When you're ready, submit your group's response through Poll Everywhere.
+
+![](poll-everywhere-response.jpg){
+  fig-alt="Poll Everywhere QR code and response link for SHM 102"
+  width="500"
+}
+
 
 # What could prevention look like?
 

@@ -21,10 +21,12 @@ to the license is provided, and any changes are indicated.
 The original course materials may not be used for commercial purposes except
 with separate written permission from the copyright holder.
 
+Public availability of this repository does not alter these licensing terms.
+
 ## Attribution
 
 When reusing or adapting original course materials from this repository,
-please provide attribution substantially similar to:
+please provide appropriate attribution. For example:
 
 > Rodriguez, Y. (2026). SHM 102: Occupational Health. Central Washington
 > University. Licensed under CC BY-NC 4.0.
