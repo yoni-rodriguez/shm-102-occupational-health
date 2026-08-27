@@ -1,0 +1,153 @@
+---
+format:
+  html:
+    toc: true
+    toc-location: right
+    smooth-scroll: true
+    code-fold: true
+    embed-resources: true
+editor: visual
+---
+
+:::::: columns
+::: {.column width="40%"}
+![Rome from Pincian Hill, Italy. The spire of All Saints' Anglican Church rises above the historic cityscape, with St. Peter's Basilica visible on the horizon. Photograph by Yoni Rodriguez, November 2025.](rome-from-pincian-hill-november-2025.jpg){fig-alt="View across the historic cityscape of Rome from Pincian Hill, with the spire of All Saints' Anglican Church in the foreground and the dome of St. Peter's Basilica on the horizon"}
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="56%"}
+## SHM 102: Occupational Health
+
+### Public Health History
+
+**Lecture 02 · Fall 2026**
+
+Yoni Rodriguez\
+Engineering Technologies, Safety, and Construction\
+Central Washington University\
+[Yoni.Rodriguez@cwu.edu](mailto:Yoni.Rodriguez@cwu.edu)
+:::
+::::::
+
+# From Rome to Sicily
+
+Our journey today begins in **Rome**, where the opening lecture photograph was taken from Pincian Hill in November 2025.
+
+From Rome, we travel south through Italy to **Messina, Sicily** — a port city at the northeastern tip of the island and the starting point for our historical case.
+
+Explore the map below. **Where is Messina in relation to Rome and the Mediterranean Sea?**
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+library(sf)
+library(leaflet)
+
+locations <- st_read(
+  "02-history-public-health.kml",
+  quiet = TRUE
+)
+
+leaflet(locations) |>
+  addTiles() |>
+  addMarkers(
+    label = ~Name,
+    popup = ~Description
+  )
+```
+
+**Want to explore further?**  
+[Explore Rome and Messina in Google Earth](https://earth.google.com/earth/d/1REktiSIZv4oKlCb-nx_vpPkC30PHFLX5?usp=sharing)
+
+*Interactive Google Earth project created by Yoni Rodriguez.*
+
+---
+
+# Travel back to 1347
+
+## October 1347 · Messina, Sicily
+
+![Historic painting of a Mediterranean harbor with sailing ships, merchants, travelers, animals, and cargo.](italianate-harbour-scene-hendrik-van-minderhout.jpg){fig-alt="Painting of a busy Mediterranean harbor with large sailing ships at a quay, smaller boats, merchants, travelers, animals, and goods."}
+
+*Hendrik van Minderhout, **Italianate harbour scene with the monument of Ferdinand I de' Medici at Leghorn**, 1670. National Maritime Museum, Greenwich. The painting depicts a later Mediterranean harbor scene and is used here to help visualize the maritime setting of our 1347 case.*
+
+---
+
+# Something is wrong.
+
+Merchant ships have arrived from the **Black Sea**.
+
+Most of the sailors aboard are **dead**.
+
+Many of those still alive are **gravely ill**.
+
+<br>
+
+::: {style="text-align:center; margin: 3rem 0;"}
+
+## You are the Port Health Officer.
+
+### What do you do?
+
+:::
+
+---
+
+# What would you want to know?
+
+Before deciding what to do, **what information would help you understand what is happening?**
+
+::: {style="text-align:center; margin: 2rem 0;"}
+
+## What questions would you ask?
+
+![Scan to respond in Poll Everywhere](poll-everywhere-response.jpg){fig-alt="QR code to join the SHM 102 Poll Everywhere presentation" width="250"}
+
+**Scan the QR code and submit your question.**
+
+:::
+
+---
+
+# What are we trying to figure out?
+
+As a group, your questions may begin to fall into a few categories:
+
+- **Who** is sick?
+- **Where** did they come from?
+- **When** did they become sick?
+- **What symptoms** are they experiencing?
+- **What did they have in common?**
+- **What might they have been exposed to?**
+- **Who else may have been exposed?**
+- **Is the illness spreading?**
+
+<br>
+
+::: {style="text-align:center;"}
+
+## We still do not know what is causing the illness.
+
+:::
+
+---
+
+# You have to make a decision.
+
+You still do not know what is causing the illness.
+
+### What should you do with the arriving ships?
+
+::: {style="text-align:center; margin: 2rem 0;"}
+
+## Poll Everywhere
+
+**Choose the response you think is most appropriate.**
+
+:::
+
+# How certain do you need to be before taking action?

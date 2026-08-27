@@ -11,7 +11,7 @@ editor: visual
 
 :::::: columns
 ::: {.column width="40%"}
-![Mount Rainier, Washington. Photograph by Yoni Rodriguez, 2022.](mount-rainier.jpg){fig-alt="Mount Rainier photographed by Yoni Rodriguez in 2022"}
+![Mount Rainier, Washington. Photograph by Yoni Rodriguez, 2022.](mount-rainier.jpg){fig-alt="Mount Rainier photographed by Yoni Rodriguez in June 2022"}
 :::
 
 ::: {.column width="4%"}
