@@ -1,8 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
-<Document id="document">
+<Document id="1REktiSIZv4oKlCb-nx_vpPkC30PHFLX5">
 	<name>02-history-public-health</name>
-	<gx:CascadingStyle kml:id="__managed_style_0F1F8FE0A2417A65BE19_highlight">
+	<gx:CascadingStyle kml:id="__managed_style_0569C8F6A74194648188_normal">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0569C8F6A74194648188">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0569C8F6A74194648188_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0569C8F6A74194648188_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0569C8F6A74194648188_highlight">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0933598A154194648189_highlight">
 		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
 		<Style>
 			<IconStyle>
@@ -25,7 +80,7 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_0F1F8FE0A2417A65BE19_normal">
+	<gx:CascadingStyle kml:id="__managed_style_0933598A154194648189_normal">
 		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
 		<Style>
 			<IconStyle>
@@ -47,14 +102,14 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_0F1F8FE0A2417A65BE19">
+	<StyleMap id="__managed_style_0933598A154194648189">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#__managed_style_0F1F8FE0A2417A65BE19_normal</styleUrl>
+			<styleUrl>#__managed_style_0933598A154194648189_normal</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#__managed_style_0F1F8FE0A2417A65BE19_highlight</styleUrl>
+			<styleUrl>#__managed_style_0933598A154194648189_highlight</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Placemark id="0671289934417A5ABF38">
@@ -70,7 +125,7 @@
 			<range>69201.1655772284</range>
 			<altitudeMode>relativeToGround</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_0F1F8FE0A2417A65BE19</styleUrl>
+		<styleUrl>#__managed_style_0933598A154194648189</styleUrl>
 		<Point>
 			<altitudeMode>relativeToGround</altitudeMode>
 			<coordinates>12.4822025,41.8967068,0</coordinates>
@@ -89,10 +144,29 @@
 			<range>73097.26016888476</range>
 			<altitudeMode>relativeToGround</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_0F1F8FE0A2417A65BE19</styleUrl>
+		<styleUrl>#__managed_style_0933598A154194648189</styleUrl>
 		<Point>
 			<altitudeMode>relativeToGround</altitudeMode>
 			<coordinates>15.5542088,38.1937342,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0548976A3341945FDE44">
+		<gx:mid>/m/0fbwq</gx:mid>
+		<gx:fid>0x134b8ba20835e87d:0x400ad50862bd500</gx:fid>
+		<LookAt>
+			<longitude>18.09404735</longitude>
+			<latitude>42.64568475</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>17099.50692395156</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0569C8F6A74194648188</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>18.0944238,42.65066059999999,0</coordinates>
 		</Point>
 	</Placemark>
 </Document>

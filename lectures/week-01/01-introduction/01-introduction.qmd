@@ -27,7 +27,7 @@ editor: visual
 Yoni Rodriguez\
 Engineering Technologies, Safety, and Construction\
 Central Washington University\
-[Yoni.Rodriguez@cwu.edu](mailto:Yoni.Rodriguez@cwu.edu)
+[Yoni.Rodriguez\@cwu.edu](mailto:Yoni.Rodriguez@cwu.edu)
 :::
 ::::::
 
@@ -76,17 +76,14 @@ University of Washington
 
 Before we get started, I'd like to learn a little about who's in the room.
 
-### Poll Everywhere — First-Time Setup
+### Poll Everywhere: First-Time Setup
 
-1. Scan the QR code below.
-2. Sign in/register using your **CWU account**.
-3. Complete the **Tell Me About You** survey.
-4. We'll use this same response page throughout SHM 102.
+1.  Scan the QR code below.
+2.  Sign in/register using your **CWU account**.
+3.  Complete the **Tell Me About You** survey.
+4.  We'll use this same response page throughout SHM 102.
 
-![](poll-everywhere-response.jpg){
-  fig-alt="Poll Everywhere QR code and response link for SHM 102"
-  width="700"
-}
+![](poll-everywhere-response.jpg){fig-alt="Poll Everywhere QR code and response link for SHM 102" width="700"}
 
 **Today's survey:**
 
@@ -94,7 +91,6 @@ Before we get started, I'd like to learn a little about who's in the room.
 - What is your major?
 - Are you a transfer student?
 - Have you taken a course related to occupational or environmental health before?
-
 
 # What is Occupational Health?
 
@@ -104,19 +100,18 @@ Let's start with what you already think.
 
 ### Poll Everywhere
 
-1. **What comes to mind when you hear the term "occupational health"?**
-2. **In your own words, how would you define occupational health?**
+1.  **What comes to mind when you hear the term "occupational health"?**
+2.  **In your own words, how would you define occupational health?**
 
 There is no expectation that you know the formal definition yet. Give me your best answer.
 
-![](poll-everywhere-response.jpg){
-  fig-alt="Poll Everywhere QR code and response link for SHM 102"
-  width="500"
-}
+::: {style="text-align:center; margin: 2rem 0;"}
+![Scan to respond in Poll Everywhere](poll-everywhere-response.jpg){fig-alt="QR code to join the SHM 102 Poll Everywhere presentation" width="250"}
 
+**Scan the QR code to respond.**
+:::
 
 ::: {style="text-align:center; margin: 4rem 0;"}
-
 ### A working definition
 
 **"*Occupational and environmental health is the study and prevention of health problems caused or influenced by the environments where people work, live, and interact.*" - Centers for Disease Control and Prevention (CDC)**
@@ -153,7 +148,7 @@ There is no expectation that you know the formal definition yet. Give me your be
 
 [![Estimated agricultural use of paraquat in the United States, 2018.](https://water.usgs.gov/nawqa/pnsp/usage/maps/graphics/L_PARAQUAT_2018.png){fig-alt="USGS map showing estimated agricultural paraquat use across the United States in 2018, with higher estimated use concentrated in agricultural regions." width="90%"}](https://water.usgs.gov/nawqa/pnsp/usage/maps/show_map.php?year=2018&map=PARAQUAT&hilo=L&disp=Paraquat)
 
-*Source: U.S. Geological Survey.*  
+*Source: U.S. Geological Survey.*\
 [Explore paraquat use map →](https://water.usgs.gov/nawqa/pnsp/usage/maps/show_map.php?year=2018&map=PARAQUAT&hilo=L&disp=Paraquat)
 
 # Who is exposed?
@@ -252,28 +247,15 @@ There is no expectation that you know the formal definition yet. Give me your be
 
 # This is Occupational Health
 
-::: {style="text-align:center; margin: 3rem 0;"}
-## Occupational health is an applied science.
-
-We use principles from **chemistry, biology, physics, toxicology, epidemiology, and other disciplines**\
-to identify health hazards in the real world.
-
-<br>
-
-We determine **who is exposed, how exposure occurs, and how much exposure occurs.**
-
-<br>
-
-We use that information to understand **risk** and develop strategies to\
-**prevent or reduce exposure and protect health.**
-:::
-
+::::::::::::::: {style="text-align:center; margin: 3rem 0;"}
 # How to Apply Occupational Health
 
+::: {style="text-align:center;"}
 ![](eoh-framework.jpg){fig-alt="University of Washington Environmental and Occupational Health Framework showing problem formulation, hazard identification, dose-response assessment, exposure assessment, risk characterization, risk communication, risk management, evaluation, research, and stakeholder engagement." width="72%"}
 
 *Source: University of Washington Department of Environmental & Occupational Health Sciences.*\
 [Explore the ENV H 501 course framework →](https://deohs.washington.edu/sites/default/files/course-materials/2023_AUT_ENV_H_501.pdf)
+:::
 
 # How do we control exposure?
 
@@ -285,10 +267,12 @@ We use that information to understand **risk** and develop strategies to\
 
 # Hierarchy of Controls
 
+::: {style="text-align:center;"}
 ![](hierarchy-of-controls-niosh.png){fig-alt="NIOSH Hierarchy of Controls showing elimination, substitution, engineering controls, administrative controls, and personal protective equipment from most effective to least effective." width="85%"}
 
 *Source: National Institute for Occupational Safety and Health (NIOSH).*\
 [Explore the Hierarchy of Controls →](https://www.cdc.gov/niosh/hierarchy-of-controls/about/index.html)
+:::
 
 # Apply it to our case
 
@@ -304,17 +288,17 @@ Take a couple of minutes to discuss with your classmates.
 
 Using the **Hierarchy of Controls**, consider:
 
-1. **What could we do to reduce or prevent pesticide exposure?**
-2. **Where in the hierarchy would your intervention fall?**
-3. **Why would your approach reduce exposure?**
+1.  **What could we do to reduce or prevent pesticide exposure?**
+2.  **Where in the hierarchy would your intervention fall?**
+3.  **Why would your approach reduce exposure?**
 
 When you're ready, submit your group's response through Poll Everywhere.
 
-![](poll-everywhere-response.jpg){
-  fig-alt="Poll Everywhere QR code and response link for SHM 102"
-  width="500"
-}
+::: {style="text-align:center; margin: 2rem 0;"}
+![Scan to respond in Poll Everywhere](poll-everywhere-response.jpg){fig-alt="QR code to join the SHM 102 Poll Everywhere presentation" width="250"}
 
+**Scan the QR code to respond.**
+:::
 
 # What could prevention look like?
 
@@ -398,12 +382,12 @@ When you're ready, submit your group's response through Poll Everywhere.
 ### Understand exposure. Prevent harm.
 :::
 
-# Day 1: Key Terms
+# Key Terms
 
-### These are the terms I expect you to know from today's lecture.
+### These are the terms I expect you to know from today's lecture for the mid-term.
 
 | Term | What should you know? |
-|------------------------------------|------------------------------------|
+|----|----|
 | **Occupational health** | Understanding and preventing health problems related to work and work environments |
 | **Hazard** | Something with the potential to cause harm to human health |
 | **Exposure** | Contact between a person and a hazard |
@@ -438,16 +422,14 @@ Engineering control;Isolating people from a hazard
 </div>
 ```
 
----
+------------------------------------------------------------------------
 
 ### Copyright & Use
 
-**SHM 102: Occupational Health**  
+**SHM 102: Occupational Health**\
 © 2026 Yoni Rodriguez
 
-Except where otherwise noted, original course materials are licensed under the
-Creative Commons Attribution-NonCommercial 4.0 International License
-(CC BY-NC 4.0).
+Except where otherwise noted, original course materials are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 
-Third-party materials remain subject to their respective copyright and
-licensing terms.
+Third-party materials remain subject to their respective copyright and licensing terms.
+:::::::::::::::

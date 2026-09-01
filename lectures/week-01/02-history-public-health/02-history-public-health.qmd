@@ -35,7 +35,7 @@ Central Washington University\
 
 Our journey today begins in **Rome**, where the opening lecture photograph was taken from Pincian Hill in November 2025.
 
-From Rome, we travel south through Italy to **Messina, Sicily** — a port city at the northeastern tip of the island and the starting point for our historical case.
+From Rome, we travel south through Italy to **Messina, Sicily** a port city at the northeastern tip of the island and the starting point for our historical case.
 
 Explore the map below. **Where is Messina in relation to Rome and the Mediterranean Sea?**
 
@@ -56,12 +56,12 @@ leaflet(locations) |>
   addTiles() |>
   addMarkers(
     label = ~Name,
-    popup = ~Description
+    popup = ~Name
   )
 ```
 
 **Want to explore further?**  
-[Explore Rome and Messina in Google Earth](https://earth.google.com/earth/d/1REktiSIZv4oKlCb-nx_vpPkC30PHFLX5?usp=sharing)
+[Explore Rome, Messina, and Dubrovnik in Google Earth](https://earth.google.com/earth/d/1REktiSIZv4oKlCb-nx_vpPkC30PHFLX5?usp=sharing)
 
 *Interactive Google Earth project created by Yoni Rodriguez.*
 
@@ -140,14 +140,553 @@ As a group, your questions may begin to fall into a few categories:
 
 You still do not know what is causing the illness.
 
-### What should you do with the arriving ships?
+## What should you do with the arriving ships?
 
 ::: {style="text-align:center; margin: 2rem 0;"}
 
-## Poll Everywhere
+### Poll Everywhere
+
+![Scan to respond in Poll Everywhere](poll-everywhere-response.jpg){fig-alt="QR code to join the SHM 102 Poll Everywhere presentation" width="250"}
 
 **Choose the response you think is most appropriate.**
 
 :::
 
+---
+
 # How certain do you need to be before taking action?
+
+You know that people are **severely ill**.
+
+You know that many have **died**.
+
+You know that the ships have traveled from somewhere else.
+
+But you **do not know the cause**.
+
+<br>
+
+::: {style="text-align:center; margin: 2rem 0;"}
+
+## Do you wait until you know more?
+
+### Or act now to prevent additional illness?
+
+:::
+
+---
+
+# Prevention before understanding
+
+One response seems intuitive:
+
+::: {style="text-align:center; margin: 3rem 0;"}
+
+## Keep sick people away from healthy people.
+
+:::
+
+You may not know **what** is causing the illness.
+
+You may not know **how** it spreads.
+
+But you can still try to prevent additional illness.
+
+---
+
+# Isolation or quarantine?
+
+These ideas are related, but they are **not the same**.
+
+![Northwell Health infographic comparing isolation and quarantine.](northwell-isolation-vs-quarantine-2020.jpg){fig-alt="Northwell Health infographic explaining that isolation separates people who are sick from others, while quarantine restricts the movement of people who are not sick but may have been exposed."}
+
+*Northwell Health, **Isolation vs. quarantine: Understanding the difference**, March 16, 2020. Information based on CDC and WHO guidance. [View source](https://www.matherhospital.org/wellness-at-mather/isolation-vs-quarantine-whats-the-difference/)*
+
+<br>
+
+::: {style="text-align:center;"}
+
+## Which one did you recommend for the ships?
+
+:::
+
+---
+
+# From separation to quarantine
+
+As epidemics continued to threaten Mediterranean cities, communities began developing more formal ways to separate potentially infected travelers, ships, and goods.
+
+## Another Mediterranean port
+
+In **1377**, the Adriatic port of **Ragusa**  (modern-day) **Dubrovnik, Croatia** introduced one of the earliest formal systems for separating travelers arriving from areas affected by disease.
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+library(sf)
+library(leaflet)
+
+locations <- st_read(
+  "02-history-public-health.kml",
+  quiet = TRUE
+)
+
+leaflet(locations) |>
+  addTiles() |>
+  addMarkers(
+    label = ~Name,
+    popup = ~Name
+  )
+```
+
+**Want to explore further?**  
+[Explore the Mediterranean locations in Google Earth](https://earth.google.com/earth/d/1REktiSIZv4oKlCb-nx_vpPkC30PHFLX5?usp=sharing)
+
+*Interactive Google Earth project created by Yoni Rodriguez.*
+
+---
+
+# From separation to quarantine
+
+Travelers arriving in Ragusa from areas affected by disease were required to remain separated before entering the city.
+
+The initial period was **30 days**.
+
+Later practices extended the period to **40 days**.
+
+<br>
+
+::: {style="text-align:center; margin: 2rem 0;"}
+
+## Italian: *quaranta giorni*
+
+### "forty days"
+
+# → quarantine
+
+:::
+
+---
+
+# But there is a problem.
+
+You decided to keep sick sailors away from the population.
+
+<br>
+
+::: {style="text-align:center; margin: 2rem 0;"}
+
+## What else is aboard a merchant ship?
+
+:::
+
+---
+
+# People are not the only things that travel.
+
+Merchant ships move:
+
+- people
+- animals
+- food
+- water
+- cargo
+- clothing and personal belongings
+
+<br>
+
+::: {style="text-align:center; margin: 2rem 0;"}
+
+## Could something else aboard the ship be contributing to the illness?
+
+:::
+
+---
+
+# How did we get here?
+
+For most of human history, people lived in relatively small and mobile populations.
+
+Around **12,000 years ago**, the development of agriculture began changing how many humans lived.
+
+![Rock paintings depicting Neolithic farming and interactions between people and domesticated animals in Tassili de Maghidet, Libya.](neolithic-farming.jpg){fig-alt="Neolithic rock paintings showing people interacting with domesticated cattle in Tassili de Maghidet, Libya."}
+
+*Rock paintings of Neolithic farming in Tassili de Maghidet, Libya. Photograph by Roberto Esposti/Alamy. [Source](https://swaledalelocalhistoryblog.wordpress.com/2017/12/06/how-neolithic-farming-sowed-the-seeds-of-modern-inequality-10000-years-ago/)*
+
+<br>
+
+::: {style="text-align:center; margin: 2rem 0;"}
+
+## Humans were changing their relationship with animals and the environment.
+
+:::
+
+---
+
+# Agriculture changed exposure
+
+Living in permanent settlements brought people into closer and more frequent contact with:
+
+- other people
+- domesticated animals
+- stored food
+- animal and human waste
+- water sources
+- rodents and other wildlife
+
+At the same time, populations became larger and increasingly connected.
+
+<br>
+
+::: {style="text-align:center; margin: 2rem 0;"}
+
+**Permanent settlements**
+
+↓
+
+**More people living together**
+
+↓
+
+**Animals living nearby**
+
+↓
+
+**Stored food and waste**
+
+↓
+
+**Larger towns and cities**
+
+↓
+
+**Trade between populations**
+
+:::
+
+### New ways of living created new opportunities for exposure and disease.
+
+---
+
+# Health exists within a system
+
+The relationships we have been describing are still important today.
+
+Human health does not exist independently from **animals** or the **environment**.
+
+![One Health Systems Model showing interactions among human, environmental, and animal systems across biological and societal scales.](one-health-systems-model.jpg){fig-alt="One Health Systems Model showing human, environmental, and animal systems connected through exposures, interactions, and risk across scales ranging from atoms and molecules to individuals, populations, ecosystems, and global society."}
+
+*One Health Systems Model. Source: ENVH 501 Foundations of Environmental Health, University of Washington, “EOH Approach 1,” 2020.*
+
+<br>
+
+::: {style="text-align:center; margin: 2rem 0;"}
+
+## Where would our merchant ship fit into this system?
+
+:::
+
+---
+
+# One Health
+
+The health of **humans**, **animals**, and the **environment** are interconnected.
+
+Our merchant ship brings all three together:
+
+### Human
+
+Sailors, travelers, port workers, and surrounding communities.
+
+### Animal
+
+Domesticated animals and other animals moving with or around people.
+
+### Environment
+
+Ships, ports, food, water, cargo, waste, and the built environment.
+
+<br>
+
+::: {style="text-align:center; margin: 2rem 0;"}
+
+## Changes in one part of the system can create risks in another.
+
+:::
+
+---
+
+# Trade connected populations
+
+Ports such as Messina were part of larger transportation networks connecting communities across the Mediterranean and beyond.
+
+Ships did more than transport people.
+
+They connected:
+
+**cities**
+
+**markets**
+
+**animals**
+
+**food**
+
+**goods**
+
+**environments**
+
+<br>
+
+### Transportation networks can also become pathways through which health threats move.
+
+---
+
+# What have we been doing?
+
+Throughout this case, we asked:
+
+- **Who** is getting sick?
+- **Where** is it happening?
+- **When** did illness begin?
+- **What** might people have been exposed to?
+- **Who else** might be at risk?
+- **What can we do** to prevent additional illness?
+
+<br>
+
+::: {style="text-align:center; margin: 2rem 0;"}
+
+# This is public health.
+
+:::
+
+---
+
+# What is public health?
+
+Public health focuses on the health of **populations** rather than only the treatment of individual patients.
+
+It asks how disease, injury, and other health threats can be:
+
+- recognized
+- investigated
+- prevented
+- controlled
+
+<br>
+
+::: {style="text-align:center;"}
+
+## Public health asks:
+
+### How can we prevent harm before more people become sick?
+
+:::
+
+---
+
+# 673 years later...
+
+## March 2020
+
+A cruise ship approaches California after days awaiting clearance to come ashore.
+
+There are confirmed cases of a newly emerging infectious disease aboard and potentially more.
+
+![New York Times coverage of the Grand Princess cruise ship arriving in San Francisco Bay during the COVID-19 outbreak in March 2020.](nyt-covid19-2020.jpg){fig-alt="New York Times article titled Cruise Ship, Floating Symbol of America's Fear of Coronavirus, Docks in Oakland, showing the Grand Princess cruise ship in San Francisco Bay."}
+
+*The New York Times, March 9, 2020. [Read the article](https://www.nytimes.com/2020/03/09/us/coronavirus-cruise-ship-oakland-grand-princess.html)*
+
+Public health officials must decide:
+
+- Who can leave the ship?
+- What were they exposed to?
+- Who may have been exposed?
+- Where should passengers go?
+- Who should be tested?
+- How can additional illness be prevented?
+
+<br>
+
+::: {style="text-align:center; margin: 2rem 0;"}
+
+:::
+
+---
+
+# And then it happened again.
+
+## Spring 2026
+
+An expedition cruise ship is linked to a cluster of severe illness.
+
+People have died.
+
+Others may have been exposed.
+
+Travelers from multiple countries have been aboard.
+
+![New York Times coverage of suspected hantavirus infections associated with the MV Hondius expedition cruise ship in May 2026.](nyt-hantavirus-2026.jpg){fig-alt="New York Times article titled 3 Dead of Suspected Hantavirus Infections on Cruise Ship, WHO Says, showing the expedition cruise ship MV Hondius."}
+
+*The New York Times, May 3, 2026. [Read the article](https://www.nytimes.com/2026/05/03/well/cruise-ship-virus-fatal-outbreak.html)*
+
+Public health officials again have to ask:
+
+- Who is sick?
+- Who may have been exposed?
+- Where have they traveled?
+- Who else needs to be contacted?
+- Is the illness spreading?
+- What should be done while the outbreak is investigated?
+
+---
+
+# 1347 · 2020 · 2026
+
+Different ships.
+
+Different diseases.
+
+Different technologies.
+
+Different centuries.
+
+<br>
+
+::: {style="text-align:center; margin: 2rem 0;"}
+
+## But many of the questions are the same.
+
+:::
+
+**Who is affected?**
+
+**Where did the illness come from?**
+
+**Who else may have been exposed?**
+
+**Where have people traveled?**
+
+**How can additional illness be prevented?**
+
+<br>
+
+::: {style="text-align:center; margin: 2rem 0;"}
+
+## The tools changed.
+
+## The questions did not.
+
+:::
+
+---
+
+# What changed?
+
+In 1347, public health officials could observe illness and recognize patterns.
+
+Today we can also use:
+
+- laboratory testing
+- disease surveillance
+- international communication
+- contact tracing
+- modern medical care
+- rapidly shared scientific information
+
+<br>
+
+### Our ability to investigate disease has changed dramatically.
+
+### The need to make decisions under uncertainty has not disappeared.
+
+---
+
+# Key Terms
+
+| Term | What you should know |
+|---|---|
+| **Public health** | Protecting and improving the health of populations through prevention and organized action |
+| **Disease** | A condition that disrupts normal functioning and produces adverse health effects |
+| **Epidemic** | Disease occurrence in a population above what is normally expected |
+| **Isolation** | Separating people who are ill from people who are not ill |
+| **Quarantine** | Restricting the movement of people who may have been exposed to disease |
+| **Imported case or outbreak** | A case or outbreak introduced into a population from another geographic location |
+| **Transportation network** | A connected system through which people, animals, and goods move between places |
+| **One Health** | An approach recognizing that the health of humans, animals, and the environment are interconnected |
+| **How did the Agricultural Revolution change exposure?** | Permanent settlements increased population density and brought humans into closer contact with domesticated animals, stored food, waste, water sources, rodents, and other wildlife, creating new opportunities for exposure and disease transmission |
+
+---
+
+# Make your flashcards
+
+### Copy → Paste → Study
+
+Copy the terms below to make your own **Anki or Quizlet** flashcards.
+
+**Anki:** Save as a `.txt` file → Import → Select **Semicolon** as the field separator.
+
+```{=html}
+<div style="font-size: 0.72em;">
+<pre style="white-space: pre-wrap; padding: 1.25rem; border: 1px solid #ddd; border-radius: 8px;">
+Public health;Protecting and improving the health of populations through prevention and organized action
+Disease;A condition that disrupts normal functioning and produces adverse health effects
+Epidemic;Disease occurrence in a population above what is normally expected
+Isolation;Separating people who are ill from people who are not ill
+Quarantine;Restricting the movement of people who may have been exposed to disease
+Imported case or outbreak;A case or outbreak introduced into a population from another geographic location
+Transportation network;A connected system through which people, animals, and goods move between places
+One Health;An approach recognizing that the health of humans, animals, and the environment are interconnected
+How did the Agricultural Revolution change exposure?;Permanent settlements increased population density and brought humans into closer contact with domesticated animals, stored food, waste, water sources, rodents, and other wildlife, creating new opportunities for exposure and disease transmission
+</pre>
+</div>
+```
+
+---
+
+# Before Monday...
+
+In 1347, people could:
+
+- observe illness
+- recognize patterns
+- separate sick people
+- restrict movement
+- attempt to prevent additional disease
+
+<br>
+
+::: {style="text-align:center; margin: 3rem 0;"}
+
+## But they still could not answer one question.
+
+# What was making people sick?
+
+:::
+
+---
+
+::: {style="text-align:center; margin: 5rem 0;"}
+
+# We could see the disease.
+
+# We could not see its cause.
+
+:::
+
+---
+
+### Copyright & Use
+
+**SHM 102: Occupational Health**  
+© 2026 Yoni Rodriguez
+
+Except where otherwise noted, original course materials are licensed under the
+Creative Commons Attribution-NonCommercial 4.0 International License
+(CC BY-NC 4.0).
+
+Third-party materials remain subject to their respective copyright and
+licensing terms.
