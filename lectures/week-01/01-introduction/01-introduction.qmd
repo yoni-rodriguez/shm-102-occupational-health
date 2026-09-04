@@ -387,7 +387,7 @@ When you're ready, submit your group's response through Poll Everywhere.
 ### These are the terms I expect you to know from today's lecture for the mid-term.
 
 | Term | What should you know? |
-|----|----|
+|------------------------------------|------------------------------------|
 | **Occupational health** | Understanding and preventing health problems related to work and work environments |
 | **Hazard** | Something with the potential to cause harm to human health |
 | **Exposure** | Contact between a person and a hazard |

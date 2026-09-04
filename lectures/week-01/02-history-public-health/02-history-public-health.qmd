@@ -9,26 +9,6 @@ format:
 editor: visual
 ---
 
-```{=html}
-<style>
-.leaflet,
-.html-widget {
-  width: 100% !important;
-  max-width: 100% !important;
-}
-
-@media (max-width: 768px) {
-  .leaflet,
-  .html-widget {
-    width: 100% !important;
-    max-width: 100% !important;
-    height: 420px !important;
-    min-height: 420px !important;
-  }
-}
-</style>
-```
-
 :::::: columns
 ::: {.column width="40%"}
 ![Rome from Pincian Hill, Italy. The spire of All Saints' Anglican Church rises above the historic cityscape, with St. Peter's Basilica visible on the horizon. Photograph by Yoni Rodriguez, November 2025.](rome-from-pincian-hill-november-2025.jpg){fig-alt="View across the historic cityscape of Rome from Pincian Hill, with the spire of All Saints' Anglican Church in the foreground and the dome of St. Peter's Basilica on the horizon"}
@@ -55,51 +35,22 @@ Central Washington University\
 
 Our journey today begins in **Rome**, where the opening lecture photograph was taken from Pincian Hill in November 2025.
 
-From Rome, we travel south through Italy to **Messina, Sicily** — a port city at the northeastern tip of the island and the starting point for our historical case.
+From Rome, we travel south through Italy to **Messina, Sicily** a port city at the northeastern tip of the island and the starting point for our historical case.
 
 Explore the map below. **Where is Messina in relation to Rome and the Mediterranean Sea?**
 
-```{r}
-#| echo: false
-#| message: false
-#| warning: false
-#| out-width: "100%"
-#| fig-align: center
+::: {style="text-align:center;"}
 
-library(sf)
-library(leaflet)
+![Google Earth map showing Rome and Messina in relation to Italy, Sicily, and the Mediterranean Sea.](map-01.jpg){fig-alt="Google Earth satellite map showing Rome in central Italy and Messina at the northeastern tip of Sicily." width="60%"}
 
-locations <- st_read(
-  "02-history-public-health.kml",
-  quiet = TRUE
-)
-
-coords <- st_coordinates(locations)
-
-leaflet(
-  locations,
-  width = "100%",
-  height = 500
-) |>
-  addTiles() |>
-  addMarkers(
-    label = ~Name,
-    popup = ~Name
-  ) |>
-  fitBounds(
-    lng1 = min(coords[, "X"]),
-    lat1 = min(coords[, "Y"]),
-    lng2 = max(coords[, "X"]),
-    lat2 = max(coords[, "Y"])
-  )
-```
+:::
 
 **Want to explore further?**\
 [Explore Rome, Messina, and Dubrovnik in Google Earth](https://earth.google.com/earth/d/1REktiSIZv4oKlCb-nx_vpPkC30PHFLX5?usp=sharing)
 
 *Interactive Google Earth project created by Yoni Rodriguez.*
 
-------------------------------------------------------------------------
+***
 
 # Travel back to 1347
 
@@ -109,7 +60,7 @@ leaflet(
 
 *Hendrik van Minderhout, **Italianate harbour scene with the monument of Ferdinand I de' Medici at Leghorn**, 1670. National Maritime Museum, Greenwich. The painting depicts a later Mediterranean harbor scene and is used here to help visualize the maritime setting of our 1347 case.*
 
-------------------------------------------------------------------------
+***
 
 # Something is wrong.
 
@@ -122,26 +73,30 @@ Many of those still alive are **gravely ill**.
 <br>
 
 ::: {style="text-align:center; margin: 3rem 0;"}
+
 ## You are the Port Health Officer.
 
 ### What do you do?
+
 :::
 
-------------------------------------------------------------------------
+***
 
 # What would you want to know?
 
 Before deciding what to do, **what information would help you understand what is happening?**
 
 ::: {style="text-align:center; margin: 2rem 0;"}
+
 ## What questions would you ask?
 
 ![Scan to respond in Poll Everywhere](poll-everywhere-response.jpg){fig-alt="QR code to join the SHM 102 Poll Everywhere presentation" width="250"}
 
 **Scan the QR code and submit your question.**
+
 :::
 
-------------------------------------------------------------------------
+***
 
 # What are we trying to figure out?
 
@@ -159,10 +114,12 @@ As a group, your questions may begin to fall into a few categories:
 <br>
 
 ::: {style="text-align:center;"}
+
 ## We still do not know what is causing the illness.
+
 :::
 
-------------------------------------------------------------------------
+***
 
 # You have to make a decision.
 
@@ -171,14 +128,16 @@ You still do not know what is causing the illness.
 ## What should you do with the arriving ships?
 
 ::: {style="text-align:center; margin: 2rem 0;"}
+
 ### Poll Everywhere
 
 ![Scan to respond in Poll Everywhere](poll-everywhere-response.jpg){fig-alt="QR code to join the SHM 102 Poll Everywhere presentation" width="250"}
 
 **Choose the response you think is most appropriate.**
+
 :::
 
-------------------------------------------------------------------------
+***
 
 # How certain do you need to be before taking action?
 
@@ -193,19 +152,23 @@ But you **do not know the cause**.
 <br>
 
 ::: {style="text-align:center; margin: 2rem 0;"}
+
 ## Do you wait until you know more?
 
 ### Or act now to prevent additional illness?
+
 :::
 
-------------------------------------------------------------------------
+***
 
 # Prevention before understanding
 
 One response seems intuitive:
 
 ::: {style="text-align:center; margin: 3rem 0;"}
+
 ## Keep sick people away from healthy people.
+
 :::
 
 You may not know **what** is causing the illness.
@@ -214,7 +177,7 @@ You may not know **how** it spreads.
 
 But you can still try to prevent additional illness.
 
-------------------------------------------------------------------------
+***
 
 # Isolation or quarantine?
 
@@ -227,10 +190,12 @@ These ideas are related, but they are **not the same**.
 <br>
 
 ::: {style="text-align:center;"}
+
 ## Which one did you recommend for the ships?
+
 :::
 
-------------------------------------------------------------------------
+***
 
 # From separation to quarantine
 
@@ -238,49 +203,20 @@ As epidemics continued to threaten Mediterranean cities, communities began devel
 
 ## Another Mediterranean port
 
-In **1377**, the Adriatic port of **Ragusa** — modern-day **Dubrovnik, Croatia** — introduced one of the earliest formal systems for separating travelers arriving from areas affected by disease.
+In **1377**, the Adriatic port of **Ragusa** (modern-day) **Dubrovnik, Croatia** introduced one of the earliest formal systems for separating travelers arriving from areas affected by disease.
 
-```{r}
-#| echo: false
-#| message: false
-#| warning: false
-#| out-width: "100%"
-#| fig-align: center
+::: {style="text-align:center;"}
 
-library(sf)
-library(leaflet)
+![Google Earth map showing Rome, Messina, and Dubrovnik in relation to the Mediterranean and Adriatic Seas.](map-02.jpg){fig-alt="Google Earth satellite map showing Rome, Messina, and Dubrovnik, with Italy, Sicily, the Adriatic Sea, and surrounding Mediterranean region visible." width="85%"}
 
-locations <- st_read(
-  "02-history-public-health.kml",
-  quiet = TRUE
-)
-
-coords <- st_coordinates(locations)
-
-leaflet(
-  locations,
-  width = "100%",
-  height = 500
-) |>
-  addTiles() |>
-  addMarkers(
-    label = ~Name,
-    popup = ~Name
-  ) |>
-  fitBounds(
-    lng1 = min(coords[, "X"]),
-    lat1 = min(coords[, "Y"]),
-    lng2 = max(coords[, "X"]),
-    lat2 = max(coords[, "Y"])
-  )
-```
+:::
 
 **Want to explore further?**\
 [Explore the Mediterranean locations in Google Earth](https://earth.google.com/earth/d/1REktiSIZv4oKlCb-nx_vpPkC30PHFLX5?usp=sharing)
 
 *Interactive Google Earth project created by Yoni Rodriguez.*
 
-------------------------------------------------------------------------
+***
 
 # From separation to quarantine
 
@@ -293,14 +229,16 @@ Later practices extended the period to **40 days**.
 <br>
 
 ::: {style="text-align:center; margin: 2rem 0;"}
+
 ## Italian: *quaranta giorni*
 
 ### "forty days"
 
 # → quarantine
+
 :::
 
-------------------------------------------------------------------------
+***
 
 # But there is a problem.
 
@@ -309,10 +247,12 @@ You decided to keep sick sailors away from the population.
 <br>
 
 ::: {style="text-align:center; margin: 2rem 0;"}
+
 ## What else is aboard a merchant ship?
+
 :::
 
-------------------------------------------------------------------------
+***
 
 # People are not the only things that travel.
 
@@ -328,10 +268,12 @@ Merchant ships move:
 <br>
 
 ::: {style="text-align:center; margin: 2rem 0;"}
+
 ## Could something else aboard the ship be contributing to the illness?
+
 :::
 
-------------------------------------------------------------------------
+***
 
 # How did we get here?
 
@@ -346,10 +288,12 @@ Around **12,000 years ago**, the development of agriculture began changing how m
 <br>
 
 ::: {style="text-align:center; margin: 2rem 0;"}
+
 ## Humans were changing their relationship with animals and the environment.
+
 :::
 
-------------------------------------------------------------------------
+***
 
 # Agriculture changed exposure
 
@@ -367,6 +311,7 @@ At the same time, populations became larger and increasingly connected.
 <br>
 
 ::: {style="text-align:center; margin: 2rem 0;"}
+
 **Permanent settlements**
 
 ↓
@@ -388,11 +333,12 @@ At the same time, populations became larger and increasingly connected.
 ↓
 
 **Trade between populations**
+
 :::
 
 ### New ways of living created new opportunities for exposure and disease.
 
-------------------------------------------------------------------------
+***
 
 # Health exists within a system
 
@@ -407,10 +353,12 @@ Human health does not exist independently from **animals** or the **environment*
 <br>
 
 ::: {style="text-align:center; margin: 2rem 0;"}
+
 ## Where would our merchant ship fit into this system?
+
 :::
 
-------------------------------------------------------------------------
+***
 
 # One Health
 
@@ -433,10 +381,12 @@ Ships, ports, food, water, cargo, waste, and the built environment.
 <br>
 
 ::: {style="text-align:center; margin: 2rem 0;"}
+
 ## Changes in one part of the system can create risks in another.
+
 :::
 
-------------------------------------------------------------------------
+***
 
 # Trade connected populations
 
@@ -462,7 +412,7 @@ They connected:
 
 ### Transportation networks can also become pathways through which health threats move.
 
-------------------------------------------------------------------------
+***
 
 # What have we been doing?
 
@@ -478,10 +428,12 @@ Throughout this case, we asked:
 <br>
 
 ::: {style="text-align:center; margin: 2rem 0;"}
+
 # This is public health.
+
 :::
 
-------------------------------------------------------------------------
+***
 
 # What is public health?
 
@@ -497,12 +449,14 @@ It asks how disease, injury, and other health threats can be:
 <br>
 
 ::: {style="text-align:center;"}
+
 ## Public health asks:
 
 ### How can we prevent harm before more people become sick?
+
 :::
 
-------------------------------------------------------------------------
+***
 
 # 673 years later...
 
@@ -525,7 +479,7 @@ Public health officials must decide:
 - Who should be tested?
 - How can additional illness be prevented?
 
-------------------------------------------------------------------------
+***
 
 # And then it happened again.
 
@@ -552,7 +506,7 @@ Public health officials again have to ask:
 - Is the illness spreading?
 - What should be done while the outbreak is investigated?
 
-------------------------------------------------------------------------
+***
 
 # 1347 · 2020 · 2026
 
@@ -567,7 +521,9 @@ Different centuries.
 <br>
 
 ::: {style="text-align:center; margin: 2rem 0;"}
+
 ## But many of the questions are the same.
+
 :::
 
 **Who is affected?**
@@ -583,12 +539,14 @@ Different centuries.
 <br>
 
 ::: {style="text-align:center; margin: 2rem 0;"}
+
 ## The tools changed.
 
 ## The questions did not.
+
 :::
 
-------------------------------------------------------------------------
+***
 
 # What changed?
 
@@ -609,7 +567,7 @@ Today we can also use:
 
 ### The need to make decisions under uncertainty has not disappeared.
 
-------------------------------------------------------------------------
+***
 
 # Key Terms
 
@@ -625,7 +583,7 @@ Today we can also use:
 | **One Health** | An approach recognizing that the health of humans, animals, and the environment are interconnected |
 | **How did the Agricultural Revolution change exposure?** | Permanent settlements increased population density and brought humans into closer contact with domesticated animals, stored food, waste, water sources, rodents, and other wildlife, creating new opportunities for exposure and disease transmission |
 
-------------------------------------------------------------------------
+***
 
 # Make your flashcards
 
@@ -651,7 +609,7 @@ How did the Agricultural Revolution change exposure?;Permanent settlements incre
 </div>
 ```
 
-------------------------------------------------------------------------
+***
 
 # Before Monday...
 
@@ -666,20 +624,24 @@ In 1347, people could:
 <br>
 
 ::: {style="text-align:center; margin: 3rem 0;"}
+
 ## But they still could not answer one question.
 
 # What was making people sick?
+
 :::
 
-------------------------------------------------------------------------
+***
 
 ::: {style="text-align:center; margin: 5rem 0;"}
+
 # We could see the disease.
 
 # We could not see its cause.
+
 :::
 
-------------------------------------------------------------------------
+***
 
 ### Copyright & Use
 
