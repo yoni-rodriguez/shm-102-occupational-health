@@ -6,6 +6,16 @@ SHM 102 introduces students to the fundamental concepts of occupational health t
 
 ---
 
+## Course Information
+
+- **Course:** SHM 102 — Occupational Health
+- **Section:** 001
+- **Credits:** 5
+- **Term:** Fall 2026
+- **Meeting Schedule:** Monday–Thursday, 9:00–9:50 AM
+- **Location:** Hogue 102
+- **Instructor:** Yoni Rodriguez
+
 ## Course Organization
 
 Rather than treating occupational hazards as isolated categories, the course examines worker health across multiple interconnected scales:

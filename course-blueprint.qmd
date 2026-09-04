@@ -94,13 +94,21 @@ Worker → Task → Hazard → Exposure → Health Effect → Risk → Controls
 
 This framework provides students with a consistent approach for identifying and analyzing occupational health problems across different hazards, workplaces, populations, and scales.
 
+As the quarter progresses, students should become increasingly responsible for applying this framework themselves rather than relying on instructor-led analysis.
+
 # Core Concepts
 
 ## Foundations of Occupational Health
 
+Students first develop a foundational understanding of occupational and environmental health before moving into the recurring case-based structure used throughout the remainder of the course.
+
 ## History, Policy, and Public Health
 
+The course introduces the historical development of public, environmental, and occupational health to provide context for understanding why contemporary occupational-health institutions, policies, regulations, and prevention strategies exist.
+
 ## Hazard Categories
+
+Students should be able to recognize major occupational hazard categories:
 
 - Chemical
 - Biological
@@ -108,21 +116,215 @@ This framework provides students with a consistent approach for identifying and 
 - Ergonomic
 - Psychosocial
 
+These categories provide useful vocabulary but do not independently determine the organization of the course. Multiple hazard categories may appear within the same occupational-health case.
+
 ## Exposure Pathways and Routes
+
+Students examine how hazards move from sources through environmental or workplace pathways to reach workers.
 
 ## Dose, Frequency, Duration, and Intensity
 
+Students consider how characteristics of exposure influence potential health effects and risk.
+
 ## Risk and Susceptibility
+
+Students distinguish hazard from risk and examine how exposure conditions and worker characteristics can influence risk.
 
 ## Prevention and the Hierarchy of Controls
 
+Students use the hierarchy of controls as a recurring framework for evaluating strategies to eliminate, reduce, or manage occupational exposures.
+
+# Fall 2026 Course Offering
+
+## Course Information
+
+- **Course:** SHM 102 — Occupational Health
+- **Section:** 001
+- **Credits:** 5
+- **Term:** Fall 2026
+- **Instructor:** Yoni Rodriguez
+- **Meeting Days:** Monday–Thursday
+- **Meeting Time:** 9:00–9:50 AM
+- **Classroom:** Hogue 102
+- **Enrollment Capacity:** 60 students
+- **Instructional Format:** In-person
+
+## Instructional Design Implications
+
+SHM 102 meets four days per week in 50-minute class periods, providing approximately 200 scheduled instructional minutes during a standard four-day week.
+
+The course should therefore be designed around focused instructional blocks rather than treating each class meeting as a continuous 50-minute lecture.
+
+Individual class meetings may combine:
+
+- Short lecture segments
+- Real-world cases
+- Poll Everywhere activities
+- Small-group discussion
+- Data and figure interpretation
+- Historical examples
+- Scientific evidence
+- Application exercises
+- Current events
+- Final-project development
+
+The approximately 60-student enrollment also influences the design of collaborative activities, library sessions, and the final group project.
+
+For planning purposes:
+
+- Approximately **60 students**
+- Approximately **5 students per final-project group**
+- Approximately **12 final-project groups**
+- Approximately **30 students per library research session** when the class is divided into two groups
+- Approximately **3 final-project presentations per class meeting** during presentation week
+
+These values are planning assumptions and should be adjusted based on actual enrollment and course needs.
+
+# Instructional Progression
+
+## Foundations
+
+The opening portion of SHM 102 establishes the conceptual and historical background students need before they are expected to independently analyze occupational-health problems.
+
+Foundational instruction should introduce students to:
+
+- What occupational health is
+- How occupational health relates to environmental health and public health
+- The historical development of public and occupational health
+- Why occupational-health laws, policies, agencies, and institutions developed
+- Major occupational hazard categories
+- Hazard and risk
+- Exposure pathways and routes
+- Prevention and the hierarchy of controls
+- The interdisciplinary nature of occupational and environmental health
+- The occupational health reasoning framework
+
+The goal of the foundations period is to give students enough vocabulary, historical context, and conceptual structure to participate meaningfully in later case-based instruction.
+
+## Case-Based Weekly Rhythm
+
+After the occupational and environmental health foundations have been established, the course can transition toward a recurring weekly instructional rhythm.
+
+A typical instructional week may follow:
+
+```text
+Monday
+Introduce Problem / Case
+        ↓
+Tuesday
+Build Scientific Concepts
+        ↓
+Wednesday
+Apply / Investigate
+        ↓
+Thursday
+Synthesis / Discussion / Project Work
+```
+
+### Monday — Introduce Problem / Case
+
+Introduce a real occupational or environmental health problem.
+
+Students begin by asking:
+
+- What is happening?
+- Who is affected?
+- What work is being performed?
+- What hazards might be present?
+- What questions do we need to answer?
+
+The goal is to create a reason for learning the scientific and occupational-health concepts that follow.
+
+### Tuesday — Build Scientific Concepts
+
+Develop the scientific concepts necessary to understand the case.
+
+Depending on the topic, this may include:
+
+- Biology
+- Chemistry
+- Toxicology
+- Exposure science
+- Epidemiology
+- Environmental science
+- Physiology
+- Engineering
+- Policy
+- Social and behavioral factors
+
+Scientific concepts should be connected directly to the occupational-health problem rather than presented as isolated background information.
+
+### Wednesday — Apply / Investigate
+
+Students increasingly apply course concepts to evidence associated with the case.
+
+Activities may include:
+
+- Interpreting data
+- Evaluating figures
+- Reading scientific evidence
+- Comparing exposures
+- Identifying exposure pathways
+- Applying the occupational health reasoning framework
+- Evaluating risk
+- Comparing populations or workplaces
+- Applying the hierarchy of controls
+- Poll Everywhere activities
+- Small-group problem solving
+
+### Thursday — Synthesis / Discussion / Project Work
+
+Students integrate what they have learned across the week.
+
+Depending on the stage of the quarter, Thursday may include:
+
+- Case synthesis
+- Discussion
+- Current events
+- Prevention and control
+- Reflection
+- Final-project development
+- Research activities
+- Peer feedback
+- Instructor consultation
+
+As final projects develop, Thursday can increasingly provide structured time for students to apply that week's concepts to their own occupational-health case.
+
+## Purpose of the Weekly Rhythm
+
+The weekly pattern is intended to move students progressively from encountering a problem to understanding it, investigating it, and reasoning toward prevention.
+
+```text
+Problem
+   ↓
+Scientific Understanding
+   ↓
+Investigation
+   ↓
+Application
+   ↓
+Prevention
+```
+
+The weekly rhythm is a flexible instructional framework rather than a rigid requirement. Some cases may require different sequencing, additional time, or integration across multiple weeks.
+
 # Fall 2026 Course Architecture
 
-The Fall 2026 course schedule is organized around the Central Washington University academic calendar. Course content, case studies, assessments, and final-project milestones will be mapped onto this calendar as the course is developed.
+The Fall 2026 course schedule is organized around the Central Washington University academic calendar.
+
+Course content, case studies, assessments, and final-project milestones will be mapped onto this calendar as the course is developed.
 
 ## Week 1 — September 23–24
 
+**Foundations**
+
+Initial introduction to occupational health, the course reasoning framework, and the historical and conceptual foundations of occupational and environmental health.
+
+Because Fall Quarter begins on Wednesday, Week 1 contains two class meetings.
+
 ## Week 2 — September 28–October 1
+
+Continued foundations and transition toward the scale-based, case-study structure of the course.
 
 ## Week 3 — October 5–8
 
@@ -148,9 +350,9 @@ The Fall 2026 course schedule is organized around the Central Washington Univers
 
 ### Final Project Presentations
 
-- 12 groups
+- Approximately 12 groups
 - Approximately 5 students per group
-- 3 groups presenting per class meeting
+- Approximately 3 groups presenting per class meeting
 - 15-minute presentation slots
   - 10–12 minutes presentation
   - 3–5 minutes questions and discussion
@@ -164,72 +366,105 @@ The Fall 2026 course schedule is organized around the Central Washington Univers
 
 **December 8–11:** Final examination period
 
-No regularly scheduled SHM 102 coursework is planned during the final examination period. This period provides time for students to focus on other final examinations and for completion of grading and approved presentation make-ups, if needed.
+No regularly scheduled SHM 102 coursework is planned during the final examination period.
+
+This period provides time for students to focus on other final examinations and for completion of grading and approved presentation make-ups, if needed.
 
 # Assessment Architecture
 
 SHM 102 uses a 400-point course structure emphasizing foundational knowledge, engagement with occupational health issues, and application of course concepts to a real-world problem.
 
+```text
+Midterm — Foundations                 100 points
+Engagement & Current Events           100 points
+Final Group Project                   200 points
+                                      ----------
+Total                                 400 points
+```
+
 ## Midterm — Foundations
 
 **Points:** 100
 
-The midterm assesses students' understanding of the foundational language and concepts needed to analyze occupational health problems.
+The midterm assesses students' understanding of the foundational language and concepts needed to analyze occupational-health problems.
+
+Students should demonstrate that they can recognize and use concepts rather than relying exclusively on memorized definitions.
+
+Potential areas include:
+
+- Occupational and environmental health
+- Hazard categories
+- Hazard versus risk
+- Exposure pathways and routes
+- Dose, frequency, duration, and intensity
+- Health effects
+- Susceptibility
+- Prevention
+- Hierarchy of controls
+- Occupational health reasoning
 
 ## Engagement & Current Events
 
 **Points:** 100
 
-Engagement activities provide opportunities for students to recognize, discuss, and apply occupational health concepts throughout the quarter.
+Engagement activities provide opportunities for students to recognize, discuss, investigate, and apply occupational-health concepts throughout the quarter.
 
-Activities may include current-event analyses, case discussions, readings, Poll Everywhere activities, and other course participation activities.
+Activities may include:
+
+- Current-event analyses
+- Case discussions
+- Readings
+- Poll Everywhere activities
+- Small-group exercises
+- Research activities
+- Final-presentation peer review
+- Audience participation
+- Other course participation activities
+
+Engagement activities should emphasize meaningful participation and application rather than attendance alone.
 
 ## Final Group Project
 
 **Points:** 200
 
-The final group project serves as the primary application-based assessment for the course. Students work collaboratively to investigate a real occupational or environmental health problem and apply the concepts and reasoning framework developed throughout the quarter.
+The final group project serves as the primary application-based assessment for SHM 102.
 
-The 200 points are divided into two components:
+Students work collaboratively to investigate a real occupational or environmental health problem and apply the concepts and reasoning framework developed throughout the quarter.
 
-### Group Presentation — 100 Points
+The project should evaluate students' ability to:
 
-Students work in approximately five-person groups to investigate and present a real occupational or environmental health problem.
+- Define an occupational or environmental health problem
+- Identify affected workers or populations
+- Describe relevant work, tasks, and conditions
+- Identify hazards
+- Explain exposure pathways
+- Evaluate potential health consequences
+- Use credible evidence
+- Analyze factors that influence risk
+- Recommend prevention and control strategies
+- Apply the hierarchy of controls where appropriate
+- Communicate findings clearly
+- Explain how the effectiveness of an intervention could be evaluated
 
-The presentation is evaluated using a grading rubric based on the quality of the group's analysis, application of course concepts, use of evidence, proposed prevention and control strategies, communication, and presentation.
+The final project is evaluated by the instructor using a grading rubric aligned with these expectations.
 
-**Points:** 100
+Presentation peer review and participation contribute to the **Engagement & Current Events** category rather than determining another group's final-project grade.
 
-### Presentation Peer Review & Participation — 100 Points
+# Final Project Structure
 
-The second half of the final-project grade is earned through active participation in the presentations delivered by other groups.
+## Group Organization
 
-Students are expected to attend their classmates' presentations, engage with the material being presented, and complete structured peer feedback.
+For planning purposes:
 
-Peer review serves two purposes:
-
-1. Students continue learning from occupational health cases beyond their own group's topic.
-2. Every presenting group receives an engaged audience and meaningful feedback from their classmates.
-
-Students therefore remain responsible for participating in the final-project presentation period after their own group has presented.
-
-**Points:** 100
-
-### Final Project Presentations
-
-- 12 groups
+- Approximately 60 students
 - Approximately 5 students per group
-- 3 groups presenting per class meeting
-- 15-minute presentation slots
-  - 10–12 minutes presentation
-  - 3–5 minutes questions and discussion
-- Group presentation: **100 points**
-- Presentation peer review and participation: **100 points**
-- Students remain responsible for attending and engaging with presentations after their own group has presented
+- Approximately 12 project groups
+
+Group numbers should be adjusted based on actual course enrollment.
 
 ## Case Framework
 
-Final-project cases will use the same occupational health reasoning framework practiced throughout the course:
+Final-project cases will use the same occupational-health reasoning framework practiced throughout the course:
 
 ```text
 What's happening?
@@ -249,37 +484,182 @@ What controls would you recommend?
 How would you know whether the intervention worked?
 ```
 
+Students should encounter this framework repeatedly during lectures and case studies before being expected to independently apply it to their final projects.
+
+## Project Development Progression
+
+Final-project development should occur progressively throughout the quarter rather than being concentrated near the final presentation period.
+
+A general progression may follow:
+
+```text
+Topic / Case
+       ↓
+Define the Problem
+       ↓
+Identify Workers and Context
+       ↓
+Find Credible Evidence
+       ↓
+Identify Hazards
+       ↓
+Explain Exposure
+       ↓
+Evaluate Health Effects and Risk
+       ↓
+Develop Controls / Recommendations
+       ↓
+Consider Intervention Evaluation
+       ↓
+Build Presentation
+       ↓
+Receive Feedback
+       ↓
+Revise
+       ↓
+Final Presentation
+```
+
+Project-development time should be connected to the same concepts students are learning in lecture.
+
 ## Library Research Sessions
 
 Two library research sessions will introduce students to strategies for finding and evaluating evidence for their final group projects.
 
 Approximately half of the class will attend each session.
 
-The library sessions should occur early in the quarter, after students have been assigned their groups and project topics, so students can immediately apply research skills to their own occupational health problem.
+For planning purposes:
+
+- Approximately 30 students attend each library session
+- Students should already know their project group and topic
+- Sessions should occur early enough for students to immediately apply research skills to their projects
+
+Library instruction may include:
+
+- Navigating CWU library resources
+- Searching academic databases
+- Finding peer-reviewed research
+- Finding credible government and institutional sources
+- Finding historical and current news sources
+- Evaluating source quality
+- Developing useful search terms
+- Citation management
+- Distinguishing evidence from unsupported claims
+
+## Project Milestones
+
+Final-project milestones should be developed alongside the project rubric.
+
+Potential milestones include:
+
+```text
+Group + Topic
+      ↓
+Problem Definition
+      ↓
+Research Question
+      ↓
+Evidence Search
+      ↓
+Exposure Analysis
+      ↓
+Health Effects / Risk
+      ↓
+Controls and Recommendations
+      ↓
+Presentation Development
+      ↓
+Peer / Instructor Feedback
+      ↓
+Revision
+      ↓
+Final Presentation
+```
+
+Milestones may be integrated into Thursday project-development periods as the course progresses.
+
+## Final Project Presentations
+
+Final presentations are planned for Week 11.
+
+For approximately 12 groups:
+
+- 3 groups present per class meeting
+- 15-minute presentation slots
+- Approximately 10–12 minutes for presentation
+- Approximately 3–5 minutes for questions and discussion
+
+Students remain responsible for attending and engaging with presentations after their own group has presented.
+
+Structured peer review during presentation week contributes to **Engagement & Current Events**.
 
 ## Candidate Project Topics
 
+To be developed.
+
+The project menu should contain enough occupational and environmental health cases to support approximately 12 groups while allowing some additional options for flexibility and future course offerings.
+
 # Case Study Bank
 
+To be developed progressively as lectures and final-project topics are created.
+
+Cases should represent different:
+
+- Occupational settings
+- Worker populations
+- Hazard categories
+- Exposure pathways
+- Geographic scales
+- Industries
+- Health outcomes
+- Prevention challenges
+
+Cases may operate at global, national, regional, Washington State, or local scales.
+
 # Vocabulary Progression
+
+Course vocabulary should develop alongside the cases and concepts students encounter.
+
+Rather than introducing a large vocabulary list at the beginning of the quarter, terms should generally be introduced when students have a meaningful reason to use them.
+
+Vocabulary may be reinforced through:
+
+- Lecture definitions
+- Case studies
+- Poll Everywhere
+- Vocabulary tables
+- Study resources
+- Anki or Quizlet-compatible exports
+- Midterm preparation
 
 # Student Onboarding
 
 ## Welcome to SHM 102
 
-A short student-facing course orientation will introduce students to the structure of SHM 102, expectations for participation, major assessments, course resources, and the approach used to examine occupational health problems.
+A short student-facing course orientation will introduce students to:
 
-## Who Is SHM 102? Survey
+- The purpose of SHM 102
+- Course structure
+- Expectations for participation
+- Major assessments
+- Final group project
+- Course resources
+- Public GitHub course materials
+- Poll Everywhere
+- The systems-based, case-study approach used throughout the quarter
 
-An introductory survey will be used to better understand the backgrounds and interests represented in the class.
+## Who Is SHM 102?
+
+An introductory Poll Everywhere activity will be used to better understand the backgrounds and interests represented in the class.
 
 Potential information may include:
 
 - Class standing
 - Major or academic program
+- Transfer-student status
 - Previous work experience
 - Previous exposure to occupational or environmental health
-- Occupational health topics of interest
+- Occupational-health topics of interest
 - Students' initial understanding of occupational health
 - What students hope to learn during the course
 
@@ -369,21 +749,21 @@ This activity moves Poll Everywhere from individual response toward collaborativ
 The standard classroom workflow is:
 
 ```text
-Introduce question or problem
+Introduce Question or Problem
         ↓
-Activate Poll Everywhere activity
+Activate Poll Everywhere Activity
         ↓
-Students respond individually
+Students Respond Individually
         OR
-Students discuss with classmates
+Students Discuss with Classmates
         ↓
-Students submit responses
+Students Submit Responses
         ↓
-Display and discuss results
+Display and Discuss Results
         ↓
-Connect responses to course concepts
+Connect Responses to Course Concepts
         ↓
-Deactivate activity when finished
+Deactivate Activity When Finished
 ```
 
 Only the activity currently being used should generally be active.
@@ -482,6 +862,30 @@ Lecture materials should identify:
 - Central Washington University
 - Yoni.Rodriguez@cwu.edu
 
+## Instructional Structure
+
+Lectures should be designed for approximately 50-minute class meetings.
+
+Rather than assuming continuous instructor presentation, lectures may contain multiple instructional segments combining explanation, discussion, cases, data, questions, and application.
+
+A general class meeting may follow:
+
+```text
+Opening Question / Problem
+        ↓
+Short Instructional Segment
+        ↓
+Student Thinking / Discussion
+        ↓
+Evidence / Case / Data
+        ↓
+Application
+        ↓
+Synthesis
+```
+
+The exact structure should remain flexible based on the instructional purpose of the class meeting.
+
 ## Interactive Activities
 
 Lectures should incorporate Poll Everywhere, discussion, cases, or other active-learning activities where they advance the learning objectives.
@@ -519,7 +923,17 @@ Students should progressively become responsible for applying more of this frame
 
 ## Lecture Closing
 
-Where appropriate, lectures should conclude by reinforcing the major conceptual connections rather than simply ending after the final content section.
+Where appropriate, lectures should conclude by reinforcing major conceptual connections rather than simply ending after the final content section.
+
+A closing may:
+
+- Return to the opening case or question
+- Revisit the occupational health reasoning framework
+- Ask students to identify the most important intervention point
+- Connect the case to another scale
+- Preview the next problem
+- Identify key vocabulary
+- Provide a synthesis question
 
 Lecture materials should also contain the standard copyright and use statement.
 
@@ -529,7 +943,7 @@ Lecture materials should also contain the standard copyright and use statement.
 
 Original SHM 102 materials created for the course should clearly identify authorship and copyright.
 
-The intended licensing framework for original course materials is the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**, subject to confirmation of applicable Central Washington University intellectual-property policies and guidance.
+Except where otherwise noted, original course materials are licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
 
 Third-party materials incorporated into lectures remain subject to their respective copyright, licensing, attribution, and permitted-use requirements.
 
@@ -555,7 +969,21 @@ Third-party materials remain subject to their respective copyright and
 licensing terms.
 ```
 
-The final wording may be revised following clarification of Central Washington University intellectual-property policy.
+## Instructor-Created Photographs and Figures
+
+Original photographs created by the instructor may be identified using:
+
+```text
+Photo © 2026 Yoni Rodriguez.
+```
+
+Original instructor-created figures or diagrams may be identified using:
+
+```text
+Figure © 2026 Yoni Rodriguez.
+```
+
+Where appropriate, captions should distinguish original materials from adapted or third-party materials.
 
 ## Attribution
 
@@ -580,15 +1008,15 @@ Where practical, original course materials should distinguish between:
 - Adapted content
 - Third-party content reproduced under an applicable license or permitted use
 
-## Course Repository
+# Course Repository
 
 The SHM 102 course repository is intended to be publicly accessible.
 
-The public repository provides students with direct access to course materials without requiring them to follow the instructor or maintain a continuing relationship with Central Washington University. Students may continue accessing the materials after completing the course or graduating.
+The public repository provides students with direct access to course materials without requiring them to follow the instructor on GitHub and allows students to continue accessing the materials after completing the course or graduating.
 
 Public access also allows the repository to serve as an educational resource and example for instructors, students, and programs at other institutions.
 
-The repository should include a `LICENSE.md` file documenting the licensing terms for original course materials.
+The repository includes a `LICENSE.md` file documenting copyright, licensing, attribution, and reuse terms.
 
 Except where otherwise noted, original course materials are licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
 
@@ -596,21 +1024,56 @@ This allows others to share and adapt original course materials with appropriate
 
 The course license does not automatically apply to third-party materials contained within or referenced by the repository. Third-party materials remain subject to their respective copyright and licensing terms.
 
+## Public Repository Materials
+
 The public repository may include:
 
 - Lecture `.qmd` files
 - Rendered lecture HTML files
 - Instructor-created figures and graphics
+- Instructor-created photographs
 - Publicly distributable supporting resources
+- Student-facing assignment instructions
+- Engagement activities
+- Final-project instructions and rubrics
 - Course vocabulary and study materials
 - Repository documentation
 - `LICENSE.md`
 
+## Restricted Materials
+
 The public repository should not include:
 
-- Student information or student-generated data
+- Student information
+- Student-generated response data
 - Poll Everywhere response data
 - Grades
-- Assessments or answer keys that should remain restricted
+- Restricted examination questions
+- Answer keys
+- Internal university records
+- Protected course records
 - Copyrighted third-party materials that cannot legally be redistributed
-- Internal university records or protected materials
+
+Restricted materials should be maintained separately from the public teaching repository.
+
+# Instructor Notes and Reflections
+
+## Fall 2026
+
+This section should be updated during and after the first offering of the redesigned SHM 102 course.
+
+### Keep
+
+Elements that worked particularly well and should be retained in future offerings.
+
+### Modify
+
+Elements that were useful but should be revised.
+
+### Remove
+
+Elements that did not meaningfully contribute to student learning or course goals.
+
+### Ideas for Future Offerings
+
+New cases, activities, readings, technologies, assessment approaches, or structural changes to consider in future versions of SHM 102.
