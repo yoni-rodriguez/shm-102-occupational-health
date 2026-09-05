@@ -171,9 +171,10 @@ There is no expectation that you know the formal definition yet. Give me your be
 ::::::
 
 ::: {style="font-size: 0.85em; color: #666; margin-top: 1rem;"}
-**Photos:** Cesar Ramirez and Matteo Vijarro.  
+**Photos:** Cesar Ramirez and Matteo Vijarro.\
 **Research supported by:** [Pacific Northwest Agricultural Safety and Health Center (PNASH)](https://pnash.deohs.washington.edu/), University of Washington.
 :::
+
 # Is the applicator the only person exposed?
 
 ## Pesticide drift in Washington State
