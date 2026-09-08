@@ -238,7 +238,7 @@ Restricted assessment materials, answer keys, student information, and other pro
 
 ## Course Development
 
-This repository is under active development for SHM 102 — Occupational Health at Central Washington University.
+This repository is under active development for SHM 102  Occupational Health at Central Washington University.
 
 Course materials are designed to evolve as new occupational and environmental health issues, research, evidence, and case studies emerge.
 
