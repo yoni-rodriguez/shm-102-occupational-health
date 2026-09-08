@@ -9,6 +9,81 @@ format:
 editor: visual
 ---
 
+```{=html}
+<style>
+
+/* =========================================================
+   Lecture Styling
+   ========================================================= */
+
+/* ---------------------------------------------------------
+   Typography
+   Keep lecture text consistent throughout the document
+   --------------------------------------------------------- */
+
+body {
+  color: #212529;
+}
+
+blockquote {
+  color: #212529;
+  font-size: inherit;
+  font-style: normal;
+  font-weight: normal;
+}
+
+blockquote strong {
+  color: #212529;
+}
+
+.text-center {
+  color: #212529;
+}
+
+
+/* =========================================================
+   Responsive Mobile Layout
+   Stack ALL Quarto columns on narrow screens
+   ========================================================= */
+
+@media (max-width: 768px) {
+
+  /* Convert every Quarto column group to a vertical layout */
+  .columns {
+    display: block !important;
+  }
+
+  /* Every content column becomes full width */
+  .columns > .column {
+    width: 100% !important;
+    max-width: 100% !important;
+    flex: 0 0 100% !important;
+  }
+
+  /* Remove empty spacer columns used in desktop layouts */
+  .columns > .column:empty {
+    display: none !important;
+  }
+
+  /* Keep images within the phone viewport */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* Prevent long text or captions from forcing page width */
+  p,
+  li,
+  figcaption {
+    overflow-wrap: anywhere;
+  }
+
+}
+
+</style>
+```
+
+
 :::::: columns
 ::: {.column width="40%"}
 ![Mount Rainier, Washington. Photograph by Yoni Rodriguez, 2022.](mount-rainier.jpg){fig-alt="Mount Rainier photographed by Yoni Rodriguez in June 2022"}
