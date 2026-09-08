@@ -1,4 +1,4 @@
-# SHM 102 — Occupational Health
+# SHM 102 Occupational Health
 
 **Central Washington University**
 
