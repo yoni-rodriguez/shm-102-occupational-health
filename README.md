@@ -65,6 +65,90 @@ Course materials are developed using Quarto to integrate scientific literature, 
 
 ---
 
+## Assessment Structure
+
+SHM 102 uses a **400-point grading system**.
+
+| Assessment | Points | Percent of Course Grade |
+|---|---:|---:|
+| Midterm — Foundations | 100 | 25% |
+| Engagement & Current Events | 100 | 25% |
+| Final Group Project | 200 | 50% |
+| **Course Total** | **400** | **100%** |
+
+The assessment structure is intentionally focused on understanding foundational concepts, engaging with occupational and environmental health problems throughout the quarter, and applying course concepts to a substantial real-world case.
+
+### Midterm — Foundations
+
+The midterm is worth **100 points** and accounts for **25% of the total course grade**.
+
+The midterm assesses whether students can understand and apply the foundational language and concepts needed to analyze occupational health problems.
+
+Students should be able to work with concepts such as:
+
+- Public, environmental, and occupational health
+- Hazard categories
+- Hazard versus risk
+- Exposure pathways and routes
+- Dose, frequency, duration, and intensity
+- Health effects
+- Susceptibility
+- Prevention
+- Hierarchy of controls
+- Occupational health reasoning
+
+The emphasis is on using these concepts to reason through occupational health problems rather than memorizing definitions in isolation.
+
+### Engagement & Current Events
+
+Engagement & Current Events is worth **100 points** and accounts for **25% of the total course grade**.
+
+These activities provide opportunities for students to recognize, discuss, investigate, and apply occupational and environmental health concepts throughout the quarter.
+
+Activities may include:
+
+- Current-event analyses
+- Case discussions
+- Poll Everywhere activities
+- Small-group exercises
+- Readings
+- Research activities
+- Final-presentation peer review
+- Audience participation
+- Other course application activities
+
+Engagement emphasizes meaningful participation and application rather than attendance alone.
+
+### Final Group Project
+
+The final group project is worth **200 points** and accounts for **50% of the total course grade**.
+
+The project serves as the culminating application of the reasoning students develop throughout SHM 102.
+
+Student groups investigate a real occupational or environmental health problem using the recurring course framework:
+
+```text
+What's happening?
+       ↓
+Who is affected?
+       ↓
+What is the hazard?
+       ↓
+How are people exposed?
+       ↓
+What are the health consequences?
+       ↓
+What factors make the problem better or worse?
+       ↓
+What controls would you recommend?
+       ↓
+How would you know whether the intervention worked?
+```
+
+The project asks students to integrate evidence, occupational health concepts, exposure reasoning, prevention strategies, and professional communication into an evidence-based analysis of a real problem.
+
+The exact final-project format, rubric, milestones, and internal point distribution will be provided separately.
+
 ## Instructional Structure
 
 SHM 102 meets four days per week in 50-minute class periods.
