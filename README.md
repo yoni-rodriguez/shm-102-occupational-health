@@ -71,14 +71,14 @@ SHM 102 uses a **400-point grading system**.
 
 | Assessment | Points | Percent of Course Grade |
 |---|---:|---:|
-| Midterm — Foundations | 100 | 25% |
+| Midterm: Foundations | 100 | 25% |
 | Engagement & Current Events | 100 | 25% |
 | Final Group Project | 200 | 50% |
 | **Course Total** | **400** | **100%** |
 
 The assessment structure is intentionally focused on understanding foundational concepts, engaging with occupational and environmental health problems throughout the quarter, and applying course concepts to a substantial real-world case.
 
-### Midterm — Foundations
+### Midterm: Foundations
 
 The midterm is worth **100 points** and accounts for **25% of the total course grade**.
 
