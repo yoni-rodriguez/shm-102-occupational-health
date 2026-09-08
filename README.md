@@ -14,7 +14,9 @@ SHM 102 introduces students to the fundamental concepts of occupational health t
 - **Term:** Fall 2026
 - **Meeting Schedule:** Monday–Thursday, 9:00–9:50 AM
 - **Location:** Hogue 102
-- **Instructor:** Yoni Rodriguez
+- **Professor:** Yoni Rodriguez
+
+---
 
 ## Course Organization
 
@@ -59,7 +61,35 @@ SHM 102 emphasizes:
 - Current occupational and environmental health events
 - Active learning and application of course concepts
 
-Course lectures are developed using Quarto to integrate scientific literature, data, maps, figures, interactive activities, and other teaching materials.
+Course materials are developed using Quarto to integrate scientific literature, data, maps, figures, Poll Everywhere activities, case studies, and other interactive teaching materials.
+
+---
+
+## Instructional Structure
+
+SHM 102 meets four days per week in 50-minute class periods.
+
+The course begins with foundational instruction in occupational and environmental health history, concepts, vocabulary, and prevention frameworks.
+
+After the foundations are established, instructional weeks generally follow a recurring pattern:
+
+```text
+Monday
+Introduce Problem / Case
+        ↓
+Tuesday
+Build Scientific Concepts
+        ↓
+Wednesday
+Apply / Investigate
+        ↓
+Thursday
+Synthesis / Discussion / Project Work
+```
+
+This structure is intended to move students from encountering an occupational health problem to understanding the relevant science, applying evidence and course concepts, and reasoning toward prevention and control.
+
+The weekly pattern is flexible and may be adjusted based on the topic, case, or stage of the final group project.
 
 ---
 
