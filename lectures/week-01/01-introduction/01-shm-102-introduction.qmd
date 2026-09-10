@@ -6,6 +6,11 @@ format:
     smooth-scroll: true
     code-fold: true
     embed-resources: true
+  pdf:
+    toc: true
+    documentclass: scrartcl
+    geometry:
+      - margin=0.75in
 editor: visual
 ---
 
@@ -48,41 +53,137 @@ blockquote strong {
 
 @media (max-width: 768px) {
 
-  /* Convert every Quarto column group to a vertical layout */
   .columns {
     display: block !important;
   }
 
-  /* Every content column becomes full width */
   .columns > .column {
     width: 100% !important;
     max-width: 100% !important;
     flex: 0 0 100% !important;
   }
 
-  /* Remove empty spacer columns used in desktop layouts */
   .columns > .column:empty {
     display: none !important;
   }
 
-  /* Keep images within the phone viewport */
   img {
     max-width: 100%;
     height: auto;
   }
 
-  /* Prevent long text or captions from forcing page width */
   p,
   li,
   figcaption {
     overflow-wrap: anywhere;
   }
+}
 
+
+/* =========================================================
+   Poll Everywhere Layout
+   ========================================================= */
+
+@media (min-width: 501px) {
+
+  .poll-columns {
+    display: flex !important;
+    align-items: center !important;
+  }
+
+  .poll-columns > .column {
+    flex: initial !important;
+  }
+}
+
+
+/* =========================================================
+   Occupational Hazard Tree
+   ========================================================= */
+
+.hazard-tree {
+  width: 100%;
+  text-align: center;
+  margin: 2rem auto;
+}
+
+.hazard-tree-parent {
+  display: inline-block;
+  padding: 1rem 2.5rem;
+  border: 2px solid #495057;
+  border-radius: 8px;
+  font-size: 1.5em;
+  font-weight: bold;
+  background: #f8f9fa;
+}
+
+.hazard-tree-stem {
+  width: 2px;
+  height: 40px;
+  background: #495057;
+  margin: 0 auto;
+}
+
+.hazard-tree-branches {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding-top: 40px;
+}
+
+.hazard-tree-branches::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 10%;
+  right: 10%;
+  height: 2px;
+  background: #495057;
+}
+
+.hazard-category {
+  position: relative;
+  flex: 1;
+  padding: 1rem 0.5rem;
+  border: 2px solid #495057;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 1.15em;
+  background: #f8f9fa;
+}
+
+.hazard-category::before {
+  content: "";
+  position: absolute;
+  width: 2px;
+  height: 40px;
+  background: #495057;
+  top: -40px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+@media (max-width: 600px) {
+
+  .hazard-tree-stem,
+  .hazard-tree-branches::before,
+  .hazard-category::before {
+    display: none;
+  }
+
+  .hazard-tree-branches {
+    flex-direction: column;
+    padding-top: 1rem;
+  }
+
+  .hazard-category {
+    width: 100%;
+  }
 }
 
 </style>
 ```
-
 
 :::::: columns
 ::: {.column width="40%"}
@@ -153,19 +254,25 @@ Before we get started, I'd like to learn a little about who's in the room.
 
 ### Poll Everywhere: First-Time Setup
 
-1.  Scan the QR code below.
+::::::: {.columns .poll-columns}
+::: {.column width="68%"}
+1.  Scan the QR code.
 2.  Sign in/register using your **CWU account**.
 3.  Complete the **Tell Me About You** survey.
 4.  We'll use this same response page throughout SHM 102.
+:::
 
-![](poll-everywhere-response.jpg){fig-alt="Poll Everywhere QR code and response link for SHM 102" width="700"}
+::: {.column width="4%"}
+:::
 
-**Today's survey:**
+:::: {.column width="28%"}
+::: {style="display:flex; justify-content:center; align-items:center; height:100%;"}
+![](poll-everywhere-response.jpg){fig-alt="Poll Everywhere QR code and response link for SHM 102" width="250"}
+:::
+::::
+:::::::
 
-- What is your year in school?
-- What is your major?
-- Are you a transfer student?
-- Have you taken a course related to occupational or environmental health before?
+---
 
 # What is Occupational Health?
 
@@ -175,30 +282,39 @@ Let's start with what you already think.
 
 ### Poll Everywhere
 
-1.  **What comes to mind when you hear the term "occupational health"?**
-2.  **In your own words, how would you define occupational health?**
+::::::: {.columns .poll-columns}
+::: {.column width="68%"}
+
+1.  *What comes to mind when you hear the term "occupational health"?*
+2.  *In your own words, how would you define occupational health?*
 
 There is no expectation that you know the formal definition yet. Give me your best answer.
 
-::: {style="text-align:center; margin: 2rem 0;"}
-![Scan to respond in Poll Everywhere](poll-everywhere-response.jpg){fig-alt="QR code to join the SHM 102 Poll Everywhere presentation" width="250"}
-
-**Scan the QR code to respond.**
 :::
+
+::: {.column width="4%"}
+:::
+
+:::: {.column width="28%"}
+::: {style="display:flex; justify-content:center; align-items:center; height:100%;"}
+![](poll-everywhere-response.jpg){fig-alt="QR code to join the SHM 102 Poll Everywhere presentation" width="250"}
+:::
+::::
+:::::::
 
 ::: {style="text-align:center; margin: 4rem 0;"}
 ### A working definition
 
-**"*Occupational and environmental health is the study and prevention of health problems caused or influenced by the environments where people work, live, and interact.*" - Centers for Disease Control and Prevention (CDC)**
+"*Occupational and environmental health is the study and prevention of health problems caused or influenced by the environments where people work, live, and interact*." - **Centers for Disease Control and Prevention (CDC)**
 :::
 
 :::: {style="text-align:center; margin: 4rem 0;"}
 ## Where does Occupational Health occur?
 
 ::: {style="display:inline-block; text-align:left;"}
-- **Do you get exposed on your way to work?**
-- **Does the community nearby get exposed?**
-- **Do you take the exposures home?**
+- Do you get exposed on your way to work?
+- Does the community nearby get exposed?
+- Do you take the exposures home?
 :::
 ::::
 
@@ -206,11 +322,13 @@ There is no expectation that you know the formal definition yet. Give me your be
 ## Why is Occupational Health important?
 
 ::: {style="display:inline-block; text-align:left;"}
-- **Does this impact my health?**
-- **Does this impact the health of my family?**
-- **Does this impact the health of my community?**
+- Does this impact my health?
+- Does this impact the health of my family?
+- Does this impact the health of my community?
 :::
 ::::
+
+---
 
 # Current News
 
@@ -293,6 +411,9 @@ There is no expectation that you know the formal definition yet. Give me your be
 *Source: Moser et al. (2021), "Toxic Responses of the Nervous System," in Casarett & Doull's Essentials of Toxicology.*\
 [View textbook chapter →](https://accesspharmacy-mhmedical-com.offcampus.lib.washington.edu/content.aspx?bookid=3000&sectionid=252314425)
 
+
+---
+
 # What did we just do?
 
 ::: {style="text-align:center; margin: 3rem 0;"}
@@ -325,7 +446,7 @@ There is no expectation that you know the formal definition yet. Give me your be
 **Toxicity → Health effects → Health risks**
 :::
 
-# This is Occupational Health
+## This is Occupational Health
 
 ::::::::::::::: {style="text-align:center; margin: 3rem 0;"}
 # How to Apply Occupational Health
@@ -337,12 +458,10 @@ There is no expectation that you know the formal definition yet. Give me your be
 [Explore the ENV H 501 course framework →](https://deohs.washington.edu/sites/default/files/course-materials/2023_AUT_ENV_H_501.pdf)
 :::
 
-# How do we control exposure?
+## How do we control exposure?
 
 ::: {style="text-align:center; margin: 4rem 0;"}
-## If a hazard can affect health...
-
-### What can we do about it?
+### If a hazard can affect health, What can we do about it?
 :::
 
 # Hierarchy of Controls
@@ -364,6 +483,9 @@ There is no expectation that you know the formal definition yet. Give me your be
 
 ## Apply the Hierarchy of Controls
 
+::::::: {.columns .poll-columns}
+::: {.column width="68%"}
+
 Take a couple of minutes to discuss with your classmates.
 
 Using the **Hierarchy of Controls**, consider:
@@ -372,20 +494,26 @@ Using the **Hierarchy of Controls**, consider:
 2.  **Where in the hierarchy would your intervention fall?**
 3.  **Why would your approach reduce exposure?**
 
-When you're ready, submit your group's response through Poll Everywhere.
+When you're ready, submit your responses through Poll Everywhere.
 
-::: {style="text-align:center; margin: 2rem 0;"}
-![Scan to respond in Poll Everywhere](poll-everywhere-response.jpg){fig-alt="QR code to join the SHM 102 Poll Everywhere presentation" width="250"}
-
-**Scan the QR code to respond.**
 :::
+
+::: {.column width="4%"}
+:::
+
+:::: {.column width="28%"}
+::: {style="display:flex; justify-content:center; align-items:center; height:100%;"}
+![](poll-everywhere-response.jpg){fig-alt="QR code to join the SHM 102 Poll Everywhere presentation" width="250"}
+:::
+::::
+:::::::
+
+---
 
 # What could prevention look like?
 
 ::: {style="text-align:center; margin: 3rem 0;"}
-## Can we measure environmental conditions...
-
-## ...and use that information before exposure occurs?
+### Can we measure environmental conditions and use that information before exposure occurs?
 :::
 
 # Measuring the environment
@@ -432,34 +560,40 @@ When you're ready, submit your group's response through Poll Everywhere.
 
 ## Five broad categories of occupational hazards
 
-::: {style="font-size: 1.5em; margin-top: 2rem;"}
-- **Chemical**
-- **Physical**
-- **Biological**
-- **Ergonomic**
-- **Psychosocial**
+::: {style="margin: 3rem auto; max-width: 1000px;"}
+
+<div class="hazard-tree">
+
+<div class="hazard-tree-parent">
+<strong>Occupational Health</strong>
+</div>
+
+<div class="hazard-tree-stem"></div>
+
+<div class="hazard-tree-branches">
+  <div class="hazard-category">Chemical</div>
+  <div class="hazard-category">Physical</div>
+  <div class="hazard-category">Biological</div>
+  <div class="hazard-category">Ergonomic</div>
+  <div class="hazard-category">Psychosocial</div>
+</div>
+
+</div>
+
 :::
 
 # What will we learn in this course
 
-::: {style="text-align:center; margin: 3rem 0;"}
-## Identify Hazards
+| What we do | Why it matters |
+|---|---|
+| **Identify Hazards** | Recognize conditions or agents that could cause harm so future or recurring exposures can be prevented. |
+| **Measure Hazards** | Collect accurate information about the hazard and its source so we can determine where and when exposure is occurring. |
+| **Assess Hazards** | Understand the hazard, its source, the exposure context, and its significance within a specific workplace or setting. |
+| **Control Hazards** | Develop effective interventions that eliminate or reduce the hazard or exposure using the **Hierarchy of Controls**. |
 
-↓
-
-## Measure Hazards
-
-↓
-
-## Assess Hazards
-
-↓
-
-## Control Hazards
-
-<br>
-
+::: {style="text-align:center; margin: 2.5rem 0;"}
 ### Understand exposure. Prevent harm.
+:::
 :::
 
 # Key Terms

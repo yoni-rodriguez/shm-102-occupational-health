@@ -606,7 +606,7 @@ Today we can also use:
 # Key Terms
 
 | Term | What you should know |
-|------------------------------------|------------------------------------|
+|----|----|
 | **Public health** | Protecting and improving the health of populations through prevention and organized action |
 | **Disease** | A condition that disrupts normal functioning and produces adverse health effects |
 | **Epidemic** | Disease occurrence in a population above what is normally expected |
