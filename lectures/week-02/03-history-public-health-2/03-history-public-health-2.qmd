@@ -1,0 +1,882 @@
+---
+title: "Plague: From Observation to Understanding"
+subtitle: "SHM 102 | Occupational Health"
+author: "Yoni Rodriguez"
+format:
+  html:
+    toc: true
+    toc-location: right
+    smooth-scroll: true
+    code-fold: true
+    embed-resources: true
+  pdf:
+    toc: true
+    documentclass: scrartcl
+    geometry:
+      - margin=0.75in
+---
+
+# Plague: From Observation to Understanding
+
+## Where We Are Going
+
+For centuries, people could observe plague.
+
+They could see illness.
+
+They could see people dying.
+
+They could see that disease seemed to spread.
+
+But they could not see the cause.
+
+Today we are going to follow the evidence that eventually changed that.
+
+---
+
+# The Black Death
+
+Between 1346 and 1352, plague spread through Europe, the Near East, and Africa.
+
+It became one of the greatest public health disasters in recorded history.
+
+But the people experiencing it did not know what caused it.
+
+---
+
+## What Could People Observe?
+
+People could observe:
+
+- severe illness
+- fever
+- painful swellings
+- dark spots on the skin
+- rapid death
+- disease appearing in communities
+- apparent spread between places and people
+
+They could observe the **outcome**.
+
+They could not yet observe the **agent**.
+
+---
+
+## The Buboes
+
+One of the most recognizable signs of plague was the appearance of painful swellings.
+
+These swellings often appeared in the:
+
+- groin
+- armpits
+- neck
+
+They became known as **buboes**.
+
+The disease would eventually become known as **bubonic plague**.
+
+---
+
+## A Mystery
+
+Imagine living during the Black Death.
+
+You know people are becoming sick.
+
+You know entire communities are being affected.
+
+You may even recognize that being around the sick appears dangerous.
+
+But you cannot see what is causing the disease.
+
+### What would you think was responsible?
+
+---
+
+# Competing Explanations
+
+For centuries, disease was explained in different ways.
+
+Ideas included:
+
+- divine punishment
+- environmental conditions
+- contaminated water
+- poisonous or foul smelling air
+- imbalance within the body
+- contagion between people
+
+Some explanations were closer to reality than others.
+
+But scientists still lacked a way to identify the responsible agent.
+
+---
+
+## Miasma
+
+One influential explanation was **miasma theory**.
+
+Disease was thought to arise from foul or corrupted air.
+
+This idea was understandable.
+
+Disease was often associated with:
+
+- overcrowding
+- waste
+- decomposition
+- poor sanitation
+- unpleasant odors
+
+The environmental observation was real.
+
+The proposed biological mechanism was not.
+
+---
+
+## Seeds of Contagion
+
+In the sixteenth century, physician **Girolamo Fracastoro** proposed another possibility.
+
+Perhaps disease could be transmitted by tiny "seeds of contagion."
+
+This was remarkably close to a modern concept of infectious disease.
+
+But there was a problem.
+
+### How do you study something you cannot see?
+
+---
+
+# A New Way of Seeing
+
+The development and improvement of the **microscope** changed what scientists could observe.
+
+For the first time, an invisible biological world could become visible.
+
+Disease could potentially be investigated at a completely different scale.
+
+---
+
+## From Observation to Mechanism
+
+For centuries:
+
+**People could observe disease.**
+
+With microscopy:
+
+**Scientists could begin observing possible causes of disease.**
+
+But simply seeing microorganisms was not enough.
+
+Scientists still needed to establish whether a particular microorganism actually caused a particular disease.
+
+---
+
+# Germ Theory
+
+During the nineteenth century, scientists including **Louis Pasteur** and **Robert Koch** helped establish the germ theory of disease.
+
+The central idea was revolutionary:
+
+> A specific disease could be caused by a specific microorganism.
+
+Now scientists had:
+
+**a theory**
+
++
+
+**a technology**
+
+The search for the cause of plague could begin.
+
+---
+
+# The Third Plague Pandemic
+
+During the nineteenth century, plague again spread from China.
+
+Modern transportation helped the disease move across large distances.
+
+By 1894, a major epidemic had reached **Hong Kong**.
+
+Scientists now had something their medieval predecessors did not:
+
+- germ theory
+- improved microscopes
+- staining techniques
+- experimental methods
+
+The question was no longer simply:
+
+> What is happening?
+
+It became:
+
+> **What organism is causing this disease?**
+
+---
+
+# Hong Kong, 1894
+
+## Alexandre Yersin
+
+Louis Pasteur sent **Alexandre Yersin** to Hong Kong to investigate the epidemic.
+
+His task was to identify the organism responsible for plague.
+
+But first he needed a specimen.
+
+---
+
+## The Bubo Becomes Evidence
+
+Yersin obtained access to the body of a person who had recently died from plague.
+
+Using a sterile needle, he collected fluid from a **bubo**.
+
+Think about the progression.
+
+A swelling that physicians had observed for centuries was no longer only a symptom.
+
+It became a source of biological evidence.
+
+---
+
+## Under the Microscope
+
+Yersin examined the bubo fluid under a microscope.
+
+He found it filled with bacteria.
+
+The bacteria stained poorly with Gram stain.
+
+They were **Gram negative**.
+
+Now there was a candidate organism.
+
+But seeing bacteria in a sick person did not automatically prove that the bacteria caused plague.
+
+---
+
+## How Could He Test the Idea?
+
+Yersin used some of the material from the bubo to inoculate guinea pigs.
+
+The guinea pigs died.
+
+When he examined them, he found the same bacteria.
+
+The evidence was becoming stronger.
+
+**Sick human**
+
+↓
+
+**Bacteria in bubo**
+
+↓
+
+**Experimental animal exposed**
+
+↓
+
+**Animal develops fatal disease**
+
+↓
+
+**Same bacteria recovered**
+
+---
+
+## The Dead Rats
+
+Yersin noticed something else.
+
+There were large numbers of dead rats:
+
+- in the streets
+- in hospital corridors
+- around the morgue
+
+He examined some of the rats.
+
+### He found the same bacteria.
+
+---
+
+## One Organism, Two Hosts
+
+Yersin now had evidence connecting the organism with:
+
+**Humans**
+
+and
+
+**Rats**
+
+The bacterium responsible for plague would eventually be named:
+
+### *Yersinia pestis*
+
+in recognition of Alexandre Yersin.
+
+---
+
+# What Had Yersin Solved?
+
+Yersin had answered an enormous question.
+
+### What causes plague?
+
+**A bacterium: *Yersinia pestis*.**
+
+But another question remained unanswered.
+
+### How was the bacterium moving between rats and humans?
+
+Knowing the **hazard** did not automatically reveal the **exposure pathway**.
+
+---
+
+# Understanding the Disease
+
+Now that we know the agent, we can better understand what happens after exposure.
+
+*Yersinia pestis* can produce different forms of plague depending on where infection develops.
+
+---
+
+## Bubonic Plague
+
+The most familiar form is **bubonic plague**.
+
+The bacteria reach the lymphatic system and multiply in regional lymph nodes.
+
+This produces the characteristic swollen lymph nodes:
+
+### buboes
+
+Common locations include:
+
+- groin
+- armpits
+- neck
+
+---
+
+## Septicemic Plague
+
+Sometimes the bacteria enter and multiply in the bloodstream.
+
+This is **septicemic plague**.
+
+The infection can produce:
+
+- fever
+- chills
+- severe systemic illness
+- hemorrhaging
+- tissue damage
+
+Buboes may not always develop.
+
+---
+
+## Pneumonic Plague
+
+If the lungs become infected, the disease can become **pneumonic plague**.
+
+This changes something extremely important.
+
+The bacteria can now leave an infected person through respiratory droplets.
+
+That creates the possibility of:
+
+**human → human transmission**
+
+---
+
+## Same Agent, Different Exposure Pathways
+
+The organism has not changed.
+
+### *Yersinia pestis*
+
+But the route of exposure changes the disease and its transmission.
+
+**Flea associated exposure**
+
+→ commonly bubonic plague
+
+**Bloodstream dissemination**
+
+→ septicemic plague
+
+**Respiratory exposure**
+
+→ pneumonic plague
+
+This is why understanding an exposure pathway matters.
+
+---
+
+# The Missing Link
+
+Yersin had connected plague with rats.
+
+But rats alone did not explain transmission.
+
+Another investigator would take the next major step.
+
+---
+
+# Paul Louis Simond
+
+French physician **Paul Louis Simond** investigated plague after Yersin.
+
+He noticed an important occupational pattern.
+
+Workers who had contact with dead rats became ill.
+
+Workers without that contact did not.
+
+That observation suggested an exposure relationship.
+
+---
+
+## Look at the Task
+
+Consider the workers.
+
+The important question was not simply:
+
+### What was their job title?
+
+The important question was:
+
+### What were they actually doing?
+
+Some workers were cleaning floors containing dead rats.
+
+Their work created an opportunity for exposure.
+
+---
+
+## Another Observation
+
+Simond noticed something about the rats.
+
+Healthy rats groomed themselves and tended to have relatively few fleas.
+
+Sick rats could no longer groom effectively.
+
+They carried many fleas.
+
+Then the rats died.
+
+### What happened to the fleas?
+
+---
+
+## A Hypothesis
+
+Simond proposed that an intermediary might connect infected rats with humans.
+
+Perhaps the rat itself was not directly transmitting the disease.
+
+Perhaps the intermediary was a:
+
+### flea
+
+---
+
+# Testing the Hypothesis
+
+Simond designed an experiment.
+
+A plague infected rat was placed below a healthy rat.
+
+The healthy rat was separated from the infected rat so the animals could not directly touch.
+
+But fleas could move between them.
+
+The healthy rat developed plague.
+
+---
+
+## The Control
+
+Simond also tested what happened when fleas were absent.
+
+Without fleas, healthy rats exposed to the experimental conditions did not develop plague.
+
+When fleas were introduced:
+
+### plague appeared.
+
+The transmission pathway was becoming clear.
+
+---
+
+# The Transmission Pathway
+
+## Rodent → Flea → Human
+
+An infected rodent carries *Yersinia pestis*.
+
+↓
+
+A flea feeds on the infected rodent.
+
+↓
+
+The flea acquires the bacteria.
+
+↓
+
+The infected rodent becomes sick and may die.
+
+↓
+
+The flea leaves the dead or dying host.
+
+↓
+
+The flea seeks another blood meal.
+
+↓
+
+The flea bites another animal or a human.
+
+↓
+
+*Yersinia pestis* enters the new host.
+
+---
+
+# Agent, Reservoir, Vector, Host
+
+We can now give names to the pieces of the system.
+
+### Agent
+
+*Yersinia pestis*
+
+### Reservoir
+
+Rodent populations
+
+### Vector
+
+Fleas
+
+### Host
+
+Humans and other susceptible mammals
+
+These terms help us organize how infectious hazards move through an environment.
+
+---
+
+# From Microbiology to Occupational Health
+
+Now consider plague as an occupational health problem.
+
+Who might encounter the exposure pathway because of their work?
+
+---
+
+## Who Might Be Exposed?
+
+Possible occupational groups include:
+
+- veterinarians
+- veterinary technicians
+- animal control workers
+- wildlife biologists
+- laboratory workers
+- agricultural workers
+- pest control workers
+- workers handling animal carcasses
+
+The occupational hazard is not determined by the job title alone.
+
+It depends on the **task and opportunity for exposure**.
+
+---
+
+# Think Like an Exposure Scientist
+
+For any biological hazard, ask:
+
+### What is the agent?
+
+### Where is the reservoir?
+
+### How does it leave the reservoir?
+
+### How does it move through the environment?
+
+### How does it reach the worker?
+
+### What route allows it to enter the body?
+
+---
+
+# Breaking the Chain
+
+Once we understand the pathway, we can identify places where intervention is possible.
+
+**Reservoir**
+
+↓
+
+**Vector**
+
+↓
+
+**Environment / task**
+
+↓
+
+**Worker**
+
+↓
+
+**Route of entry**
+
+Controls can interrupt the chain at more than one point.
+
+---
+
+# Plague Did Not Disappear
+
+Plague is not only a medieval disease.
+
+*Yersinia pestis* continues to circulate in animal populations.
+
+Human cases still occur.
+
+The ecological system that supports plague still exists.
+
+---
+
+# Plague in the United States
+
+In the United States, plague persists primarily in wildlife populations in western states.
+
+Potential reservoirs include wild rodents.
+
+Human exposure can occur when people enter environments where infected animals and fleas are present.
+
+This means plague remains relevant to:
+
+- wildlife work
+- veterinary work
+- outdoor work
+- animal handling
+- public health surveillance
+
+---
+
+# Recognition Matters
+
+Modern plague is uncommon.
+
+That creates another problem.
+
+### What happens when a disease is rare enough that workers or clinicians do not immediately recognize it?
+
+Delayed recognition can delay:
+
+- diagnosis
+- treatment
+- exposure investigation
+- protective measures
+
+A known hazard can still cause serious disease when the exposure pathway is overlooked.
+
+---
+
+# From 1347 to Today
+
+Consider how our understanding changed.
+
+**1347**
+
+People observe disease but cannot identify the cause.
+
+↓
+
+**Contagion theories**
+
+Invisible agents are proposed.
+
+↓
+
+**Microscope**
+
+The microbial world becomes visible.
+
+↓
+
+**Germ theory**
+
+Specific microorganisms can cause specific diseases.
+
+↓
+
+**1894: Yersin**
+
+*Yersinia pestis* is identified.
+
+↓
+
+**1898: Simond**
+
+Flea mediated transmission is demonstrated.
+
+↓
+
+**Today**
+
+We understand the agent, reservoirs, vectors, exposure pathways, disease mechanisms, and opportunities for prevention.
+
+---
+
+# What Changed?
+
+The disease existed before we understood it.
+
+The exposure pathway existed before we understood it.
+
+The hazard did not suddenly appear when scientists identified it.
+
+### Our ability to observe, measure, and explain it changed.
+
+That principle extends far beyond infectious disease.
+
+---
+
+# Key Takeaway
+
+Occupational health depends on understanding more than the name of a hazard.
+
+We need to understand:
+
+**where it comes from**
+
+↓
+
+**how it moves**
+
+↓
+
+**who encounters it**
+
+↓
+
+**how exposure occurs**
+
+↓
+
+**what happens after exposure**
+
+↓
+
+**where we can intervene**
+
+Plague provides a historical example of how observation, technology, microbiology, epidemiology, and exposure science came together to reveal an occupational and public health hazard.
+
+---
+
+# Discussion
+
+A worker finds several dead rodents around a worksite.
+
+### What questions would you ask before deciding whether workers are at risk?
+
+Think about:
+
+- the agent
+- reservoir
+- vector
+- worker tasks
+- exposure pathways
+- routes of entry
+- possible controls
+
+---
+
+# Looking Ahead
+
+Plague teaches us an important lesson:
+
+### Seeing illness is not the same as understanding exposure.
+
+In occupational health, our job is to work backward.
+
+From the outcome...
+
+to the exposure...
+
+to the pathway...
+
+to the source...
+
+and ultimately to prevention.
+
+# Key Terms
+
+| Term | Definition |
+|---|---|
+| **Bubo** | A painful, swollen lymph node associated with bubonic plague. |
+| **Bubonic plague** | A form of plague characterized by infection of the lymphatic system and the development of swollen lymph nodes called buboes. |
+| **Septicemic plague** | A form of plague in which *Yersinia pestis* infects the bloodstream. |
+| **Pneumonic plague** | A form of plague involving the lungs that can allow respiratory transmission between people. |
+| **Germ theory** | The scientific concept that microorganisms can cause disease. |
+| **Pathogen** | A biological agent capable of causing disease. |
+| **Host** | An organism that can become infected by a pathogen. |
+| **Reservoir** | A population, organism, or environmental source in which a pathogen normally lives and persists. |
+| **Vector** | A living organism that carries and transmits a pathogen between hosts. |
+| **Transmission route** | The way a pathogen moves from its source or reservoir to a susceptible host. |
+| **Vector borne transmission** | Transmission of a pathogen through a living vector. |
+| ***Yersinia pestis*** | The bacterium that causes plague. |
+
+---
+
+## Make your flashcards
+
+### Copy → Paste → Study
+
+Copy the terms below to make your own **Anki or Quizlet** flashcards.
+
+**Anki:** Save as a `.txt` file → Import → Select **Semicolon** as the field separator.
+
+```text
+Bubo;A painful, swollen lymph node associated with bubonic plague.
+Bubonic plague;A form of plague characterized by infection of the lymphatic system and the development of swollen lymph nodes called buboes.
+Septicemic plague;A form of plague in which Yersinia pestis infects the bloodstream.
+Pneumonic plague;A form of plague involving the lungs that can allow respiratory transmission between people.
+Germ theory;The scientific concept that microorganisms can cause disease.
+Pathogen;A biological agent capable of causing disease.
+Host;An organism that can become infected by a pathogen.
+Reservoir;A population, organism, or environmental source in which a pathogen normally lives and persists.
+Vector;A living organism that carries and transmits a pathogen between hosts.
+Transmission route;The way a pathogen moves from its source or reservoir to a susceptible host.
+Vector borne transmission;Transmission of a pathogen through a living vector.
+Yersinia pestis;The bacterium that causes plague.
+```
+
+### Copyright & Use
+
+**SHM 102: Occupational Health**\
+© 2026 Yoni Rodriguez
+
+Except where otherwise noted, original course materials are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+Third-party materials remain subject to their respective copyright and licensing terms.
