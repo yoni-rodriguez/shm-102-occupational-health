@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="document">
+	<name>03-history-of-plague</name>
+	<gx:CascadingStyle kml:id="__managed_style_0A8A86409E41C84E9580_highlight">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2f2fd3</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0A8A86409E41C84E9580_normal">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2f2fd3</color>
+				<width>2.66667</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0A8A86409E41C84E9580">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0A8A86409E41C84E9580_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0A8A86409E41C84E9580_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_00AC88E4BC41C84FDC4C_normal">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d32f2f&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.66667</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_00AC88E4BC41C84FDC4C_highlight">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d32f2f&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_00AC88E4BC41C84FDC4C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_00AC88E4BC41C84FDC4C_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_00AC88E4BC41C84FDC4C_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="00620FB94541C8301207">
+		<gx:mid>/m/05qtj</gx:mid>
+		<gx:fid>0x47e66e1f06e2b70f:0x40b82c3688c9460</gx:fid>
+		<LookAt>
+			<longitude>2.3470341</longitude>
+			<latitude>48.8588549</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>30589.1746612815</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00AC88E4BC41C84FDC4C</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3513765,48.8575475,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03CF7B901341C8304FFC">
+		<gx:mid>/m/04jpl</gx:mid>
+		<gx:fid>0x47d8a00baf21de75:0x52963a5addd52a99</gx:fid>
+		<LookAt>
+			<longitude>-0.10159865</longitude>
+			<latitude>51.52864165</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>57850.03876027105</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00AC88E4BC41C84FDC4C</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-0.1275862,51.5072178,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A3CF1140641C8322394">
+		<gx:mid>/m/01w2v</gx:mid>
+		<gx:fid>0x14583fa60b21beeb:0x79dfb296e8423bba</gx:fid>
+		<LookAt>
+			<longitude>31.25849255</longitude>
+			<latitude>30.05948845</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>20120.42508153958</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00AC88E4BC41C84FDC4C</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>31.2357116,30.0444196,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FC51875EC41C832E1C4">
+		<gx:mid>/m/03h64</gx:mid>
+		<gx:fid>0x3403e2eda332980f:0xf08ab3badbeac97c</gx:fid>
+		<LookAt>
+			<longitude>114.1394</longitude>
+			<latitude>22.35272425</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>86000.94529733344</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00AC88E4BC41C84FDC4C</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>114.1693611,22.3193039,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="034F65366541C83BA5B4">
+		<name>path-plague-1</name>
+		<LookAt>
+			<longitude>12.39729097861127</longitude>
+			<latitude>46.81666845393205</latitude>
+			<altitude>3860.199446304636</altitude>
+			<heading>18.40990256654267</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7205416.630575657</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A8A86409E41C84E9580</styleUrl>
+		<LineString>
+			<coordinates>
+				-0.1157625718383293,51.68314752837443,0 2.3161027302142,48.8160257734522,0 31.22526231533929,30.19788682717608,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0D682B095D41C83DCF50">
+		<name>path-plague-2</name>
+		<LookAt>
+			<longitude>110.1402563194595</longitude>
+			<latitude>25.77046659259134</latitude>
+			<altitude>398.9977760784591</altitude>
+			<heading>77.52277469811213</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>5106277.696913481</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A8A86409E41C84E9580</styleUrl>
+		<LineString>
+			<coordinates>
+				31.32233909362602,30.26970722852316,0 114.2777991105531,22.32781206052195,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

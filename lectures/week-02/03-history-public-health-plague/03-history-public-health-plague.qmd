@@ -1,7 +1,4 @@
 ---
-title: "Plague: From Observation to Understanding"
-subtitle: "SHM 102 | Occupational Health"
-author: "Yoni Rodriguez"
 format:
   html:
     toc: true
@@ -14,33 +11,156 @@ format:
     documentclass: scrartcl
     geometry:
       - margin=0.75in
+editor: visual
 ---
 
-# Plague: From Observation to Understanding
+```{=html}
+<style>
 
-## Where We Are Going
+/* =========================================================
+   Typography
+   ========================================================= */
 
-For centuries, people could observe plague.
+body {
+  color: #212529;
+}
 
-They could see illness.
+blockquote {
+  color: #212529;
+  font-size: inherit;
+  font-style: normal;
+  font-weight: normal;
+}
 
-They could see people dying.
+blockquote strong {
+  color: #212529;
+}
 
-They could see that disease seemed to spread.
+.text-center {
+  color: #212529;
+}
 
-But they could not see the cause.
 
-Today we are going to follow the evidence that eventually changed that.
+/* =========================================================
+   Responsive Mobile Layout
+   Stack ALL Quarto columns on narrow screens
+   ========================================================= */
+
+@media (max-width: 768px) {
+
+  .columns {
+    display: block !important;
+  }
+
+  .columns > .column {
+    width: 100% !important;
+    max-width: 100% !important;
+    flex: 0 0 100% !important;
+  }
+
+  .columns > .column:empty {
+    display: none !important;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  p,
+  li,
+  figcaption {
+    overflow-wrap: anywhere;
+  }
+
+}
+
+
+/* =========================================================
+   Poll Everywhere Layout
+   Keep instructions left and QR code right
+   ========================================================= */
+
+@media (min-width: 501px) {
+
+  .poll-columns {
+    display: flex !important;
+    align-items: center !important;
+  }
+
+  .poll-columns > .column {
+    flex: initial !important;
+  }
+
+}
+
+</style>
+```
+
+:::: {.columns}
+::: {.column width="40%"}
+![Notre-Dame Cathedral in Paris, France. Photograph by Yoni Rodriguez, June 15, 2026.](notre-dame-cathedral-paris-france-2026.jpg){fig-alt="Exterior view of Notre-Dame Cathedral in Paris, France, showing the Gothic architecture, rose window, flying buttresses, and central spire against a blue sky"}
+
+Construction of Notre-Dame Cathedral began in *1163* and was largely completed during the medieval period. After a major fire on *April 15, 2019*, the cathedral underwent an extensive restoration and reopened in *December 2024*.
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="56%"}
+## SHM 102: Occupational Health
+
+### Public Health History: Plague
+
+**Lecture 03 · Fall 2026**
+
+Yoni Rodriguez\
+Engineering Technologies, Safety, and Construction\
+Central Washington University\
+[Yoni.Rodriguez\@cwu.edu](mailto:Yoni.Rodriguez@cwu.edu)
+:::
+::::
 
 ---
 
 # The Black Death
 
-Between 1346 and 1352, plague spread through Europe, the Near East, and Africa.
+![Nicolas Poussin, *The Plague of Ashdod*, c. 1630.](the-plague-of-ashdod-nicolas-poussin-1630.jpg){fig-alt="Painting of a city during a plague outbreak, showing sick and dying people in the streets, grieving figures, and classical architecture."}
+
+*Nicolas Poussin, **The Plague of Ashdod**, c. 1630. The painting depicts a biblical plague in the ancient city of Ashdod and is used here to help visualize how illness, suffering, and death were represented before the microbial causes of infectious disease could be observed.*
+
+The Black Death swept through **Europe, western Asia, and Africa from 1346 to 1352**.
 
 It became one of the greatest public health disasters in recorded history.
 
-But the people experiencing it did not know what caused it.
+But plague did not disappear when the Black Death ended.
+
+Outbreaks continued to recur for centuries, and another major plague pandemic emerged from China in the nineteenth century and spread around the world.
+
+For more than **500 years**, people could observe the disease and its devastating effects without knowing exactly what caused it or how it spread.
+
+---
+
+# A Mystery That Crossed Continents
+
+The history of plague connects populations separated by enormous distances.
+
+Our investigation will move through:
+
+- *Europe*
+- *North Africa*
+- *East Asia*
+
+::: {style="text-align:center;"}
+![Google Earth view showing geographic locations associated with the history and scientific investigation of plague across Europe, North Africa, and East Asia.](plague-path.jpg){fig-alt="Google Earth globe showing a path connecting London and Paris in Western Europe, Cairo in Egypt, and Hong Kong in East Asia." width="70%"}
+:::
+
+*How could the same disease appear across such distant places and populations?*
+
+**Want to explore further?**\
+[Explore the path of plague in Google Earth](https://earth.google.com/earth/d/1GIR5OAHve5bpCdX06T976v63LRcyeLvr?usp=sharing)
+
+*Interactive Google Earth project created by Yoni Rodriguez.*
 
 ---
 
@@ -58,7 +178,7 @@ People could observe:
 
 They could observe the **outcome**.
 
-They could not yet observe the **agent**.
+They could not yet observe the **cause**.
 
 ---
 
@@ -74,42 +194,44 @@ These swellings often appeared in the:
 
 They became known as **buboes**.
 
-The disease would eventually become known as **bubonic plague**.
+But observing a symptom did not explain what caused it.
 
 ---
 
-## A Mystery
+# The Central Problem
 
-Imagine living during the Black Death.
+People could see:
 
-You know people are becoming sick.
+**illness**
 
-You know entire communities are being affected.
+**suffering**
 
-You may even recognize that being around the sick appears dangerous.
+**death**
 
-But you cannot see what is causing the disease.
+**patterns of spread**
 
-### What would you think was responsible?
+But they could not see what was causing it.
+
+### How do you identify something you cannot see?
 
 ---
 
 # Competing Explanations
 
-For centuries, disease was explained in different ways.
+For centuries, people developed different explanations for disease.
 
 Ideas included:
 
 - divine punishment
 - environmental conditions
 - contaminated water
-- poisonous or foul smelling air
+- poisonous or foul-smelling air
 - imbalance within the body
 - contagion between people
 
-Some explanations were closer to reality than others.
+Some explanations came closer to recognizing patterns of transmission than others.
 
-But scientists still lacked a way to identify the responsible agent.
+But people still lacked the tools needed to identify the cause of plague.
 
 ---
 
@@ -119,9 +241,7 @@ One influential explanation was **miasma theory**.
 
 Disease was thought to arise from foul or corrupted air.
 
-This idea was understandable.
-
-Disease was often associated with:
+The idea was understandable because illness was often associated with:
 
 - overcrowding
 - waste
@@ -129,9 +249,9 @@ Disease was often associated with:
 - poor sanitation
 - unpleasant odors
 
-The environmental observation was real.
+The environmental observations were real.
 
-The proposed biological mechanism was not.
+The explanation for how disease was transmitted was not.
 
 ---
 
@@ -139,17 +259,19 @@ The proposed biological mechanism was not.
 
 In the sixteenth century, physician **Girolamo Fracastoro** proposed another possibility.
 
-Perhaps disease could be transmitted by tiny "seeds of contagion."
+He suggested that plague and other diseases could be transmitted by invisible **"seeds of contagion."**
 
-This was remarkably close to a modern concept of infectious disease.
+But there was a fundamental problem.
 
-But there was a problem.
-
-### How do you study something you cannot see?
+### How could anyone identify something too small to see?
 
 ---
 
-# A New Way of Seeing
+# Seeing the Invisible
+
+The answer would require a new technology.
+
+## The Microscope
 
 The development and improvement of the **microscope** changed what scientists could observe.
 
@@ -175,15 +297,29 @@ Scientists still needed to establish whether a particular microorganism actually
 
 ---
 
-# Germ Theory
+# Louis Pasteur (1822–1895)
 
-During the nineteenth century, scientists including **Louis Pasteur** and **Robert Koch** helped establish the germ theory of disease.
+During the nineteenth century, French scientist **Louis Pasteur** helped transform how scientists thought about microorganisms and disease.
+
+Pasteur's experiments demonstrated that microorganisms did not simply appear through spontaneous generation.
+
+Microorganisms came from other microorganisms.
+
+His work helped establish a new way of thinking about disease.
+
+### What if microorganisms were responsible for some of the diseases affecting humans and animals?
+
+---
+
+## Germ Theory
+
+Scientists including **Louis Pasteur** and **Robert Koch** helped establish the germ theory of disease.
 
 The central idea was revolutionary:
 
 > A specific disease could be caused by a specific microorganism.
 
-Now scientists had:
+Scientists now had:
 
 **a theory**
 
@@ -191,7 +327,25 @@ Now scientists had:
 
 **a technology**
 
-The search for the cause of plague could begin.
+Germ theory provided a framework for explaining disease.
+
+Microscopy provided a way to observe microorganisms.
+
+Together, they changed the questions scientists could ask.
+
+---
+
+## A New Scientific Question
+
+For centuries, people had asked:
+
+### Why are people becoming sick?
+
+Now scientists could ask something more specific:
+
+### What microorganism is causing this disease?
+
+The centuries-old mystery of plague could finally be investigated in a new way.
 
 ---
 
@@ -201,7 +355,7 @@ During the nineteenth century, plague again spread from China.
 
 Modern transportation helped the disease move across large distances.
 
-By 1894, a major epidemic had reached **Hong Kong**.
+By **1894**, a major epidemic had reached **Hong Kong**.
 
 Scientists now had something their medieval predecessors did not:
 
@@ -224,7 +378,7 @@ It became:
 
 ## Alexandre Yersin
 
-Louis Pasteur sent **Alexandre Yersin** to Hong Kong to investigate the epidemic.
+**Alexandre Yersin**, a bacteriologist associated with the Pasteur Institute, traveled to Hong Kong to investigate the epidemic.
 
 His task was to identify the organism responsible for plague.
 
@@ -344,7 +498,7 @@ Knowing the **hazard** did not automatically reveal the **exposure pathway**.
 
 # Understanding the Disease
 
-Now that we know the agent, we can better understand what happens after exposure.
+Now that we know the agent, we can better understand what happens after infection.
 
 *Yersinia pestis* can produce different forms of plague depending on where infection develops.
 
@@ -400,27 +554,27 @@ That creates the possibility of:
 
 ---
 
-## Same Agent, Different Exposure Pathways
+## Same Agent, Different Forms of Disease
 
 The organism has not changed.
 
 ### *Yersinia pestis*
 
-But the route of exposure changes the disease and its transmission.
+But where infection develops in the body can affect the clinical form of disease.
 
-**Flea associated exposure**
+**Lymphatic system**
 
-→ commonly bubonic plague
+→ bubonic plague
 
-**Bloodstream dissemination**
+**Bloodstream**
 
 → septicemic plague
 
-**Respiratory exposure**
+**Lungs**
 
 → pneumonic plague
 
-This is why understanding an exposure pathway matters.
+Understanding the form of disease can also help us understand how transmission may occur.
 
 ---
 
@@ -498,7 +652,7 @@ Perhaps the intermediary was a:
 
 Simond designed an experiment.
 
-A plague infected rat was placed below a healthy rat.
+A plague-infected rat was placed below a healthy rat.
 
 The healthy rat was separated from the infected rat so the animals could not directly touch.
 
@@ -586,11 +740,7 @@ These terms help us organize how infectious hazards move through an environment.
 
 Now consider plague as an occupational health problem.
 
-Who might encounter the exposure pathway because of their work?
-
----
-
-## Who Might Be Exposed?
+### Who might encounter this exposure pathway because of their work?
 
 Possible occupational groups include:
 
@@ -609,7 +759,7 @@ It depends on the **task and opportunity for exposure**.
 
 ---
 
-# Think Like an Exposure Scientist
+## Think Like an Exposure Scientist
 
 For any biological hazard, ask:
 
@@ -624,6 +774,55 @@ For any biological hazard, ask:
 ### How does it reach the worker?
 
 ### What route allows it to enter the body?
+
+---
+
+# Plague Did Not Disappear
+
+Plague is not only a medieval disease.
+
+*Yersinia pestis* continues to circulate in animal populations.
+
+Human cases still occur.
+
+The ecological system that supports plague still exists.
+
+---
+
+## Plague in the United States
+
+In the United States, plague persists primarily in wildlife populations in western states.
+
+Potential reservoirs include wild rodents.
+
+Human exposure can occur when people enter environments where infected animals and fleas are present.
+
+This means plague remains relevant to:
+
+- wildlife work
+- veterinary work
+- outdoor work
+- animal handling
+- public health surveillance
+
+---
+
+## Recognition Matters
+
+Modern plague is uncommon.
+
+That creates another problem.
+
+### What happens when a disease is rare enough that workers or clinicians do not immediately recognize it?
+
+Delayed recognition can delay:
+
+- diagnosis
+- treatment
+- exposure investigation
+- protective measures
+
+A known hazard can still cause serious disease when the exposure pathway is overlooked.
 
 ---
 
@@ -653,52 +852,21 @@ Controls can interrupt the chain at more than one point.
 
 ---
 
-# Plague Did Not Disappear
+# Discussion
 
-Plague is not only a medieval disease.
+A worker finds several dead rodents around a worksite.
 
-*Yersinia pestis* continues to circulate in animal populations.
+### What questions would you ask before deciding whether workers are at risk?
 
-Human cases still occur.
+Think about:
 
-The ecological system that supports plague still exists.
-
----
-
-# Plague in the United States
-
-In the United States, plague persists primarily in wildlife populations in western states.
-
-Potential reservoirs include wild rodents.
-
-Human exposure can occur when people enter environments where infected animals and fleas are present.
-
-This means plague remains relevant to:
-
-- wildlife work
-- veterinary work
-- outdoor work
-- animal handling
-- public health surveillance
-
----
-
-# Recognition Matters
-
-Modern plague is uncommon.
-
-That creates another problem.
-
-### What happens when a disease is rare enough that workers or clinicians do not immediately recognize it?
-
-Delayed recognition can delay:
-
-- diagnosis
-- treatment
-- exposure investigation
-- protective measures
-
-A known hazard can still cause serious disease when the exposure pathway is overlooked.
+- the agent
+- reservoir
+- vector
+- worker tasks
+- exposure pathways
+- routes of entry
+- possible controls
 
 ---
 
@@ -712,7 +880,7 @@ People observe disease but cannot identify the cause.
 
 ↓
 
-**Contagion theories**
+**Seeds of contagion**
 
 Invisible agents are proposed.
 
@@ -732,13 +900,13 @@ Specific microorganisms can cause specific diseases.
 
 **1894: Yersin**
 
-*Yersinia pestis* is identified.
+The bacterium responsible for plague is identified.
 
 ↓
 
 **1898: Simond**
 
-Flea mediated transmission is demonstrated.
+Flea-mediated transmission is demonstrated.
 
 ↓
 
@@ -748,7 +916,7 @@ We understand the agent, reservoirs, vectors, exposure pathways, disease mechani
 
 ---
 
-# What Changed?
+# Key Takeaway
 
 The disease existed before we understood it.
 
@@ -758,15 +926,9 @@ The hazard did not suddenly appear when scientists identified it.
 
 ### Our ability to observe, measure, and explain it changed.
 
-That principle extends far beyond infectious disease.
+In occupational health, identifying the hazard is only the beginning.
 
----
-
-# Key Takeaway
-
-Occupational health depends on understanding more than the name of a hazard.
-
-We need to understand:
+We also need to understand:
 
 **where it comes from**
 
@@ -793,42 +955,6 @@ We need to understand:
 Plague provides a historical example of how observation, technology, microbiology, epidemiology, and exposure science came together to reveal an occupational and public health hazard.
 
 ---
-
-# Discussion
-
-A worker finds several dead rodents around a worksite.
-
-### What questions would you ask before deciding whether workers are at risk?
-
-Think about:
-
-- the agent
-- reservoir
-- vector
-- worker tasks
-- exposure pathways
-- routes of entry
-- possible controls
-
----
-
-# Looking Ahead
-
-Plague teaches us an important lesson:
-
-### Seeing illness is not the same as understanding exposure.
-
-In occupational health, our job is to work backward.
-
-From the outcome...
-
-to the exposure...
-
-to the pathway...
-
-to the source...
-
-and ultimately to prevention.
 
 # Key Terms
 
