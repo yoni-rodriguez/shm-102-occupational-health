@@ -248,7 +248,6 @@ blockquote strong {
 </style>
 ```
 
-
 :::::: columns
 ::: {.column width="40%"}
 ![Rome from Pincian Hill, Italy. The spire of All Saints' Anglican Church rises above the historic cityscape, with St. Peter's Basilica visible on the horizon. Photograph by Yoni Rodriguez, November 2025.](rome-from-pincian-hill-november-2025.jpg){fig-alt="View across the historic cityscape of Rome from Pincian Hill, with the spire of All Saints' Anglican Church in the foreground and the dome of St. Peter's Basilica on the horizon"}
