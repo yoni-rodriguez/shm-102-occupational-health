@@ -248,7 +248,6 @@ blockquote strong {
 </style>
 ```
 
-:::
 
 :::::: columns
 ::: {.column width="40%"}
