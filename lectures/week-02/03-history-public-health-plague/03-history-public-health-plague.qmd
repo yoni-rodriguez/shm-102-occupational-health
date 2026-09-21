@@ -6,6 +6,7 @@ format:
     smooth-scroll: true
     code-fold: true
     embed-resources: true
+    lightbox: true
   pdf:
     toc: true
     documentclass: scrartcl
@@ -97,7 +98,7 @@ blockquote strong {
 </style>
 ```
 
-:::: {.columns}
+:::::: columns
 ::: {.column width="40%"}
 ![Notre-Dame Cathedral in Paris, France. Photograph by Yoni Rodriguez, June 15, 2026.](notre-dame-cathedral-paris-france-2026.jpg){fig-alt="Exterior view of Notre-Dame Cathedral in Paris, France, showing the Gothic architecture, rose window, flying buttresses, and central spire against a blue sky"}
 
@@ -119,23 +120,18 @@ Engineering Technologies, Safety, and Construction\
 Central Washington University\
 [Yoni.Rodriguez\@cwu.edu](mailto:Yoni.Rodriguez@cwu.edu)
 :::
-::::
+::::::
 
----
+------------------------------------------------------------------------
 
 # The Black Death
 
 ![Nicolas Poussin, *The Plague of Ashdod*, c. 1630.](the-plague-of-ashdod-nicolas-poussin-1630.jpg){fig-alt="Painting of a city during a plague outbreak, showing sick and dying people in the streets, grieving figures, and classical architecture."}
 
-*Nicolas Poussin, **The Plague of Ashdod**, c. 1630. The painting depicts a biblical plague in the ancient city of Ashdod and is used here to help visualize how illness, suffering, and death were represented before the microbial causes of infectious disease could be observed.*
 
 The Black Death swept through **Europe, western Asia, and Africa from 1346 to 1352**.
 
 It became one of the greatest public health disasters in recorded history.
-
-But plague did not disappear when the Black Death ended.
-
-Outbreaks continued to recur for centuries, and another major plague pandemic emerged from China in the nineteenth century and spread around the world.
 
 For more than **500 years**, people could observe the disease and its devastating effects without knowing exactly what caused it or how it spread.
 
@@ -143,28 +139,67 @@ For more than **500 years**, people could observe the disease and its devastatin
 
 # A Mystery That Crossed Continents
 
-The history of plague connects populations separated by enormous distances.
+The Black Death was one of several major plague pandemics in human history.
 
-Our investigation will move through:
+Its impact can be understood across both **time** and **geography**.
 
-- *Europe*
-- *North Africa*
-- *East Asia*
+:::: {.columns}
+::: {.column width="58%"}
 
-::: {style="text-align:center;"}
-![Google Earth view showing geographic locations associated with the history and scientific investigation of plague across Europe, North Africa, and East Asia.](plague-path.jpg){fig-alt="Google Earth globe showing a path connecting London and Paris in Western Europe, Cairo in Egypt, and Hong Kong in East Asia." width="70%"}
+![CLICK TO ENGLARGE | Comparison of major infectious disease pandemics throughout human history. Source: Slonczewski, Foster, and Zinser, *Microbiology: An Evolving Science*, 6th ed., Chapter 1, Section 1.2, Figure 1.8. © [W. W. Norton & Company](https://nerd.wwnorton.com/ebooks/epub/microbio6/EPUB/content/1.2-chapter01.xhtml).](history-infectious-disease.jpg){.lightbox fig-alt="Graph comparing estimated infections and deaths from major infectious disease pandemics, including the Plague of Athens, Plague of Justinian, Black Death, Third Plague Pandemic, H1N1 influenza, HIV/AIDS, 2009 H1N1 influenza, and COVID-19." width="100%"}
+
 :::
 
-*How could the same disease appear across such distant places and populations?*
+::: {.column width="4%"}
+:::
+
+::: {.column width="38%"}
+
+::: {style="text-align:center;"}
+![CLICK TO ENGLARGE | Google Earth view showing geographic locations associated with the history and scientific investigation of plague across Europe, North Africa, and East Asia.](plague-path.jpg){.lightbox fig-alt="Google Earth globe showing locations associated with the history and scientific investigation of plague in Western Europe, North Africa, and East Asia." width="85%"}
+:::
+
+*Interactive Google Earth project created by Yoni Rodriguez.*
 
 **Want to explore further?**\
 [Explore the path of plague in Google Earth](https://earth.google.com/earth/d/1GIR5OAHve5bpCdX06T976v63LRcyeLvr?usp=sharing)
 
-*Interactive Google Earth project created by Yoni Rodriguez.*
+:::
+::::
 
----
+------------------------------------------------------------------------
 
-## What Could People Observe?
+:::: {.columns .poll-columns}
+::: {.column width="65%"}
+
+*What stands out to you?*
+
+Consider both the **scale** of plague and the **distance** separating affected populations.
+
+*How could the same disease appear across such distant places and populations?*
+
+Use Poll Everywhere to share your response.
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+
+::: {style="display:flex; justify-content:center; align-items:center; height:100%;"}
+![](poll-everywhere-response.jpg){fig-alt="Poll Everywhere QR code and response link for SHM 102" width="250"}
+:::
+
+:::
+::::
+
+------------------------------------------------------------------------
+
+# What Could People Observe?
+
+:::: {.columns}
+::: {.column width="55%"}
 
 People could observe:
 
@@ -180,9 +215,24 @@ They could observe the **outcome**.
 
 They could not yet observe the **cause**.
 
----
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+
+![Clinical presentation of Hand necrosis caused by plague. Photograph by Dr. Jack Poland, 1975. [Centers for Disease Control and Prevention, Public Health Image Library (PHIL)](https://commons.wikimedia.org/wiki/File:Hand_necrosis_caused_by_plague.jpg)](cdc-human-plague.jpg){fig-alt="Clinical photograph of a person's hand showing severe dark discoloration and tissue damage affecting several fingers associated with plague."}
+
+:::
+::::
+
+
 
 ## The Buboes
+
+:::: {.columns}
+::: {.column width="55%"}
 
 One of the most recognizable signs of plague was the appearance of painful swellings.
 
@@ -194,11 +244,28 @@ These swellings often appeared in the:
 
 They became known as **buboes**.
 
+For centuries, people could see these swellings.
+
 But observing a symptom did not explain what caused it.
 
----
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+
+![Bubo associated with bubonic plague. Source: James T. Eastman, M.D., F.C.A.P., Figure 4a, ["The Making of a Pandemic: Bubonic Plague in the 14th Century,"](https://www.jlgh.org/Past-Issues/Volume-4-Issue-1/The-Making-of-a-Pandemic.aspx) *The Journal of Lancaster General Hospital*.](bubonic-plague-buboes.jpg){fig-alt="Clinical photograph showing a pronounced swollen lymph node in the neck associated with bubonic plague."}
+
+:::
+::::
+
+------------------------------------------------------------------------
 
 # The Central Problem
+
+:::: {.columns .poll-columns}
+::: {.column width="65%"}
 
 People could see:
 
@@ -212,171 +279,466 @@ People could see:
 
 But they could not see what was causing it.
 
-### How do you identify something you cannot see?
+*What Would You Do Next?*
 
----
+*How would you identify the cause of something you cannot see?*
+
+There is no single correct answer.
+
+Think about:
+
+- what evidence you would collect
+- what you would examine
+- what tools you might need
+- how you would test whether your explanation was correct
+
+Use Poll Everywhere to share your response.
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+
+::: {style="display:flex; justify-content:center; align-items:center; height:100%;"}
+![](poll-everywhere-response.jpg){fig-alt="Poll Everywhere QR code and response link for SHM 102" width="250"}
+:::
+
+:::
+::::
+
+------------------------------------------------------------------------
 
 # Competing Explanations
 
-For centuries, people developed different explanations for disease.
+People could observe disease long before they could identify its cause.
+
+Without the ability to see microorganisms, physicians and communities developed different explanations for why people became sick.
 
 Ideas included:
 
 - divine punishment
+- imbalance within the body
 - environmental conditions
 - contaminated water
-- poisonous or foul-smelling air
-- imbalance within the body
+- poisonous or corrupted air
 - contagion between people
 
-Some explanations came closer to recognizing patterns of transmission than others.
+Some observations were meaningful.
 
-But people still lacked the tools needed to identify the cause of plague.
+The challenge was explaining **why** those patterns occurred.
 
----
+:::: {.columns}
+::: {.column width="48%"}
 
-## Miasma
+## Imbalance Within the Body
 
-One influential explanation was **miasma theory**.
+For centuries, European medicine was strongly influenced by the **theory of the four humors**.
 
-Disease was thought to arise from foul or corrupted air.
+Health was thought to depend on maintaining a balance among:
 
-The idea was understandable because illness was often associated with:
+- blood
+- yellow bile
+- black bile
+- phlegm
+
+Illness could therefore be interpreted as an **imbalance within the body**.
+
+Treatments intended to restore balance included bloodletting and purging.
+
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%"}
+
+![CLICK TO ENGLARGE | The four humors and their historical associations with elements, seasons, physical qualities, and temperaments. Chart adapted from Thomas Walkington, *Optick Glasse of Humors* (1639). Source: [U.S. National Library of Medicine](https://www.nlm.nih.gov/exhibition/shakespeare-and-the-four-humors/index.html).](the-four-humors.jpg){.lightbox fig-alt="Diagram of the four humors showing blood, yellow bile, black bile, and phlegm and their historical associations with elements, seasons, qualities, and temperaments." width="100%"}
+
+:::
+::::
+
+------------------------------------------------------------------------
+
+## What If the Problem Was in the Air?
+
+Another influential explanation associated disease with **miasma**, or corrupted air.
+
+Illness was frequently observed alongside:
 
 - overcrowding
 - waste
 - decomposition
+- stagnant water
 - poor sanitation
 - unpleasant odors
 
-The environmental observations were real.
+These observations were not imaginary.
 
-The explanation for how disease was transmitted was not.
+**The environmental conditions were real.**
 
----
+What remained uncertain was the mechanism connecting those conditions to disease.
+
+:::: {.columns}
+::: {.column width="58%"}
+
+During plague outbreaks, people attempted to protect themselves from dangerous air in different ways.
+
+The familiar image of the **plague doctor** reflects this history. Plague doctors stuffed the bird-like beaks with strong-smelling herbs and spices to protect themselves from what they believed spread disease: foul, disease-carrying air known as **miasma**, or "bad air."
+
+People were trying to control an exposure.
+
+They had not yet identified the actual hazard.
+
+
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="38%"}
+
+![Historical representation of a plague doctor wearing a beaked mask and protective clothing. Source: Rachel Hajar, ["The Air of History (Part II): Medicine in the Middle Ages,"](https://pmc.ncbi.nlm.nih.gov/articles/PMC3573364/) *Heart Views* (2012).](plague-doctor.jpg){fig-alt="Historical illustration of a plague doctor wearing a long coat, broad-brimmed hat, and beaked mask." width="70%"}
+
+:::
+::::
+
+
+
+## Do Old Ideas Completely Disappear?
+
+Historical explanations of disease did not simply vanish when scientific understanding changed.
+
+People continue to search for explanations when the causes of illness are uncertain, frightening, or difficult to observe.
+
+The explanations differ across cultures, communities, and time.
+
+The scientific challenge remains the same:
+
+### What evidence supports the explanation?
+
+![CLICK TO ENLARGE | Examples from Mexico, West Africa, and the United States illustrate how people develop explanations for illness and health, and how scientific evidence can be used to evaluate those explanations.](when-evidence-challenges-old-ideas.jpg){.lightbox fig-alt="Educational infographic comparing examples from Mexico, West Africa, and the United States. The Mexico example discusses aire and the belief that going outside with wet hair causes illness. The West Africa example examines traditional and religious explanations and practices during the Ebola epidemic. The United States example examines modern health claims and dietary supplement regulation. The infographic emphasizes evaluating explanations using scientific evidence." width="100%"}
+
+**Sources:** [Gross (2016), *Letting the Air Out: Aire as an Empty Signifier in Oaxacan Understandings of Illness*](https://pubmed.ncbi.nlm.nih.gov/27431429/) | [Manguvo & Mafuvadze (2015), *The Impact of Traditional and Religious Practices on the Spread of Ebola in West Africa*](https://pmc.ncbi.nlm.nih.gov/articles/PMC4709130/) | [U.S. Food and Drug Administration, *Questions and Answers on Dietary Supplements*](https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements)
+
+------------------------------------------------------------------------
+
+## Poll Everywhere
+
+### What explanations for illness or disease have you heard, encountered, or questioned while growing up?
+
+Think about ideas you may have encountered through:
+
+- family or community traditions
+- school
+- social media
+- news or popular culture
+- everyday health advice
+
+**What was the explanation, and what evidence would you want before deciding whether it is accurate?**
+
+:::: {.columns .poll-columns}
+::: {.column width="65%"}
+
+Submit an example through **Poll Everywhere**.
+
+There is no single correct answer. The goal is to identify an explanation and begin thinking about **how we could test it using evidence**.
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+
+::: {style="display:flex; justify-content:center; align-items:center; height:100%;"}
+![](poll-everywhere-response.jpg){fig-alt="Poll Everywhere QR code and response link for SHM 102" width="250"}
+:::
+
+:::
+::::
+
+------------------------------------------------------------------------
 
 ## Seeds of Contagion
 
-In the sixteenth century, physician **Girolamo Fracastoro** proposed another possibility.
+Not everyone explained disease through bodily imbalance or corrupted air.
 
-He suggested that plague and other diseases could be transmitted by invisible **"seeds of contagion."**
+As plague spread through medieval Europe, people increasingly recognized that the disease appeared to be **contagious**.
 
-But there was a fundamental problem.
+But 
 
-### How could anyone identify something too small to see?
+*what was being transmitted?*
 
----
+*how was it being transmitted?*
 
-# Seeing the Invisible
+In the sixteenth century, Italian physician **Girolamo Fracastoro (1478–1533)** proposed that plague and other diseases could be transmitted by invisible **"seeds of contagion,"** or *seminaria*.
 
-The answer would require a new technology.
+This was a very different hypothesis that asked if disease was transmitted by something physical that people simply could not see? 
 
-## The Microscope
+:::: {.columns}
+::: {.column width="38%"}
 
-The development and improvement of the **microscope** changed what scientists could observe.
+![Irwin W. Sherman's *Twelve Diseases That Changed Our World* (2007).](twelve-diseases-that-changed-our-world-cover-2007.jpg){fig-alt="Cover of Irwin W. Sherman's book Twelve Diseases That Changed Our World." width="85%"}
 
-For the first time, an invisible biological world could become visible.
+:::
 
-Disease could potentially be investigated at a completely different scale.
+::: {.column width="4%"}
+:::
 
----
+::: {.column width="58%"}
 
-## From Observation to Mechanism
+![CLICK TO ENLARGE | Sherman describes competing explanations for plague and Girolamo Fracastoro's proposal that disease could be transmitted by "seeds of contagion." Source: Sherman (2007), "Bubonic Plague," *Twelve Diseases That Changed Our World*.](plague-cause-seeds-of-contagion.jpg){.lightbox fig-alt="Excerpt from Sherman's Bubonic Plague chapter describing miasma, polluted water, Girolamo Fracastoro, and the theory that plague could be transmitted by seeds of contagion or seminaria." width="100%"}
 
-For centuries:
+:::
+::::
 
-**People could observe disease.**
+**Source:** Sherman, I. W. (2007). "Bubonic Plague." In *Twelve Diseases That Changed Our World* (pp. 68–82). ASM Press. [https://doi.org/10.1128/9781555816346.ch5](https://doi.org/10.1128/9781555816346.ch5)
 
-With microscopy:
+### However, the hypothesis was not enough.
 
-**Scientists could begin observing possible causes of disease.**
+### Even if Fracastoro was correct, people still lacked the technology needed to identify the responsible agent.
 
-But simply seeing microorganisms was not enough.
 
-Scientists still needed to establish whether a particular microorganism actually caused a particular disease.
+# The Microscope
 
----
+In the seventeenth century, improvements in microscopy allowed scientists
+to observe structures and organisms that had previously been invisible.
 
-# Louis Pasteur (1822–1895)
+:::: {.columns}
+::: {.column width="52%"}
 
-During the nineteenth century, French scientist **Louis Pasteur** helped transform how scientists thought about microorganisms and disease.
+**Robert Hooke (1635–1703)** used a compound microscope to examine
+biological materials and published his observations in *Micrographia*
+in 1665.
 
-Pasteur's experiments demonstrated that microorganisms did not simply appear through spontaneous generation.
+Hooke observed microscopic structures and organisms, including mold,
+but his microscopes were not powerful enough to reveal individual
+bacteria.
 
-Microorganisms came from other microorganisms.
+**Antonie van Leeuwenhoek (1632–1723)** developed powerful single-lens
+microscopes and became the first person known to observe single-celled
+microorganisms, eventually including bacteria.
 
-His work helped establish a new way of thinking about disease.
+### Humans could finally see microorganisms.
 
-### What if microorganisms were responsible for some of the diseases affecting humans and animals?
+### However, nearly two centuries passed before scientists established the connection between microorganisms and disease.
 
----
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="44%"}
+
+![CLICK TO ENLARGE | Mold sporangia drawn by Robert Hooke in 1665 from observations using a compound microscope. Source: Slonczewski, Foster, and Zinser, *Microbiology: An Evolving Science*, 6th ed., Figure 1.12.](hooke-microscopic%20world.jpg){.lightbox fig-alt="Robert Hooke's 1665 drawing of mold sporangia observed using a compound microscope." width="70%"}
+
+![CLICK TO ENLARGE | Reconstruction of Leeuwenhoek's single-lens microscope and a micrograph obtained using a replica. Source: Slonczewski, Foster, and Zinser, *Microbiology: An Evolving Science*, 6th ed., Figure 1.13B–C.](leeuwenhoek-microscope.jpg){.lightbox fig-alt="Diagram of Antonie van Leeuwenhoek's single-lens microscope beside a microscopic field obtained using a replica of the instrument." width="75%"}
+
+:::
+::::
+
+
+
+## Poll Everywhere
+
+### Why do you think it took so long for humans to connect microbes with infectious disease?
+
+There is no single answer.
+
+Think about what scientists could **observe**, what they could **measure**, and what evidence they would need to demonstrate that a microorganism actually caused disease.
+
+:::: {.columns .poll-columns}
+::: {.column width="65%"}
+
+Submit your explanation through **Poll Everywhere**.
+
+Consider the problem scientists faced:
+
+**Seeing a microorganism does not necessarily mean that it caused the disease.**
+
+What additional evidence would you want?
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+
+::: {style="display:flex; justify-content:center; align-items:center; height:100%;"}
+![](poll-everywhere-response.jpg){fig-alt="Poll Everywhere QR code and response link for SHM 102" width="250"}
+:::
+
+:::
+::::
+
+------------------------------------------------------------------------
+
+# Louis Pasteur
+
+Remember where this lecture began?
+
+**France.**
+
+French chemist **Louis Pasteur (1822–1895)** investigated microorganisms
+while studying problems involving fermentation for the French Beer & Wine Industry.
+
+His research demonstrated that yeast, a single-celled fungus, in the absence of oxygen
+produced alcohol as a terminal waste product. 
+
+:::: {.columns}
+::: {.column width="45%"}
+
+In his famous **swan-neck flask experiments**, air could enter a
+sterilized flask of beef broth, while dust and microorganisms were trapped
+in the curved neck.
+
+The broth remained free of microbial growth for many years.
+
+When a flask was tilted so that the broth contacted material trapped in
+the neck, microorganisms grew.
+
+**The air was present.**
+
+**Microbial growth was not.**
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="50%"}
+
+![CLICK TO ENLARGE | Louis Pasteur and the swan-neck flask experiment. Source: Slonczewski, Foster, and Zinser, *Microbiology: An Evolving Science*, 6th ed., Figure 1.14.](louis-pasteur.jpg){.lightbox fig-alt="Portrait of Louis Pasteur beside a diagram of his swan-neck flask experiment showing sterilization of broth, microbes trapped in the curved neck, and microbial growth after broth contacts the trapped material." width="100%"}
+
+:::
+::::
+
+This represented more than simply observing microorganisms.
+
+Scientists could use **controlled experiments to test competing explanations**.
+
+1. *Make an observation*
+2. *Ask a question*
+3. *Form a hypothesis*
+4. *Conduct an experiment*
+5. *Evaluate the evidence*
+
 
 ## Germ Theory
 
-Scientists including **Louis Pasteur** and **Robert Koch** helped establish the germ theory of disease.
+Microscopy made microorganisms visible.
+
+Experimental science made it possible to investigate what microorganisms
+were doing.
+
+During the nineteenth century, evidence from scientists including
+**Louis Pasteur** and **Robert Koch** helped establish the **germ theory
+of disease**.
 
 The central idea was revolutionary:
 
-> A specific disease could be caused by a specific microorganism.
+### Many infectious diseases are caused by microorganisms.
+
+Pasteur's experiments demonstrated that microorganisms did not "simply
+appear" through what was considered spontaneous generation.
+
+Koch later developed methods for studying microorganisms in isolation
+and establishing causal relationships between specific microorganisms
+and specific diseases.
 
 Scientists now had:
 
-**a theory**
+**a scientific framework**
 
-+
+**experimental methods**
 
-**a technology**
+**technologies for observing microorganisms**
 
-Germ theory provided a framework for explaining disease.
+Together, these developments changed the questions scientists could ask.
 
-Microscopy provided a way to observe microorganisms.
+**Germ theory:** the theory that many infectious diseases are caused by
+microorganisms.
 
-Together, they changed the questions scientists could ask.
+### Source
 
----
+:::: {.columns}
+::: {.column width="22%"}
 
-## A New Scientific Question
+![*Microbiology: An Evolving Science*, 6th ed.](microbiology-an-evolving-science.jpg){fig-alt="Cover of the sixth edition of Microbiology: An Evolving Science by Joan Slonczewski, John W. Foster, and Erik R. Zinser." width="75%"}
 
-For centuries, people had asked:
+:::
 
-### Why are people becoming sick?
+::: {.column width="4%"}
+:::
 
-Now scientists could ask something more specific:
+::: {.column width="74%"}
 
-### What microorganism is causing this disease?
+The history of microscopy, Robert Hooke, Antonie van Leeuwenhoek, and
+Louis Pasteur:
 
-The centuries-old mystery of plague could finally be investigated in a new way.
+**Slonczewski, J., Foster, J. W., & Zinser, E. R. (2024).**  
+*Microbiology: An Evolving Science* (6th ed.). W. W. Norton & Company.
 
----
+[Explore *Microbiology: An Evolving Science* →](https://wwnorton.com/books/9781324033523)
 
-# The Third Plague Pandemic
+:::
+::::
+
+
+------------------------------------------------------------------------
+
+# 1894: Plague in Hong Kong
 
 During the nineteenth century, plague again spread from China.
 
 Modern transportation helped the disease move across large distances.
 
-By **1894**, a major epidemic had reached **Hong Kong**.
+By **1894**, a major plague epidemic had reached **Hong Kong**.
 
-Scientists now had something their medieval predecessors did not:
+:::: {.columns}
+::: {.column width="48%"}
+
+Scientists now had scientific tools and frameworks their medieval
+predecessors did not:
 
 - germ theory
 - improved microscopes
 - staining techniques
 - experimental methods
 
+For centuries, people had observed the symptoms and patterns of plague
+without being able to identify its cause.
+
+Now scientists could apply these innovations to investigate the disease.
+
 The question was no longer simply:
 
-> What is happening?
+### What is happening?
 
 It became:
 
-> **What organism is causing this disease?**
+### What organism is causing this disease?
 
----
+:::
 
-# Hong Kong, 1894
+::: {.column width="4%"}
+:::
 
-## Alexandre Yersin
+::: {.column width="48%"}
+
+![CLICK TO ENLARGE | Men's ward at the Kennedy Town Glassworks emergency plague hospital during the 1894 Hong Kong plague epidemic. Source: Echenberg (2007), "An Unexampled Calamity: Hong Kong, 1894," *Plague Ports: The Global Urban Impact of Bubonic Plague, 1894–1901*.](hong-kong-plague-hospital.jpg){.lightbox fig-alt="Historical black-and-white photograph of the men's ward at the Kennedy Town Glassworks emergency plague hospital in Hong Kong during the 1894 plague epidemic, with patients lying on bedding along both sides of a long hospital ward." width="100%"}
+
+:::
+::::
+
+**Source:** Echenberg, M. (2007). "An Unexampled Calamity: Hong Kong, 1894." In *Plague Ports: The Global Urban Impact of Bubonic Plague, 1894–1901* (pp. 16–46). NYU Press. [Access through JSTOR →](http://www.jstor.org.offcampus.lib.washington.edu/stable/j.ctt9qgb84.7)
+
+------------------------------------------------------------------------
+
+# Alexandre Yersin
 
 **Alexandre Yersin**, a bacteriologist associated with the Pasteur Institute, traveled to Hong Kong to investigate the epidemic.
 
@@ -384,7 +746,7 @@ His task was to identify the organism responsible for plague.
 
 But first he needed a specimen.
 
----
+------------------------------------------------------------------------
 
 ## The Bubo Becomes Evidence
 
@@ -398,7 +760,7 @@ A swelling that physicians had observed for centuries was no longer only a sympt
 
 It became a source of biological evidence.
 
----
+------------------------------------------------------------------------
 
 ## Under the Microscope
 
@@ -414,7 +776,7 @@ Now there was a candidate organism.
 
 But seeing bacteria in a sick person did not automatically prove that the bacteria caused plague.
 
----
+------------------------------------------------------------------------
 
 ## How Could He Test the Idea?
 
@@ -444,7 +806,7 @@ The evidence was becoming stronger.
 
 **Same bacteria recovered**
 
----
+------------------------------------------------------------------------
 
 ## The Dead Rats
 
@@ -460,7 +822,7 @@ He examined some of the rats.
 
 ### He found the same bacteria.
 
----
+------------------------------------------------------------------------
 
 ## One Organism, Two Hosts
 
@@ -478,7 +840,7 @@ The bacterium responsible for plague would eventually be named:
 
 in recognition of Alexandre Yersin.
 
----
+------------------------------------------------------------------------
 
 # What Had Yersin Solved?
 
@@ -494,7 +856,7 @@ But another question remained unanswered.
 
 Knowing the **hazard** did not automatically reveal the **exposure pathway**.
 
----
+------------------------------------------------------------------------
 
 # Understanding the Disease
 
@@ -502,7 +864,7 @@ Now that we know the agent, we can better understand what happens after infectio
 
 *Yersinia pestis* can produce different forms of plague depending on where infection develops.
 
----
+------------------------------------------------------------------------
 
 ## Bubonic Plague
 
@@ -520,7 +882,7 @@ Common locations include:
 - armpits
 - neck
 
----
+------------------------------------------------------------------------
 
 ## Septicemic Plague
 
@@ -538,7 +900,7 @@ The infection can produce:
 
 Buboes may not always develop.
 
----
+------------------------------------------------------------------------
 
 ## Pneumonic Plague
 
@@ -552,7 +914,7 @@ That creates the possibility of:
 
 **human → human transmission**
 
----
+------------------------------------------------------------------------
 
 ## Same Agent, Different Forms of Disease
 
@@ -576,7 +938,7 @@ But where infection develops in the body can affect the clinical form of disease
 
 Understanding the form of disease can also help us understand how transmission may occur.
 
----
+------------------------------------------------------------------------
 
 # The Missing Link
 
@@ -586,7 +948,7 @@ But rats alone did not explain transmission.
 
 Another investigator would take the next major step.
 
----
+------------------------------------------------------------------------
 
 # Paul Louis Simond
 
@@ -600,7 +962,7 @@ Workers without that contact did not.
 
 That observation suggested an exposure relationship.
 
----
+------------------------------------------------------------------------
 
 ## Look at the Task
 
@@ -618,7 +980,7 @@ Some workers were cleaning floors containing dead rats.
 
 Their work created an opportunity for exposure.
 
----
+------------------------------------------------------------------------
 
 ## Another Observation
 
@@ -634,7 +996,7 @@ Then the rats died.
 
 ### What happened to the fleas?
 
----
+------------------------------------------------------------------------
 
 ## A Hypothesis
 
@@ -646,7 +1008,7 @@ Perhaps the intermediary was a:
 
 ### flea
 
----
+------------------------------------------------------------------------
 
 # Testing the Hypothesis
 
@@ -660,7 +1022,7 @@ But fleas could move between them.
 
 The healthy rat developed plague.
 
----
+------------------------------------------------------------------------
 
 ## The Control
 
@@ -674,7 +1036,7 @@ When fleas were introduced:
 
 The transmission pathway was becoming clear.
 
----
+------------------------------------------------------------------------
 
 # The Transmission Pathway
 
@@ -710,7 +1072,7 @@ The flea bites another animal or a human.
 
 *Yersinia pestis* enters the new host.
 
----
+------------------------------------------------------------------------
 
 # Agent, Reservoir, Vector, Host
 
@@ -734,7 +1096,7 @@ Humans and other susceptible mammals
 
 These terms help us organize how infectious hazards move through an environment.
 
----
+------------------------------------------------------------------------
 
 # From Microbiology to Occupational Health
 
@@ -757,7 +1119,7 @@ The occupational hazard is not determined by the job title alone.
 
 It depends on the **task and opportunity for exposure**.
 
----
+------------------------------------------------------------------------
 
 ## Think Like an Exposure Scientist
 
@@ -775,7 +1137,7 @@ For any biological hazard, ask:
 
 ### What route allows it to enter the body?
 
----
+------------------------------------------------------------------------
 
 # Plague Did Not Disappear
 
@@ -787,7 +1149,7 @@ Human cases still occur.
 
 The ecological system that supports plague still exists.
 
----
+------------------------------------------------------------------------
 
 ## Plague in the United States
 
@@ -805,7 +1167,7 @@ This means plague remains relevant to:
 - animal handling
 - public health surveillance
 
----
+------------------------------------------------------------------------
 
 ## Recognition Matters
 
@@ -824,7 +1186,7 @@ Delayed recognition can delay:
 
 A known hazard can still cause serious disease when the exposure pathway is overlooked.
 
----
+------------------------------------------------------------------------
 
 # Breaking the Chain
 
@@ -850,7 +1212,7 @@ Once we understand the pathway, we can identify places where intervention is pos
 
 Controls can interrupt the chain at more than one point.
 
----
+------------------------------------------------------------------------
 
 # Discussion
 
@@ -868,7 +1230,7 @@ Think about:
 - routes of entry
 - possible controls
 
----
+------------------------------------------------------------------------
 
 # From 1347 to Today
 
@@ -914,7 +1276,7 @@ Flea-mediated transmission is demonstrated.
 
 We understand the agent, reservoirs, vectors, exposure pathways, disease mechanisms, and opportunities for prevention.
 
----
+------------------------------------------------------------------------
 
 # Key Takeaway
 
@@ -954,12 +1316,12 @@ We also need to understand:
 
 Plague provides a historical example of how observation, technology, microbiology, epidemiology, and exposure science came together to reveal an occupational and public health hazard.
 
----
+------------------------------------------------------------------------
 
 # Key Terms
 
 | Term | Definition |
-|---|---|
+|------------------------------------|------------------------------------|
 | **Bubo** | A painful, swollen lymph node associated with bubonic plague. |
 | **Bubonic plague** | A form of plague characterized by infection of the lymphatic system and the development of swollen lymph nodes called buboes. |
 | **Septicemic plague** | A form of plague in which *Yersinia pestis* infects the bloodstream. |
@@ -973,7 +1335,7 @@ Plague provides a historical example of how observation, technology, microbiolog
 | **Vector borne transmission** | Transmission of a pathogen through a living vector. |
 | ***Yersinia pestis*** | The bacterium that causes plague. |
 
----
+------------------------------------------------------------------------
 
 ## Make your flashcards
 
@@ -983,7 +1345,7 @@ Copy the terms below to make your own **Anki or Quizlet** flashcards.
 
 **Anki:** Save as a `.txt` file → Import → Select **Semicolon** as the field separator.
 
-```text
+``` text
 Bubo;A painful, swollen lymph node associated with bubonic plague.
 Bubonic plague;A form of plague characterized by infection of the lymphatic system and the development of swollen lymph nodes called buboes.
 Septicemic plague;A form of plague in which Yersinia pestis infects the bloodstream.
