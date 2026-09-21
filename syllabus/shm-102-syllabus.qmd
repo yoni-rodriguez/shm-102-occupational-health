@@ -1,0 +1,235 @@
+---
+title: "SHM 102: Occupational Health"
+subtitle: "Fall 2026 Syllabus"
+author: "Yoni Rodriguez, Assistant Professor"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    theme: cosmo
+  pdf:
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    geometry: margin=0.8in
+    fontsize: 10.5pt
+editor: visual
+---
+
+# Course Information
+
+|  |  |
+|------------------------------------|------------------------------------|
+| **Course** | SHM 102: Occupational Health, Section 001 |
+| **Credits** | 5 |
+| **Term** | Fall 2026 |
+| **Meeting** | Monday through Thursday, 9:00 to 9:50 AM |
+| **Location** | Hogue 102 through September 29; Hogue 229 beginning September 30 |
+| **Format** | In person |
+| **Professor** | Yoni Rodriguez, Assistant Professor |
+| **Email** | Yoni.Rodriguez\@cwu.edu |
+| **Office and office hours** | Posted in Canvas. Meetings are also available by appointment. |
+
+Office hours are time reserved for students. You do not need to be struggling or have an emergency to attend. You can use office hours to ask questions, review a concept, discuss an assignment, talk about careers, or develop a plan for succeeding in the course.
+
+# Course Description
+
+Explore the fundamental concepts of occupational health, including identification of health hazards in the workplace, prevention of workplace injuries and illnesses, human factors, and environmental health as it relates to the workplace. Prerequisites: none.
+
+SHM 102 uses real cases to examine how workers, tasks, hazards, exposures, health effects, risk, and controls connect across workplaces, communities, policy, the environment, and biology.
+
+# Course Learning Outcomes
+
+By the end of the course, students should be able to:
+
+1.  Explain occupational health professions and how they affect worker health.
+2.  Address significant occupational and environmental health issues and articulate their broader impacts.
+3.  Describe biological, chemical, ergonomic, physical, and psychosocial risk factors and hazards.
+4.  Assess the importance of prevention and proactive behavior in reducing risk factors and hazards.
+5.  Research occupational and environmental risk factors, hazards, exposures, and health effects for a selected work environment or problem.
+6.  Investigate how human factors can influence workplace health.
+7.  Prioritize recommendations using evidence and quantitative reasoning.
+8.  Apply the course reasoning framework: Worker → Task → Hazard → Exposure → Health Effect → Risk → Controls.
+
+# Course Materials and Technology
+
+There is no required commercial textbook for the course. Readings, case materials, government resources, research articles, and other materials will be provided or linked through Canvas. Some copyrighted readings may be available only through Canvas or CWU library access.
+
+Students need regular access to Canvas, their CWU email, and a device capable of viewing course materials and submitting work. Poll Everywhere may be used for in class activities.
+
+According to CWU guidance, one credit represents a total time commitment of approximately three hours each week, including scheduled class time and work outside class. A five credit course therefore represents a substantial weekly time commitment.
+
+# How This Course Works
+
+SHM 102 is designed around active learning and application. Class meetings may combine short lectures, case studies, current events, readings, discussion, individual or small group activities, and opportunities to apply occupational health concepts to real problems.
+
+The course begins with foundations and then increasingly uses cases, discussion, evidence, and application. A recurring reasoning framework is:
+
+**Worker → Task → Hazard → Exposure → Health Effect → Risk → Controls**
+
+Because this is a small in person section, some class meetings will function as seminar style discussions. Class time will be used to examine evidence, ask questions, discuss cases, and practice applying course concepts rather than relying exclusively on lecture.
+
+You are not expected to enter SHM 102 already knowing occupational health. You are expected to engage with the material, ask questions, practice applying new concepts, and communicate when you need help.
+
+The course schedule remains flexible so that current events and useful occupational health cases can be incorporated as the quarter develops.
+
+## Readings and Preparatory Materials
+
+Short readings, videos, current events, or other materials may occasionally be provided before class. Students are encouraged to review these materials before the corresponding class meeting. Doing so will provide more time to think about the material and prepare for discussion, but advance preparation is not required unless specifically stated otherwise.
+
+When readings are used for an in class discussion or activity, time will be reserved during class for students to read or review the assigned material. Students who complete the reading beforehand may use this time to review the material, organize their thoughts, develop questions, or prepare for the discussion or activity.
+
+Readings and preparatory materials are intended to support class activities, case discussions, and the development of occupational health reasoning rather than simply add additional work. Materials and instructions will be provided through Canvas.
+
+# Assessment and Grading
+
+SHM 102 is graded on a 400 point structure.
+
+| Assessment                  |  Points |  Percent |
+|-----------------------------|--------:|---------:|
+| Midterm: Foundations        |     100 |      25% |
+| Engagement & Current Events |     100 |      25% |
+| Final Project               |     200 |      50% |
+| **Total**                   | **400** | **100%** |
+
+The midterm assesses foundational concepts and the ability to use them. Engagement includes current events, case discussions, readings, Poll Everywhere activities, small group work, Canvas reflections, peer review, audience participation, and other in class activities. The final project asks students to individually investigate a real occupational or environmental health problem and apply the course reasoning framework using credible evidence.
+
+## Final Grade Scale
+
+Central Washington University defines the letter grades and grade points used on the academic transcript. In the CWU catalog, A and A- are identified as Excellent, the B range as Good, the C range as Satisfactory, the D range as Marginal Pass, and F as Failure. CWU does not list an A+ grade. The catalog defines these letter grades and grade points but does not prescribe percentage cutoffs for individual courses.
+
+SHM 102 uses the percentage ranges below to translate course points into CWU letter grades. These percentage ranges are the grading scale adopted for this course.
+
+|          Percentage | Letter Grade | CWU Grade Points |
+|--------------------:|:------------:|-----------------:|
+|          94 to 100% |      A       |              4.0 |
+| 90 to less than 94% |      A-      |              3.7 |
+| 87 to less than 90% |      B+      |              3.3 |
+| 83 to less than 87% |      B       |              3.0 |
+| 80 to less than 83% |      B-      |              2.7 |
+| 77 to less than 80% |      C+      |              2.3 |
+| 73 to less than 77% |      C       |              2.0 |
+| 70 to less than 73% |      C-      |              1.7 |
+| 67 to less than 70% |      D+      |              1.3 |
+| 63 to less than 67% |      D       |              1.0 |
+| 60 to less than 63% |      D-      |              0.7 |
+|           Below 60% |      F       |              0.0 |
+
+Source basis: Central Washington University Undergraduate Catalog, *Academic and General Regulations*, "Grading Policies and Regulations." The percentage thresholds above are course specific and are not presented as university mandated percentage cutoffs.
+
+# Engagement, Discussion, and Reflections
+
+Preparation for class, participation in discussion, and engagement with course activities are important parts of learning in SHM 102. Engagement may include current event discussions, case studies, readings, Poll Everywhere questions, Canvas reflections, individual or small group activities, research exercises, peer review, and participation during final project presentations.
+
+Engagement is based on meaningful participation rather than physical presence alone. Students are expected to listen, contribute constructively, ask questions, and engage respectfully with evidence and with one another. Students earn engagement credit by making a genuine effort to participate in and respond to assigned activities.
+
+Short Canvas reflections are primarily completion based. Full credit is earned for a genuine, responsive attempt that addresses the prompt. A response does not need to reach a particular conclusion to earn credit. Blank, unrelated, or nonresponsive submissions receive no credit.
+
+# Attendance and Absences
+
+Regular attendance is expected because many course activities depend on discussion, collaboration, and in class application. Attendance itself is not the sole basis for engagement points, but missing class may mean missing an activity that cannot be reproduced in exactly the same form.
+
+If you know you will miss class, communicate as early as reasonably possible. If illness, emergency, university activity, religious accommodation, or another significant circumstance affects your ability to participate, contact Professor Rodriguez so that an appropriate plan can be discussed when possible.
+
+# Late Work, Make Up Work, and Extensions
+
+Due dates are posted in Canvas. Students should communicate before a deadline whenever reasonably possible if circumstances will prevent timely completion. Extensions and make up opportunities are not automatic and depend on the nature of the activity and circumstances. Some live discussions, presentations, and collaborative activities cannot be recreated exactly after they occur.
+
+Do not wait until the end of the quarter to raise a missing assignment or unresolved grading issue. Check Canvas regularly and communicate early.
+
+# Extra Credit
+
+A standing learning and study skills extra credit opportunity is available to every student. Students may read an approved chapter from Cal Newport's *How to Become a Straight A Student* or Peter C. Brown, Henry L. Roediger III, and Mark A. McDaniel's *Make It Stick* and complete the associated Canvas reflection. The reflection will ask you to identify an important idea, connect it to your current approach to learning, try a strategy, and reflect on what happened.
+
+A maximum of 10 extra credit points may be earned. Individual extra credit assignments will not be created at the end of the quarter for a particular student.
+
+# Grades and Grade Questions
+
+You are encouraged to ask how an assignment was evaluated, where points were lost, whether something may have been overlooked, or how to improve on future work. If you believe a grading error occurred, bring it to Professor Rodriguez's attention promptly.
+
+Grades are earned through the published course requirements. A grade will not be changed simply because a student needs a particular final grade, and individual extra credit opportunities will not be created for one student when they are unavailable to the rest of the class.
+
+# Communication and Professional Expectations
+
+Occupational health professionals must be able to communicate scientific and technical information to workers, employers, communities, and other professionals. Throughout SHM 102, students will practice communicating occupational health information through discussion, short written reflections, case analysis, and the final project. Clear communication is more important than unnecessarily complicated language. Students should work toward explaining occupational health problems accurately and in a way that their intended audience can understand.
+
+Use email or Canvas for short questions, clarification, absence notifications, and meeting requests. Complex questions about course performance, personal circumstances, project planning, or grades are usually better handled during office hours or an appointment.
+
+When emailing, identify the course and make the question clear. A useful subject line is **SHM 102 Question About \[Topic or Assignment\]**. Students are responsible for checking Canvas announcements and CWU email regularly.
+
+# Course Materials and Continued Access
+
+Canvas is the primary course platform for SHM 102 and will be used for announcements, assignments, grades, student submissions, and materials that cannot be distributed publicly.
+
+Instructor created course materials may also be made available through the [SHM 102 Occupational Health GitHub repository](https://github.com/yoni-rodriguez/shm-102-occupational-health.git). The repository provides another way to access course lectures, resources, assignment instructions, and other publicly available materials during the quarter.
+
+The repository will remain publicly accessible after the Fall 2026 quarter so that students may continue to return to SHM 102 materials as they progress through the Safety and Health Management program, other coursework, internships, and their professional careers.
+
+Student information, grades, submissions, restricted assessment materials, and copyrighted materials that cannot be publicly redistributed will not be placed in the public repository.
+
+# Inclement Weather and Transportation Disruptions
+
+If weather or transportation conditions make an in person class impractical or unsafe, the class may move to a remote format or an asynchronous Canvas activity may replace that meeting. Any change will be announced through Canvas as early as reasonably possible. Students should not place themselves at unreasonable risk to travel to class and should communicate if local conditions affect their ability to participate.
+
+# Final Project
+
+The final project is the primary application based assessment in SHM 102. Students will individually investigate a real occupational or environmental health problem and address the affected workers or population, work and tasks, hazards, exposure pathways, potential health effects, factors influencing risk, credible evidence, prevention and control strategies, and how an intervention could be evaluated.
+
+Project work will develop throughout the quarter. Final projects will be presented individually during the final week of instruction, November 30 through December 3. Approximately three presentations will be scheduled per class meeting from Monday through Thursday. Each student will have a 15 minute presentation slot, with approximately 10 to 12 minutes for the presentation and 3 to 5 minutes for questions and discussion. Peer review and audience participation will contribute to Engagement & Current Events. Remaining presentation slots may be used for approved rescheduling or presentation re-dos, if needed.
+
+No regularly scheduled SHM 102 coursework is planned during the December 8 through 11 final examination period. This period provides time for students to focus on other final examinations and for completion of grading and approved presentation make-ups, if needed.
+
+# Artificial Intelligence
+
+Artificial intelligence is not prohibited in SHM 102. Students are encouraged to use AI thoughtfully as a tool for learning, problem solving, brainstorming, clarifying concepts, and improving their understanding.
+
+Students remain responsible for the accuracy, interpretation, reasoning, and recommendations contained in work they submit. AI should support rather than replace your own thinking. If AI materially contributes to submitted work, briefly identify the tool and explain where or how it was used. Verify factual claims and sources rather than assuming generated content is accurate.
+
+Using AI to fabricate evidence or citations, misrepresent generated work as your own independent work, or bypass the learning purpose of an assignment may constitute academic dishonesty. If you are unsure whether a use is appropriate, ask before submitting the work.
+
+# Academic Integrity
+
+Students are expected to act in accordance with CWU academic integrity and student conduct requirements. Submitted work must accurately represent your own contribution and must appropriately acknowledge the work, ideas, evidence, and tools used. Academic dishonesty may be addressed under CWU 501-20 and WAC 106-125-020.
+
+# Classroom Community and Conduct
+
+CWU expects every member of the university community to contribute to an inclusive and respectful culture for all in its classrooms, work environments, and at campus events.
+
+Occupational health involves real workers, communities, industries, injuries, illnesses, policies, and sometimes difficult events. We may disagree about interpretation or prevention strategies. Students should question ideas and evidence without attacking people. Asking someone to explain or support a position is part of academic inquiry.
+
+# Disability Services
+
+Central Washington University is committed to creating a learning environment that meets the needs of its diverse student body. If you anticipate or experience any obstacles to learning, contact Disability Services to discuss a range of available options. Student Disability Services is located in 205 Bouillon Hall. Call (509) 963-2214 or email ds\@cwu.edu for more information.
+
+# Religious Accommodations
+
+University Policy, CWU 501-20(39), provides for reasonable accommodation of student absences for religious holidays in accordance with RCW 28B.137.010. Students seeking reasonable accommodations under this policy must provide written notice to their instructors within the first two weeks of class specifying the dates for which religious accommodations are requested. Contact the Vice President for Student Engagement and Success at (509) 963-1515 for further information.
+
+# Sexual Misconduct, Responsible Employee, and Confidential Resources
+
+Central Washington University is committed to providing all community members with a learning and work environment that is free from sexual misconduct and discrimination. Students have rights and options for getting help if they have experienced sexual misconduct or discrimination. Information can be found at the Office for CWU Civil Rights Compliance website or by contacting the CWU Title IX Coordinator. As Responsible Employees, all faculty and staff are required to report information regarding sexual misconduct or related incidents and disclosures regarding sexual misconduct and discrimination to the CWU Title IX Coordinator, unless they are designated as a confidential resource.
+
+Students may receive confidential support by contacting CWU PATH, 509-963-1745 or PATH\@CWU.edu, or CWU Student Counseling Services, 509-963-1391.
+
+# Tentative Major Dates
+
+This schedule intentionally identifies major course milestones rather than locking the first redesigned offering into exact weekly topic titles. Current events, case studies, and instructional pacing may change. Canvas will contain the current schedule.
+
+| Date or period | Major milestone |
+|------------------------------------|------------------------------------|
+| September 23 | Fall classes begin |
+| Week 5 | Midterm: Foundations, exact date posted in Canvas |
+| November 11 | Veterans Day, no class |
+| November 25 to 27 | Thanksgiving and Native American Heritage Day recess, no class |
+| November 30 to December 3 | Individual final project presentations |
+| December 4 | Last day of instruction |
+| December 7 | Study Day |
+| December 8 to 11 | Final Exam Week; no regularly scheduled SHM 102 coursework planned |
+
+# Syllabus Changes
+
+This syllabus provides the course structure, expectations, and major assessment plan. Reasonable changes may be necessary because of class progress, current events, weather, university operations, or other circumstances. Changes will be communicated through Canvas. The current Canvas schedule and announcements should be used for day to day course deadlines.
+
+------------------------------------------------------------------------
+
+© 2026 Yoni Rodriguez. SHM 102: Occupational Health. Except where otherwise noted, instructor created course materials are licensed under CC BY-NC 4.0. Third party materials retain their original copyright and licensing terms.
