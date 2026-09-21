@@ -16,7 +16,23 @@ format:
 editor: visual
 ---
 
+<style>
+.grade-table table {
+  width: 600px !important;
+  max-width: 100%;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.grade-table th,
+.grade-table td {
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+</style>
+
 # Course Information
+
 
 |  |  |
 |------------------------------------|------------------------------------|
@@ -59,15 +75,52 @@ Students need regular access to Canvas, their CWU email, and a device capable of
 
 According to CWU guidance, one credit represents a total time commitment of approximately three hours each week, including scheduled class time and work outside class. A five credit course therefore represents a substantial weekly time commitment.
 
-# How This Course Works
+# Course Organization and Approach
 
-SHM 102 is designed around active learning and application. Class meetings may combine short lectures, case studies, current events, readings, discussion, individual or small group activities, and opportunities to apply occupational health concepts to real problems.
+Rather than treating occupational hazards as isolated categories, the course examines worker health across multiple interconnected scales:
 
-The course begins with foundations and then increasingly uses cases, discussion, evidence, and application. A recurring reasoning framework is:
+``` text
+Climate & Environment
+       ↓
+Society & Policy
+       ↓
+Community Health
+       ↓
+Workplace Environment
+       ↓
+Worker Health & Behaviors
+       ↓
+Cells, Molecules & Microorganisms
+```
 
-**Worker → Task → Hazard → Exposure → Health Effect → Risk → Controls**
+Biological, chemical, ergonomic, physical, and psychosocial hazards are examined across these scales through real world occupational health cases.
 
-Because this is a small in person section, some class meetings will function as seminar style discussions. Class time will be used to examine evidence, ask questions, discuss cases, and practice applying course concepts rather than relying exclusively on lecture.
+Cases repeatedly use a common occupational health reasoning framework:
+
+``` text
+Worker → Task → Hazard → Exposure → Health Effect → Risk → Controls
+```
+
+This framework provides students with a consistent approach for examining occupational health problems throughout the course.
+
+SHM 102 emphasizes:
+
+- Real world occupational and environmental health case studies
+- Connections between global, national, state, and local worker health issues
+- Scientific reasoning and evidence based decision making
+- Exposure pathways and health effects
+- Prevention through the hierarchy of controls
+- Interdisciplinary approaches to worker health
+- Current occupational and environmental health events
+- Active learning and application of course concepts
+
+The course begins with foundations and then increasingly uses cases, discussion, evidence, and application.
+
+Class meetings may combine short lectures, case studies, current events, readings, discussion, individual or small group activities, and opportunities to apply occupational health concepts to real problems.
+
+Because this is a small in person section, some class meetings may function as seminar style discussions where students examine evidence, ask questions, discuss cases, and practice applying course concepts rather than relying exclusively on lecture.
+
+Course materials are developed using Quarto to integrate scientific literature, data, maps, figures, Poll Everywhere activities, case studies, and other interactive teaching materials.
 
 You are not expected to enter SHM 102 already knowing occupational health. You are expected to engage with the material, ask questions, practice applying new concepts, and communicate when you need help.
 
@@ -100,22 +153,64 @@ Central Washington University defines the letter grades and grade points used on
 
 SHM 102 uses the percentage ranges below to translate course points into CWU letter grades. These percentage ranges are the grading scale adopted for this course.
 
-|          Percentage | Letter Grade | CWU Grade Points |
-|--------------------:|:------------:|-----------------:|
-|          94 to 100% |      A       |              4.0 |
-| 90 to less than 94% |      A-      |              3.7 |
-| 87 to less than 90% |      B+      |              3.3 |
-| 83 to less than 87% |      B       |              3.0 |
-| 80 to less than 83% |      B-      |              2.7 |
-| 77 to less than 80% |      C+      |              2.3 |
-| 73 to less than 77% |      C       |              2.0 |
-| 70 to less than 73% |      C-      |              1.7 |
-| 67 to less than 70% |      D+      |              1.3 |
-| 63 to less than 67% |      D       |              1.0 |
-| 60 to less than 63% |      D-      |              0.7 |
-|           Below 60% |      F       |              0.0 |
+::: {.grade-table}
+
+| Percentage | Letter Grade | CWU Grade Points |
+|-----------:|:-------------|-----------------:|
+| 94 to 100% | A | 4.0 |
+| 90 to less than 94% | A- | 3.7 |
+| 87 to less than 90% | B+ | 3.3 |
+| 83 to less than 87% | B | 3.0 |
+| 80 to less than 83% | B- | 2.7 |
+| 77 to less than 80% | C+ | 2.3 |
+| 73 to less than 77% | C | 2.0 |
+| 70 to less than 73% | C- | 1.7 |
+| 67 to less than 70% | D+ | 1.3 |
+| 63 to less than 67% | D | 1.0 |
+| 60 to less than 63% | D- | 0.7 |
+| Below 60% | F | 0.0 |
+
+:::
 
 Source basis: Central Washington University Undergraduate Catalog, *Academic and General Regulations*, "Grading Policies and Regulations." The percentage thresholds above are course specific and are not presented as university mandated percentage cutoffs.
+
+## Final Project
+
+The final project is worth **200 points** and accounts for **50% of the total course grade**.
+
+The final project serves as the primary application based assessment in SHM 102.
+
+Each student will individually investigate a real occupational or environmental health problem and apply the recurring course framework:
+
+``` text
+What's happening?
+       ↓
+Who is affected?
+       ↓
+What work or tasks are involved?
+       ↓
+What is the hazard?
+       ↓
+How are people exposed?
+       ↓
+What are the potential health effects?
+       ↓
+What factors influence risk?
+       ↓
+What does the evidence show?
+       ↓
+What controls would you recommend?
+       ↓
+How would you know whether the intervention worked?
+```
+
+Students will integrate credible evidence, occupational health concepts, exposure reasoning, prevention strategies, and professional communication into their analysis.
+
+Project work will develop throughout the quarter. Final projects will be presented individually during the final week of instruction, November 30 through December 3.
+
+Presentation time will be approximately 15 minutes per student, with approximately 10 to 12 minutes for the presentation and 3 to 5 minutes for questions and discussion. Peer review and audience participation during presentations contribute to Engagement & Current Events. Remaining presentation time may be used for approved rescheduling or presentation re-dos when appropriate.
+
+No regularly scheduled SHM 102 coursework is planned during the final examination period, December 8 through December 11.
 
 # Engagement, Discussion, and Reflections
 
@@ -139,7 +234,7 @@ Do not wait until the end of the quarter to raise a missing assignment or unreso
 
 # Extra Credit
 
-A standing learning and study skills extra credit opportunity is available to every student. Students may read an approved chapter from Cal Newport's *How to Become a Straight A Student* or Peter C. Brown, Henry L. Roediger III, and Mark A. McDaniel's *Make It Stick* and complete the associated Canvas reflection. The reflection will ask you to identify an important idea, connect it to your current approach to learning, try a strategy, and reflect on what happened.
+A standing learning and study skills extra credit opportunity is available to every student. Students may read an approved chapter from Cal Newport's *How to Become a Straight-A Student* or Peter C. Brown, Henry L. Roediger III, and Mark A. McDaniel's *Make It Stick* and complete the associated Canvas reflection. The reflection will ask you to identify an important idea, connect it to your current approach to learning, try a strategy, and reflect on what happened.
 
 A maximum of 10 extra credit points may be earned. Individual extra credit assignments will not be created at the end of the quarter for a particular student.
 
@@ -170,14 +265,6 @@ Student information, grades, submissions, restricted assessment materials, and c
 # Inclement Weather and Transportation Disruptions
 
 If weather or transportation conditions make an in person class impractical or unsafe, the class may move to a remote format or an asynchronous Canvas activity may replace that meeting. Any change will be announced through Canvas as early as reasonably possible. Students should not place themselves at unreasonable risk to travel to class and should communicate if local conditions affect their ability to participate.
-
-# Final Project
-
-The final project is the primary application based assessment in SHM 102. Students will individually investigate a real occupational or environmental health problem and address the affected workers or population, work and tasks, hazards, exposure pathways, potential health effects, factors influencing risk, credible evidence, prevention and control strategies, and how an intervention could be evaluated.
-
-Project work will develop throughout the quarter. Final projects will be presented individually during the final week of instruction, November 30 through December 3. Approximately three presentations will be scheduled per class meeting from Monday through Thursday. Each student will have a 15 minute presentation slot, with approximately 10 to 12 minutes for the presentation and 3 to 5 minutes for questions and discussion. Peer review and audience participation will contribute to Engagement & Current Events. Remaining presentation slots may be used for approved rescheduling or presentation re-dos, if needed.
-
-No regularly scheduled SHM 102 coursework is planned during the December 8 through 11 final examination period. This period provides time for students to focus on other final examinations and for completion of grading and approved presentation make-ups, if needed.
 
 # Artificial Intelligence
 
