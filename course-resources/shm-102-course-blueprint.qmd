@@ -59,11 +59,12 @@ Students develop foundations in occupational and environmental health, history a
 | Course | SHM 102: Occupational Health |
 | Section | 001 |
 | Credits | 5 |
-| Instructor | Yoni Rodriguez, Assistant Professor |
+| Professor | Yoni Rodriguez, Assistant Professor |
 | Meeting days | Monday through Thursday |
 | Meeting time | 9:00 to 9:50 AM |
 | Classroom | Hogue 102 through September 29; Hogue 229 beginning September 30 |
 | Instructional format | In person |
+| Office hours | Monday and Wednesday, 10:00 to 11:30 AM, drop in, and by appointment |
 
 The small class size allows the course to use more seminar style discussion, reading discussions, collaborative case analysis, and instructor consultation.
 
@@ -101,7 +102,7 @@ SHM 102 uses a 400 point course structure emphasizing foundational knowledge, en
 |-----------------------------|--------:|---------:|
 | Midterm: Foundations        |     100 |      25% |
 | Engagement & Current Events |     100 |      25% |
-| Final Group Project         |     200 |      50% |
+| Final Project               |     200 |      50% |
 | **Total**                   | **400** | **100%** |
 
 ## Grading Framework
@@ -139,15 +140,37 @@ Engagement activities provide opportunities to recognize, discuss, investigate, 
 
 Engagement emphasizes meaningful participation and application rather than attendance alone.
 
-## Final Group Project
+## Final Project
 
-The final group project is the primary application based assessment. Students collaboratively investigate a real occupational or environmental health problem and apply the reasoning framework developed throughout the quarter.
+The final project is the primary application based assessment. Each student will individually investigate a real occupational or environmental health problem and apply the reasoning framework developed throughout the quarter.
 
-Students should be able to define the problem, identify affected workers or populations, describe relevant work and tasks, identify hazards, explain exposure pathways, evaluate health consequences and factors influencing risk, use credible evidence, recommend prevention and control strategies, apply the hierarchy of controls where appropriate, communicate findings clearly, and explain how an intervention could be evaluated.
+Students should be able to define the problem, identify affected workers or populations, describe relevant work and tasks, identify hazards, explain exposure pathways, evaluate potential health effects and factors influencing risk, use credible evidence, recommend prevention and control strategies, apply the hierarchy of controls where appropriate, communicate findings clearly, and explain how an intervention could be evaluated.
 
-Project development occurs progressively through the quarter. Tentative milestones include group and topic selection, evidence search, exposure and health effect analysis, controls and recommendations, presentation development, feedback, and revision. Exact milestone dates will be posted in Canvas.
+The final project uses the recurring course framework:
+
+```text
+What's happening?
+       ↓
+Who is affected?
+       ↓
+What work or tasks are involved?
+       ↓
+What is the hazard?
+       ↓
+How are people exposed?
+       ↓
+What are the potential health effects?
+       ↓
+What factors influence risk?
+       ↓
+What does the evidence show?
+       ↓
+What controls would you recommend?
+       ↓
+How would you know whether the intervention worked?
 
 ## Week 11 — November 30–December 3
+```
 
 ### Final Project Presentations
 
@@ -162,6 +185,28 @@ Final projects will be presented individually during the final week of instructi
 - Peer review and audience participation incorporated into Engagement
 - Remaining presentation slots may be used for approved rescheduling or presentation re-dos, if needed
 
+
+
+That brings it directly into alignment with the syllabus. :contentReference[oaicite:2]{index=2}
+
+### Add the library session
+
+This is genuinely new and belongs in the blueprint because it is an intentional part of the instructional design, not merely a date announcement. The syllabus explicitly connects the September 28 session to finding evidence for cases and the individual Final Project. :contentReference[oaicite:3]{index=3}
+
+I would add this under `# Instructional Progression`, probably after `## Reading and Discussion Days`:
+
+```markdown
+## CWU Libraries Session
+
+A dedicated CWU Libraries session is scheduled for September 28, 2026.
+
+Students will meet at the CWU Library from 9:00 to 9:50 AM and explore resources available through CWU Libraries, OneSearch strategies for locating digital and physical materials, and ScienceDirect resources relevant to occupational health.
+
+The session is intentionally scheduled early in the quarter so that students can begin developing research and evidence evaluation skills before completing more independent case analysis and Final Project work.
+
+The resources and search strategies introduced during the session should support occupational health case studies, research activities, and the individual Final Project throughout the quarter.
+```
+
 ## End-of-Quarter Period — December 4–11
 
 **December 4:** Last day of instruction
@@ -172,12 +217,14 @@ Final projects will be presented individually during the final week of instructi
 
 No regularly scheduled SHM 102 coursework is planned during the final examination period.
 
-This period provides time for students to focus on other final examinations and for completion of grading and approved presentation make-ups, if needed.
+This period provides time for students to focus on other final examinations and for completion of grading and approved presentation make ups, if needed.
+
 # Learning and Study Skills Extra Credit
 
 A standing learning and study skills extra credit opportunity is available to all students under the same rules. Students may read an instructor approved chapter from Cal Newport's *How to Become a Straight A Student* or Brown, Roediger, and McDaniel's *Make It Stick* and complete a short Canvas reflection explaining a useful idea, how it relates to their current approach to learning, a strategy they tried, and what they observed.
 
 A maximum of 10 extra credit points may be earned. Extra credit is intended to reinforce learning skills and is not created individually at the end of the quarter for a particular student.
+
 
 # Inclement Weather and Transportation Disruptions
 

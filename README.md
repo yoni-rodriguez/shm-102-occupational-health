@@ -16,6 +16,7 @@ SHM 102 introduces students to the fundamental concepts of occupational health t
 - **Location:** Hogue 102 through September 29; Hogue 229 beginning September 30
 - **Format:** In person
 - **Professor:** Yoni Rodriguez, Assistant Professor
+- **Office Hours:** Monday and Wednesday, 10:00 to 11:30 AM, drop in, and by appointment
 
 ---
 
@@ -215,6 +216,16 @@ Students are encouraged to review preparatory materials before class when they a
 When a reading is needed for an in class discussion or activity, time will be reserved during class for students to read or review the material.
 
 The purpose of readings and other preparatory materials is to support discussion, cases, and occupational health reasoning rather than simply add additional work.
+
+---
+
+## CWU Libraries
+
+Research and evidence evaluation are integrated into SHM 102.
+
+Students will participate in a CWU Libraries session on September 28 to explore library resources, OneSearch strategies, and ScienceDirect resources relevant to occupational health.
+
+The research strategies introduced during this session will support case studies and the individual Final Project throughout the quarter.
 
 ---
 
