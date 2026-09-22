@@ -245,9 +245,6 @@ Central Washington University
 
 **Research Scientist**\
 University of Washington
-:::
-::::::
-
 # Tell Me About You
 
 Before we get started, I'd like to learn a little about who's in the room.
@@ -256,10 +253,10 @@ Before we get started, I'd like to learn a little about who's in the room.
 
 ::::::: {.columns .poll-columns}
 ::: {.column width="68%"}
-1.  Scan the QR code.
-2.  Sign in/register using your **CWU account**.
-3.  Complete the **Tell Me About You** survey.
-4.  We'll use this same response page throughout SHM 102.
+1. Scan the QR code.
+2. Sign in/register using your **CWU account**.
+3. Complete the **Tell Me About You** survey.
+4. We'll use this same response page throughout SHM 102.
 :::
 
 ::: {.column width="4%"}
@@ -272,8 +269,18 @@ Before we get started, I'd like to learn a little about who's in the room.
 ::::
 :::::::
 
-------------------------------------------------------------------------
+### Tell Me About You
 
+The survey includes six questions:
+
+1. **What is your year at school?**
+2. **What is your major?**
+3. **Are you a transfer student?**
+4. **Have you taken a course related to occupational health before?**
+5. **What are you hoping to get out of SHM 102?**
+6. **When you hear "occupational health," what comes to mind?**
+
+------------------------------------------------------------------------
 # What is Occupational Health?
 
 ## Before We Define It...
