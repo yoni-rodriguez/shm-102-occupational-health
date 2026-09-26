@@ -207,71 +207,6 @@ Central Washington University\
 :::
 ::::::
 
-# Introduction
-
-- Who am I?
-- What is occupational health?
-- Where does occupational health fit?
-- What will we do in this course?
-
-# Who am I?
-
-:::::: columns
-::: {.column width="44%"}
-![Yoni Rodriguez receiving the 2024 Peer Award at NASA Armstrong Flight Research Center, Edwards, California. Photo: [NASA Armstrong Flight Research Center](https://www.nasa.gov/armstrong/).](nasa-award.jpg){fig-alt="Yoni Rodriguez receiving the 2024 Peer Award at NASA Armstrong Flight Research Center"}
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="51%"}
-## Before CWU
-
-**Environmental Health Scientist**\
-NASA
-
-## Education
-
-**B.S. Biochemistry**\
-Washington State University
-
-**Graduate Training**\
-University of Washington
-
-## Today
-
-**Assistant Professor**\
-Central Washington University
-
-**Research Scientist**\
-University of Washington
-:::
-::::::
-
-# Tell Me About You
-
-Before we get started, I'd like to learn a little about who's in the room.
-
-### Poll Everywhere: First-Time Setup
-
-::::::: {.columns .poll-columns}
-::: {.column width="68%"}
-1.  Scan the QR code.
-2.  Sign in/register using your **CWU account**.
-3.  Complete the **Tell Me About You** survey.
-4.  We'll use this same response page throughout SHM 102.
-:::
-
-::: {.column width="4%"}
-:::
-
-:::: {.column width="28%"}
-::: {style="display:flex; justify-content:center; align-items:center; height:100%;"}
-![](poll-everywhere-response.jpg){fig-alt="Poll Everywhere QR code and response link for SHM 102" width="250"}
-:::
-::::
-:::::::
-
 ------------------------------------------------------------------------
 
 # What is Occupational Health?
@@ -445,16 +380,16 @@ There is no expectation that you know the formal definition yet. Give me your be
 
 ## This is Occupational Health
 
-:::::::::::::::::::::::::::: {style="text-align:center; margin: 3rem 0;"}
 # How to Apply Occupational Health
 
-::: {style="text-align:center;"}
+::: {style="text-align:center; margin: 3rem 0;"}
+
 ![](eoh-framework.jpg){fig-alt="University of Washington Environmental and Occupational Health Framework showing problem formulation, hazard identification, dose-response assessment, exposure assessment, risk characterization, risk communication, risk management, evaluation, research, and stakeholder engagement." width="72%"}
 
 *Source: University of Washington Department of Environmental & Occupational Health Sciences.*\
 [Explore the ENV H 501 course framework →](https://deohs.washington.edu/sites/default/files/course-materials/2023_AUT_ENV_H_501.pdf)
-:::
 
+:::
 ## How do we control exposure?
 
 ::: {style="text-align:center; margin: 4rem 0;"}
@@ -600,7 +535,6 @@ Psychosocial
 ::: {style="text-align:center; margin: 2.5rem 0;"}
 ### Understand exposure. Prevent harm.
 :::
-::::::::::::::::::::::::::::
 
 # Key Terms
 
@@ -651,4 +585,4 @@ Engineering control;Isolating people from a hazard
 
 Except where otherwise noted, original course materials are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 
-Third-party materials remain subject to their respective copyright and licensing terms. :::::::::::::::
+Third-party materials remain subject to their respective copyright and licensing terms.

@@ -2,17 +2,21 @@
 title: "SHM 102: Occupational Health"
 subtitle: "Fall 2026 Syllabus"
 author: "Yoni Rodriguez, Assistant Professor"
+
 format:
   html:
     toc: true
     toc-depth: 3
     theme: cosmo
+    embed-resources: true
+
   pdf:
     toc: true
     toc-depth: 3
     number-sections: false
     geometry: margin=0.8in
     fontsize: 10.5pt
+
 editor: visual
 ---
 
@@ -24,7 +28,7 @@ editor: visual
 | **Credits** | 5 |
 | **Term** | Fall 2026 |
 | **Meeting** | Monday through Thursday, 9:00 to 9:50 AM |
-| **Location** | Hogue 102 through September 29; Hogue 229 beginning September 30 |
+| **Location** | Hogue 102 |
 | **Format** | In person |
 | **Professor** | Yoni Rodriguez, Assistant Professor |
 | **Email** | Yoni.Rodriguez\@cwu.edu |
@@ -303,7 +307,7 @@ This schedule intentionally identifies major course milestones rather than locki
 | **September 23** | First day of SHM 102. Lecture 00: Course welcome, syllabus, expectations, resources, and course orientation. |
 | **September 28** | CWU Libraries Session, 9:00 to 9:50 AM. **Meet at the CWU Library.** |
 | [**September 29**]{style="color: red;"} | [CWU Change of Schedule Period ends. **Last day to add or drop classes** during the regular change of schedule period.]{style="color: red;"} |
-| **September 30** | **Classroom changes to Hogue 229 beginning this date.** |
+| **October 1st ** | **No class for Career Fair at SURC Ballroom** |
 | Week 5 | Midterm: Foundations, exact date posted in Canvas |
 | November 11 | Veterans Day, no class |
 | November 25 to 27 | Thanksgiving and Native American Heritage Day recess, no class |

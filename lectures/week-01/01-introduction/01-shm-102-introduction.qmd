@@ -207,7 +207,6 @@ Central Washington University\
 :::
 ::::::
 
-
 ------------------------------------------------------------------------
 
 # What is Occupational Health?
@@ -381,16 +380,16 @@ There is no expectation that you know the formal definition yet. Give me your be
 
 ## This is Occupational Health
 
-:::::::::::::::::::::::::::: {style="text-align:center; margin: 3rem 0;"}
 # How to Apply Occupational Health
 
-::: {style="text-align:center;"}
+::: {style="text-align:center; margin: 3rem 0;"}
+
 ![](eoh-framework.jpg){fig-alt="University of Washington Environmental and Occupational Health Framework showing problem formulation, hazard identification, dose-response assessment, exposure assessment, risk characterization, risk communication, risk management, evaluation, research, and stakeholder engagement." width="72%"}
 
 *Source: University of Washington Department of Environmental & Occupational Health Sciences.*\
 [Explore the ENV H 501 course framework →](https://deohs.washington.edu/sites/default/files/course-materials/2023_AUT_ENV_H_501.pdf)
-:::
 
+:::
 ## How do we control exposure?
 
 ::: {style="text-align:center; margin: 4rem 0;"}
@@ -536,7 +535,6 @@ Psychosocial
 ::: {style="text-align:center; margin: 2.5rem 0;"}
 ### Understand exposure. Prevent harm.
 :::
-::::::::::::::::::::::::::::
 
 # Key Terms
 
@@ -588,5 +586,3 @@ Engineering control;Isolating people from a hazard
 Except where otherwise noted, original course materials are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 
 Third-party materials remain subject to their respective copyright and licensing terms.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
