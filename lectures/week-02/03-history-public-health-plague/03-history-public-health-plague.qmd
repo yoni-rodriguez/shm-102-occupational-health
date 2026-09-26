@@ -128,14 +128,13 @@ Central Washington University\
 
 ![Nicolas Poussin, *The Plague of Ashdod*, c. 1630.](the-plague-of-ashdod-nicolas-poussin-1630.jpg){fig-alt="Painting of a city during a plague outbreak, showing sick and dying people in the streets, grieving figures, and classical architecture."}
 
-
 The Black Death swept through **Europe, western Asia, and Africa from 1346 to 1352**.
 
 It became one of the greatest public health disasters in recorded history.
 
 For more than **500 years**, people could observe the disease and its devastating effects without knowing exactly what caused it or how it spread.
 
----
+------------------------------------------------------------------------
 
 # A Mystery That Crossed Continents
 
@@ -143,35 +142,30 @@ The Black Death was one of several major plague pandemics in human history.
 
 Its impact can be understood across both **time** and **geography**.
 
-:::: {.columns}
+::::::: columns
 ::: {.column width="58%"}
-
-![CLICK TO ENGLARGE | Comparison of major infectious disease pandemics throughout human history. Source: Slonczewski, Foster, and Zinser, *Microbiology: An Evolving Science*, 6th ed., Chapter 1, Section 1.2, Figure 1.8. © [W. W. Norton & Company](https://nerd.wwnorton.com/ebooks/epub/microbio6/EPUB/content/1.2-chapter01.xhtml).](history-infectious-disease.jpg){.lightbox fig-alt="Graph comparing estimated infections and deaths from major infectious disease pandemics, including the Plague of Athens, Plague of Justinian, Black Death, Third Plague Pandemic, H1N1 influenza, HIV/AIDS, 2009 H1N1 influenza, and COVID-19." width="100%"}
-
+![CLICK TO ENGLARGE \| Comparison of major infectious disease pandemics throughout human history. Source: Slonczewski, Foster, and Zinser, *Microbiology: An Evolving Science*, 6th ed., Chapter 1, Section 1.2, Figure 1.8. © [W. W. Norton & Company](https://nerd.wwnorton.com/ebooks/epub/microbio6/EPUB/content/1.2-chapter01.xhtml).](history-infectious-disease.jpg){.lightbox fig-alt="Graph comparing estimated infections and deaths from major infectious disease pandemics, including the Plague of Athens, Plague of Justinian, Black Death, Third Plague Pandemic, H1N1 influenza, HIV/AIDS, 2009 H1N1 influenza, and COVID-19." width="100%"}
 :::
 
 ::: {.column width="4%"}
 :::
 
-::: {.column width="38%"}
-
+:::: {.column width="38%"}
 ::: {style="text-align:center;"}
-![CLICK TO ENGLARGE | Google Earth view showing geographic locations associated with the history and scientific investigation of plague across Europe, North Africa, and East Asia.](plague-path.jpg){.lightbox fig-alt="Google Earth globe showing locations associated with the history and scientific investigation of plague in Western Europe, North Africa, and East Asia." width="85%"}
+![CLICK TO ENGLARGE \| Google Earth view showing geographic locations associated with the history and scientific investigation of plague across Europe, North Africa, and East Asia.](plague-path.jpg){.lightbox fig-alt="Google Earth globe showing locations associated with the history and scientific investigation of plague in Western Europe, North Africa, and East Asia." width="85%"}
 :::
 
 *Interactive Google Earth project created by Yoni Rodriguez.*
 
 **Want to explore further?**\
 [Explore the path of plague in Google Earth](https://earth.google.com/earth/d/1GIR5OAHve5bpCdX06T976v63LRcyeLvr?usp=sharing)
-
-:::
 ::::
+:::::::
 
 ------------------------------------------------------------------------
 
-:::: {.columns .poll-columns}
+::::::: {.columns .poll-columns}
 ::: {.column width="65%"}
-
 *What stands out to you?*
 
 Consider both the **scale** of plague and the **distance** separating affected populations.
@@ -179,28 +173,24 @@ Consider both the **scale** of plague and the **distance** separating affected p
 *How could the same disease appear across such distant places and populations?*
 
 Use Poll Everywhere to share your response.
-
 :::
 
 ::: {.column width="5%"}
 :::
 
-::: {.column width="30%"}
-
+:::: {.column width="30%"}
 ::: {style="display:flex; justify-content:center; align-items:center; height:100%;"}
 ![](poll-everywhere-response.jpg){fig-alt="Poll Everywhere QR code and response link for SHM 102" width="250"}
 :::
-
-:::
 ::::
+:::::::
 
 ------------------------------------------------------------------------
 
 # What Could People Observe?
 
-:::: {.columns}
+:::::: columns
 ::: {.column width="55%"}
-
 People could observe:
 
 - severe illness
@@ -214,26 +204,20 @@ People could observe:
 They could observe the **outcome**.
 
 They could not yet observe the **cause**.
-
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="40%"}
-
 ![Clinical presentation of Hand necrosis caused by plague. Photograph by Dr. Jack Poland, 1975. [Centers for Disease Control and Prevention, Public Health Image Library (PHIL)](https://commons.wikimedia.org/wiki/File:Hand_necrosis_caused_by_plague.jpg)](cdc-human-plague.jpg){fig-alt="Clinical photograph of a person's hand showing severe dark discoloration and tissue damage affecting several fingers associated with plague."}
-
 :::
-::::
-
-
+::::::
 
 ## The Buboes
 
-:::: {.columns}
+:::::: columns
 ::: {.column width="55%"}
-
 One of the most recognizable signs of plague was the appearance of painful swellings.
 
 These swellings often appeared in the:
@@ -247,26 +231,22 @@ They became known as **buboes**.
 For centuries, people could see these swellings.
 
 But observing a symptom did not explain what caused it.
-
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="40%"}
-
 ![Bubo associated with bubonic plague. Source: James T. Eastman, M.D., F.C.A.P., Figure 4a, ["The Making of a Pandemic: Bubonic Plague in the 14th Century,"](https://www.jlgh.org/Past-Issues/Volume-4-Issue-1/The-Making-of-a-Pandemic.aspx) *The Journal of Lancaster General Hospital*.](bubonic-plague-buboes.jpg){fig-alt="Clinical photograph showing a pronounced swollen lymph node in the neck associated with bubonic plague."}
-
 :::
-::::
+::::::
 
 ------------------------------------------------------------------------
 
 # The Central Problem
 
-:::: {.columns .poll-columns}
+::::::: {.columns .poll-columns}
 ::: {.column width="65%"}
-
 People could see:
 
 **illness**
@@ -293,20 +273,17 @@ Think about:
 - how you would test whether your explanation was correct
 
 Use Poll Everywhere to share your response.
-
 :::
 
 ::: {.column width="5%"}
 :::
 
-::: {.column width="30%"}
-
+:::: {.column width="30%"}
 ::: {style="display:flex; justify-content:center; align-items:center; height:100%;"}
 ![](poll-everywhere-response.jpg){fig-alt="Poll Everywhere QR code and response link for SHM 102" width="250"}
 :::
-
-:::
 ::::
+:::::::
 
 ------------------------------------------------------------------------
 
@@ -329,9 +306,8 @@ Some observations were meaningful.
 
 The challenge was explaining **why** those patterns occurred.
 
-:::: {.columns}
+:::::: columns
 ::: {.column width="48%"}
-
 ## Imbalance Within the Body
 
 For centuries, European medicine was strongly influenced by the **theory of the four humors**.
@@ -346,18 +322,15 @@ Health was thought to depend on maintaining a balance among:
 Illness could therefore be interpreted as an **imbalance within the body**.
 
 Treatments intended to restore balance included bloodletting and purging.
-
 :::
 
 ::: {.column width="4%"}
 :::
 
 ::: {.column width="48%"}
-
-![CLICK TO ENGLARGE | The four humors and their historical associations with elements, seasons, physical qualities, and temperaments. Chart adapted from Thomas Walkington, *Optick Glasse of Humors* (1639). Source: [U.S. National Library of Medicine](https://www.nlm.nih.gov/exhibition/shakespeare-and-the-four-humors/index.html).](the-four-humors.jpg){.lightbox fig-alt="Diagram of the four humors showing blood, yellow bile, black bile, and phlegm and their historical associations with elements, seasons, qualities, and temperaments." width="100%"}
-
+![CLICK TO ENGLARGE \| The four humors and their historical associations with elements, seasons, physical qualities, and temperaments. Chart adapted from Thomas Walkington, *Optick Glasse of Humors* (1639). Source: [U.S. National Library of Medicine](https://www.nlm.nih.gov/exhibition/shakespeare-and-the-four-humors/index.html).](the-four-humors.jpg){.lightbox fig-alt="Diagram of the four humors showing blood, yellow bile, black bile, and phlegm and their historical associations with elements, seasons, qualities, and temperaments." width="100%"}
 :::
-::::
+::::::
 
 ------------------------------------------------------------------------
 
@@ -380,9 +353,8 @@ These observations were not imaginary.
 
 What remained uncertain was the mechanism connecting those conditions to disease.
 
-:::: {.columns}
+:::::: columns
 ::: {.column width="58%"}
-
 During plague outbreaks, people attempted to protect themselves from dangerous air in different ways.
 
 The familiar image of the **plague doctor** reflects this history. Plague doctors stuffed the bird-like beaks with strong-smelling herbs and spices to protect themselves from what they believed spread disease: foul, disease-carrying air known as **miasma**, or "bad air."
@@ -390,21 +362,15 @@ The familiar image of the **plague doctor** reflects this history. Plague doctor
 People were trying to control an exposure.
 
 They had not yet identified the actual hazard.
-
-
 :::
 
 ::: {.column width="4%"}
 :::
 
 ::: {.column width="38%"}
-
 ![Historical representation of a plague doctor wearing a beaked mask and protective clothing. Source: Rachel Hajar, ["The Air of History (Part II): Medicine in the Middle Ages,"](https://pmc.ncbi.nlm.nih.gov/articles/PMC3573364/) *Heart Views* (2012).](plague-doctor.jpg){fig-alt="Historical illustration of a plague doctor wearing a long coat, broad-brimmed hat, and beaked mask." width="70%"}
-
 :::
-::::
-
-
+::::::
 
 ## Do Old Ideas Completely Disappear?
 
@@ -418,9 +384,9 @@ The scientific challenge remains the same:
 
 ### What evidence supports the explanation?
 
-![CLICK TO ENLARGE | Examples from Mexico, West Africa, and the United States illustrate how people develop explanations for illness and health, and how scientific evidence can be used to evaluate those explanations.](when-evidence-challenges-old-ideas.jpg){.lightbox fig-alt="Educational infographic comparing examples from Mexico, West Africa, and the United States. The Mexico example discusses aire and the belief that going outside with wet hair causes illness. The West Africa example examines traditional and religious explanations and practices during the Ebola epidemic. The United States example examines modern health claims and dietary supplement regulation. The infographic emphasizes evaluating explanations using scientific evidence." width="100%"}
+![CLICK TO ENLARGE \| Examples from Mexico, West Africa, and the United States illustrate how people develop explanations for illness and health, and how scientific evidence can be used to evaluate those explanations.](when-evidence-challenges-old-ideas.jpg){.lightbox fig-alt="Educational infographic comparing examples from Mexico, West Africa, and the United States. The Mexico example discusses aire and the belief that going outside with wet hair causes illness. The West Africa example examines traditional and religious explanations and practices during the Ebola epidemic. The United States example examines modern health claims and dietary supplement regulation. The infographic emphasizes evaluating explanations using scientific evidence." width="100%"}
 
-**Sources:** [Gross (2016), *Letting the Air Out: Aire as an Empty Signifier in Oaxacan Understandings of Illness*](https://pubmed.ncbi.nlm.nih.gov/27431429/) | [Manguvo & Mafuvadze (2015), *The Impact of Traditional and Religious Practices on the Spread of Ebola in West Africa*](https://pmc.ncbi.nlm.nih.gov/articles/PMC4709130/) | [U.S. Food and Drug Administration, *Questions and Answers on Dietary Supplements*](https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements)
+**Sources:** [Gross (2016), *Letting the Air Out: Aire as an Empty Signifier in Oaxacan Understandings of Illness*](https://pubmed.ncbi.nlm.nih.gov/27431429/) \| [Manguvo & Mafuvadze (2015), *The Impact of Traditional and Religious Practices on the Spread of Ebola in West Africa*](https://pmc.ncbi.nlm.nih.gov/articles/PMC4709130/) \| [U.S. Food and Drug Administration, *Questions and Answers on Dietary Supplements*](https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements)
 
 ------------------------------------------------------------------------
 
@@ -438,26 +404,22 @@ Think about ideas you may have encountered through:
 
 **What was the explanation, and what evidence would you want before deciding whether it is accurate?**
 
-:::: {.columns .poll-columns}
+::::::: {.columns .poll-columns}
 ::: {.column width="65%"}
-
 Submit an example through **Poll Everywhere**.
 
 There is no single correct answer. The goal is to identify an explanation and begin thinking about **how we could test it using evidence**.
-
 :::
 
 ::: {.column width="5%"}
 :::
 
-::: {.column width="30%"}
-
+:::: {.column width="30%"}
 ::: {style="display:flex; justify-content:center; align-items:center; height:100%;"}
 ![](poll-everywhere-response.jpg){fig-alt="Poll Everywhere QR code and response link for SHM 102" width="250"}
 :::
-
-:::
 ::::
+:::::::
 
 ------------------------------------------------------------------------
 
@@ -467,7 +429,7 @@ Not everyone explained disease through bodily imbalance or corrupted air.
 
 As plague spread through medieval Europe, people increasingly recognized that the disease appeared to be **contagious**.
 
-But 
+But
 
 *what was being transmitted?*
 
@@ -475,71 +437,53 @@ But
 
 In the sixteenth century, Italian physician **Girolamo Fracastoro (1478–1533)** proposed that plague and other diseases could be transmitted by invisible **"seeds of contagion,"** or *seminaria*.
 
-This was a very different hypothesis that asked if disease was transmitted by something physical that people simply could not see? 
+This was a very different hypothesis that asked if disease was transmitted by something physical that people simply could not see?
 
-:::: {.columns}
+:::::: columns
 ::: {.column width="38%"}
-
 ![Irwin W. Sherman's *Twelve Diseases That Changed Our World* (2007).](twelve-diseases-that-changed-our-world-cover-2007.jpg){fig-alt="Cover of Irwin W. Sherman's book Twelve Diseases That Changed Our World." width="85%"}
-
 :::
 
 ::: {.column width="4%"}
 :::
 
 ::: {.column width="58%"}
-
-![CLICK TO ENLARGE | Sherman describes competing explanations for plague and Girolamo Fracastoro's proposal that disease could be transmitted by "seeds of contagion." Source: Sherman (2007), "Bubonic Plague," *Twelve Diseases That Changed Our World*.](plague-cause-seeds-of-contagion.jpg){.lightbox fig-alt="Excerpt from Sherman's Bubonic Plague chapter describing miasma, polluted water, Girolamo Fracastoro, and the theory that plague could be transmitted by seeds of contagion or seminaria." width="100%"}
-
+![CLICK TO ENLARGE \| Sherman describes competing explanations for plague and Girolamo Fracastoro's proposal that disease could be transmitted by "seeds of contagion." Source: Sherman (2007), "Bubonic Plague," *Twelve Diseases That Changed Our World*.](plague-cause-seeds-of-contagion.jpg){.lightbox fig-alt="Excerpt from Sherman's Bubonic Plague chapter describing miasma, polluted water, Girolamo Fracastoro, and the theory that plague could be transmitted by seeds of contagion or seminaria." width="100%"}
 :::
-::::
+::::::
 
-**Source:** Sherman, I. W. (2007). "Bubonic Plague." In *Twelve Diseases That Changed Our World* (pp. 68–82). ASM Press. [https://doi.org/10.1128/9781555816346.ch5](https://doi.org/10.1128/9781555816346.ch5)
+**Source:** Sherman, I. W. (2007). "Bubonic Plague." In *Twelve Diseases That Changed Our World* (pp. 68–82). ASM Press. <https://doi.org/10.1128/9781555816346.ch5>
 
 ### However, the hypothesis was not enough.
 
 ### Even if Fracastoro was correct, people still lacked the technology needed to identify the responsible agent.
 
-
 # The Microscope
 
-In the seventeenth century, improvements in microscopy allowed scientists
-to observe structures and organisms that had previously been invisible.
+In the seventeenth century, improvements in microscopy allowed scientists to observe structures and organisms that had previously been invisible.
 
-:::: {.columns}
+:::::: columns
 ::: {.column width="52%"}
+**Robert Hooke (1635–1703)** used a compound microscope to examine biological materials and published his observations in *Micrographia* in 1665.
 
-**Robert Hooke (1635–1703)** used a compound microscope to examine
-biological materials and published his observations in *Micrographia*
-in 1665.
+Hooke observed microscopic structures and organisms, including mold, but his microscopes were not powerful enough to reveal individual bacteria.
 
-Hooke observed microscopic structures and organisms, including mold,
-but his microscopes were not powerful enough to reveal individual
-bacteria.
-
-**Antonie van Leeuwenhoek (1632–1723)** developed powerful single-lens
-microscopes and became the first person known to observe single-celled
-microorganisms, eventually including bacteria.
+**Antonie van Leeuwenhoek (1632–1723)** developed powerful single-lens microscopes and became the first person known to observe single-celled microorganisms, eventually including bacteria.
 
 ### Humans could finally see microorganisms.
 
 ### However, nearly two centuries passed before scientists established the connection between microorganisms and disease.
-
 :::
 
 ::: {.column width="4%"}
 :::
 
 ::: {.column width="44%"}
+![CLICK TO ENLARGE \| Mold sporangia drawn by Robert Hooke in 1665 from observations using a compound microscope. Source: Slonczewski, Foster, and Zinser, *Microbiology: An Evolving Science*, 6th ed., Figure 1.12.](hooke-microscopic%20world.jpg){.lightbox fig-alt="Robert Hooke's 1665 drawing of mold sporangia observed using a compound microscope." width="70%"}
 
-![CLICK TO ENLARGE | Mold sporangia drawn by Robert Hooke in 1665 from observations using a compound microscope. Source: Slonczewski, Foster, and Zinser, *Microbiology: An Evolving Science*, 6th ed., Figure 1.12.](hooke-microscopic%20world.jpg){.lightbox fig-alt="Robert Hooke's 1665 drawing of mold sporangia observed using a compound microscope." width="70%"}
-
-![CLICK TO ENLARGE | Reconstruction of Leeuwenhoek's single-lens microscope and a micrograph obtained using a replica. Source: Slonczewski, Foster, and Zinser, *Microbiology: An Evolving Science*, 6th ed., Figure 1.13B–C.](leeuwenhoek-microscope.jpg){.lightbox fig-alt="Diagram of Antonie van Leeuwenhoek's single-lens microscope beside a microscopic field obtained using a replica of the instrument." width="75%"}
-
+![CLICK TO ENLARGE \| Reconstruction of Leeuwenhoek's single-lens microscope and a micrograph obtained using a replica. Source: Slonczewski, Foster, and Zinser, *Microbiology: An Evolving Science*, 6th ed., Figure 1.13B–C.](leeuwenhoek-microscope.jpg){.lightbox fig-alt="Diagram of Antonie van Leeuwenhoek's single-lens microscope beside a microscopic field obtained using a replica of the instrument." width="75%"}
 :::
-::::
-
-
+::::::
 
 ## Poll Everywhere
 
@@ -549,9 +493,8 @@ There is no single answer.
 
 Think about what scientists could **observe**, what they could **measure**, and what evidence they would need to demonstrate that a microorganism actually caused disease.
 
-:::: {.columns .poll-columns}
+::::::: {.columns .poll-columns}
 ::: {.column width="65%"}
-
 Submit your explanation through **Poll Everywhere**.
 
 Consider the problem scientists faced:
@@ -559,20 +502,17 @@ Consider the problem scientists faced:
 **Seeing a microorganism does not necessarily mean that it caused the disease.**
 
 What additional evidence would you want?
-
 :::
 
 ::: {.column width="5%"}
 :::
 
-::: {.column width="30%"}
-
+:::: {.column width="30%"}
 ::: {style="display:flex; justify-content:center; align-items:center; height:100%;"}
 ![](poll-everywhere-response.jpg){fig-alt="Poll Everywhere QR code and response link for SHM 102" width="250"}
 :::
-
-:::
 ::::
+:::::::
 
 ------------------------------------------------------------------------
 
@@ -582,72 +522,56 @@ Remember where this lecture began?
 
 **France.**
 
-French chemist **Louis Pasteur (1822–1895)** investigated microorganisms
-while studying problems involving fermentation for the French Beer & Wine Industry.
+French chemist **Louis Pasteur (1822–1895)** investigated microorganisms while studying problems involving fermentation for the French Beer & Wine Industry.
 
-His research demonstrated that yeast, a single-celled fungus, in the absence of oxygen
-produced alcohol as a terminal waste product. 
+His research demonstrated that yeast, a single-celled fungus, in the absence of oxygen produced alcohol as a terminal waste product.
 
-:::: {.columns}
+:::::: columns
 ::: {.column width="45%"}
-
-In his famous **swan-neck flask experiments**, air could enter a
-sterilized flask of beef broth, while dust and microorganisms were trapped
-in the curved neck.
+In his famous **swan-neck flask experiments**, air could enter a sterilized flask of beef broth, while dust and microorganisms were trapped in the curved neck.
 
 The broth remained free of microbial growth for many years.
 
-When a flask was tilted so that the broth contacted material trapped in
-the neck, microorganisms grew.
+When a flask was tilted so that the broth contacted material trapped in the neck, microorganisms grew.
 
 **The air was present.**
 
 **Microbial growth was not.**
-
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="50%"}
-
-![CLICK TO ENLARGE | Louis Pasteur and the swan-neck flask experiment. Source: Slonczewski, Foster, and Zinser, *Microbiology: An Evolving Science*, 6th ed., Figure 1.14.](louis-pasteur.jpg){.lightbox fig-alt="Portrait of Louis Pasteur beside a diagram of his swan-neck flask experiment showing sterilization of broth, microbes trapped in the curved neck, and microbial growth after broth contacts the trapped material." width="100%"}
-
+![CLICK TO ENLARGE \| Louis Pasteur and the swan-neck flask experiment. Source: Slonczewski, Foster, and Zinser, *Microbiology: An Evolving Science*, 6th ed., Figure 1.14.](louis-pasteur.jpg){.lightbox fig-alt="Portrait of Louis Pasteur beside a diagram of his swan-neck flask experiment showing sterilization of broth, microbes trapped in the curved neck, and microbial growth after broth contacts the trapped material." width="100%"}
 :::
-::::
+::::::
 
 This represented more than simply observing microorganisms.
 
 Scientists could use **controlled experiments to test competing explanations**.
 
-1. *Make an observation*
-2. *Ask a question*
-3. *Form a hypothesis*
-4. *Conduct an experiment*
-5. *Evaluate the evidence*
-
+1.  *Make an observation*
+2.  *Ask a question*
+3.  *Form a hypothesis*
+4.  *Conduct an experiment*
+5.  *Evaluate the evidence*
 
 ## Germ Theory
 
 Microscopy made microorganisms visible.
 
-Experimental science made it possible to investigate what microorganisms
-were doing.
+Experimental science made it possible to investigate what microorganisms were doing.
 
-During the nineteenth century, evidence from scientists including
-**Louis Pasteur** and **Robert Koch** helped establish the **germ theory
-of disease**.
+During the nineteenth century, evidence from scientists including **Louis Pasteur** and **Robert Koch** helped establish the **germ theory of disease**.
 
 The central idea was revolutionary:
 
 ### Many infectious diseases are caused by microorganisms.
 
-Pasteur's experiments demonstrated that microorganisms did not "simply
-appear" through what was considered spontaneous generation.
+Pasteur's experiments demonstrated that microorganisms did not "simply appear" through what was considered spontaneous generation.
 
-Koch later developed methods for studying microorganisms in isolation
-and establishing causal relationships between specific microorganisms
-and specific diseases.
+Koch later developed methods for studying microorganisms in isolation and establishing causal relationships between specific microorganisms and specific diseases.
 
 Scientists now had:
 
@@ -659,34 +583,27 @@ Scientists now had:
 
 Together, these developments changed the questions scientists could ask.
 
-**Germ theory:** the theory that many infectious diseases are caused by
-microorganisms.
+**Germ theory:** the theory that many infectious diseases are caused by microorganisms.
 
 ### Source
 
-:::: {.columns}
+:::::: columns
 ::: {.column width="22%"}
-
 ![*Microbiology: An Evolving Science*, 6th ed.](microbiology-an-evolving-science.jpg){fig-alt="Cover of the sixth edition of Microbiology: An Evolving Science by Joan Slonczewski, John W. Foster, and Erik R. Zinser." width="75%"}
-
 :::
 
 ::: {.column width="4%"}
 :::
 
 ::: {.column width="74%"}
+The history of microscopy, Robert Hooke, Antonie van Leeuwenhoek, and Louis Pasteur:
 
-The history of microscopy, Robert Hooke, Antonie van Leeuwenhoek, and
-Louis Pasteur:
-
-**Slonczewski, J., Foster, J. W., & Zinser, E. R. (2024).**  
+**Slonczewski, J., Foster, J. W., & Zinser, E. R. (2024).**\
 *Microbiology: An Evolving Science* (6th ed.). W. W. Norton & Company.
 
 [Explore *Microbiology: An Evolving Science* →](https://wwnorton.com/books/9781324033523)
-
 :::
-::::
-
+::::::
 
 ------------------------------------------------------------------------
 
@@ -698,19 +615,16 @@ Modern transportation helped the disease move across large distances.
 
 By **1894**, a major plague epidemic had reached **Hong Kong**.
 
-:::: {.columns}
+:::::: columns
 ::: {.column width="48%"}
-
-Scientists now had scientific tools and frameworks their medieval
-predecessors did not:
+Scientists now had scientific tools and frameworks their medieval predecessors did not:
 
 - germ theory
 - improved microscopes
 - staining techniques
 - experimental methods
 
-For centuries, people had observed the symptoms and patterns of plague
-without being able to identify its cause.
+For centuries, people had observed the symptoms and patterns of plague without being able to identify its cause.
 
 Now scientists could apply these innovations to investigate the disease.
 
@@ -721,18 +635,15 @@ The question was no longer simply:
 It became:
 
 ### What organism is causing this disease?
-
 :::
 
 ::: {.column width="4%"}
 :::
 
 ::: {.column width="48%"}
-
-![CLICK TO ENLARGE | Men's ward at the Kennedy Town Glassworks emergency plague hospital during the 1894 Hong Kong plague epidemic. Source: Echenberg (2007), "An Unexampled Calamity: Hong Kong, 1894," *Plague Ports: The Global Urban Impact of Bubonic Plague, 1894–1901*.](hong-kong-plague-hospital.jpg){.lightbox fig-alt="Historical black-and-white photograph of the men's ward at the Kennedy Town Glassworks emergency plague hospital in Hong Kong during the 1894 plague epidemic, with patients lying on bedding along both sides of a long hospital ward." width="100%"}
-
+![CLICK TO ENLARGE \| Men's ward at the Kennedy Town Glassworks emergency plague hospital during the 1894 Hong Kong plague epidemic. Source: Echenberg (2007), "An Unexampled Calamity: Hong Kong, 1894," *Plague Ports: The Global Urban Impact of Bubonic Plague, 1894–1901*.](hong-kong-plague-hospital.jpg){.lightbox fig-alt="Historical black-and-white photograph of the men's ward at the Kennedy Town Glassworks emergency plague hospital in Hong Kong during the 1894 plague epidemic, with patients lying on bedding along both sides of a long hospital ward." width="100%"}
 :::
-::::
+::::::
 
 **Source:** Echenberg, M. (2007). "An Unexampled Calamity: Hong Kong, 1894." In *Plague Ports: The Global Urban Impact of Bubonic Plague, 1894–1901* (pp. 16–46). NYU Press. [Access through JSTOR →](http://www.jstor.org.offcampus.lib.washington.edu/stable/j.ctt9qgb84.7)
 
