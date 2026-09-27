@@ -13,7 +13,7 @@ SHM 102 introduces students to the fundamental concepts of occupational health t
 - **Credits:** 5
 - **Term:** Fall 2026
 - **Meeting Schedule:** Monday through Thursday, 9:00 to 9:50 AM
-- **Location:** Hogue 102 through September 29; Hogue 229 beginning September 30
+- **Location:** Hogue 102 
 - **Format:** In person
 - **Professor:** Yoni Rodriguez, Assistant Professor
 - **Office Hours:** Monday and Wednesday, 10:00 to 11:30 AM, drop in, and by appointment
