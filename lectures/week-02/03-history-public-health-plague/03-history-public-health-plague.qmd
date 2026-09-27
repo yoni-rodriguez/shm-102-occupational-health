@@ -429,61 +429,79 @@ Not everyone explained disease through bodily imbalance or corrupted air.
 
 As plague spread through medieval Europe, people increasingly recognized that the disease appeared to be **contagious**.
 
-But
+::: {.callout-note title="The Unanswered Questions"}
+**What was being transmitted?**
 
-*what was being transmitted?*
+**How was it being transmitted?**
+:::
 
-*how was it being transmitted?*
+In the sixteenth century, Italian physician **Girolamo Fracastoro "Giro" (1478–1533)** proposed that plague and other diseases could be transmitted by invisible **"seeds of contagion,"** or *seminaria*.
 
-In the sixteenth century, Italian physician **Girolamo Fracastoro (1478–1533)** proposed that plague and other diseases could be transmitted by invisible **"seeds of contagion,"** or *seminaria*.
+This was a very different hypothesis that asked whether disease was transmitted by something physical that people simply could not see.
 
-This was a very different hypothesis that asked if disease was transmitted by something physical that people simply could not see?
-
-:::::: columns
+:::: {.columns}
 ::: {.column width="38%"}
+
 ![Irwin W. Sherman's *Twelve Diseases That Changed Our World* (2007).](twelve-diseases-that-changed-our-world-cover-2007.jpg){fig-alt="Cover of Irwin W. Sherman's book Twelve Diseases That Changed Our World." width="85%"}
+
 :::
 
 ::: {.column width="4%"}
 :::
 
 ::: {.column width="58%"}
-![CLICK TO ENLARGE \| Sherman describes competing explanations for plague and Girolamo Fracastoro's proposal that disease could be transmitted by "seeds of contagion." Source: Sherman (2007), "Bubonic Plague," *Twelve Diseases That Changed Our World*.](plague-cause-seeds-of-contagion.jpg){.lightbox fig-alt="Excerpt from Sherman's Bubonic Plague chapter describing miasma, polluted water, Girolamo Fracastoro, and the theory that plague could be transmitted by seeds of contagion or seminaria." width="100%"}
+
+![CLICK TO ENLARGE | Sherman describes competing explanations for plague and Girolamo Fracastoro's proposal that disease could be transmitted by "seeds of contagion." Source: Sherman (2007), "Bubonic Plague," *Twelve Diseases That Changed Our World*.](plague-cause-seeds-of-contagion.jpg){.lightbox fig-alt="Excerpt from Sherman's Bubonic Plague chapter describing miasma, polluted water, Girolamo Fracastoro, and the theory that plague could be transmitted by seeds of contagion or seminaria." width="100%"}
+
 :::
-::::::
+::::
 
 **Source:** Sherman, I. W. (2007). "Bubonic Plague." In *Twelve Diseases That Changed Our World* (pp. 68–82). ASM Press. <https://doi.org/10.1128/9781555816346.ch5>
 
-### However, the hypothesis was not enough.
+------------------------------------------------------------------------
 
-### Even if Fracastoro was correct, people still lacked the technology needed to identify the responsible agent.
+::: {.callout-important title="A Hypothesis Was Not Enough"}
+**Giro** had proposed something that could not yet be directly observed.
+
+Even if **Giro** was correct, people still lacked the technology needed to identify the responsible agent.
+:::
+
+------------------------------------------------------------------------
 
 # The Microscope
 
 In the seventeenth century, improvements in microscopy allowed scientists to observe structures and organisms that had previously been invisible.
 
-:::::: columns
+:::: {.columns}
 ::: {.column width="52%"}
+
 **Robert Hooke (1635–1703)** used a compound microscope to examine biological materials and published his observations in *Micrographia* in 1665.
 
 Hooke observed microscopic structures and organisms, including mold, but his microscopes were not powerful enough to reveal individual bacteria.
 
 **Antonie van Leeuwenhoek (1632–1723)** developed powerful single-lens microscopes and became the first person known to observe single-celled microorganisms, eventually including bacteria.
 
-### Humans could finally see microorganisms.
+::: {.callout-important title="Seeing Was Not the Same as Understanding"}
+**Humans could finally see microorganisms.**
 
-### However, nearly two centuries passed before scientists established the connection between microorganisms and disease.
+**However, nearly two centuries passed before scientists established the connection between microorganisms and disease.**
+:::
+
 :::
 
 ::: {.column width="4%"}
 :::
 
 ::: {.column width="44%"}
-![CLICK TO ENLARGE \| Mold sporangia drawn by Robert Hooke in 1665 from observations using a compound microscope. Source: Slonczewski, Foster, and Zinser, *Microbiology: An Evolving Science*, 6th ed., Figure 1.12.](hooke-microscopic%20world.jpg){.lightbox fig-alt="Robert Hooke's 1665 drawing of mold sporangia observed using a compound microscope." width="70%"}
 
-![CLICK TO ENLARGE \| Reconstruction of Leeuwenhoek's single-lens microscope and a micrograph obtained using a replica. Source: Slonczewski, Foster, and Zinser, *Microbiology: An Evolving Science*, 6th ed., Figure 1.13B–C.](leeuwenhoek-microscope.jpg){.lightbox fig-alt="Diagram of Antonie van Leeuwenhoek's single-lens microscope beside a microscopic field obtained using a replica of the instrument." width="75%"}
+![CLICK TO ENLARGE | Mold sporangia drawn by Robert Hooke in 1665 from observations using a compound microscope. Source: Slonczewski, Foster, and Zinser, *Microbiology: An Evolving Science*, 6th ed., Figure 1.12.](hooke-microscopic%20world.jpg){.lightbox fig-alt="Robert Hooke's 1665 drawing of mold sporangia observed using a compound microscope." width="70%"}
+
+![CLICK TO ENLARGE | Reconstruction of Leeuwenhoek's single-lens microscope and a micrograph obtained using a replica. Source: Slonczewski, Foster, and Zinser, *Microbiology: An Evolving Science*, 6th ed., Figure 1.13B–C.](leeuwenhoek-microscope.jpg){.lightbox fig-alt="Diagram of Antonie van Leeuwenhoek's single-lens microscope beside a microscopic field obtained using a replica of the instrument." width="75%"}
+
 :::
-::::::
+::::
+
+------------------------------------------------------------------------
 
 ## Poll Everywhere
 
@@ -526,8 +544,9 @@ French chemist **Louis Pasteur (1822–1895)** investigated microorganisms while
 
 His research demonstrated that yeast, a single-celled fungus, in the absence of oxygen produced alcohol as a terminal waste product.
 
-:::::: columns
+:::: {.columns}
 ::: {.column width="45%"}
+
 In his famous **swan-neck flask experiments**, air could enter a sterilized flask of beef broth, while dust and microorganisms were trapped in the curved neck.
 
 The broth remained free of microbial growth for many years.
@@ -537,25 +556,30 @@ When a flask was tilted so that the broth contacted material trapped in the neck
 **The air was present.**
 
 **Microbial growth was not.**
+
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="50%"}
-![CLICK TO ENLARGE \| Louis Pasteur and the swan-neck flask experiment. Source: Slonczewski, Foster, and Zinser, *Microbiology: An Evolving Science*, 6th ed., Figure 1.14.](louis-pasteur.jpg){.lightbox fig-alt="Portrait of Louis Pasteur beside a diagram of his swan-neck flask experiment showing sterilization of broth, microbes trapped in the curved neck, and microbial growth after broth contacts the trapped material." width="100%"}
-:::
-::::::
 
+![CLICK TO ENLARGE | Louis Pasteur and the swan-neck flask experiment. Source: Slonczewski, Foster, and Zinser, *Microbiology: An Evolving Science*, 6th ed., Figure 1.14.](louis-pasteur.jpg){.lightbox fig-alt="Portrait of Louis Pasteur beside a diagram of his swan-neck flask experiment showing sterilization of broth, microbes trapped in the curved neck, and microbial growth after broth contacts the trapped material." width="100%"}
+
+:::
+::::
+
+::: {.callout-tip title="From Observation to Experiment"}
 This represented more than simply observing microorganisms.
 
 Scientists could use **controlled experiments to test competing explanations**.
 
-1.  *Make an observation*
-2.  *Ask a question*
-3.  *Form a hypothesis*
-4.  *Conduct an experiment*
-5.  *Evaluate the evidence*
+1. *Make an observation*
+2. *Ask a question*
+3. *Form a hypothesis*
+4. *Conduct an experiment*
+5. *Evaluate the evidence*
+:::
 
 ## Germ Theory
 
@@ -573,17 +597,17 @@ Pasteur's experiments demonstrated that microorganisms did not "simply appear" t
 
 Koch later developed methods for studying microorganisms in isolation and establishing causal relationships between specific microorganisms and specific diseases.
 
+::: {.callout-tip title="A New Scientific Framework"}
 Scientists now had:
 
-**a scientific framework**
-
-**experimental methods**
-
-**technologies for observing microorganisms**
+- **a scientific framework**
+- **experimental methods**
+- **technologies for observing microorganisms**
 
 Together, these developments changed the questions scientists could ask.
 
 **Germ theory:** the theory that many infectious diseases are caused by microorganisms.
+:::
 
 ### Source
 
@@ -607,59 +631,142 @@ The history of microscopy, Robert Hooke, Antonie van Leeuwenhoek, and Louis Past
 
 ------------------------------------------------------------------------
 
-# 1894: Plague in Hong Kong
+# Case Study: Hong Kong, 1894
 
-During the nineteenth century, plague again spread from China.
+It is **1894**.
 
-Modern transportation helped the disease move across large distances.
+A major outbreak of plague has reached **Hong Kong**.
 
-By **1894**, a major plague epidemic had reached **Hong Kong**.
+People are becoming severely ill and dying.
 
-:::::: columns
-::: {.column width="48%"}
-Scientists now had scientific tools and frameworks their medieval predecessors did not:
+Scientists now have tools their medieval predecessors did not:
 
 - germ theory
 - improved microscopes
 - staining techniques
 - experimental methods
 
-For centuries, people had observed the symptoms and patterns of plague without being able to identify its cause.
+:::: {.columns}
+::: {.column width="48%"}
 
-Now scientists could apply these innovations to investigate the disease.
+You are part of a scientific team sent to investigate the outbreak.
 
-The question was no longer simply:
+Your task is not simply to describe what is happening.
 
-### What is happening?
+::: {.callout-note title="Your Investigation"}
+**Your task is to identify the cause.**
 
-It became:
+What evidence would you collect?
 
-### What organism is causing this disease?
+Where would you look?
+
+What would you examine?
+:::
+
 :::
 
 ::: {.column width="4%"}
 :::
 
 ::: {.column width="48%"}
-![CLICK TO ENLARGE \| Men's ward at the Kennedy Town Glassworks emergency plague hospital during the 1894 Hong Kong plague epidemic. Source: Echenberg (2007), "An Unexampled Calamity: Hong Kong, 1894," *Plague Ports: The Global Urban Impact of Bubonic Plague, 1894–1901*.](hong-kong-plague-hospital.jpg){.lightbox fig-alt="Historical black-and-white photograph of the men's ward at the Kennedy Town Glassworks emergency plague hospital in Hong Kong during the 1894 plague epidemic, with patients lying on bedding along both sides of a long hospital ward." width="100%"}
-:::
-::::::
+
+![CLICK TO ENLARGE | Men's ward at the Kennedy Town Glassworks emergency plague hospital during the 1894 Hong Kong plague epidemic. Source: Echenberg (2007), "An Unexampled Calamity: Hong Kong, 1894," *Plague Ports: The Global Urban Impact of Bubonic Plague, 1894–1901*.](hong-kong-plague-hospital.jpg){.lightbox fig-alt="Historical black-and-white photograph of the men's ward at the Kennedy Town Glassworks emergency plague hospital in Hong Kong during the 1894 plague epidemic, with patients lying on bedding along both sides of a long hospital ward." width="100%"}
 
 **Source:** Echenberg, M. (2007). "An Unexampled Calamity: Hong Kong, 1894." In *Plague Ports: The Global Urban Impact of Bubonic Plague, 1894–1901* (pp. 16–46). NYU Press. [Access through JSTOR →](http://www.jstor.org.offcampus.lib.washington.edu/stable/j.ctt9qgb84.7)
 
+:::
+::::
+
 ------------------------------------------------------------------------
 
-# Alexandre Yersin
+## Use What You Already Know
+
+Remember the **One Health systems model** from our public health history?
+
+![One Health systems model connecting human, animal, and environmental health.](one-health-systems-model.jpg){.lightbox fig-alt="One Health systems model showing connections among humans, animals, and the environment." width="80%"}
+
+::: {.callout-note title="Investigate the System"}
+Working with the people around you, consider the outbreak through three parts of the system:
+
+**Humans**
+
+- Who is becoming sick?
+- What symptoms are occurring?
+- What do affected people have in common?
+
+**Animals**
+
+- What animals are present?
+- Are any animals becoming sick or dying?
+- How might people interact with them?
+
+**Environment**
+
+- Where are cases occurring?
+- What conditions might allow the disease to move?
+- What work or daily activities could create opportunities for exposure?
+:::
+
+## Poll Everywhere
+
+:::: {.columns .poll-columns}
+::: {.column width="65%"}
+
+### Where would you investigate first?
+
+If you were investigating this outbreak in **1894**, where would you collect evidence first, and why?
+
+Think about the **human, animal, and environmental** parts of the system.
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+
+::: {style="display:flex; justify-content:center; align-items:center; height:100%;"}
+![](poll-everywhere-response.jpg){fig-alt="Poll Everywhere QR code and response link for SHM 102" width="250"}
+:::
+
+:::
+::::
+
+------------------------------------------------------------------------
+
+# Meet Alexandre Yersin
+
+:::: {.columns}
+::: {.column width="60%"}
 
 **Alexandre Yersin**, a bacteriologist associated with the Pasteur Institute, traveled to Hong Kong to investigate the epidemic.
 
+Yersin had essentially been given the problem you just worked through.
+
 His task was to identify the organism responsible for plague.
 
-But first he needed a specimen.
+### But first he needed a specimen.
+
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="36%"}
+
+::: {style="text-align:center;"}
+![Alexandre Yersin (1863–1943)](alexandre-yersin.jpg){fig-alt="Black-and-white portrait of Alexandre Yersin, shown with short hair and a beard, wearing a dark suit and tie." width="85%"}
+:::
+
+:::
+::::
 
 ------------------------------------------------------------------------
 
 ## The Bubo Becomes Evidence
+
+:::: {.columns}
+::: {.column width="55%"}
 
 Yersin obtained access to the body of a person who had recently died from plague.
 
@@ -669,81 +776,42 @@ Think about the progression.
 
 A swelling that physicians had observed for centuries was no longer only a symptom.
 
-It became a source of biological evidence.
+::: {.callout-tip title="From Symptom to Specimen"}
+**The bubo became a source of biological evidence.**
+:::
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+
+![Bubo associated with bubonic plague. Source: James T. Eastman, M.D., F.C.A.P., Figure 4a, ["The Making of a Pandemic: Bubonic Plague in the 14th Century,"](https://www.jlgh.org/Past-Issues/Volume-4-Issue-1/The-Making-of-a-Pandemic.aspx) *The Journal of Lancaster General Hospital*.](bubonic-plague-buboes.jpg){fig-alt="Clinical photograph showing a pronounced swollen lymph node in the neck associated with bubonic plague." width="100%"}
+
+:::
+::::
 
 ------------------------------------------------------------------------
 
-## Under the Microscope
+## Following the Evidence
+
+:::: {.columns}
+::: {.column width="55%"}
 
 Yersin examined the bubo fluid under a microscope.
 
 He found it filled with bacteria.
 
-The bacteria stained poorly with Gram stain.
-
-They were **Gram negative**.
-
 Now there was a candidate organism.
 
 But seeing bacteria in a sick person did not automatically prove that the bacteria caused plague.
 
-------------------------------------------------------------------------
-
-## How Could He Test the Idea?
-
-Yersin used some of the material from the bubo to inoculate guinea pigs.
+Yersin used material from the bubo to inoculate guinea pigs.
 
 The guinea pigs died.
 
 When he examined them, he found the same bacteria.
-
-The evidence was becoming stronger.
-
-**Sick human**
-
-↓
-
-**Bacteria in bubo**
-
-↓
-
-**Experimental animal exposed**
-
-↓
-
-**Animal develops fatal disease**
-
-↓
-
-**Same bacteria recovered**
-
-------------------------------------------------------------------------
-
-## The Dead Rats
-
-Yersin noticed something else.
-
-There were large numbers of dead rats:
-
-- in the streets
-- in hospital corridors
-- around the morgue
-
-He examined some of the rats.
-
-### He found the same bacteria.
-
-------------------------------------------------------------------------
-
-## One Organism, Two Hosts
-
-Yersin now had evidence connecting the organism with:
-
-**Humans**
-
-and
-
-**Rats**
 
 The bacterium responsible for plague would eventually be named:
 
@@ -751,9 +819,104 @@ The bacterium responsible for plague would eventually be named:
 
 in recognition of Alexandre Yersin.
 
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+
+::: {style="text-align:center;"}
+![*Yersinia pestis*, the bacterium that causes plague. Image: CDC / Dr. D. S. Martin. [Source](https://globalbiodefense.com/2025/07/22/decoding-plagues-evolution-a-tipping-point-in-yersinia-pestis-fitness-and-adaptation/)](yersinia-pestis-gram-stain.jpg){.lightbox fig-alt="Microscopic image showing Yersinia pestis bacteria stained pink and purple against a pale background." width="100%"}
+:::
+
+:::
+::::
+
 ------------------------------------------------------------------------
 
-# What Had Yersin Solved?
+## A One Health Clue
+
+:::: {.columns}
+::: {.column width="55%"}
+
+Yersin noticed something else.
+
+There were large numbers of dead rats in the streets, hospital corridors, and around the morgue.
+
+He examined some of the rats.
+
+### He found the same bacteria.
+
+::: {.callout-note title="Return to the One Health Model"}
+You now have evidence connecting the same organism with:
+
+**Humans**
+
+and
+
+**Rats**
+
+What does this new evidence add to your One Health systems model?
+
+What relationship would you investigate next?
+:::
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+
+::: {style="text-align:center;"}
+![Urban rats feeding on discarded food in New York City. Photograph by Charlie Hamilton James. [Source: National Geographic](https://www.nationalgeographic.com/magazine/article/rats-are-an-inescapable-part-of-city-life)](city-rats.jpg){fig-alt="Three rats climbing on and around a public trash can at night in New York City, with one rat carrying discarded food." width="100%"}
+:::
+
+:::
+::::
+
+------------------------------------------------------------------------
+
+
+## Poll Everywhere
+
+:::: {.columns .poll-columns}
+::: {.column width="65%"}
+
+### What would you investigate next?
+
+You have found the **same bacterium in humans and rats**.
+
+What would you investigate next to determine **how the bacterium reaches humans**?
+
+Think about:
+
+- human activities 
+- animal contact
+- the environment
+- possible intermediaries
+- patterns that could distinguish one explanation from another
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+
+::: {style="display:flex; justify-content:center; align-items:center; height:100%;"}
+![](poll-everywhere-response.jpg){fig-alt="Poll Everywhere QR code and response link for SHM 102" width="250"}
+:::
+
+:::
+::::
+
+------------------------------------------------------------------------
+
+# Back to 1894
+
+### What Had Yersin Solved?
 
 Yersin had answered an enormous question.
 
@@ -761,135 +924,105 @@ Yersin had answered an enormous question.
 
 **A bacterium: *Yersinia pestis*.**
 
+::: {.callout-note title="One Question Remained"}
 But another question remained unanswered.
 
-### How was the bacterium moving between rats and humans?
+**How was the bacterium moving between rats and humans?**
 
 Knowing the **hazard** did not automatically reveal the **exposure pathway**.
+:::
 
-------------------------------------------------------------------------
 
-# Understanding the Disease
+We know the agent.
 
-Now that we know the agent, we can better understand what happens after infection.
+We know humans and rats can be infected.
 
-*Yersinia pestis* can produce different forms of plague depending on where infection develops.
+But we still do not know the exposure pathway.
 
-------------------------------------------------------------------------
-
-## Bubonic Plague
-
-The most familiar form is **bubonic plague**.
-
-The bacteria reach the lymphatic system and multiply in regional lymph nodes.
-
-This produces the characteristic swollen lymph nodes:
-
-### buboes
-
-Common locations include:
-
-- groin
-- armpits
-- neck
-
-------------------------------------------------------------------------
-
-## Septicemic Plague
-
-Sometimes the bacteria enter and multiply in the bloodstream.
-
-This is **septicemic plague**.
-
-The infection can produce:
-
-- fever
-- chills
-- severe systemic illness
-- hemorrhaging
-- tissue damage
-
-Buboes may not always develop.
-
-------------------------------------------------------------------------
-
-## Pneumonic Plague
-
-If the lungs become infected, the disease can become **pneumonic plague**.
-
-This changes something extremely important.
-
-The bacteria can now leave an infected person through respiratory droplets.
-
-That creates the possibility of:
-
-**human → human transmission**
-
-------------------------------------------------------------------------
-
-## Same Agent, Different Forms of Disease
-
-The organism has not changed.
-
-### *Yersinia pestis*
-
-But where infection develops in the body can affect the clinical form of disease.
-
-**Lymphatic system**
-
-→ bubonic plague
-
-**Bloodstream**
-
-→ septicemic plague
-
-**Lungs**
-
-→ pneumonic plague
-
-Understanding the form of disease can also help us understand how transmission may occur.
-
-------------------------------------------------------------------------
-
-# The Missing Link
+::: {.callout-note title="The Next Investigation"}
+If rats and humans can carry the same organism, how would you determine **how the organism moves from rats to humans?**
 
 Yersin had connected plague with rats.
 
-But rats alone did not explain transmission.
-
 Another investigator would take the next major step.
+:::
+
 
 ------------------------------------------------------------------------
 
 # Paul Louis Simond
 
-French physician **Paul Louis Simond** investigated plague after Yersin.
+:::: {.columns}
+::: {.column width="60%"}
 
-He noticed an important occupational pattern.
+French army physician **Paul Louis Simond** traveled to Vietnam and India to follow up on Yersin's observations.
 
-Workers who had contact with dead rats became ill.
+He noticed an important occupational health pattern.
 
-Workers without that contact did not.
+Twenty laborers in a wool factory had been cleaning dead rats from the floor.
+
+**Those 20 workers died of plague.**
+
+Other factory workers who had **no contact with the rats** did not become ill.
 
 That observation suggested an exposure relationship.
 
+### Look at the Task
+
+The workers shared a workplace.
+
+But they did not share the same **task** or **opportunity for exposure**.
+
+**What was different about the work performed by the workers who became ill?**
+
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="36%"}
+
+::: {style="text-align:center;"}
+![Paul Louis Simond investigating plague. Source: [Institut Pasteur](https://www.pasteur.fr/en/about-us/paul-louis-simond-world-traveler-working-multiple-diseases).](paul-louis-simond.jpg){fig-alt="Historical black-and-white photograph of Paul Louis Simond wearing a laboratory coat and working with scientific equipment at a laboratory bench." width="100%"}
+:::
+
+:::
+::::
 ------------------------------------------------------------------------
 
-## Look at the Task
+## Poll Everywhere
 
-Consider the workers.
+:::: {.columns .poll-columns}
+::: {.column width="65%"}
 
-The important question was not simply:
+### What additional information would you want?
 
-### What was their job title?
+The important question is **not** simply:
 
-The important question was:
+**What was their job title?**
 
-### What were they actually doing?
+Think like an exposure scientist.
+
+What would you want to know about the workers' **tasks, animal contact, and work environment** before deciding how exposure might be occurring?
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+
+::: {style="display:flex; justify-content:center; align-items:center; height:100%;"}
+![](poll-everywhere-response.jpg){fig-alt="Poll Everywhere QR code and response link for SHM 102" width="250"}
+:::
+
+:::
+::::
 
 Some workers were cleaning floors containing dead rats.
 
 Their work created an opportunity for exposure.
+
 
 ------------------------------------------------------------------------
 
@@ -987,27 +1120,162 @@ The flea bites another animal or a human.
 
 # Agent, Reservoir, Vector, Host
 
-We can now give names to the pieces of the system.
+We can now give names to the major parts of the plague transmission system.
 
-### Agent
+::: {.callout-tip title="The Ecological System"}
+**Agent**
 
 *Yersinia pestis*
 
-### Reservoir
+**Natural reservoir system**
 
-Rodent populations
+Certain populations of **wild rodents and their fleas** maintain *Yersinia pestis* in nature.
 
-### Vector
+The bacterium can circulate at relatively low levels within these populations without causing large numbers of rodent deaths. This is called an **enzootic cycle**.
 
-Fleas
+**Amplifying / susceptible hosts**
 
-### Host
+Other rodent populations can be highly susceptible to plague.
 
-Humans and other susceptible mammals
+When transmission increases among susceptible rodents, many animals may become infected and die. This is called an **epizootic**.
 
-These terms help us organize how infectious hazards move through an environment.
+The dying rats observed during plague outbreaks were therefore an important clue that the bacterium was actively spreading through a susceptible animal population.
+
+**Vector**
+
+Fleas can acquire *Yersinia pestis* while feeding on infected rodents and transmit the bacterium when they take another blood meal.
+
+**Incidental host**
+
+Humans and other mammals can become infected when the bacterium spills over from the animal-flea system.
+:::
 
 ------------------------------------------------------------------------
+
+## Why Were the Rats Dying?
+
+This gives us an important distinction.
+
+### Being part of a transmission system does not mean every animal responds to infection in the same way.
+
+During an **enzootic cycle**:
+
+**certain wild rodents + fleas**
+
+↓
+
+*Yersinia pestis* persists at relatively low levels
+
+↓
+
+the bacterium remains established in nature
+
+During an **epizootic**:
+
+*Yersinia pestis* spreads through susceptible rodent populations
+
+↓
+
+large numbers of rodents may become sick and die
+
+↓
+
+infected fleas lose their normal blood-meal hosts
+
+↓
+
+fleas seek other animals
+
+↓
+
+### opportunities for human exposure increase
+
+**Source:** [Centers for Disease Control and Prevention, *How Plague Spreads*](https://www.cdc.gov/plague/causes/index.html)
+
+------------------------------------------------------------------------
+
+# Understanding the Disease
+
+Now that we know the agent, we can better understand what happens after infection.
+
+*Yersinia pestis* can produce different forms of plague depending on where infection develops.
+
+------------------------------------------------------------------------
+
+## Bubonic Plague
+
+The most familiar form is **bubonic plague**.
+
+The bacteria reach the lymphatic system and multiply in regional lymph nodes.
+
+This produces the characteristic swollen lymph nodes:
+
+### buboes
+
+Common locations include:
+
+- groin
+- armpits
+- neck
+
+------------------------------------------------------------------------
+
+## Septicemic Plague
+
+Sometimes the bacteria enter and multiply in the bloodstream.
+
+This is **septicemic plague**.
+
+The infection can produce:
+
+- fever
+- chills
+- severe systemic illness
+- hemorrhaging
+- tissue damage
+
+Buboes may not always develop.
+
+------------------------------------------------------------------------
+
+## Pneumonic Plague
+
+If the lungs become infected, the disease can become **pneumonic plague**.
+
+This changes something extremely important.
+
+The bacteria can now leave an infected person through respiratory droplets.
+
+That creates the possibility of:
+
+**human → human transmission**
+
+------------------------------------------------------------------------
+
+## Same Agent, Different Forms of Disease
+
+The organism has not changed.
+
+### *Yersinia pestis*
+
+But where infection develops in the body can affect the clinical form of disease.
+
+**Lymphatic system**
+
+→ bubonic plague
+
+**Bloodstream**
+
+→ septicemic plague
+
+**Lungs**
+
+→ pneumonic plague
+
+Understanding the form of disease can also help us understand how transmission may occur.
+
+------------------------------------------------------------------------
+
 
 # From Microbiology to Occupational Health
 
@@ -1099,6 +1367,104 @@ A known hazard can still cause serious disease when the exposure pathway is over
 
 ------------------------------------------------------------------------
 
+# From Hong Kong to Central Washington
+
+The investigation of plague gives us a framework for thinking about biological hazards closer to home.
+
+Central and eastern Washington include agricultural workplaces, animal contact, irrigation systems, wildlife, mosquitoes, and ticks.
+
+The **agent may change**, and the **pathway may change**, but the questions remain useful.
+
+::: {.callout-tip title="Potential Final Project Topics"}
+Interested in investigating a Washington biological hazard further?
+
+These are potential topics for the **final group research presentation**:
+
+- **West Nile virus**
+- **soft tick relapsing fever**
+- **tularemia**
+- **highly pathogenic avian influenza (HPAI)**
+- another Washington zoonotic or vector-borne disease approved for the project
+
+Use Washington State Department of Health surveillance data to investigate where relevant diseases and vectors occur.
+
+[Explore Washington zoonotic and vector-borne disease data →](https://doh.wa.gov/data-and-statistical-reports/washington-tracking-network-wtn/zoonotic-diseases)
+:::
+
+------------------------------------------------------------------------
+
+## West Nile Virus: A Local Vector-Borne Example
+
+**West Nile virus** provides a particularly relevant example for south-central Washington.
+
+The virus is maintained in a transmission cycle involving **birds and mosquitoes**.
+
+Humans can become infected when bitten by an infected mosquito.
+
+This gives us another system to investigate:
+
+**Agent → Reservoir / Host → Vector → Human**
+
+[Explore Washington West Nile virus surveillance →](https://doh.wa.gov/data-and-statistical-reports/diseases-and-chronic-conditions/west-nile-virus)
+
+------------------------------------------------------------------------
+
+## HPAI: A Different One Health Pathway
+
+Not every animal-associated infectious disease is vector-borne.
+
+**Highly pathogenic avian influenza (HPAI)** gives us a different One Health problem.
+
+Agricultural and animal-care workers may encounter infected animals, animal products, secretions, or contaminated environments through their work.
+
+Researchers are investigating the conditions under which avian influenza viruses can infect people and how occupational exposures at the human-animal interface can be prevented.
+
+::: {.callout-tip title="From the Classroom to Current Research"}
+Researchers at the University of Washington are studying occupational and animal health at the human-animal interface, including risks associated with avian influenza.
+
+I have also participated in UW research related to this work.
+
+[Explore UW One Health research on animal workers →](https://cohr.deohs.washington.edu/health-animal-workers)
+:::
+
+------------------------------------------------------------------------
+
+## Poll Everywhere
+
+:::: {.columns .poll-columns}
+::: {.column width="65%"}
+
+### Compare the Exposure Systems
+
+Choose one:
+
+- West Nile virus
+- soft tick relapsing fever
+- tularemia
+- HPAI
+
+Using the framework from this lecture, identify as many parts of the exposure system as you can:
+
+**Agent → Reservoir / Source → Pathway or Vector → Worker / Host → Route of Entry**
+
+### Which part of the system would you investigate first, and why?
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+
+::: {style="display:flex; justify-content:center; align-items:center; height:100%;"}
+![](poll-everywhere-response.jpg){fig-alt="Poll Everywhere QR code and response link for SHM 102" width="250"}
+:::
+
+:::
+::::
+
+------------------------------------------------------------------------
+
 # Breaking the Chain
 
 Once we understand the pathway, we can identify places where intervention is possible.
@@ -1122,72 +1488,6 @@ Once we understand the pathway, we can identify places where intervention is pos
 **Route of entry**
 
 Controls can interrupt the chain at more than one point.
-
-------------------------------------------------------------------------
-
-# Discussion
-
-A worker finds several dead rodents around a worksite.
-
-### What questions would you ask before deciding whether workers are at risk?
-
-Think about:
-
-- the agent
-- reservoir
-- vector
-- worker tasks
-- exposure pathways
-- routes of entry
-- possible controls
-
-------------------------------------------------------------------------
-
-# From 1347 to Today
-
-Consider how our understanding changed.
-
-**1347**
-
-People observe disease but cannot identify the cause.
-
-↓
-
-**Seeds of contagion**
-
-Invisible agents are proposed.
-
-↓
-
-**Microscope**
-
-The microbial world becomes visible.
-
-↓
-
-**Germ theory**
-
-Specific microorganisms can cause specific diseases.
-
-↓
-
-**1894: Yersin**
-
-The bacterium responsible for plague is identified.
-
-↓
-
-**1898: Simond**
-
-Flea-mediated transmission is demonstrated.
-
-↓
-
-**Today**
-
-We understand the agent, reservoirs, vectors, exposure pathways, disease mechanisms, and opportunities for prevention.
-
-------------------------------------------------------------------------
 
 # Key Takeaway
 
