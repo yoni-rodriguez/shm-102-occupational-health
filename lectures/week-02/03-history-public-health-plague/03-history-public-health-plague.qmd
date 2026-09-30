@@ -1056,15 +1056,34 @@ Perhaps the intermediary was a:
 
 # Testing the Hypothesis
 
+:::: {.columns}
+::: {.column width="55%"}
+
 Simond designed an experiment.
 
-A plague-infected rat was placed below a healthy rat.
+He placed a **plague-infected rat at the bottom of a jar**.
 
-The healthy rat was separated from the infected rat so the animals could not directly touch.
+Above it, he suspended a **healthy rat in a wire mesh cage**.
 
-But fleas could move between them.
+The wire mesh prevented the rats from directly touching.
 
-The healthy rat developed plague.
+But fleas could move from the sick rat to the healthy rat.
+
+### The healthy rat developed plague.
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+
+::: {style="text-align:center;"}
+![BBC reconstruction of Paul Louis Simond's experiment investigating flea-mediated plague transmission. [Source](https://www.youtube.com/watch?v=lDwiLdEKyu0)](bbc-plague-rat-experiment.jpg){.lightbox fig-alt="BBC reconstruction showing a healthy rat suspended in a wire mesh cage above a plague-infected rat at the bottom of a large glass container." width="100%"}
+:::
+
+:::
+::::
 
 ------------------------------------------------------------------------
 
@@ -1086,111 +1105,56 @@ The transmission pathway was becoming clear.
 
 ## Rodent → Flea → Human
 
-An infected rodent carries *Yersinia pestis*.
+:::: {.columns}
+::: {.column width="40%"}
 
-↓
+Plague can move between rodents and humans through **fleas**.
 
-A flea feeds on the infected rodent.
+A flea feeds on a rodent infected with *Yersinia pestis* and acquires the bacterium.
 
-↓
+When an infected rodent becomes sick or dies, fleas may leave the animal and seek another blood meal.
 
-The flea acquires the bacteria.
+If an infected flea bites a human, *Yersinia pestis* can enter the new host.
 
-↓
+### Rodent → Flea → Human
 
-The infected rodent becomes sick and may die.
+This was the transmission pathway Simond had been investigating.
 
-↓
-
-The flea leaves the dead or dying host.
-
-↓
-
-The flea seeks another blood meal.
-
-↓
-
-The flea bites another animal or a human.
-
-↓
-
-*Yersinia pestis* enters the new host.
-
-------------------------------------------------------------------------
-
-# Agent, Reservoir, Vector, Host
-
-We can now give names to the major parts of the plague transmission system.
-
-::: {.callout-tip title="The Ecological System"}
-**Agent**
-
-*Yersinia pestis*
-
-**Natural reservoir system**
-
-Certain populations of **wild rodents and their fleas** maintain *Yersinia pestis* in nature.
-
-The bacterium can circulate at relatively low levels within these populations without causing large numbers of rodent deaths. This is called an **enzootic cycle**.
-
-**Amplifying / susceptible hosts**
-
-Other rodent populations can be highly susceptible to plague.
-
-When transmission increases among susceptible rodents, many animals may become infected and die. This is called an **epizootic**.
-
-The dying rats observed during plague outbreaks were therefore an important clue that the bacterium was actively spreading through a susceptible animal population.
-
-**Vector**
-
-Fleas can acquire *Yersinia pestis* while feeding on infected rodents and transmit the bacterium when they take another blood meal.
-
-**Incidental host**
-
-Humans and other mammals can become infected when the bacterium spills over from the animal-flea system.
 :::
 
+::: {.column width="4%"}
+:::
+
+::: {.column width="56%"}
+
+::: {style="text-align:center;"}
+![Bubonic plague transmission pathway showing the relationship between *Yersinia pestis*, fleas, rodents, and human infection.](plague-transmission-pathway.jpg){.lightbox fig-alt="Diagram showing bubonic plague transmission involving Yersinia pestis, an infected flea, a rodent, a flea bite to a human, and subsequent human infection." width="100%"}
+:::
+
+:::
+::::
+
 ------------------------------------------------------------------------
 
-## Why Were the Rats Dying?
+# Agent, Reservoir, Vector, Susceptible Host
 
-This gives us an important distinction.
+We can now give names to the major parts of an infectious disease transmission system.
 
-### Being part of a transmission system does not mean every animal responds to infection in the same way.
+## Agent
 
-During an **enzootic cycle**:
+A microorganism (bacterium, virus, fungus, or other infectious material) that causes disease.
 
-**certain wild rodents + fleas**
+## Reservoir
 
-↓
+An organism that maintains a virus or bacterial pathogen in an area by serving as a host.
 
-*Yersinia pestis* persists at relatively low levels
+## Vector
 
-↓
+An organism (e.g., insect) that can carry infectious agents from one animal to another.
 
-the bacterium remains established in nature
+## Susceptible Host
 
-During an **epizootic**:
-
-*Yersinia pestis* spreads through susceptible rodent populations
-
-↓
-
-large numbers of rodents may become sick and die
-
-↓
-
-infected fleas lose their normal blood-meal hosts
-
-↓
-
-fleas seek other animals
-
-↓
-
-### opportunities for human exposure increase
-
-**Source:** [Centers for Disease Control and Prevention, *How Plague Spreads*](https://www.cdc.gov/plague/causes/index.html)
+A person or animal that can become infected by an infectious agent due to lack of immunity.
 
 ------------------------------------------------------------------------
 
@@ -1198,81 +1162,46 @@ fleas seek other animals
 
 Now that we know the agent, we can better understand what happens after infection.
 
-*Yersinia pestis* can produce different forms of plague depending on where infection develops.
+*Yersinia pestis* can produce different forms of disease depending on **how the bacteria enter the body and where the infection develops**.
 
-------------------------------------------------------------------------
+:::: {.columns}
+::: {.column width="40%"}
 
-## Bubonic Plague
+### Bubonic Plague
 
-The most familiar form is **bubonic plague**.
+Bacteria reach the **lymphatic system** and multiply in regional lymph nodes, producing swollen lymph nodes called **buboes**.
 
-The bacteria reach the lymphatic system and multiply in regional lymph nodes.
+### Septicemic Plague
 
-This produces the characteristic swollen lymph nodes:
+Bacteria enter the **bloodstream**, producing a severe systemic infection.
 
-### buboes
+### Pneumonic Plague
 
-Common locations include:
+Bacteria infect the **lungs**.
 
-- groin
-- armpits
-- neck
+Respiratory droplets from a person or animal with pneumonic plague can transmit *Yersinia pestis* to another person.
 
-------------------------------------------------------------------------
+### Same Agent, Different Forms of Disease
 
-## Septicemic Plague
+The agent remains the same:
 
-Sometimes the bacteria enter and multiply in the bloodstream.
+***Yersinia pestis***
 
-This is **septicemic plague**.
+What changes is the **route of exposure and where infection develops in the body**.
 
-The infection can produce:
+:::
 
-- fever
-- chills
-- severe systemic illness
-- hemorrhaging
-- tissue damage
+::: {.column width="4%"}
+:::
 
-Buboes may not always develop.
+::: {.column width="56%"}
 
-------------------------------------------------------------------------
+::: {style="text-align:center;"}
+![Routes of exposure and forms of disease caused by *Yersinia pestis*.](plague-systems.jpg){.lightbox fig-alt="Diagram showing three routes of exposure to Yersinia pestis: an infected flea bite leading to bubonic plague, contact with infected tissue or fluid leading to septicemic plague, and inhalation of infectious droplets leading to pneumonic plague." width="100%"}
+:::
 
-## Pneumonic Plague
-
-If the lungs become infected, the disease can become **pneumonic plague**.
-
-This changes something extremely important.
-
-The bacteria can now leave an infected person through respiratory droplets.
-
-That creates the possibility of:
-
-**human → human transmission**
-
-------------------------------------------------------------------------
-
-## Same Agent, Different Forms of Disease
-
-The organism has not changed.
-
-### *Yersinia pestis*
-
-But where infection develops in the body can affect the clinical form of disease.
-
-**Lymphatic system**
-
-→ bubonic plague
-
-**Bloodstream**
-
-→ septicemic plague
-
-**Lungs**
-
-→ pneumonic plague
-
-Understanding the form of disease can also help us understand how transmission may occur.
+:::
+::::
 
 ------------------------------------------------------------------------
 
@@ -1285,14 +1214,14 @@ Now consider plague as an occupational health problem.
 
 Possible occupational groups include:
 
+- ranchers
+- livestock workers
 - veterinarians
 - veterinary technicians
 - animal control workers
 - wildlife biologists
-- laboratory workers
 - agricultural workers
 - pest control workers
-- workers handling animal carcasses
 
 The occupational hazard is not determined by the job title alone.
 
@@ -1304,39 +1233,26 @@ It depends on the **task and opportunity for exposure**.
 
 For any biological hazard, ask:
 
-### What is the agent?
+- What is the agent?
+- Where is the reservoir?
+- How does it leave the reservoir?
+- How does it move through the environment?
+- How does it reach the worker?
+- What route allows it to enter the body
 
-### Where is the reservoir?
-
-### How does it leave the reservoir?
-
-### How does it move through the environment?
-
-### How does it reach the worker?
-
-### What route allows it to enter the body?
 
 ------------------------------------------------------------------------
 
-# Plague Did Not Disappear
+# Plague in the United States
 
-Plague is not only a medieval disease.
+:::: {.columns}
+::: {.column width="40%"}
 
-*Yersinia pestis* continues to circulate in animal populations.
+Plague still occurs naturally in parts of the **western United States**.
 
-Human cases still occur.
+*Yersinia pestis* circulates among wild rodents and their fleas.
 
-The ecological system that supports plague still exists.
-
-------------------------------------------------------------------------
-
-## Plague in the United States
-
-In the United States, plague persists primarily in wildlife populations in western states.
-
-Potential reservoirs include wild rodents.
-
-Human exposure can occur when people enter environments where infected animals and fleas are present.
+Humans and domestic animals can be exposed when infected fleas seek another host.
 
 This means plague remains relevant to:
 
@@ -1346,118 +1262,17 @@ This means plague remains relevant to:
 - animal handling
 - public health surveillance
 
-------------------------------------------------------------------------
-
-## Recognition Matters
-
-Modern plague is uncommon.
-
-That creates another problem.
-
-### What happens when a disease is rare enough that workers or clinicians do not immediately recognize it?
-
-Delayed recognition can delay:
-
-- diagnosis
-- treatment
-- exposure investigation
-- protective measures
-
-A known hazard can still cause serious disease when the exposure pathway is overlooked.
-
-------------------------------------------------------------------------
-
-# From Hong Kong to Central Washington
-
-The investigation of plague gives us a framework for thinking about biological hazards closer to home.
-
-Central and eastern Washington include agricultural workplaces, animal contact, irrigation systems, wildlife, mosquitoes, and ticks.
-
-The **agent may change**, and the **pathway may change**, but the questions remain useful.
-
-::: {.callout-tip title="Potential Final Project Topics"}
-Interested in investigating a Washington biological hazard further?
-
-These are potential topics for the **final group research presentation**:
-
-- **West Nile virus**
-- **soft tick relapsing fever**
-- **tularemia**
-- **highly pathogenic avian influenza (HPAI)**
-- another Washington zoonotic or vector-borne disease approved for the project
-
-Use Washington State Department of Health surveillance data to investigate where relevant diseases and vectors occur.
-
-[Explore Washington zoonotic and vector-borne disease data →](https://doh.wa.gov/data-and-statistical-reports/washington-tracking-network-wtn/zoonotic-diseases)
-:::
-
-------------------------------------------------------------------------
-
-## West Nile Virus: A Local Vector-Borne Example
-
-**West Nile virus** provides a particularly relevant example for south-central Washington.
-
-The virus is maintained in a transmission cycle involving **birds and mosquitoes**.
-
-Humans can become infected when bitten by an infected mosquito.
-
-This gives us another system to investigate:
-
-**Agent → Reservoir / Host → Vector → Human**
-
-[Explore Washington West Nile virus surveillance →](https://doh.wa.gov/data-and-statistical-reports/diseases-and-chronic-conditions/west-nile-virus)
-
-------------------------------------------------------------------------
-
-## HPAI: A Different One Health Pathway
-
-Not every animal-associated infectious disease is vector-borne.
-
-**Highly pathogenic avian influenza (HPAI)** gives us a different One Health problem.
-
-Agricultural and animal-care workers may encounter infected animals, animal products, secretions, or contaminated environments through their work.
-
-Researchers are investigating the conditions under which avian influenza viruses can infect people and how occupational exposures at the human-animal interface can be prevented.
-
-::: {.callout-tip title="From the Classroom to Current Research"}
-Researchers at the University of Washington are studying occupational and animal health at the human-animal interface, including risks associated with avian influenza.
-
-I have also participated in UW research related to this work.
-
-[Explore UW One Health research on animal workers →](https://cohr.deohs.washington.edu/health-animal-workers)
-:::
-
-------------------------------------------------------------------------
-
-## Poll Everywhere
-
-:::: {.columns .poll-columns}
-::: {.column width="65%"}
-
-### Compare the Exposure Systems
-
-Choose one:
-
-- West Nile virus
-- soft tick relapsing fever
-- tularemia
-- HPAI
-
-Using the framework from this lecture, identify as many parts of the exposure system as you can:
-
-**Agent → Reservoir / Source → Pathway or Vector → Worker / Host → Route of Entry**
-
-### Which part of the system would you investigate first, and why?
+Although human plague is uncommon, recognizing the **agent, reservoir, vector, and susceptible host** helps us understand where exposure can occur and how it can be prevented.
 
 :::
 
-::: {.column width="5%"}
+::: {.column width="4%"}
 :::
 
-::: {.column width="30%"}
+::: {.column width="56%"}
 
-::: {style="display:flex; justify-content:center; align-items:center; height:100%;"}
-![](poll-everywhere-response.jpg){fig-alt="Poll Everywhere QR code and response link for SHM 102" width="250"}
+::: {style="text-align:center;"}
+![Plague ecology in the United States, showing transmission among wild rodents and fleas and opportunities for exposure among humans and domestic animals. [Source](https://www.cdc.gov/plague/causes/index.html)](cdc-plague-ecology-usa.jpg){.lightbox fig-alt="CDC diagram showing plague circulating naturally among wild rodents and fleas in the western United States and how infected fleas can expose humans and domestic animals." width="100%"}
 :::
 
 :::
@@ -1465,29 +1280,43 @@ Using the framework from this lecture, identify as many parts of the exposure sy
 
 ------------------------------------------------------------------------
 
-# Breaking the Chain
+# From Hong Kong to Central Washington
 
-Once we understand the pathway, we can identify places where intervention is possible.
+The investigation that began in Hong Kong helped reveal how *Yersinia pestis* moves through an environment and reaches humans.
 
-**Reservoir**
+More than a century later, plague remains present in the United States.
 
-↓
+:::: {.columns}
+::: {.column width="40%"}
 
-**Vector**
+Human cases have occurred primarily in the **western United States**.
 
-↓
+The geographic pattern reminds us that infectious disease transmission depends on more than the presence of an agent.
 
-**Environment / task**
+It also depends on:
 
-↓
+- animal reservoirs
+- vectors
+- environmental conditions
+- opportunities for human exposure
 
-**Worker**
+### What biological hazards follow similar pathways in Central Washington?
 
-↓
+:::
 
-**Route of entry**
+::: {.column width="4%"}
+:::
 
-Controls can interrupt the chain at more than one point.
+::: {.column width="56%"}
+
+::: {style="text-align:center;"}
+![Reported human plague cases in the contiguous United States, 1970–2020. Red dots indicate locations of reported cases. CDC data and map. [Source](https://www.newsweek.com/plague-map-us-cases-since-1970-new-mexico-1878428)](1970-2020-cdc-plague.jpg){.lightbox fig-alt="Map of the contiguous United States showing reported human plague cases from 1970 through 2020 as red dots, with cases concentrated primarily in western states." width="100%"}
+:::
+
+:::
+::::
+
+------------------------------------------------------------------------
 
 # Key Takeaway
 
@@ -1499,51 +1328,33 @@ The hazard did not suddenly appear when scientists identified it.
 
 ### Our ability to observe, measure, and explain it changed.
 
+Plague provides a historical example of how **observation, technology, experimentation, microbiology, and exposure science** can help us understand a biological hazard.
+
 In occupational health, identifying the hazard is only the beginning.
 
 We also need to understand:
 
-**where it comes from**
-
-↓
-
-**how it moves**
-
-↓
-
-**who encounters it**
-
-↓
-
-**how exposure occurs**
-
-↓
-
-**what happens after exposure**
-
-↓
-
-**where we can intervene**
-
-Plague provides a historical example of how observation, technology, microbiology, epidemiology, and exposure science came together to reveal an occupational and public health hazard.
+- where it comes from
+- how it moves
+- who encounters it
+- how exposure occurs
+- what happens after exposure
+- where we can intervene
 
 ------------------------------------------------------------------------
 
 # Key Terms
 
 | Term | Definition |
-|------------------------------------|------------------------------------|
-| **Bubo** | A painful, swollen lymph node associated with bubonic plague. |
-| **Bubonic plague** | A form of plague characterized by infection of the lymphatic system and the development of swollen lymph nodes called buboes. |
-| **Septicemic plague** | A form of plague in which *Yersinia pestis* infects the bloodstream. |
-| **Pneumonic plague** | A form of plague involving the lungs that can allow respiratory transmission between people. |
+|---|---|
 | **Germ theory** | The scientific concept that microorganisms can cause disease. |
 | **Pathogen** | A biological agent capable of causing disease. |
-| **Host** | An organism that can become infected by a pathogen. |
-| **Reservoir** | A population, organism, or environmental source in which a pathogen normally lives and persists. |
-| **Vector** | A living organism that carries and transmits a pathogen between hosts. |
-| **Transmission route** | The way a pathogen moves from its source or reservoir to a susceptible host. |
-| **Vector borne transmission** | Transmission of a pathogen through a living vector. |
+| **Agent** | A microorganism or other infectious material that causes disease. |
+| **Reservoir** | An organism that maintains a virus or bacterial pathogen in an area by serving as a host. |
+| **Vector** | An organism that can carry infectious agents from one animal to another. |
+| **Susceptible host** | A person or animal that can become infected by an infectious agent due to lack of immunity. |
+| **Transmission route** | The way an infectious agent moves from its source or reservoir to a susceptible host. |
+| **Vector-borne transmission** | Transmission of an infectious agent through a living vector. |
 | ***Yersinia pestis*** | The bacterium that causes plague. |
 
 ------------------------------------------------------------------------
@@ -1557,17 +1368,14 @@ Copy the terms below to make your own **Anki or Quizlet** flashcards.
 **Anki:** Save as a `.txt` file → Import → Select **Semicolon** as the field separator.
 
 ``` text
-Bubo;A painful, swollen lymph node associated with bubonic plague.
-Bubonic plague;A form of plague characterized by infection of the lymphatic system and the development of swollen lymph nodes called buboes.
-Septicemic plague;A form of plague in which Yersinia pestis infects the bloodstream.
-Pneumonic plague;A form of plague involving the lungs that can allow respiratory transmission between people.
 Germ theory;The scientific concept that microorganisms can cause disease.
 Pathogen;A biological agent capable of causing disease.
-Host;An organism that can become infected by a pathogen.
-Reservoir;A population, organism, or environmental source in which a pathogen normally lives and persists.
-Vector;A living organism that carries and transmits a pathogen between hosts.
-Transmission route;The way a pathogen moves from its source or reservoir to a susceptible host.
-Vector borne transmission;Transmission of a pathogen through a living vector.
+Agent;A microorganism or other infectious material that causes disease.
+Reservoir;An organism that maintains a virus or bacterial pathogen in an area by serving as a host.
+Vector;An organism that can carry infectious agents from one animal to another.
+Susceptible host;A person or animal that can become infected by an infectious agent due to lack of immunity.
+Transmission route;The way an infectious agent moves from its source or reservoir to a susceptible host.
+Vector-borne transmission;Transmission of an infectious agent through a living vector.
 Yersinia pestis;The bacterium that causes plague.
 ```
 
