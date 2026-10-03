@@ -629,6 +629,109 @@ The history of microscopy, Robert Hooke, Antonie van Leeuwenhoek, and Louis Past
 :::
 ::::::
 
+
+
+------------------------------------------------------------------------
+
+## Why Do Some Bacteria Cause Disease?
+
+Our bodies contain and encounter **many microorganisms**.
+
+Most do not cause disease.
+
+So what makes some bacteria capable of making us sick?
+
+### Consider *Staphylococcus aureus*
+
+:::: {.columns}
+::: {.column width="60%"}
+
+*Staphylococcus aureus* can live on the human body without necessarily causing disease.
+
+If the **skin barrier is broken**, however, the bacterium can enter the body and cause infection.
+
+Under some circumstances, infection may be relatively minor.
+
+Under other circumstances, *S. aureus* can cause **serious, life-threatening infections** and is an important cause of infections in hospitals.
+
+------------------------------------------------------------------------
+
+### So what changed?
+
+The bacterium matters.
+
+But so do the **conditions that allow it to enter, survive, and cause disease**.
+
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="36%"}
+
+::: {style="text-align:center;"}
+![A. Tinea capitis. B. Tinea corporis. C. Herpes simplex. D. Molluscum contagiosum. E. Impetigo. F. Folliculitis. G. Furuncle/carbuncle. H and I. Methicillin-resistant *Staphylococcus aureus*. [Source](https://pmc.ncbi.nlm.nih.gov/articles/PMC2902037/)](staph-infections.jpg){.lightbox fig-alt="Clinical photographs showing several skin diseases, including furuncle or carbuncle and methicillin-resistant Staphylococcus aureus infections." width="100%"}
+:::
+
+:::
+::::
+
+------------------------------------------------------------------------
+
+## Pathogenicity and Virulence
+
+**Pathogenicity**
+
+The ability of a microorganism to cause disease.
+
+**Virulence**
+
+The degree of pathogenicity or the capacity of a pathogen to cause disease.
+
+Some pathogens possess **virulence factors** that increase their ability to infect a host, overcome host defenses, or cause damage.
+
+These can include structures or characteristics that help a microorganism:
+
+- **move** through its environment, such as flagella
+- **attach** to host cells or tissues using surface proteins
+- **invade** cells or tissues
+- **avoid or resist** host immune defenses
+- **produce toxins** or other substances that damage the host
+
+::: {.callout-important title="The Microorganism Is Only Part of the Story"}
+
+The characteristics of the microorganism matter, but whether disease develops can also depend on:
+
+- the route of exposure
+- the **infectious dose**
+- the environment
+- the susceptibility of the host
+
+### Infectious Dose
+
+**Infectious dose** is the amount of an infectious agent needed to establish an infection.
+
+The infectious dose can vary dramatically between microorganisms.
+
+For example, *Vibrio cholerae* may require a relatively large number of bacterial cells to establish infection because many cells are destroyed by stomach acid.
+
+The number required can decrease substantially when stomach acidity is reduced.
+
+### Why does that matter?
+
+Exposure is not simply:
+
+**Were you exposed?**
+
+We also need to ask:
+
+**How much of the agent reached the susceptible host?**
+:::
+
+So identifying a microorganism is not the end of the investigation.
+
+We still need to understand **what it can do, how much exposure occurs, how it enters the host, and who is susceptible**.
+
 ------------------------------------------------------------------------
 
 # Case Study: Hong Kong, 1894
@@ -1162,7 +1265,7 @@ A person or animal that can become infected by an infectious agent due to lack o
 
 Now that we know the agent, we can better understand what happens after infection.
 
-*Yersinia pestis* can produce different forms of disease depending on **how the bacteria enter the body and where the infection develops**.
+*Yersinia pestis* can produce different forms of disease depending on **where the infection develops in the body**.
 
 :::: {.columns}
 ::: {.column width="40%"}
@@ -1187,7 +1290,7 @@ The agent remains the same:
 
 ***Yersinia pestis***
 
-What changes is the **route of exposure and where infection develops in the body**.
+What changes is **where the infection develops in the body**.
 
 :::
 
@@ -1238,7 +1341,7 @@ For any biological hazard, ask:
 - How does it leave the reservoir?
 - How does it move through the environment?
 - How does it reach the worker?
-- What route allows it to enter the body
+- What route allows it to enter the body?
 
 
 ------------------------------------------------------------------------
@@ -1349,6 +1452,10 @@ We also need to understand:
 |---|---|
 | **Germ theory** | The scientific concept that microorganisms can cause disease. |
 | **Pathogen** | A biological agent capable of causing disease. |
+| **Pathogenicity** | The ability of a microorganism to cause disease. |
+| **Virulence** | The degree of pathogenicity or the capacity of a pathogen to cause disease. |
+| **Virulence factor** | A structure or characteristic that increases a microorganism's ability to infect a host, overcome host defenses, or cause damage. |
+| **Infectious dose** | The amount of an infectious agent needed to establish an infection. |
 | **Agent** | A microorganism or other infectious material that causes disease. |
 | **Reservoir** | An organism that maintains a virus or bacterial pathogen in an area by serving as a host. |
 | **Vector** | An organism that can carry infectious agents from one animal to another. |
@@ -1370,6 +1477,10 @@ Copy the terms below to make your own **Anki or Quizlet** flashcards.
 ``` text
 Germ theory;The scientific concept that microorganisms can cause disease.
 Pathogen;A biological agent capable of causing disease.
+Pathogenicity;The ability of a microorganism to cause disease.
+Virulence;The degree of pathogenicity or the capacity of a pathogen to cause disease.
+Virulence factor;A structure or characteristic that increases a microorganism's ability to infect a host, overcome host defenses, or cause damage.
+Infectious dose;The amount of an infectious agent needed to establish an infection.
 Agent;A microorganism or other infectious material that causes disease.
 Reservoir;An organism that maintains a virus or bacterial pathogen in an area by serving as a host.
 Vector;An organism that can carry infectious agents from one animal to another.
