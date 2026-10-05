@@ -1,0 +1,1015 @@
+---
+title: "SHM 102: Occupational Health"
+subtitle: "Public Health History: Vaccination"
+author: "Yoni Rodriguez"
+date: "Fall 2026"
+format:
+  html:
+    toc: true
+    toc-location: right
+    smooth-scroll: true
+    code-fold: true
+    embed-resources: true
+    lightbox: true
+  pdf:
+    toc: true
+    documentclass: scrartcl
+    geometry:
+      - margin=0.75in
+editor: visual
+---
+
+```{=html}
+<style>
+
+/* =========================================================
+   Typography
+   ========================================================= */
+
+body {
+  color: #212529;
+}
+
+blockquote {
+  color: #212529;
+  font-size: inherit;
+  font-style: normal;
+  font-weight: normal;
+}
+
+blockquote strong {
+  color: #212529;
+}
+
+.text-center {
+  color: #212529;
+}
+
+
+/* =========================================================
+   Responsive Mobile Layout
+   Stack ALL Quarto columns on narrow screens
+   ========================================================= */
+
+@media (max-width: 768px) {
+
+  .columns {
+    display: block !important;
+  }
+
+  .columns > .column {
+    width: 100% !important;
+    max-width: 100% !important;
+    flex: 0 0 100% !important;
+  }
+
+  .columns > .column:empty {
+    display: none !important;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  p,
+  li,
+  figcaption {
+    overflow-wrap: anywhere;
+  }
+
+}
+
+
+/* =========================================================
+   Poll Everywhere Layout
+   Keep instructions left and QR code right
+   ========================================================= */
+
+@media (min-width: 501px) {
+
+  .poll-columns {
+    display: flex !important;
+    align-items: center !important;
+  }
+
+  .poll-columns > .column {
+    flex: initial !important;
+  }
+
+}
+
+</style>
+```
+
+:::::: columns
+::: {.column width="40%"}
+```{=html}
+<!-- IMAGE PLACEHOLDER:
+Suggested opening image: historical smallpox vaccination, cowpox, or Jenner-era image.
+Add image and citation once sourced.
+-->
+```
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="56%"}
+## SHM 102: Occupational Health
+
+### Public Health History: Vaccination
+
+**Lecture 04 · Fall 2026**
+
+Yoni Rodriguez\
+Engineering Technologies, Safety, and Construction\
+Central Washington University\
+[Yoni.Rodriguez\@cwu.edu](mailto:Yoni.Rodriguez@cwu.edu)
+:::
+::::::
+
+------------------------------------------------------------------------
+
+# Where Are We in Time?
+
+Last class, we followed plague across more than **500 years** of scientific discovery.
+
+Today, we are going to **rewind**.
+
+Before we zoom in on smallpox and vaccination, let's place ourselves back into the larger history of human health.
+
+------------------------------------------------------------------------
+
+## From Human History to Microbiology
+
+**Paleolithic Era**
+
+Small, mobile hunter-gatherer populations  
+Human health shaped by movement, food, climate, injury, and environmental exposures
+
+↓
+
+**Agricultural Revolution · ~10,000 BCE**
+
+Permanent settlements  
+Domestication of animals  
+Population density increases  
+Human-animal contact intensifies  
+Food, water, waste, and work begin changing patterns of exposure
+
+↓
+
+**Ancient Civilizations**
+
+Cities grow  
+Agriculture and specialized work expand  
+Trade connects populations  
+Water, sanitation, and waste become increasingly important population-health problems
+
+↓
+
+**Middle Ages**
+
+**1347–1351 · Black Death**
+
+↓
+
+**Early Modern Period**
+
+**1546 · Girolamo Fracastoro** proposes contagion through transferable particles.  
+**1676 · Antonie van Leeuwenhoek** observes microorganisms with a microscope.
+
+↓
+
+## **18th–Early 19th Century ← WE ARE HERE TODAY**
+
+**1717 · Smallpox inoculation / variolation**  
+Lady Mary Wortley Montagu encounters the practice in the Ottoman Empire and later promotes it in Britain.
+
+**1796–1798 · Edward Jenner**  
+Cowpox exposure is investigated as protection against smallpox.
+
+**1835 · Agostino Bassi**  
+A fungus is demonstrated to cause disease in silkworms.
+
+↓
+
+**Mid–Late 19th Century**
+
+**1854 · John Snow** investigates cholera using patterns of disease and exposure.  
+**1850s–1880s · Pasteur, Koch, and others** develop increasingly powerful approaches to microbial causation.
+
+↓
+
+**1894–1898**
+
+**Alexandre Yersin** identifies the plague bacterium.  
+**Paul-Louis Simond** investigates flea transmission.
+
+------------------------------------------------------------------------
+
+::: {.callout-note title="Today's Window: 1717–1835"}
+Between the first observations of microorganisms and the establishment of germ theory, people were already learning how to **prevent disease** and **experimentally investigate its causes**.
+
+Today we are zooming in on two developments:
+
+1. **Smallpox prevention → variolation and vaccination**
+2. **Microbial causation → Bassi and silkworm disease**
+:::
+
+------------------------------------------------------------------------
+
+# A Question From Class
+
+Last week, while discussing infectious disease and the development of germ theory, someone asked about **cowpox and vaccination**.
+
+It raises an interesting problem.
+
+Edward Jenner conducted his famous vaccination experiment in **1796**.
+
+But scientists had not yet established germ theory.
+
+Viruses had not been discovered.
+
+Modern immunology did not exist.
+
+### So how could people prevent smallpox without knowing what caused it?
+
+------------------------------------------------------------------------
+
+## Poll Everywhere
+
+::::::: {.columns .poll-columns}
+::: {.column width="65%"}
+### What Would You Look For?
+
+Imagine it is **1796**.
+
+You do not know what a virus is.
+
+You do not know what antibodies are.
+
+You do not know how the immune system works.
+
+**What observations could convince you that someone might be protected from a disease?**
+
+There is no single correct answer.
+
+Think about what you could observe in individuals and populations.
+:::
+
+::: {.column width="5%"}
+:::
+
+:::: {.column width="30%"}
+::: {style="display:flex; justify-content:center; align-items:center; height:100%;"}
+![](poll-everywhere-response.jpg){fig-alt="Poll Everywhere QR code and response link for SHM 102" width="250"}
+:::
+::::
+:::::::
+
+------------------------------------------------------------------------
+
+# Smallpox
+
+```{=html}
+<!-- IMAGE PLACEHOLDER:
+Suggested image: historical smallpox case, illustration, or photograph suitable for instruction.
+-->
+```
+
+Smallpox was a highly contagious infectious disease that affected human populations for thousands of years.
+
+People could observe:
+
+- fever
+- severe illness
+- characteristic skin lesions
+- scarring
+- blindness in some survivors
+- death
+- outbreaks moving through communities
+
+They could observe the **outcome**.
+
+But there was another important observation.
+
+### People who survived smallpox generally did not develop the disease again.
+
+Something about surviving the disease appeared to change a person's **susceptibility**.
+
+------------------------------------------------------------------------
+
+# An Observation Becomes an Intervention
+
+If people who survived smallpox appeared protected from future smallpox...
+
+### Could exposure somehow be used intentionally?
+
+Long before modern vaccination, people in several parts of the world developed practices intended to protect individuals from smallpox.
+
+One such practice became known as:
+
+## Variolation
+
+**Variolation** was the historical practice of deliberately exposing a person to material from smallpox lesions in an attempt to produce infection and subsequent protection.
+
+The goal was to deliberately manipulate **exposure**.
+
+But the exposure itself involved the disease people were trying to prevent.
+
+------------------------------------------------------------------------
+
+## Poll Everywhere
+
+::::::: {.columns .poll-columns}
+::: {.column width="65%"}
+### Would You Do It?
+
+You are living in a community experiencing repeated smallpox outbreaks.
+
+You have two choices:
+
+**A.** Risk acquiring smallpox naturally.
+
+**B.** Deliberately expose yourself to smallpox material in an attempt to develop protection.
+
+**What additional information would you want before making that decision?**
+
+Think about:
+
+- probability of infection
+- severity of disease
+- probability of death
+- whether the intervention actually provides protection
+- risk to other people
+:::
+
+::: {.column width="5%"}
+:::
+
+:::: {.column width="30%"}
+::: {style="display:flex; justify-content:center; align-items:center; height:100%;"}
+![](poll-everywhere-response.jpg){fig-alt="Poll Everywhere QR code and response link for SHM 102" width="250"}
+:::
+::::
+:::::::
+
+------------------------------------------------------------------------
+
+# Smallpox Prevention Before Jenner
+
+## Variolation Was Not Jenner's Invention
+
+The idea of deliberately producing protection against smallpox existed **before Edward Jenner**.
+
+Variolation practices developed in parts of **Asia, Africa, and the Ottoman Empire** before becoming widely known in Britain and colonial North America.
+
+```{=html}
+<!-- SOURCE PLACEHOLDER:
+Add authoritative source(s) documenting the history and geographic development of variolation.
+-->
+```
+
+------------------------------------------------------------------------
+
+# Lady Mary Wortley Montagu
+
+:::::: columns
+::: {.column width="58%"}
+In the early eighteenth century, **Lady Mary Wortley Montagu** encountered smallpox inoculation while living in the Ottoman Empire.
+
+Smallpox had affected her personally.
+
+She had survived the disease, and her brother had died from it.
+
+While in Constantinople, she observed the practice of deliberately inoculating people with smallpox material.
+
+She later advocated for the practice in Britain.
+
+### Knowledge Was Moving
+
+The scientific and medical knowledge we are following did not develop in one place or through one person.
+
+**People observed practices in other populations, transported ideas, tested them, modified them, and argued about the evidence.**
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="38%"}
+```{=html}
+<!-- IMAGE PLACEHOLDER:
+Suggested image: portrait of Lady Mary Wortley Montagu or historical inoculation scene.
+-->
+```
+:::
+::::::
+
+------------------------------------------------------------------------
+
+# Another Path of Knowledge: Onesimus
+
+At roughly the same time, knowledge of smallpox inoculation was also present in colonial North America.
+
+In Boston, an enslaved African man named **Onesimus** described a form of smallpox inoculation to **Cotton Mather**.
+
+The practice reflected knowledge carried from Africa.
+
+During a major Boston smallpox epidemic, Mather promoted inoculation as a way to reduce the danger of the disease.
+
+### More Than One Path
+
+The history of smallpox prevention was not a simple sequence from one European scientist to another.
+
+Knowledge moved through different communities and across continents:
+
+**Africa and Asia → established inoculation practices**
+
+**Ottoman Empire → Montagu → Britain**
+
+**African knowledge → Onesimus → colonial Boston**
+
+::: {.callout-tip title="Scientific Knowledge Has Many Sources"}
+The history of occupational and public health includes not only formal scientific experiments, but also **observations, practices, and knowledge developed within communities**.
+:::
+
+<!-- SOURCE PLACEHOLDER:
+Add authoritative source documenting Onesimus, Cotton Mather, and smallpox inoculation in colonial Boston.
+-->
+
+------------------------------------------------------------------------
+
+# But There Was a Problem
+
+Variolation intentionally exposed someone to:
+
+### smallpox.
+
+That meant the intervention itself carried risk.
+
+A variolated person could become seriously ill.
+
+They could potentially transmit smallpox to other people.
+
+::: {.callout-note title="The Next Question"}
+**Could you produce protection without deliberately giving someone smallpox?**
+:::
+
+------------------------------------------------------------------------
+
+# An Observation From the Countryside
+
+## Cowpox
+
+Cowpox was an infection associated with cattle that could also infect humans who had contact with infected animals.
+
+People working around cattle sometimes developed cowpox lesions.
+
+But a curious observation circulated:
+
+### People who had experienced cowpox appeared less likely to develop smallpox.
+
+------------------------------------------------------------------------
+
+## Look at the Occupation
+
+Who would have repeated opportunities to encounter cowpox?
+
+### People working with cattle.
+
+Especially:
+
+## milkmaids.
+
+The occupation created an **opportunity for exposure**.
+
+Remember what we learned from the plague investigation:
+
+**The occupational hazard is not determined by the job title alone.**
+
+It depends on the **task and opportunity for exposure**.
+
+```{=html}
+<!-- IMAGE PLACEHOLDER:
+Suggested image: historical milkmaid/cattle image or cowpox lesion illustration.
+-->
+```
+
+------------------------------------------------------------------------
+
+# Edward Jenner
+
+:::::: columns
+::: {.column width="60%"}
+English physician **Edward Jenner (1749–1823)** became interested in the relationship between **cowpox and smallpox**.
+
+He had heard the observation that people who had previously developed cowpox seemed protected against smallpox.
+
+But remember what we learned last class:
+
+### An observation is not necessarily proof.
+
+Jenner needed a way to test the hypothesis.
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="36%"}
+```{=html}
+<!-- IMAGE PLACEHOLDER:
+Suggested image: portrait of Edward Jenner.
+-->
+```
+:::
+::::::
+
+------------------------------------------------------------------------
+
+# The Hypothesis
+
+## Observation
+
+People exposed to cowpox sometimes appeared resistant to smallpox.
+
+↓
+
+## Question
+
+Does infection with cowpox protect against smallpox?
+
+↓
+
+## Hypothesis
+
+Previous exposure to cowpox provides protection against smallpox.
+
+------------------------------------------------------------------------
+
+## Poll Everywhere
+
+::::::: {.columns .poll-columns}
+::: {.column width="65%"}
+### How Would You Test It?
+
+You have observed that people who previously experienced cowpox appear less likely to develop smallpox.
+
+How could you test whether **cowpox actually provides protection against smallpox**?
+
+Think about:
+
+- what evidence you would collect
+- what comparison you would make
+- what outcome you would observe
+- what would support or challenge the hypothesis
+:::
+
+::: {.column width="5%"}
+:::
+
+:::: {.column width="30%"}
+::: {style="display:flex; justify-content:center; align-items:center; height:100%;"}
+![](poll-everywhere-response.jpg){fig-alt="Poll Everywhere QR code and response link for SHM 102" width="250"}
+:::
+::::
+:::::::
+
+------------------------------------------------------------------------
+
+# Testing the Hypothesis
+
+In **1796**, Jenner obtained material from a cowpox lesion on the hand of **Sarah Nelmes**, a milkmaid who had contracted cowpox.
+
+He inoculated **James Phipps**, an eight-year-old boy, with the material.
+
+Phipps developed symptoms consistent with cowpox and recovered.
+
+Jenner later deliberately exposed Phipps to material from smallpox.
+
+### Phipps did not develop smallpox.
+
+Jenner subsequently conducted additional observations and experiments and published his findings in **1798**.
+
+```{=html}
+<!-- IMAGE PLACEHOLDER:
+Suggested image: Jenner vaccinating James Phipps or historical illustration of the experiment.
+-->
+```
+
+```{=html}
+<!-- SOURCE PLACEHOLDER:
+Verify details of Jenner, Nelmes, Phipps, 1796 experiment, and 1798 publication with authoritative source.
+-->
+```
+
+------------------------------------------------------------------------
+
+::: {.callout-important title="Historical Evidence and Modern Ethics"}
+Jenner's experiment became historically important in the development of vaccination.
+
+**It would not meet modern standards for ethical human-subjects research.**
+
+Deliberately exposing a child to potentially lethal smallpox would be unacceptable under contemporary research ethics.
+
+Scientific importance does not mean that every historical research method should be accepted by modern standards.
+:::
+
+------------------------------------------------------------------------
+
+# Variolation vs. Vaccination
+
+|   | **Variolation** | **Vaccination** |
+|------------------------|------------------------|------------------------|
+| **Exposure** | Smallpox material | Historically, cowpox material |
+| **Goal** | Produce protection against smallpox | Produce protection against smallpox |
+| **Smallpox exposure** | Yes | No |
+| **Relative danger** | Greater | Lower |
+
+------------------------------------------------------------------------
+
+## Where Did "Vaccination" Come From?
+
+The word **vaccination** traces to the Latin:
+
+### *vacca* = cow
+
+Jenner used the term *variolae vaccinae* in describing cowpox.
+
+Eventually, **vaccination** became the broader term for inducing protection against infectious disease.
+
+```{=html}
+<!-- SOURCE PLACEHOLDER:
+Verify terminology/etymology against authoritative historical source.
+-->
+```
+
+------------------------------------------------------------------------
+
+# But How Did It Work?
+
+Jenner could observe that vaccination worked.
+
+He could collect evidence that vaccination worked.
+
+### But he could not explain the mechanism using modern immunology.
+
+He did not know about:
+
+- viruses
+- antibodies
+- B cells
+- T cells
+- immune memory
+
+That understanding came later.
+
+------------------------------------------------------------------------
+
+::: {.callout-important title="Prevention Can Precede Complete Understanding"}
+People practiced **quarantine** before identifying *Yersinia pestis*.
+
+People practiced **variolation** before understanding viruses or immunity.
+
+Jenner demonstrated protection through **vaccination** before modern immunology existed.
+
+### Effective prevention does not always require complete understanding of the underlying mechanism.
+:::
+
+------------------------------------------------------------------------
+
+# Now We Change the Question
+
+We have spent much of this lecture asking:
+
+> **Can we prevent disease without completely understanding its cause?**
+
+But scientists were also pursuing another question:
+
+> **Can we experimentally demonstrate that a microorganism causes disease?**
+
+------------------------------------------------------------------------
+# Italy, 1830s
+
+## Another Disease Was Causing a Different Problem
+
+This time, the victims were not humans.
+
+They were:
+
+# silkworms.
+
+Silk production depended on raising large numbers of silkworms.
+
+Disease among silkworm populations therefore threatened:
+
+- animals
+- production
+- livelihoods
+- workers
+- an important industry
+
+Again, disease existed inside a **system**.
+
+```{=html}
+<!-- IMAGE PLACEHOLDER:
+Suggested image: silkworms, historical sericulture, or muscardine disease.
+-->
+```
+
+------------------------------------------------------------------------
+
+# Agostino Bassi
+
+:::::: columns
+::: {.column width="60%"}
+Italian scientist **Agostino Bassi** spent years investigating a disease affecting silkworms.
+
+The disease was known as **mal del segno**, or **muscardine**.
+
+Bassi eventually demonstrated that the disease was caused by a **fungus**.
+
+That was enormously important.
+
+### A microorganism had been experimentally demonstrated to cause disease in an animal.
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="36%"}
+```{=html}
+<!-- IMAGE PLACEHOLDER:
+Suggested image: portrait of Agostino Bassi and/or fungus-infected silkworm.
+-->
+```
+:::
+::::::
+
+```{=html}
+<!-- SOURCE PLACEHOLDER:
+Add authoritative source documenting Bassi's silkworm experiments and historical significance.
+-->
+```
+
+------------------------------------------------------------------------
+
+# Remember Our Question?
+
+Last class, after introducing microscopy, we asked:
+
+> **Seeing a microorganism does not necessarily mean that it caused the disease.**
+
+What additional evidence would you want?
+
+Bassi helped demonstrate an answer.
+
+Scientists could:
+
+1.  observe disease
+2.  identify a suspected biological agent
+3.  transmit disease using material associated with that agent
+4.  observe the disease developing in another organism
+
+### Observation was becoming experimentation.
+
+------------------------------------------------------------------------
+
+# One Health Before "One Health"
+
+:::::: columns
+::: {.column width="46%"}
+## The System
+
+**Silkworm**
+
+↓
+
+**Fungal pathogen**
+
+↓
+
+**Disease**
+
+↓
+
+**Silk production**
+
+↓
+
+**Workers and livelihoods**
+
+↓
+
+**Economic consequences**
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="50%"}
+### Is this an animal-health problem?
+
+**Yes.**
+
+### Is this an economic problem?
+
+**Yes.**
+
+### Is this an occupational problem?
+
+**Yes.**
+
+### Is this an environmental or biological problem?
+
+**Yes.**
+
+The parts of the system are connected.
+:::
+::::::
+
+------------------------------------------------------------------------
+
+# Two Different Scientific Problems
+
+| **Jenner** | **Bassi** |
+|------------------------------------|------------------------------------|
+| Can disease be prevented? | Can disease be experimentally attributed to a microorganism? |
+| Observation of population pattern | Observation of diseased animals |
+| Cowpox → apparent protection | Fungus → silkworm disease |
+| Intervention | Causal investigation |
+| Prevention before mechanism | Evidence of microbial causation |
+
+### Which came first?
+
+In the smallpox story:
+
+## Reliable prevention came before complete mechanistic understanding.
+
+------------------------------------------------------------------------
+
+# What Humans Could Now Do
+
+By the middle of the nineteenth century, humans had become increasingly capable of:
+
+## OBSERVING
+
+patterns of disease
+
+↓
+
+## FORMING HYPOTHESES
+
+about what caused disease
+
+↓
+
+## SEEING
+
+the microscopic world
+
+↓
+
+## EXPERIMENTING
+
+with suspected causes
+
+↓
+
+## PREVENTING
+
+some diseases even before mechanisms were completely understood
+
+------------------------------------------------------------------------
+
+# But Another Tool Was Developing
+
+Scientists could also study:
+
+### patterns of disease across populations.
+
+They could ask:
+
+- Who became sick?
+- Where did they live or work?
+- When did illness occur?
+- What exposures did affected people share?
+- Were some groups affected more than others?
+
+Those patterns could provide evidence even when the hazard itself could not yet be directly identified.
+
+------------------------------------------------------------------------
+
+# From Vaccination to Occupational Health
+
+## Think Like an Occupational Health Scientist
+
+The historical cases changed.
+
+The investigative questions did not.
+
+When workers experience illness, ask:
+
+- What health outcome are we observing?
+- Who is affected?
+- What exposures do they share?
+- What tasks create opportunities for exposure?
+- What evidence supports a causal relationship?
+- Can we intervene before every mechanism is completely understood?
+- What additional evidence would strengthen our conclusion?
+
+::: {.callout-tip title="Decisions Under Uncertainty"}
+**Occupational health often requires decisions under uncertainty.**
+
+Waiting until every biological mechanism is completely understood may allow preventable exposures to continue.
+:::
+
+------------------------------------------------------------------------
+
+# The Next Mystery
+
+## London, 1854
+
+Thousands of people are becoming sick.
+
+The disease is:
+
+# cholera.
+
+People disagree about what is causing it.
+
+Some blame contaminated air.
+
+Others suspect something else.
+
+You do not have modern laboratory testing.
+
+You cannot simply identify the organism in your laboratory.
+
+### How could you determine where the exposure is coming from?
+
+## Next: John Snow, Cholera, and Epidemiology
+
+------------------------------------------------------------------------
+
+# Key Takeaway
+
+Humans learned to prevent some diseases **before they completely understood their causes**.
+
+Smallpox demonstrated that careful observation could reveal patterns of **susceptibility and protection**.
+
+Variolation showed that exposure could be deliberately manipulated to produce protection, although the practice carried substantial risk.
+
+Jenner's experiments with cowpox helped establish **vaccination** as a safer approach to preventing smallpox.
+
+Bassi's investigation of silkworm disease provided early experimental evidence that a **microorganism could cause disease in an animal**.
+
+### Scientific understanding developed incrementally.
+
+**Observation → hypothesis → intervention → experimentation → evidence**
+
+In occupational health, we often face the same challenge:
+
+### How much evidence do we need before we act to prevent harm?
+
+------------------------------------------------------------------------
+
+# Key Terms
+
+| Term | Definition |
+|------------------------------------|------------------------------------|
+| **Immunity** | Protection against a particular infectious disease resulting from the body's ability to respond to the infectious agent. |
+| **Variolation** | Historical practice of deliberately exposing a person to smallpox material to produce infection and subsequent protection. |
+| **Vaccination** | Administration of a vaccine to produce protection against disease. |
+| **Vaccine** | A preparation used to stimulate protection against a particular disease. |
+| **Causation** | A relationship in which an exposure or factor contributes to producing an outcome. |
+| **Susceptible host** | A person or animal capable of becoming infected by an infectious agent. |
+
+------------------------------------------------------------------------
+
+## Make your flashcards
+
+### Copy → Paste → Study
+
+Copy the terms below to make your own **Anki or Quizlet** flashcards.
+
+**Anki:** Save as a `.txt` file → Import → Select **Semicolon** as the field separator.
+
+``` text
+Immunity;Protection against a particular infectious disease resulting from the body's ability to respond to the infectious agent.
+Variolation;Historical practice of deliberately exposing a person to smallpox material to produce infection and subsequent protection.
+Vaccination;Administration of a vaccine to produce protection against disease.
+Vaccine;A preparation used to stimulate protection against a particular disease.
+Causation;A relationship in which an exposure or factor contributes to producing an outcome.
+Susceptible host;A person or animal capable of becoming infected by an infectious agent.
+```
+
+### Copyright & Use
+
+**SHM 102: Occupational Health**\
+© 2026 Yoni Rodriguez
+
+Except where otherwise noted, original course materials are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+Third-party materials remain subject to their respective copyright and licensing terms.
