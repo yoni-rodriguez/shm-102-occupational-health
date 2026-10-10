@@ -1,0 +1,130 @@
+---
+title: "SHM 102: Occupational Health"
+subtitle: "Midterm Vocabulary and Key Concepts"
+author: "Professor Yoni Rodriguez"
+date: "Fall 2026"
+
+format:
+  html:
+    toc: true
+    toc-location: right
+    toc-depth: 2
+    smooth-scroll: true
+    embed-resources: true
+    theme: cosmo
+
+  pdf:
+    toc: true
+    documentclass: scrartcl
+    geometry:
+      - margin=0.75in
+
+editor: visual
+---
+
+# SHM 102: Occupational Health
+
+## Midterm Vocabulary and Key Concepts
+
+**Fall 2026 | Professor Yoni Rodriguez**
+
+This reference compiles vocabulary and key concepts introduced throughout SHM 102: Occupational Health.
+
+Students should be able to define these terms, explain their significance, and apply them to occupational health scenarios.
+
+This resource is intended to support lecture review and midterm preparation but does not replace lecture materials.
+
+---
+
+## Lecture 01: Introduction to Occupational Health
+
+| Term | Definition |
+|---|---|
+| Occupational health | Understanding and preventing health problems related to work and work environments. |
+| Hazard | Something with the potential to cause harm to human health. |
+| Exposure | Contact between a person and a hazard. |
+| Exposure route | How a hazard enters or contacts the body, including inhalation, ingestion, or dermal contact. |
+| Acute health effect | A health effect occurring relatively soon after exposure. |
+| Chronic health effect | A health effect developing or persisting over a longer period. |
+| Hierarchy of Controls | A framework for selecting ways to prevent or reduce exposure. Order: elimination → substitution → engineering controls → administrative controls → PPE. |
+| Administrative control | Changing how or when people work. |
+| Engineering control | Isolating people from a hazard. |
+
+---
+
+## Lecture 02: History of Public Health
+
+| Term | Definition |
+|---|---|
+| Public health | Protecting and improving the health of populations through prevention and organized action. |
+| Disease | A condition that disrupts normal functioning and produces adverse health effects. |
+| Epidemic | Disease occurrence in a population above what is normally expected. |
+| Isolation | Separating people who are ill from people who are not ill. |
+| Quarantine | Restricting the movement of people who may have been exposed to disease. |
+| Imported case or outbreak | A case or outbreak introduced into a population from another geographic location. |
+| Transportation network | A connected system through which people, animals, and goods move between places. |
+| One Health | An approach recognizing that the health of humans, animals, and the environment are interconnected. |
+
+---
+
+## Lecture 03: Plague and Infectious Disease
+
+| Term | Definition |
+|---|---|
+| Germ theory | The scientific concept that microorganisms can cause disease. |
+| Pathogen | A biological agent capable of causing disease. |
+| Pathogenicity | The ability of a microorganism to cause disease. |
+| Virulence | The degree of pathogenicity or capacity of a pathogen to cause disease. |
+| Virulence factor | A structure or characteristic that increases a microorganism's ability to infect a host, overcome host defenses, or cause damage. |
+| Infectious dose | The amount of an infectious agent needed to establish an infection. |
+| Agent | A microorganism or other infectious material that causes disease. |
+| Reservoir | An organism or environment in which an infectious agent normally lives and is maintained. |
+| Vector | An organism that can carry infectious agents from one host to another. |
+| Susceptible host | A person or animal that can become infected by an infectious agent. |
+| Transmission route | The way an infectious agent moves from its source or reservoir to a susceptible host. |
+| Vector-borne transmission | Transmission of an infectious agent through a living vector. |
+| Yersinia pestis | The bacterium that causes plague. |
+
+---
+
+## Key Concepts and Application Questions
+
+These questions emphasize understanding and application of the material rather than memorization alone. Students should be able to explain these concepts in their own words and connect them to occupational health and disease prevention.
+
+| Lecture | Concept Question | Key Takeaway | Cognitive Skill |
+|---|---|---|---|
+| Lecture 01: Introduction to Occupational Health | How would you define and explain occupational health to someone unfamiliar with the field? | Occupational health focuses on understanding how workplace hazards and exposures affect human health and identifying ways to prevent work-related injuries and illnesses. | **Understand:** Define occupational health and explain its purpose. |
+| Lecture 02: History of Public Health | How did the Agricultural Revolution change exposure? | Permanent settlements increased population density and brought humans into closer contact with domesticated animals, stored food, waste, water sources, rodents, and other wildlife, creating new opportunities for exposure and disease transmission. | **Understand and Analyze:** Explain how changes in human settlements and interactions with animals and the environment created new opportunities for disease transmission. |
+| Lecture 03: Plague and Infectious Disease | Given what we learned about vector-borne transmission and transmission routes, how would you explain the transmission of *Yersinia pestis* to someone who has not taken this course? | *Yersinia pestis* is the bacterium responsible for plague. Fleas can act as vectors, transmitting the bacterium from infected animal reservoirs, particularly rodents, to humans through bites. Students should distinguish the pathogen, reservoir, vector, transmission route, and susceptible host. | **Understand and Analyze:** Explain the chain of infectious disease transmission and distinguish the roles of the pathogen, reservoir, vector, transmission route, and susceptible host. |
+| Lectures 01 and 03: Applying Occupational Health Principles | Given what we learned about *Yersinia pestis*, vector-borne transmission, and transmission routes, how would you apply the Hierarchy of Controls to prevent occupational exposures during plague cases that still occur today? | Students should identify potential occupational exposures and propose prevention strategies using the Hierarchy of Controls: elimination, substitution, engineering controls, administrative controls, and PPE. Examples may include reducing contact with infected animals and fleas, implementing flea and rodent control measures, establishing safe work procedures, and using appropriate PPE. Students should recognize that not every control level is equally applicable to every biological hazard. | **Apply and Evaluate:** Identify occupational exposure scenarios, select appropriate controls using the Hierarchy of Controls, and justify why certain interventions are more effective or feasible than others. |
+
+---
+
+## How to Use This Resource
+
+1. Review the vocabulary terms from each lecture.
+2. Practice explaining definitions in your own words.
+3. Identify relationships between concepts.
+4. Apply terminology to occupational health examples.
+5. Review lecture materials for additional context.
+
+**Important:** The midterm may assess your ability to explain and apply these concepts, not simply recall definitions.
+
+---
+
+*SHM 102: Occupational Health | Central Washington University | Fall 2026*
+
+---
+
+## Copyright and Licensing
+
+© 2026 Yoni Rodriguez. All rights reserved except as otherwise permitted under the applicable repository license.
+
+**SHM 102: Occupational Health**  
+Central Washington University | Fall 2026
+
+This educational resource was developed by Yoni Rodriguez for instructional purposes in SHM 102: Occupational Health at Central Washington University.
+
+Course materials may contain references to scientific literature, government publications, and other educational resources. Third-party materials remain the intellectual property of their respective copyright holders and are subject to their applicable licenses.
+
+For information about permitted use, reproduction, modification, and distribution, please refer to the [repository LICENSE](../../LICENSE.md).

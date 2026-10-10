@@ -145,26 +145,26 @@ Before we zoom in on smallpox and vaccination, let's place ourselves back into t
 
 **Paleolithic Era**
 
-Small, mobile hunter-gatherer populations  
+Small, mobile hunter-gatherer populations\
 Human health shaped by movement, food, climate, injury, and environmental exposures
 
 ↓
 
-**Agricultural Revolution · ~10,000 BCE**
+**Agricultural Revolution · \~10,000 BCE**
 
-Permanent settlements  
-Domestication of animals  
-Population density increases  
-Human-animal contact intensifies  
+Permanent settlements\
+Domestication of animals\
+Population density increases\
+Human-animal contact intensifies\
 Food, water, waste, and work begin changing patterns of exposure
 
 ↓
 
 **Ancient Civilizations**
 
-Cities grow  
-Agriculture and specialized work expand  
-Trade connects populations  
+Cities grow\
+Agriculture and specialized work expand\
+Trade connects populations\
 Water, sanitation, and waste become increasingly important population-health problems
 
 ↓
@@ -177,34 +177,34 @@ Water, sanitation, and waste become increasingly important population-health pro
 
 **Early Modern Period**
 
-**1546 · Girolamo Fracastoro** proposes contagion through transferable particles.  
+**1546 · Girolamo Fracastoro** proposes contagion through transferable particles.\
 **1676 · Antonie van Leeuwenhoek** observes microorganisms with a microscope.
 
 ↓
 
 ## **18th–Early 19th Century ← WE ARE HERE TODAY**
 
-**1717 · Smallpox inoculation / variolation**  
+**1717 · Smallpox inoculation / variolation**\
 Lady Mary Wortley Montagu encounters the practice in the Ottoman Empire and later promotes it in Britain.
 
-**1796–1798 · Edward Jenner**  
+**1796–1798 · Edward Jenner**\
 Cowpox exposure is investigated as protection against smallpox.
 
-**1835 · Agostino Bassi**  
+**1835 · Agostino Bassi**\
 A fungus is demonstrated to cause disease in silkworms.
 
 ↓
 
 **Mid–Late 19th Century**
 
-**1854 · John Snow** investigates cholera using patterns of disease and exposure.  
+**1854 · John Snow** investigates cholera using patterns of disease and exposure.\
 **1850s–1880s · Pasteur, Koch, and others** develop increasingly powerful approaches to microbial causation.
 
 ↓
 
 **1894–1898**
 
-**Alexandre Yersin** identifies the plague bacterium.  
+**Alexandre Yersin** identifies the plague bacterium.\
 **Paul-Louis Simond** investigates flea transmission.
 
 ------------------------------------------------------------------------
@@ -214,8 +214,8 @@ Between the first observations of microorganisms and the establishment of germ t
 
 Today we are zooming in on two developments:
 
-1. **Smallpox prevention → variolation and vaccination**
-2. **Microbial causation → Bassi and silkworm disease**
+1.  **Smallpox prevention → variolation and vaccination**
+2.  **Microbial causation → Bassi and silkworm disease**
 :::
 
 ------------------------------------------------------------------------
@@ -435,9 +435,11 @@ Knowledge moved through different communities and across continents:
 The history of occupational and public health includes not only formal scientific experiments, but also **observations, practices, and knowledge developed within communities**.
 :::
 
+```{=html}
 <!-- SOURCE PLACEHOLDER:
 Add authoritative source documenting Onesimus, Cotton Mather, and smallpox inoculation in colonial Boston.
 -->
+```
 
 ------------------------------------------------------------------------
 
@@ -689,36 +691,18 @@ But scientists were also pursuing another question:
 
 > **Can we experimentally demonstrate that a microorganism causes disease?**
 
-------------------------------------------------------------------------
-# Italy, 1830s
-
-## Another Disease Was Causing a Different Problem
-
-This time, the victims were not humans.
-
-They were:
-
-# silkworms.
-
-Silk production depended on raising large numbers of silkworms.
-
-Disease among silkworm populations therefore threatened:
-
-- animals
-- production
-- livelihoods
-- workers
-- an important industry
-
-Again, disease existed inside a **system**.
-
-```{=html}
-<!-- IMAGE PLACEHOLDER:
-Suggested image: silkworms, historical sericulture, or muscardine disease.
--->
-```
-
-------------------------------------------------------------------------
+|  |
+|:-----------------------------------------------------------------------|
+| \# Italy, 1830s |
+| \## Another Disease Was Causing a Different Problem |
+| This time, the victims were not humans. |
+| They were: |
+| \# silkworms. |
+| Silk production depended on raising large numbers of silkworms. |
+| Disease among silkworm populations therefore threatened: |
+| \- animals - production - livelihoods - workers - an important industry |
+| Again, disease existed inside a **system**. |
+| `{=html} <!-- IMAGE PLACEHOLDER: Suggested image: silkworms, historical sericulture, or muscardine disease. -->` |
 
 # Agostino Bassi
 
