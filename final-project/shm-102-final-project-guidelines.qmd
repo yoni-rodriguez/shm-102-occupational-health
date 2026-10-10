@@ -1,0 +1,178 @@
+---
+title: "SHM 102: Occupational Health"
+subtitle: "Final Project Guidelines and Rubric | Draft 01"
+author: "Professor Rodriguez"
+date: "Fall 2026"
+format:
+  html:
+    toc: true
+    toc-location: right
+    toc-depth: 3
+    smooth-scroll: true
+    code-fold: true
+    embed-resources: true
+    lightbox: true
+    theme: cosmo
+  pdf:
+    toc: true
+    documentclass: scrartcl
+    geometry:
+      - margin=0.75in
+editor: visual
+---
+
+```{=html}
+<style>
+:root { --cwu-red: #9d2235; --ink: #243247; --soft: #f5f7fa; }
+body { line-height: 1.65; }
+h1, h2, h3 { color: var(--ink); }
+h2 { border-bottom: 2px solid #e5e9ee; padding-bottom: .35rem; margin-top: 2.3rem; }
+.quarto-title-block .title { color: var(--cwu-red); font-weight: 750; }
+.quarto-title-block .subtitle { color: #46566a; }
+table { font-size: .94rem; }
+thead { background: #f1f4f7; }
+blockquote { border-left: 4px solid var(--cwu-red); background: #f8f9fb; padding: .7rem 1rem; }
+.callout { border-radius: 8px; }
+@media print { body { font-size: 10pt; } h2 { break-after: avoid; } tr { break-inside: avoid; } }
+</style>
+```
+
+::: {.callout-note title="Draft for student review"}
+This document establishes the proposed expectations and grading criteria for the SHM 102 Final Project. The professor will confirm any revisions and deadlines in Canvas. Students are not expected to conduct original exposure measurements, collect human-subject data, or prove causation.
+:::
+
+## Project at a glance
+
+| Item | Requirement |
+|:-----------------------------------|:-----------------------------------|
+| Course | SHM 102: Occupational Health, Fall 2026 |
+| Project value | **200 points**, representing **50%** of the course grade |
+| Research presentation | **100 points** |
+| Audience feedback | **100 points** |
+| Format | Individual or pair, as selected in class |
+| Presentation length | **15 minutes per project**, including questions |
+| Presentation dates | **Monday, November 30 through Thursday, December 3, 2026** |
+| Audience feedback | **10 evaluations × 10 points = 100 points** per student |
+| Submission | Presentation materials and feedback submitted through Canvas, following posted instructions |
+
+**Central objective:** Investigate an occupational or environmental health issue and use credible evidence to explain the problem, evaluate potential risks, and recommend appropriate prevention strategies.
+
+The project assesses two complementary skills: **communicating occupational health research** and **critically evaluating research presented by classmates**.
+
+## Occupational health reasoning framework
+
+Use the recurring SHM 102 framework to organize your investigation:
+
+**Worker → Task → Hazard → Exposure → Health Effect → Risk → Controls**
+
+This framework is a guide, not a requirement to force every topic into an identical scientific model. For example, psychosocial hazards may involve workplace demands, organizational conditions, and traumatic experiences rather than inhalation, ingestion, or skin contact.
+
+## What to include in your presentation
+
+Use the following sequence to guide your research and presentation. You may adjust the order when doing so makes your explanation clearer.
+
+1.  **Introduce the problem.** What is happening, and why does it matter?
+2.  **Identify the affected workers or populations.** Who may be at risk? What tasks or activities are involved?
+3.  **Explain the hazard and exposure.** What creates the potential for harm? How does contact or harmful interaction occur? Discuss route, frequency, duration, or intensity where relevant.
+4.  **Describe health effects and risk factors.** What acute or chronic outcomes may occur? What affects risk or susceptibility?
+5.  **Evaluate the evidence.** What do credible sources show? What is well established, and what remains uncertain?
+6.  **Recommend prevention and control strategies.** What could reduce or prevent harm? Use the hierarchy of controls where appropriate, and explain why your recommendations make sense.
+7.  **Conclude and evaluate.** What should the audience remember? How could someone determine whether the proposed intervention worked?
+
+Aim for **10 to 12 minutes presenting** and **3 to 5 minutes for questions and discussion**, within the 15-minute total. Use readable visuals, explain technical terms, and include citations and a reference list for your sources. A separate written research report is **not currently required** by this draft.
+
+## Part A: Research presentation rubric (100 points)
+
+| Criterion | Points | What you should demonstrate |
+|:-----------------------|-----------------------:|:-----------------------|
+| Occupational health problem and significance | **10** | Clearly define the issue, its importance, and the people affected. |
+| Workers, tasks, and hazard identification | **15** | Identify relevant work settings, activities, and potential hazards. |
+| Exposure pathways and health effects | **20** | Explain how exposure or harmful workplace conditions occur, relevant health effects, and factors influencing risk. |
+| Evidence and scientific research | **20** | Use credible, relevant sources; support claims; distinguish evidence from assumptions and uncertainty. |
+| Prevention and control recommendations | **20** | Recommend practical prevention strategies, explain their rationale, and apply the hierarchy of controls when appropriate. |
+| Presentation organization and communication | **10** | Present a clear, organized, understandable explanation with effective visuals and citations. |
+| Conclusions and responses to questions | **5** | Summarize major findings, suggest how effectiveness could be evaluated, and respond thoughtfully to questions. |
+| **Total** | **100** |  |
+
+**Grading emphasis:** Understanding and applying occupational health principles matters more than memorizing specialized terminology or presenting unusually complex technical material.
+
+## Part B: Audience feedback rubric (100 points)
+
+There are **11 project groups**. Each student will provide feedback on the **other 10 projects**, not on their own presentation. Each evaluation is worth **10 points**; together, the 10 evaluations are worth **100 points**.
+
+| Feedback criterion for each presentation | Points |
+|:-----------------------------------|-----------------------------------:|
+| Identify one important occupational health concept or finding from the presentation. | **3** |
+| Explain how a hazard, exposure, or health effect relates to the topic. | **3** |
+| Provide one thoughtful question, observation, or constructive recommendation. | **4** |
+| **Total per evaluation** | **10** |
+
+**Example of constructive feedback:** *What evidence helps distinguish occupational exposures from other factors that contribute to skin cancer risk among firefighters?*
+
+Feedback should be specific, respectful, and based on the presentation. You do not need to agree with the presenter to earn full credit. Thoughtful questions, identification of uncertainty, and constructive suggestions are encouraged. Blank, generic, or unrelated responses will not earn full credit.
+
+### How Feedback Will Be Submitted
+
+- Professor Rodriguez will provide printed audience feedback forms during Final Project presentation week.
+- Each student must complete their **own feedback form** for each of the other 10 projects, including students who are presenting with a partner.
+- Students will complete their evaluations **during each presentation**, using the three established feedback criteria.
+- Completed feedback forms must be submitted to Professor Rodriguez **at the end of each presentation day**.
+- **Attendance is required to earn audience feedback points.** Students who are absent for a presentation will receive **0 out of 10 points** for that presentation. Feedback cannot be submitted afterward for a presentation the student did not attend.
+- Students do not evaluate their own project. Their presentation is assessed separately under Part A.
+
+**Audience Feedback: 100 Points Total**
+
+Each student evaluates 10 presentations worth 10 points each. Feedback is graded on the quality and relevance of the student's responses, not simply on completing or submitting a form.
+## Current project topics and possible research questions
+
+The questions below are **examples**, not replacements for the topics students selected on October 7. Students may refine the scope while maintaining a clear occupational or environmental health connection.
+
+| Group | Selected topic | Format | Example occupational health question |
+|:-----------------|:-----------------|:-----------------|:-----------------|
+| 1 | Lupus and general workplaces | Individual | How might workplace conditions, exposures, or accommodations affect workers living with lupus? |
+| 2 | Mental health of healthcare providers and impacts on patient care | Individual | How can workplace stressors affect provider well-being and patient care? |
+| 3 | Wildland fires and effects on the population | Individual | How does wildfire smoke affect firefighters, outdoor workers, and nearby communities? |
+| 4 | Firefighters and skin cancer | Pair | What occupational exposures may contribute to skin cancer risk among firefighters? |
+| 5 | Future nuclear fusion projects and potential household applications | Pair | What occupational hazards should be anticipated when designing and developing fusion technologies? |
+| 6 | Pesticides and worker health | Individual | How do pesticide handling and application practices influence worker exposure? |
+| 7 | Demolition sites and lead exposure | Individual | How can demolition work create lead exposures, and what controls can reduce them? |
+| 8 | Mental health effects of sports injuries | Individual | How might occupational sports injuries affect the psychological health of professional athletes? |
+| 9 | Pesticide applicators and take-home exposures | Individual | How can pesticide residues move from agricultural workplaces into workers' homes? |
+| 10 | Aerosolized medications and exposures among anesthesiologists and similar providers | Pair | Under what conditions might healthcare providers be exposed to aerosolized medications? |
+| 11 | COVID-19 exposure among construction workers | Individual | Which workplace conditions influence respiratory infection exposure among construction workers? |
+
+**Scope reminders:** A condition such as lupus should not automatically be described as occupationally caused. Fusion technologies should be distinguished between current capabilities and speculative applications. Projects addressing community exposures or sports injuries should make their occupational health connection explicit.
+
+## Expectations for individual students and pairs
+
+All projects use the **same 100-point presentation rubric** and the **same 100-point individual audience feedback structure**.
+
+For pairs, both students should contribute meaningfully to research and presentation, understand the full topic, and be prepared to answer questions. Pairs receive the same **15-minute presentation slot**, not double the time. Each partner submits their **own 10 audience evaluations**. The professor may request a brief statement of individual contributions if needed.
+
+## Presentation week schedule
+
+| Date | Proposed groups | Presentation time | Class time remaining |
+|:---|:---|---:|---:|
+| Monday, November 30 | Groups 1, 2, 3 | 45 min | 5 min |
+| Tuesday, December 1 | Groups 4, 5, 6 | 45 min | 5 min |
+| Wednesday, December 2 | Groups 7, 8, 9 | 45 min | 5 min |
+| Thursday, December 3 | Groups 10, 11 | 30 min | 20 min |
+| **Total** | **11 projects** | **165 min** | **35 min** |
+
+This is a **proposed** order. Final assignments and any changes will be announced in Canvas. Upload slides ahead of time when requested to reduce delays between presentations.
+
+## Final project checklist
+
+- [ ] I can explain why my chosen topic is an occupational or environmental health issue.
+- [ ] I have identified the relevant workers, tasks, hazards, and exposures or harmful conditions.
+- [ ] I have explained potential health effects and factors influencing risk.
+- [ ] My claims are supported by credible sources, with citations and references.
+- [ ] I distinguish established evidence from uncertainty or speculation.
+- [ ] I recommend reasonable prevention and control measures.
+- [ ] I can explain how the success of an intervention might be evaluated.
+- [ ] My presentation and question period fit within 15 minutes.
+- [ ] I understand that I must individually evaluate the other 10 presentations.
+
+::: {.callout-tip title="What success looks like"}
+A strong project does not merely describe a disease, technology, or industry. It **explains who may be harmed, what causes or contributes to the risk, what evidence supports the concern, and how harm could be prevented**.
+:::
