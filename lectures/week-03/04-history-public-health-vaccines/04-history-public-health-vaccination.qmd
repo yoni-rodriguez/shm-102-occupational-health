@@ -30,21 +30,6 @@ body {
   color: #212529;
 }
 
-blockquote {
-  color: #212529;
-  font-size: inherit;
-  font-style: normal;
-  font-weight: normal;
-}
-
-blockquote strong {
-  color: #212529;
-}
-
-.text-center {
-  color: #212529;
-}
-
 
 /* =========================================================
    Responsive Mobile Layout
@@ -99,17 +84,134 @@ blockquote strong {
 
 }
 
+
+/* Historical Timeline */
+.history-timeline { display: flex; overflow-x: auto; gap: 0; padding: 38px 0 20px; margin: 20px 0; }
+.history-event { flex: 1 0 115px; min-width: 115px; text-align: center; position: relative; border-top: 3px solid #8495a5; padding: 22px 7px 0; }
+.history-event::before { content: ""; position: absolute; top: -8px; left: calc(50% - 7px); width: 14px; height: 14px; border-radius: 50%; background: #8495a5; }
+.history-event.current { border-top-color: #b46c36; }
+.history-event.current::before { background: #b46c36; }
+.history-lecture { font-size: 0.78rem; font-weight: 700; color: #566b7d; }
+.history-name { font-weight: 700; font-size: 0.92rem; margin-top: 7px; }
+.history-date { font-size: 0.78rem; color: #606b74; }
+.history-current-label { position: absolute; top: -39px; left: 0; right: 0; color: #a55a22; font-weight: 800; font-size: 0.82rem; }
+@media print {
+  .history-timeline { overflow: visible; }
+  .history-event { flex: 1 1 0; min-width: 0; padding-left: 3px; padding-right: 3px; }
+  .history-name { font-size: 0.72rem; }
+  .history-date { font-size: 0.65rem; }
+}
+
+/* =========================================================
+   Featured Question Section
+   ========================================================= */
+
+.question-highlight {
+  background-color: #343a40;
+  color: #ffffff;
+  padding: 32px 38px;
+  border-radius: 12px;
+  margin: 28px 0;
+  border-left: 6px solid #f4c542;
+}
+
+.question-highlight h1,
+.question-highlight h2,
+.question-highlight h3 {
+  color: #f4c542 !important;
+}
+
+.question-highlight p,
+.question-highlight p strong {
+  color: #ffffff !important;
+}
+
+@media (max-width: 768px) {
+  .question-highlight {
+    padding: 22px 20px;
+  }
+}
+
+
+
+
+/* =========================================================
+   Smallpox Timeline
+   ========================================================= */
+
+.smallpox-timeline {
+  border-left: 3px solid #8495a5;
+  margin: 28px 0 28px 16px;
+  padding-left: 26px;
+}
+
+.smallpox-milestone {
+  position: relative;
+  margin-bottom: 23px;
+}
+
+.smallpox-milestone::before {
+  content: "";
+  position: absolute;
+  left: -35px;
+  top: 5px;
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  background: #8495a5;
+  border: 3px solid white;
+}
+
+.smallpox-century {
+  font-weight: 800;
+  color: #9a552b;
+  margin-bottom: 5px;
+}
+
+.smallpox-description {
+  color: #212529;
+  line-height: 1.55;
+}
+
+@media (max-width: 768px) {
+  .smallpox-timeline {
+    margin-left: 9px;
+    padding-left: 20px;
+  }
+
+  .smallpox-milestone::before {
+    left: -29px;
+  }
+}
+
+
+
+/* =========================================================
+   Align Historical Section Headings with Images
+   ========================================================= */
+
+.ancient-egypt-layout {
+  align-items: flex-start !important;
+}
+
+.ancient-egypt-layout .history-text-column h3:first-of-type {
+  margin-top: 0 !important;
+  margin-block-start: 0 !important;
+  padding-top: 0 !important;
+}
+
+.ancient-egypt-layout .history-text-column {
+  padding-top: 0 !important;
+}
+
+
+
 </style>
 ```
 
 :::::: columns
 ::: {.column width="40%"}
-```{=html}
-<!-- IMAGE PLACEHOLDER:
-Suggested opening image: historical smallpox vaccination, cowpox, or Jenner-era image.
-Add image and citation once sourced.
--->
-```
+![Great Sphinx of Giza, Egypt. Built around 2500 BCE; modern excavations began in 1817. Photograph by Yoni Rodriguez, May 13, 2024.](great-sphinx-of-giza.jpg){fig-alt="Great Sphinx of Giza in Egypt, with a pyramid visible in the background" width="100%"}
 :::
 
 ::: {.column width="4%"}
@@ -137,75 +239,64 @@ Last class, we followed plague across more than **500 years** of scientific disc
 
 Today, we are going to **rewind**.
 
-Before we zoom in on smallpox and vaccination, let's place ourselves back into the larger history of human health.
+Before we get started, let's place ourselves back into the larger history of human health.
 
 ------------------------------------------------------------------------
 
 ## From Human History to Microbiology
 
-**Paleolithic Era**
+Our lectures have moved across thousands of years of human history.
 
-Small, mobile hunter-gatherer populations\
-Human health shaped by movement, food, climate, injury, and environmental exposures
+**Where have we been, and where are we today?**
 
-↓
+```{=html}
+<div class="history-timeline">
 
-**Agricultural Revolution · \~10,000 BCE**
+  <div class="history-event">
+    <div class="history-lecture">Lecture 02</div>
+    <div class="history-name">Paleolithic Era</div>
+    <div class="history-date">Prehistory · Before ~10,000 BCE</div>
+  </div>
 
-Permanent settlements\
-Domestication of animals\
-Population density increases\
-Human-animal contact intensifies\
-Food, water, waste, and work begin changing patterns of exposure
+  <div class="history-event">
+    <div class="history-lecture">Lecture 02</div>
+    <div class="history-name">Agricultural Revolution</div>
+    <div class="history-date">Neolithic · ~10,000 BCE</div>
+  </div>
 
-↓
+  <div class="history-event">
+    <div class="history-lecture">Lecture 03</div>
+    <div class="history-name">Black Death</div>
+    <div class="history-date">14th Century · 1347–1351</div>
+  </div>
 
-**Ancient Civilizations**
+  <div class="history-event">
+    <div class="history-lecture">Lecture 03</div>
+    <div class="history-name">Microscopy</div>
+    <div class="history-date">17th Century · 1676</div>
+  </div>
 
-Cities grow\
-Agriculture and specialized work expand\
-Trade connects populations\
-Water, sanitation, and waste become increasingly important population-health problems
+  <div class="history-event current">
+    <div class="history-current-label">↓ WE ARE HERE</div>
+    <div class="history-lecture">Lecture 04</div>
+    <div class="history-name">Vaccination</div>
+    <div class="history-date">18th–19th Century · 1700s–1800s</div>
+  </div>
 
-↓
+  <div class="history-event">
+    <div class="history-lecture">Lecture 01</div>
+    <div class="history-name">Modern Occupational Health</div>
+    <div class="history-date">21st Century · 2020–2026</div>
+  </div>
 
-**Middle Ages**
+</div>
+```
 
-**1347–1351 · Black Death**
+::: {.callout-note title="Today's Historical Focus"}
+We are returning to the eighteenth century.
 
-↓
-
-**Early Modern Period**
-
-**1546 · Girolamo Fracastoro** proposes contagion through transferable particles.\
-**1676 · Antonie van Leeuwenhoek** observes microorganisms with a microscope.
-
-↓
-
-## **18th–Early 19th Century ← WE ARE HERE TODAY**
-
-**1717 · Smallpox inoculation / variolation**\
-Lady Mary Wortley Montagu encounters the practice in the Ottoman Empire and later promotes it in Britain.
-
-**1796–1798 · Edward Jenner**\
-Cowpox exposure is investigated as protection against smallpox.
-
-**1835 · Agostino Bassi**\
-A fungus is demonstrated to cause disease in silkworms.
-
-↓
-
-**Mid–Late 19th Century**
-
-**1854 · John Snow** investigates cholera using patterns of disease and exposure.\
-**1850s–1880s · Pasteur, Koch, and others** develop increasingly powerful approaches to microbial causation.
-
-↓
-
-**1894–1898**
-
-**Alexandre Yersin** identifies the plague bacterium.\
-**Paul-Louis Simond** investigates flea transmission.
+**How did people learn to prevent disease before they understood its biological cause?**
+:::
 
 ------------------------------------------------------------------------
 
@@ -220,21 +311,17 @@ Today we are zooming in on two developments:
 
 ------------------------------------------------------------------------
 
+::: question-highlight
 # A Question From Class
 
-Last week, while discussing infectious disease and the development of germ theory, someone asked about **cowpox and vaccination**.
+Earlier in the 2026 fall quarter, while discussing infectious disease and the development of germ theory, someone asked about **when were vaccines developed and who developed them?**
 
-It raises an interesting problem.
+These questions dive into interesting public health and occupational health history
 
 Edward Jenner conducted his famous vaccination experiment in **1796**.
 
-But scientists had not yet established germ theory.
-
-Viruses had not been discovered.
-
-Modern immunology did not exist.
-
-### So how could people prevent smallpox without knowing what caused it?
+But how did he get the idea to vaccinate someone?
+:::
 
 ------------------------------------------------------------------------
 
@@ -273,24 +360,31 @@ Think about what you could observe in individuals and populations.
 
 # Smallpox
 
-```{=html}
-<!-- IMAGE PLACEHOLDER:
-Suggested image: historical smallpox case, illustration, or photograph suitable for instruction.
--->
-```
+:::::: columns
+::: {.column width="48%"}
+![Smallpox lesions on the face of a child. Source: [World Health Organization, Smallpox Recognition Card](https://www.who.int/publications/m/item/who-smallpox-recognition-card); reproduced from *Smallpox and Its Eradication* (1988).](who-smallpox-face-1988.jpg){fig-alt="Historical WHO clinical photograph showing smallpox lesions on a child's face" width="100%"}
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%"}
+![Smallpox lesions distributed across the body and extremities, with close-up views of lesions. Source: [World Health Organization, Smallpox Recognition Card](https://www.who.int/publications/m/item/who-smallpox-recognition-card); reproduced from *Smallpox and Its Eradication* (1988).](who-smallpox-body-1988.jpg){fig-alt="Historical WHO clinical photographs showing widespread smallpox lesions on a child's body and close-up views of lesions on the extremities" width="100%"}
+:::
+::::::
 
 Smallpox was a highly contagious infectious disease that affected human populations for thousands of years.
 
 People could observe:
 
 - fever
-- severe illness
-- characteristic skin lesions
-- scarring
-- blindness in some survivors
+- head and body aches
+- early rash
+- pustular rash and scabs
 - death
 - outbreaks moving through communities
 
+::: {.callout-note title="An Important Observation"}
 They could observe the **outcome**.
 
 But there was another important observation.
@@ -298,8 +392,66 @@ But there was another important observation.
 ### People who survived smallpox generally did not develop the disease again.
 
 Something about surviving the disease appeared to change a person's **susceptibility**.
+:::
 
 ------------------------------------------------------------------------
+
+## How Far Back Does Smallpox Go?
+
+The origin of smallpox remains unknown.
+
+However, historical and archaeological evidence suggests that diseases resembling smallpox affected human populations thousands of years ago.
+
+::::::: {.columns .ancient-egypt-layout}
+:::: {.column .history-text-column width="54%"}
+### Ancient Egypt
+
+The approximately **3,000-year-old mummy of Pharaoh Ramses V** has skin lesions that have been interpreted as resembling smallpox pustules.
+
+This suggests that smallpox, or a disease with similar characteristics, may have existed in ancient Egypt.
+
+However, the appearance of skin lesions alone cannot establish a definitive diagnosis.
+
+::: callout-important
+**The earliest origins of smallpox remain uncertain.**
+:::
+::::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="42%"}
+![Head of the mummy of Pharaoh Ramses V, showing skin lesions historically interpreted as possible smallpox pustules. Source: [CDC, History of Smallpox](https://www.cdc.gov/smallpox/about/history.html). Original image credited to G. Elliot Smith, public domain.](pharoah-ramses-v-smallpox.jpg){fig-alt="Profile view of the mummified head of Pharaoh Ramses V showing visible skin changes" width="100%"}
+:::
+:::::::
+
+### Historical Events by Century
+
+Source: [CDC, History of Smallpox](https://www.cdc.gov/smallpox/about/history.html).
+
+![The Historical Timeline of Smallpox. Approximate regions and historical periods associated with evidence of smallpox [CDC, The Spread and Eradication of Smallpox](https://www.cdc.gov/smallpox/about/spread-and-eradication.html).](smallpox-historical-map.jpg){#fig-smallpox-map fig-alt="Illustrated world map showing historical evidence of smallpox by century, with a chronological color legend, geographic markers, and no transmission arrows" width="100%"}
+
+
+YOU ARE HERE ---
+
+
+## What Changed as Smallpox Spread?
+
+The movement of smallpox across regions was closely connected to human activity.
+
+**Trade, migration, warfare, colonization, and forced displacement** created opportunities for infectious diseases to move between populations.
+
+But people also began to recognize patterns.
+
+Individuals who survived smallpox were generally protected against future disease.
+
+That observation would eventually contribute to the development of deliberate methods of prevention.
+
+### How could people use this observation to protect someone who had never experienced smallpox?
+
+------------------------------------------------------------------------
+
+
 
 # An Observation Becomes an Intervention
 
@@ -358,19 +510,39 @@ Think about:
 
 ------------------------------------------------------------------------
 
+# Evaluating the Risks of Variolation
+
+Variolation was not harmless. It could cause severe smallpox, death, and transmission to others. Yet people also faced the risk of naturally acquired smallpox during epidemics.
+
+The important question was not simply whether variolation was dangerous.
+
+### How did the risks compare with doing nothing?
+
+Historical reports from the **1721 Boston smallpox epidemic** described substantially lower mortality among people who underwent variolation than among those who acquired smallpox naturally. These were **historical observational comparisons**, not randomized clinical trials, and the groups may have differed in important ways.
+
+::: {.callout-tip title="Occupational Health Connection: Comparative Risk"}
+A prevention decision requires comparing the potential harms and benefits of an intervention with the harms of the exposure it is intended to prevent.
+:::
+
+**Historical reading:** Riedel S. (2005). [*Edward Jenner and the history of smallpox and vaccination*](https://pmc.ncbi.nlm.nih.gov/articles/PMC1200696/).
+
+------------------------------------------------------------------------
+
 # Smallpox Prevention Before Jenner
 
 ## Variolation Was Not Jenner's Invention
 
 The idea of deliberately producing protection against smallpox existed **before Edward Jenner**.
 
-Variolation practices developed in parts of **Asia, Africa, and the Ottoman Empire** before becoming widely known in Britain and colonial North America.
+Variolation was practiced in different forms in parts of **Asia and Africa** long before Jenner. It was also practiced in the **Ottoman Empire**, where European visitors encountered it.
 
-```{=html}
-<!-- SOURCE PLACEHOLDER:
-Add authoritative source(s) documenting the history and geographic development of variolation.
--->
-```
+### An Important Distinction
+
+**Europeans did not invent smallpox inoculation when they began adopting it.** They learned about practices that other communities already used to reduce the danger of smallpox.
+
+The history of vaccination therefore begins not only with European physicians, but also with **knowledge shared across cultures**.
+
+**Historical reading:** Riedel S. (2005). [*Edward Jenner and the history of smallpox and vaccination*](https://pmc.ncbi.nlm.nih.gov/articles/PMC1200696/).
 
 ------------------------------------------------------------------------
 
@@ -384,15 +556,23 @@ Smallpox had affected her personally.
 
 She had survived the disease, and her brother had died from it.
 
-While in Constantinople, she observed the practice of deliberately inoculating people with smallpox material.
+While in **Constantinople (present-day Istanbul)**, she observed an established Ottoman practice of deliberately inoculating people with smallpox material. Her writings described how people, including women who performed the procedure, practiced inoculation in their communities.
 
-She later advocated for the practice in Britain.
+In **1718**, Montagu had her son inoculated while living in the Ottoman Empire. After returning to Britain, she had her daughter inoculated and advocated for broader adoption of the practice.
+
+### What Was Montagu's Contribution?
+
+Montagu **did not invent inoculation**. She observed an existing practice, recognized its potential, and helped introduce that knowledge to British audiences.
+
+**Historical reading:** Riedel S. (2005). [*Edward Jenner and the history of smallpox and vaccination*](https://pmc.ncbi.nlm.nih.gov/articles/PMC1200696/).
 
 ### Knowledge Was Moving
 
 The scientific and medical knowledge we are following did not develop in one place or through one person.
 
-**People observed practices in other populations, transported ideas, tested them, modified them, and argued about the evidence.**
+**People observed practices in other cultures, learned from them, carried those ideas into new communities, and debated the evidence.**
+
+This is a reminder that scientific knowledge does not move in only one direction, and that people outside formal European scientific institutions made important contributions.
 :::
 
 ::: {.column width="4%"}
@@ -631,6 +811,48 @@ Scientific importance does not mean that every historical research method should
 
 ------------------------------------------------------------------------
 
+# A New Intervention, Familiar Questions
+
+Jenner's vaccination avoided deliberately exposing people to smallpox itself. But it introduced another uncertainty: using material associated with **cowpox** to protect against a human disease.
+
+People questioned its **safety**, **effectiveness**, and possible unintended consequences. The unfamiliar intervention also became a subject of satire and public debate.
+
+```{=html}
+<!-- IMAGE PLACEHOLDER:
+Historical cartoon of public reaction to cowpox vaccination.
+If available in the lecture folder, insert the image here with its actual filename and attribution.
+-->
+```
+
+### Look at the Historical Cartoon
+
+What concern or claim is the artist communicating? Which concerns could be investigated scientifically? How might you distinguish a legitimate question from a claim unsupported by evidence?
+
+------------------------------------------------------------------------
+
+# From Jenner to COVID-19
+
+In **2020**, scientists faced another urgent challenge: preventing disease caused by a newly identified virus, **SARS-CoV-2**. Unlike Jenner, modern researchers could study viral genetic material, measure immune responses, and evaluate vaccines in clinical trials.
+
+The technologies were different, but some public questions were familiar:
+
+| **Early smallpox vaccination** | **COVID-19 vaccination** |
+|------------------------------------|------------------------------------|
+| Does it protect people? | Does it reduce disease and severe outcomes? |
+| What are its risks? | What adverse effects occur, and how often? |
+| How do we know it works? | What do laboratory studies and clinical trials show? |
+| Whom should we trust? | How can evidence and uncertainty be communicated transparently? |
+
+**Historical parallels do not mean the evidence, risks, or technologies were the same.** The lesson is that preventive interventions require both careful scientific evaluation and effective public communication.
+
+### Occupational Health Connection
+
+Workers may ask similar questions about respirators, exposure controls, vaccination recommendations, and new safety procedures.
+
+**What is the evidence, what are the tradeoffs, and how should we communicate them?**
+
+------------------------------------------------------------------------
+
 ## Where Did "Vaccination" Come From?
 
 The word **vaccination** traces to the Latin:
@@ -691,18 +913,37 @@ But scientists were also pursuing another question:
 
 > **Can we experimentally demonstrate that a microorganism causes disease?**
 
-|  |
-|:-----------------------------------------------------------------------|
-| \# Italy, 1830s |
-| \## Another Disease Was Causing a Different Problem |
-| This time, the victims were not humans. |
-| They were: |
-| \# silkworms. |
-| Silk production depended on raising large numbers of silkworms. |
-| Disease among silkworm populations therefore threatened: |
-| \- animals - production - livelihoods - workers - an important industry |
-| Again, disease existed inside a **system**. |
-| `{=html} <!-- IMAGE PLACEHOLDER: Suggested image: silkworms, historical sericulture, or muscardine disease. -->` |
+------------------------------------------------------------------------
+
+# Italy, 1830s
+
+## Another Disease Was Causing a Different Problem
+
+This time, the victims were not humans.
+
+They were:
+
+# silkworms.
+
+Silk production depended on raising large numbers of silkworms.
+
+Disease among silkworm populations therefore threatened:
+
+- animals
+- production
+- livelihoods
+- workers
+- an important industry
+
+Again, disease existed inside a **system**.
+
+```{=html}
+<!-- IMAGE PLACEHOLDER:
+Suggested image: silkworms, historical sericulture, or muscardine disease.
+-->
+```
+
+------------------------------------------------------------------------
 
 # Agostino Bassi
 
@@ -956,6 +1197,12 @@ Bassi's investigation of silkworm disease provided early experimental evidence t
 In occupational health, we often face the same challenge:
 
 ### How much evidence do we need before we act to prevent harm?
+
+------------------------------------------------------------------------
+
+# Selected Historical Reading
+
+Riedel, S. (2005). [Edward Jenner and the history of smallpox and vaccination](https://pmc.ncbi.nlm.nih.gov/articles/PMC1200696/). *Proceedings (Baylor University Medical Center), 18*(1), 21–25.
 
 ------------------------------------------------------------------------
 
