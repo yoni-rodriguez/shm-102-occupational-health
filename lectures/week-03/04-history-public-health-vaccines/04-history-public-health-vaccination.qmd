@@ -206,6 +206,17 @@ body {
 
 
 
+
+/* Equal-height cowpox images */
+
+img.cowpox-equal-height {
+  width: 100%;
+  height: 280px;
+  object-fit: contain;
+}
+
+
+
 </style>
 ```
 
@@ -362,14 +373,14 @@ Think about what you could observe in individuals and populations.
 
 :::::: columns
 ::: {.column width="48%"}
-![Smallpox lesions on the face of a child. Source: [World Health Organization, Smallpox Recognition Card](https://www.who.int/publications/m/item/who-smallpox-recognition-card); reproduced from *Smallpox and Its Eradication* (1988).](who-smallpox-face-1988.jpg){fig-alt="Historical WHO clinical photograph showing smallpox lesions on a child's face" width="100%"}
+![Smallpox lesions on the face of a child. [Source](https://www.who.int/publications/m/item/who-smallpox-recognition-card): World Health Organization, Smallpox Recognition Card; reproduced from *Smallpox and Its Eradication* (1988).](who-smallpox-face-1988.jpg){fig-alt="Historical WHO clinical photograph showing smallpox lesions on a child's face" width="100%"}
 :::
 
 ::: {.column width="4%"}
 :::
 
 ::: {.column width="48%"}
-![Smallpox lesions distributed across the body and extremities, with close-up views of lesions. Source: [World Health Organization, Smallpox Recognition Card](https://www.who.int/publications/m/item/who-smallpox-recognition-card); reproduced from *Smallpox and Its Eradication* (1988).](who-smallpox-body-1988.jpg){fig-alt="Historical WHO clinical photographs showing widespread smallpox lesions on a child's body and close-up views of lesions on the extremities" width="100%"}
+![Smallpox lesions distributed across the body and extremities, with close-up views of lesions. [Source](https://www.who.int/publications/m/item/who-smallpox-recognition-card): World Health Organization, Smallpox Recognition Card; reproduced from *Smallpox and Its Eradication* (1988).](who-smallpox-body-1988.jpg){fig-alt="Historical WHO clinical photographs showing widespread smallpox lesions on a child's body and close-up views of lesions on the extremities" width="100%"}
 :::
 ::::::
 
@@ -381,7 +392,7 @@ People could observe:
 - head and body aches
 - early rash
 - pustular rash and scabs
-- death
+- death (often within two weeks)
 - outbreaks moving through communities
 
 ::: {.callout-note title="An Important Observation"}
@@ -421,55 +432,97 @@ However, the appearance of skin lesions alone cannot establish a definitive diag
 :::
 
 ::: {.column width="42%"}
-![Head of the mummy of Pharaoh Ramses V, showing skin lesions historically interpreted as possible smallpox pustules. Source: [CDC, History of Smallpox](https://www.cdc.gov/smallpox/about/history.html). Original image credited to G. Elliot Smith, public domain.](pharoah-ramses-v-smallpox.jpg){fig-alt="Profile view of the mummified head of Pharaoh Ramses V showing visible skin changes" width="100%"}
+![Head of the mummy of Pharaoh Ramses V, showing skin lesions historically interpreted as possible smallpox pustules. [Source](https://www.cdc.gov/smallpox/about/history.html): CDC, History of Smallpox. Original image credited to G. Elliot Smith, public domain.](pharoah-ramses-v-smallpox.jpg){fig-alt="Profile view of the mummified head of Pharaoh Ramses V showing visible skin changes" width="100%"}
 :::
 :::::::
 
-### Historical Events by Century
+### [Historical Events by Century](https://www.cdc.gov/smallpox/about/history.html)
 
-Source: [CDC, History of Smallpox](https://www.cdc.gov/smallpox/about/history.html).
+![The Historical Timeline of Smallpox. Approximate regions and historical periods associated with evidence of smallpox. [Source](https://www.cdc.gov/smallpox/about/spread-and-eradication.html): CDC, The Spread and Eradication of Smallpox.](smallpox-historical-map.jpg){#fig-smallpox-map fig-alt="Illustrated world map showing historical evidence of smallpox by century, with a chronological color legend, geographic markers, and no transmission arrows" width="100%"}
 
-![The Historical Timeline of Smallpox. Approximate regions and historical periods associated with evidence of smallpox [CDC, The Spread and Eradication of Smallpox](https://www.cdc.gov/smallpox/about/spread-and-eradication.html).](smallpox-historical-map.jpg){#fig-smallpox-map fig-alt="Illustrated world map showing historical evidence of smallpox by century, with a chronological color legend, geographic markers, and no transmission arrows" width="100%"}
+## From Smallpox to Deliberate Inoculation
 
+During the eighteenth century, **smallpox** infected a large fraction of the European population, killing or disfiguring many people.
 
-YOU ARE HERE ---
+Although the existence of the virus responsible for smallpox was unknown, people in countries of **Asia and Africa** were already practicing the **deliberate inoculation of children with material from smallpox pustules**.
 
+Inoculated children usually developed a mild case of the disease and were protected from smallpox thereafter.
 
-## What Changed as Smallpox Spread?
+### What Was Variolation?
 
-The movement of smallpox across regions was closely connected to human activity.
+The historical practice of deliberate smallpox inoculation was known as **variolation**, named after *variola*, another name for smallpox.
 
-**Trade, migration, warfare, colonization, and forced displacement** created opportunities for infectious diseases to move between populations.
+Variolation was practiced in parts of Asia and Africa long before the development of vaccination.
 
-But people also began to recognize patterns.
+### [How Was Variolation Performed?](https://www.who.int/news-room/spotlight/history-of-vaccination/history-of-smallpox-vaccination)
 
-Individuals who survived smallpox were generally protected against future disease.
+Historical methods differed across regions. In **China**, written accounts from the mid-1500s describe **insufflation**, in which dried smallpox scabs were ground into powder and blown into the nostril using a pipe. In **India**, historical accounts describe using a **lancet or needle** to introduce material from smallpox pustules into the skin of healthy children.
 
-That observation would eventually contribute to the development of deliberate methods of prevention.
+Both methods sought to produce protection against future smallpox disease.
 
-### How could people use this observation to protect someone who had never experienced smallpox?
+![Illustrations of historical Chinese smallpox variolation techniques, including nasal insufflation. [Source](https://wwwnc.cdc.gov/eid/article/32/10/26-0729-f1): CDC, *Emerging Infectious Diseases*.](chinese-nasal-insufflation.jpg){#fig-chinese-insufflation width="100%" fig-align="center" lightbox="true"}
+
+![Historical illustration associated with early Chinese and Indian smallpox inoculation practices. [Source](https://artsandculture.google.com/asset/early-chinese-indian-inoculation-variolation-1000-ce/FQE8dcpY7GkaPg?hl=en): Google Arts & Culture, *Early Chinese/Indian Inoculation (Variolation)*.](variolation.jpg){#fig-early-variolation width="85%" fig-align="center" lightbox="true"}
 
 ------------------------------------------------------------------------
 
+## How Did Variolation Reach Britain and Colonial America?
 
 
-# An Observation Becomes an Intervention
 
-If people who survived smallpox appeared protected from future smallpox...
+### [Lady Mary Wortley Montagu](https://cyh.rrchnm.org/primary-sources/157.html)
 
-### Could exposure somehow be used intentionally?
+In **1717**, **Lady Mary Wortley Montagu**, a British aristocrat and smallpox survivor traveling in the **Ottoman Empire**, learned of *engrafting*, a local practice of variolation that deliberately introduced smallpox material by using a **large needle** to make small openings in the skin and insert material collected from smallpox sores.
 
-Long before modern vaccination, people in several parts of the world developed practices intended to protect individuals from smallpox.
+The practitioner would ask, *"What vein you please to have opened?"* During a period outside the host, the virus becomes *"attenuated"*; that is, it loses some of its molecular structure required for infection. The attenuated form of the virus stimulates the immune system with much lower mortality than the fully virulent virus.
 
-One such practice became known as:
+In **1718**, she arranged for her son to undergo the procedure.
 
-## Variolation
+Montagu was impressed by the practice, became an advocate for variolation, and introduced it to British society.
 
-**Variolation** was the historical practice of deliberately exposing a person to material from smallpox lesions in an attempt to produce infection and subsequent protection.
+**Montagu did not invent variolation. She helped bring an established preventive practice to the attention of British society.**
 
-The goal was to deliberately manipulate **exposure**.
+::::: columns
+::: {.column width="40%"}
+![Lady Mary Wortley Montagu with her son Edward and attendants. Painting by Jean-Baptiste Vanmour. [Source](https://commons.wikimedia.org/wiki/File:Lady_Mary_Wortley_Montagu_with_her_son,_Edward_Wortley_Montagu,_and_attendants_by_Jean_Baptiste_Vanmour.jpg): Wikimedia Commons.](jean-baptise-vanmour-oil-painting-lady-montagu-with-son.jpg){#fig-lady-mary-montagu width="100%" fig-align="center" lightbox="true"}
+:::
 
-But the exposure itself involved the disease people were trying to prevent.
+::: {.column width="60%"}
+![Map illustrating the territorial extent and expansion of the Ottoman Empire through 1683. [Source](https://www.thecollector.com/maps-resources/map-ottoman-empire-peak-1683/): TheCollector.](ottoman-empire.jpg){#fig-ottoman-empire width="100%" fig-align="center" lightbox="true"}
+:::
+:::::
+
+
+### Onesimus and Colonial Boston
+
+Knowledge of variolation also reached colonial North America through **Onesimus**, an enslaved African man who described the practice to **Cotton Mather**, a Boston minister.
+
+Onesimus explained that the procedure was already practiced in Africa, providing Mather with knowledge of a method of smallpox prevention.
+
+During the **1721 Boston smallpox epidemic**, Mather promoted variolation as a means of reducing the danger of the disease.
+
+These histories demonstrate that **knowledge of disease prevention existed across different communities long before it became widely accepted in European and colonial American medicine**.
+
+::::: columns
+::: {.column width="40%"}
+![An illustration associated with Onesimus, who shared knowledge of smallpox inoculation in colonial Boston. [Source](https://www.nba.com/nets/news/bhm/2019/02/06/onesimus): Brooklyn Nets, NBA (2019).](onesimus.jpg){#fig-onesimus width="100%" fig-align="center" lightbox="true"}
+:::
+
+::: {.column width="60%"}
+![Historical map of Boston, Massachusetts, created by John Bonner in 1722, shortly after the 1721 smallpox epidemic. [Source](https://www.forbes.com/sites/kionasmith/2021/02/28/meet-onesimus-the-enslaved-man-who-saved-boston-from-smallpox/): Forbes, Kiona N. Smith (2021).](boston-1722.jpg){#fig-boston-1722 width="100%" fig-align="center" lightbox="true"}
+:::
+:::::
+
+
+## [The Risks of Variolation](https://pmc.ncbi.nlm.nih.gov/articles/PMC1200696/)
+
+Variolation could reduce the risk of dying from smallpox, but it was still dangerous because inefected individuals still contracted serious disease and were contagious. 
+
+Historical reports from the **1721 Boston epidemic** suggested lower mortality among variolated individuals than among those who acquired smallpox naturally.
+
+Still, doctros conintued to seek a better method of prevention. 
+
+
 
 ------------------------------------------------------------------------
 
@@ -477,25 +530,11 @@ But the exposure itself involved the disease people were trying to prevent.
 
 ::::::: {.columns .poll-columns}
 ::: {.column width="65%"}
-### Would You Do It?
+### Historical Perspectives on Smallpox Inoculation
 
-You are living in a community experiencing repeated smallpox outbreaks.
+Before today's lecture, were you aware that **smallpox inoculation (variolation)** was practiced in parts of Asia and Africa long before the development of modern vaccination?
 
-You have two choices:
-
-**A.** Risk acquiring smallpox naturally.
-
-**B.** Deliberately expose yourself to smallpox material in an attempt to develop protection.
-
-**What additional information would you want before making that decision?**
-
-Think about:
-
-- probability of infection
-- severity of disease
-- probability of death
-- whether the intervention actually provides protection
-- risk to other people
+**If you had lived during the eighteenth century, would you have considered undergoing smallpox inoculation? Why or why not?**
 :::
 
 ::: {.column width="5%"}
@@ -508,136 +547,9 @@ Think about:
 ::::
 :::::::
 
-------------------------------------------------------------------------
 
-# Evaluating the Risks of Variolation
 
-Variolation was not harmless. It could cause severe smallpox, death, and transmission to others. Yet people also faced the risk of naturally acquired smallpox during epidemics.
 
-The important question was not simply whether variolation was dangerous.
-
-### How did the risks compare with doing nothing?
-
-Historical reports from the **1721 Boston smallpox epidemic** described substantially lower mortality among people who underwent variolation than among those who acquired smallpox naturally. These were **historical observational comparisons**, not randomized clinical trials, and the groups may have differed in important ways.
-
-::: {.callout-tip title="Occupational Health Connection: Comparative Risk"}
-A prevention decision requires comparing the potential harms and benefits of an intervention with the harms of the exposure it is intended to prevent.
-:::
-
-**Historical reading:** Riedel S. (2005). [*Edward Jenner and the history of smallpox and vaccination*](https://pmc.ncbi.nlm.nih.gov/articles/PMC1200696/).
-
-------------------------------------------------------------------------
-
-# Smallpox Prevention Before Jenner
-
-## Variolation Was Not Jenner's Invention
-
-The idea of deliberately producing protection against smallpox existed **before Edward Jenner**.
-
-Variolation was practiced in different forms in parts of **Asia and Africa** long before Jenner. It was also practiced in the **Ottoman Empire**, where European visitors encountered it.
-
-### An Important Distinction
-
-**Europeans did not invent smallpox inoculation when they began adopting it.** They learned about practices that other communities already used to reduce the danger of smallpox.
-
-The history of vaccination therefore begins not only with European physicians, but also with **knowledge shared across cultures**.
-
-**Historical reading:** Riedel S. (2005). [*Edward Jenner and the history of smallpox and vaccination*](https://pmc.ncbi.nlm.nih.gov/articles/PMC1200696/).
-
-------------------------------------------------------------------------
-
-# Lady Mary Wortley Montagu
-
-:::::: columns
-::: {.column width="58%"}
-In the early eighteenth century, **Lady Mary Wortley Montagu** encountered smallpox inoculation while living in the Ottoman Empire.
-
-Smallpox had affected her personally.
-
-She had survived the disease, and her brother had died from it.
-
-While in **Constantinople (present-day Istanbul)**, she observed an established Ottoman practice of deliberately inoculating people with smallpox material. Her writings described how people, including women who performed the procedure, practiced inoculation in their communities.
-
-In **1718**, Montagu had her son inoculated while living in the Ottoman Empire. After returning to Britain, she had her daughter inoculated and advocated for broader adoption of the practice.
-
-### What Was Montagu's Contribution?
-
-Montagu **did not invent inoculation**. She observed an existing practice, recognized its potential, and helped introduce that knowledge to British audiences.
-
-**Historical reading:** Riedel S. (2005). [*Edward Jenner and the history of smallpox and vaccination*](https://pmc.ncbi.nlm.nih.gov/articles/PMC1200696/).
-
-### Knowledge Was Moving
-
-The scientific and medical knowledge we are following did not develop in one place or through one person.
-
-**People observed practices in other cultures, learned from them, carried those ideas into new communities, and debated the evidence.**
-
-This is a reminder that scientific knowledge does not move in only one direction, and that people outside formal European scientific institutions made important contributions.
-:::
-
-::: {.column width="4%"}
-:::
-
-::: {.column width="38%"}
-```{=html}
-<!-- IMAGE PLACEHOLDER:
-Suggested image: portrait of Lady Mary Wortley Montagu or historical inoculation scene.
--->
-```
-:::
-::::::
-
-------------------------------------------------------------------------
-
-# Another Path of Knowledge: Onesimus
-
-At roughly the same time, knowledge of smallpox inoculation was also present in colonial North America.
-
-In Boston, an enslaved African man named **Onesimus** described a form of smallpox inoculation to **Cotton Mather**.
-
-The practice reflected knowledge carried from Africa.
-
-During a major Boston smallpox epidemic, Mather promoted inoculation as a way to reduce the danger of the disease.
-
-### More Than One Path
-
-The history of smallpox prevention was not a simple sequence from one European scientist to another.
-
-Knowledge moved through different communities and across continents:
-
-**Africa and Asia → established inoculation practices**
-
-**Ottoman Empire → Montagu → Britain**
-
-**African knowledge → Onesimus → colonial Boston**
-
-::: {.callout-tip title="Scientific Knowledge Has Many Sources"}
-The history of occupational and public health includes not only formal scientific experiments, but also **observations, practices, and knowledge developed within communities**.
-:::
-
-```{=html}
-<!-- SOURCE PLACEHOLDER:
-Add authoritative source documenting Onesimus, Cotton Mather, and smallpox inoculation in colonial Boston.
--->
-```
-
-------------------------------------------------------------------------
-
-# But There Was a Problem
-
-Variolation intentionally exposed someone to:
-
-### smallpox.
-
-That meant the intervention itself carried risk.
-
-A variolated person could become seriously ill.
-
-They could potentially transmit smallpox to other people.
-
-::: {.callout-note title="The Next Question"}
-**Could you produce protection without deliberately giving someone smallpox?**
-:::
 
 ------------------------------------------------------------------------
 
@@ -645,13 +557,25 @@ They could potentially transmit smallpox to other people.
 
 ## Cowpox
 
-Cowpox was an infection associated with cattle that could also infect humans who had contact with infected animals.
+In England, milkmaids claimed that they were protected from smallpox after they contracted **cowpox**.
 
-People working around cattle sometimes developed cowpox lesions.
+Cowpox is caused by a virus belonging to the **Orthopoxvirus** genus, the same genus as the virus responsible for smallpox. However, *cowpox* generally causes a much milder illness compared to smallpox.
 
-But a curious observation circulated:
+::::: {.columns}
+::: {.column width="50%"}
+![Transmission electron micrograph of cowpox virus. [Source](https://www.robertharding.com/preview/1348-117/cowpox-virus-preparaton-smallpox-vaccine-tem-electron-micrograph/): Robert Harding Picture Library.](cowpox-virus.jpg){#fig-cowpox-virus .cowpox-equal-height width="100%" fig-align="center" lightbox="true"}
+:::
+
+::: {.column width="50%"}
+![Cowpox lesions on a patient's forearm, seven days after the onset of illness. [Source](https://wwwnc.cdc.gov/eid/article/14/4/07-0817-f1): CDC, *Emerging Infectious Diseases*.](cowpox-lesions-forearm-day-7-after-onset.jpg){#fig-cowpox-lesions .cowpox-equal-height width="100%" fig-align="center" lightbox="true"}
+:::
+:::::
 
 ### People who had experienced cowpox appeared less likely to develop smallpox.
+
+
+
+
 
 ------------------------------------------------------------------------
 
@@ -659,37 +583,45 @@ But a curious observation circulated:
 
 Who would have repeated opportunities to encounter cowpox?
 
-### People working with cattle.
+**People working with cattle.**
 
 Especially:
 
-## milkmaids.
+**milkmaids.**
 
-The occupation created an **opportunity for exposure**.
+The occupation created an **opportunity for exposure**. Remember what we learned from the plague investigation:
 
-Remember what we learned from the plague investigation:
-
-**The occupational hazard is not determined by the job title alone.**
+**The occupational hazard is not determined by the job title alone.** 
 
 It depends on the **task and opportunity for exposure**.
 
-```{=html}
-<!-- IMAGE PLACEHOLDER:
-Suggested image: historical milkmaid/cattle image or cowpox lesion illustration.
--->
-```
+::::: {.columns}
+::: {.column width="50%"}
+![Illustration of animal-to-human transmission pathways associated with cowpox virus. [Source](https://stacks.cdc.gov/view/cdc/14201): Centers for Disease Control and Prevention.](cowpox-transmission.jpg){#fig-cowpox-transmission .cowpox-equal-height width="100%" fig-align="center" lightbox="true"}
+:::
+
+::: {.column width="50%"}
+![One Health systems model illustrating the interconnected relationships among human, animal, and environmental health.](one-health-systems-model.jpg){#fig-one-health-systems-model .cowpox-equal-height width="100%" fig-align="center" lightbox="true"}
+:::
+:::::
+
+### Occupational exposure connects human health, animal health, and the environment.
 
 ------------------------------------------------------------------------
 
+
+
 # Edward Jenner
 
-:::::: columns
+:::::: {.columns}
 ::: {.column width="60%"}
-English physician **Edward Jenner (1749–1823)** became interested in the relationship between **cowpox and smallpox**.
+English physician **Edward Jenner (1749–1823)** practiced medicine in the English countryside, where he became interested in the relationship between **cowpox and smallpox**.
 
-He had heard the observation that people who had previously developed cowpox seemed protected against smallpox.
+He had heard the observation that **milkmaids and others who had previously contracted cowpox** seemed protected against smallpox.
 
-But remember what we learned last class:
+This observation suggested that exposure to one infectious disease might provide protection against another.
+
+But remember what we learned from lecture 03:
 
 ### An observation is not necessarily proof.
 
@@ -700,91 +632,75 @@ Jenner needed a way to test the hypothesis.
 :::
 
 ::: {.column width="36%"}
-```{=html}
-<!-- IMAGE PLACEHOLDER:
-Suggested image: portrait of Edward Jenner.
--->
-```
+![Historical portrait of Edward Jenner. [Source](https://www.mylearning.org/resources/edward-jenner): MyLearning.](edward-jenner.jpg){#fig-edward-jenner width="100%" fig-align="center" lightbox="true"}
 :::
 ::::::
+
 
 ------------------------------------------------------------------------
 
 # The Hypothesis
 
+::::::: {.columns}
+::: {.column width="30%"}
 ## Observation
 
 People exposed to cowpox sometimes appeared resistant to smallpox.
-
-↓
-
-## Question
-
-Does infection with cowpox protect against smallpox?
-
-↓
-
-## Hypothesis
-
-Previous exposure to cowpox provides protection against smallpox.
-
-------------------------------------------------------------------------
-
-## Poll Everywhere
-
-::::::: {.columns .poll-columns}
-::: {.column width="65%"}
-### How Would You Test It?
-
-You have observed that people who previously experienced cowpox appear less likely to develop smallpox.
-
-How could you test whether **cowpox actually provides protection against smallpox**?
-
-Think about:
-
-- what evidence you would collect
-- what comparison you would make
-- what outcome you would observe
-- what would support or challenge the hypothesis
 :::
 
 ::: {.column width="5%"}
+<div style="text-align:center; font-size:2rem; padding-top:65px;">
+→
+</div>
 :::
 
-:::: {.column width="30%"}
-::: {style="display:flex; justify-content:center; align-items:center; height:100%;"}
-![](poll-everywhere-response.jpg){fig-alt="Poll Everywhere QR code and response link for SHM 102" width="250"}
+::: {.column width="30%"}
+## Question
+
+Does infection with cowpox protect against smallpox?
 :::
-::::
+
+::: {.column width="5%"}
+<div style="text-align:center; font-size:2rem; padding-top:65px;">
+→
+</div>
+:::
+
+::: {.column width="30%"}
+## Hypothesis
+
+Previous exposure to cowpox provides protection against smallpox.
+:::
 :::::::
+
+
 
 ------------------------------------------------------------------------
 
 # Testing the Hypothesis
 
+:::::: columns
+::: {.column width="60%"}
 In **1796**, Jenner obtained material from a cowpox lesion on the hand of **Sarah Nelmes**, a milkmaid who had contracted cowpox.
 
 He inoculated **James Phipps**, an eight-year-old boy, with the material.
 
 Phipps developed symptoms consistent with cowpox and recovered.
 
-Jenner later deliberately exposed Phipps to material from smallpox.
+Rather than waiting to see whether Phipps would naturally encounter smallpox, Jenner deliberately exposed him to material from smallpox to test whether the previous cowpox infection had provided protection.
 
 ### Phipps did not develop smallpox.
 
 Jenner subsequently conducted additional observations and experiments and published his findings in **1798**.
+:::
 
-```{=html}
-<!-- IMAGE PLACEHOLDER:
-Suggested image: Jenner vaccinating James Phipps or historical illustration of the experiment.
--->
-```
+::: {.column width="4%"}
+:::
 
-```{=html}
-<!-- SOURCE PLACEHOLDER:
-Verify details of Jenner, Nelmes, Phipps, 1796 experiment, and 1798 publication with authoritative source.
--->
-```
+::: {.column width="36%"}
+![Historical illustration depicting Edward Jenner inoculating James Phipps with cowpox material.](edward-jenner-vaccinating-james-phipps-with-cowpox.jpg){#fig-jenner-james-phipps width="100%" fig-align="center" lightbox="true"}
+:::
+::::::
 
 ------------------------------------------------------------------------
 
@@ -797,6 +713,20 @@ Deliberately exposing a child to potentially lethal smallpox would be unacceptab
 
 Scientific importance does not mean that every historical research method should be accepted by modern standards.
 :::
+
+## ------------------------------------------------------------------------
+
+## Where Did "Vaccination" Come From?
+
+The word **vaccination** traces to the Latin:
+
+### *vacca* = cow
+
+Jenner used the term *variolae vaccinae* in describing cowpox.
+
+Eventually, **vaccination** became the broader term for inducing protection against infectious disease.
+
+**Historical source:** Riedel S. *Edward Jenner and the history of smallpox and vaccination.* Proc (Bayl Univ Med Cent). 2005;18(1):21–25. [PMCID: PMC1200696](https://pmc.ncbi.nlm.nih.gov/articles/PMC1200696/).
 
 ------------------------------------------------------------------------
 
@@ -811,436 +741,553 @@ Scientific importance does not mean that every historical research method should
 
 ------------------------------------------------------------------------
 
-# A New Intervention, Familiar Questions
+# A New Intervention Creates a New Concern
 
-Jenner's vaccination avoided deliberately exposing people to smallpox itself. But it introduced another uncertainty: using material associated with **cowpox** to protect against a human disease.
+Vaccination addressed one of the central hazards of variolation:
 
-People questioned its **safety**, **effectiveness**, and possible unintended consequences. The unfamiliar intervention also became a subject of satire and public debate.
+### People no longer had to be deliberately exposed to smallpox itself.
 
-```{=html}
-<!-- IMAGE PLACEHOLDER:
-Historical cartoon of public reaction to cowpox vaccination.
-If available in the lecture folder, insert the image here with its actual filename and attribution.
--->
-```
+But a new intervention created another question.
 
-### Look at the Historical Cartoon
+# Would people trust it?
 
-What concern or claim is the artist communicating? Which concerns could be investigated scientifically? How might you distinguish a legitimate question from a claim unsupported by evidence?
+People were being asked to accept something unfamiliar:
 
-------------------------------------------------------------------------
+**material associated with a disease of cows** → **introduced into a human** → **to protect against smallpox.**
 
-# From Jenner to COVID-19
-
-In **2020**, scientists faced another urgent challenge: preventing disease caused by a newly identified virus, **SARS-CoV-2**. Unlike Jenner, modern researchers could study viral genetic material, measure immune responses, and evaluate vaccines in clinical trials.
-
-The technologies were different, but some public questions were familiar:
-
-| **Early smallpox vaccination** | **COVID-19 vaccination** |
-|------------------------------------|------------------------------------|
-| Does it protect people? | Does it reduce disease and severe outcomes? |
-| What are its risks? | What adverse effects occur, and how often? |
-| How do we know it works? | What do laboratory studies and clinical trials show? |
-| Whom should we trust? | How can evidence and uncertainty be communicated transparently? |
-
-**Historical parallels do not mean the evidence, risks, or technologies were the same.** The lesson is that preventive interventions require both careful scientific evaluation and effective public communication.
-
-### Occupational Health Connection
-
-Workers may ask similar questions about respirators, exposure controls, vaccination recommendations, and new safety procedures.
-
-**What is the evidence, what are the tradeoffs, and how should we communicate them?**
-
-------------------------------------------------------------------------
-
-## Where Did "Vaccination" Come From?
-
-The word **vaccination** traces to the Latin:
-
-### *vacca* = cow
-
-Jenner used the term *variolae vaccinae* in describing cowpox.
-
-Eventually, **vaccination** became the broader term for inducing protection against infectious disease.
-
-```{=html}
-<!-- SOURCE PLACEHOLDER:
-Verify terminology/etymology against authoritative historical source.
--->
-```
-
-------------------------------------------------------------------------
-
-# But How Did It Work?
-
-Jenner could observe that vaccination worked.
-
-He could collect evidence that vaccination worked.
-
-### But he could not explain the mechanism using modern immunology.
-
-He did not know about:
+At the time, people did not understand:
 
 - viruses
+- antigens
 - antibodies
 - B cells
 - T cells
 - immune memory
 
-That understanding came later.
+They could observe whether vaccination appeared to protect people.
+
+### They could not yet explain the mechanism.
 
 ------------------------------------------------------------------------
 
-::: {.callout-important title="Prevention Can Precede Complete Understanding"}
-People practiced **quarantine** before identifying *Yersinia pestis*.
+# Public Reaction to Vaccination
 
-People practiced **variolation** before understanding viruses or immunity.
+![Historical satirical cartoon depicting public fears and reactions surrounding cowpox vaccination. Source: *Microbiology: An Evolving Science*, 6th ed., by Joan Slonczewski, John Foster, and Erik Zinser.](18th-century-cartoon-depicting-public-reaction-to-cowpox-vaccination.jpg){#fig-vaccination-cartoon width="75%" fig-align="center" lightbox="true"}
 
-Jenner demonstrated protection through **vaccination** before modern immunology existed.
+### What do you notice?
 
-### Effective prevention does not always require complete understanding of the underlying mechanism.
-:::
+Before interpreting the image, look closely at:
 
-------------------------------------------------------------------------
+- the people receiving the intervention
+- the physician
+- what appears to be happening to vaccinated people
 
-# Now We Change the Question
-
-We have spent much of this lecture asking:
-
-> **Can we prevent disease without completely understanding its cause?**
-
-But scientists were also pursuing another question:
-
-> **Can we experimentally demonstrate that a microorganism causes disease?**
+### What argument is the artist making?
 
 ------------------------------------------------------------------------
 
-# Italy, 1830s
+## Poll Everywhere
 
-## Another Disease Was Causing a Different Problem
+::::::: {.columns .poll-columns}
+::: {.column width="65%"}
+### Why Might People Be Skeptical?
 
-This time, the victims were not humans.
+Vaccination was a new preventive intervention.
 
-They were:
+**What might make an unfamiliar health intervention difficult for people to trust?**
 
-# silkworms.
+Think about:
 
-Silk production depended on raising large numbers of silkworms.
+- unfamiliar technology
+- uncertainty
+- perceived risk
+- inability to observe the mechanism directly
+- trust in the people recommending the intervention
+- competing information and beliefs
+:::
 
-Disease among silkworm populations therefore threatened:
+::: {.column width="5%"}
+:::
 
-- animals
-- production
-- livelihoods
-- workers
-- an important industry
-
-Again, disease existed inside a **system**.
-
-```{=html}
-<!-- IMAGE PLACEHOLDER:
-Suggested image: silkworms, historical sericulture, or muscardine disease.
--->
-```
+:::: {.column width="30%"}
+::: {style="display:flex; justify-content:center; align-items:center; height:100%;"}
+![](poll-everywhere-response.jpg){fig-alt="Poll Everywhere QR code and response link for SHM 102" width="250"}
+:::
+::::
+:::::::
 
 ------------------------------------------------------------------------
 
-# Agostino Bassi
+# Vaccination Skepticism Is Not New
 
-:::::: columns
-::: {.column width="60%"}
-Italian scientist **Agostino Bassi** spent years investigating a disease affecting silkworms.
+The cartoon exaggerated fears surrounding the new practice of vaccination.
 
-The disease was known as **mal del segno**, or **muscardine**.
+People are depicted developing **cow-like features** after receiving cowpox material.
 
-Bassi eventually demonstrated that the disease was caused by a **fungus**.
+The biological claim was false.
 
-That was enormously important.
+But the image reveals something important about the history of public health:
 
-### A microorganism had been experimentally demonstrated to cause disease in an animal.
+### A preventive intervention can be effective and still encounter public skepticism.
+
+Questions surrounding a new intervention may include:
+
+- Is it safe?
+- Does it actually work?
+- What exactly is being put into the body?
+- What unintended effects might occur?
+- Can the people promoting it be trusted?
+
+Jenner's work did not produce immediate universal acceptance. His early work encountered skepticism, criticism, and ridicule even as vaccination spread.
+
+::: {.callout-note title="Evidence and Trust"}
+Public health requires more than developing an intervention.
+
+It also requires **producing evidence, communicating uncertainty, explaining risk, and building trust**.
 :::
 
-::: {.column width="4%"}
-:::
+**Historical source:** Riedel S. *Edward Jenner and the history of smallpox and vaccination.* Proc (Bayl Univ Med Cent). 2005;18(1):21–25. PMCID: PMC1200696.
 
-::: {.column width="36%"}
-```{=html}
-<!-- IMAGE PLACEHOLDER:
-Suggested image: portrait of Agostino Bassi and/or fungus-infected silkworm.
--->
-```
-:::
-::::::
-
-```{=html}
-<!-- SOURCE PLACEHOLDER:
-Add authoritative source documenting Bassi's silkworm experiments and historical significance.
--->
-```
 
 ------------------------------------------------------------------------
 
-# Remember Our Question?
+# But How Did Jenner's Cowpox Vaccination Work?
 
-Last class, after introducing microscopy, we asked:
+Jenner's **1796 experiment** used material from a cowpox lesion. 
 
-> **Seeing a microorganism does not necessarily mean that it caused the disease.**
+His vaccine was **not** the standardized vaccinia-based vaccines that would later be used to eradicate smallpox.
 
-What additional evidence would you want?
+Jenner could observe protection, but he could not explain it using modern immunology. He did not know about **viruses**, **antigens**, **antibodies**, **B cells**, **T cells**, or **immune memory**.
 
-Bassi helped demonstrate an answer.
+## Antigens and Antibodies
 
-Scientists could:
+To understand how vaccination works, we need to understand two important terms:
 
-1.  observe disease
-2.  identify a suspected biological agent
-3.  transmit disease using material associated with that agent
-4.  observe the disease developing in another organism
+**Antigen:** A substance or part of a microorganism, such as a virus or bacterium, that the immune system recognizes as foreign and may respond to.
 
-### Observation was becoming experimentation.
+**Antibody:** A protective protein produced by the immune system that recognizes and attaches to a specific antigen, helping the body fight infection.
+
+In simple terms:
+
+*Antigen = Something foreign that the immune system recognizes.*
+
+*Antibody = Something the body produces to help protect against that foreign material.*
+
+
+
+![Interferon-mediated antiviral defenses. Virus-infected cells produce interferon-alpha and interferon-beta, while activated Th1 cells produce interferon-gamma. These signaling molecules contribute to cellular resistance to viral infection. Source: Male, Brostoff, Roth, and Roitt, *Immunology*, 7th ed., Fig. 1.4, p. 7.](immunology-interferons.jpg){#fig-immunology-interferons width="85%" fig-align="center" lightbox="true"}
+
+The body also produces proteins called **interferons**, which help cells defend themselves against viruses.
+
+For example:
+
+- When a virus infects a cell, that cell can release interferons that help nearby cells resist infection.
+- Certain immune cells can also produce interferons that help coordinate the body's defenses.
+
+::: {.callout-note title="Remember These Three Terms"}
+
+**Antigen:** Something the immune system recognizes as foreign.
+
+**Antibody:** A protein produced by the body that attaches to a specific antigen and helps defend against infection.
+
+**Interferon:** A protein that helps cells defend against viruses and coordinates immune responses.
+
+**Antigens are recognized → Antibodies help fight infection → Interferons help cells resist viruses**
+
+:::
+
+## Connecting These Concepts to Jenner's Experiment
+
+Today, we understand that cowpox and smallpox viruses have some similar antigens.
+
+When Jenner introduced cowpox-associated material into the body, the immune system could recognize those antigens and develop protection.
+
+Because cowpox and smallpox viruses share certain features, the immune response to cowpox could also help protect against smallpox.
+
+This is called **cross-protective immunity**.
+
+**Exposure to cowpox-associated antigens → Immune response → Immune memory → Protection against later smallpox exposure**
+
+### Jenner observed this protection long before scientists understood how the immune system worked.
+
+**Cowpox-associated inoculation (Jenner) → Development and standardization of vaccinia-based vaccines → Global eradication campaign**
+
+![Taxonomic relationships among medically important poxviruses, including members of the Orthopoxvirus genus. [Source](https://www.researchgate.net/figure/The-Poxviridae-Genera-of-the-Chordopoxvirinae-of-Medical-Interest-13_tbl3_323945271): ResearchGate, *The Poxviridae Genera of the Chordopoxvirinae of Medical Interest*.](orthopoxvirus-genus.jpg){#fig-orthopoxvirus-genus width="85%" fig-align="center" lightbox="true"}
+
+Members of the *Orthopoxvirus* genus share certain antigens because they are closely related viruses.
+
+### Vaccination helps prepare the immune system before exposure to a dangerous disease.
+
+**Sources:**
+
+- Male, D., Brostoff, J., Roth, D. B., & Roitt, I. *Immunology* (7th ed.). Mosby Elsevier.
+- [American Association of Immunologists — Antibodies and Antigens](https://immunologyexplained.aai.org/what-is-immunology/antibody-and-antigen/)
+- [Cleveland Clinic — Antibodies](https://my.clevelandclinic.org/health/body/22971-antibodies)
+
+
+
 
 ------------------------------------------------------------------------
 
-# One Health Before "One Health"
+## What Was Actually in the Smallpox Vaccine?
 
-:::::: columns
-::: {.column width="46%"}
-## The System
+::::: {.columns}
 
-**Silkworm**
+::: {.column width="65%"}
 
-↓
+The traditional smallpox vaccine contained **live, replication-competent vaccinia virus**.
 
-**Fungal pathogen**
+It was **not** a weakened preparation of variola virus, the pathogen responsible for smallpox.
 
-↓
+Because vaccinia could replicate at the vaccination site, it typically produced a localized lesion that could leave a characteristic vaccination scar.
 
-**Disease**
+Modern smallpox vaccines differ in whether the vaccine virus can replicate productively in human cells.
 
-↓
-
-**Silk production**
-
-↓
-
-**Workers and livelihoods**
-
-↓
-
-**Economic consequences**
 :::
 
-::: {.column width="4%"}
+::: {.column width="35%"}
+
+![Characteristic scar left by traditional smallpox vaccination following a localized reaction to vaccinia virus.](vaccine-scar.jpg){#fig-smallpox-vaccine-scar width="100%" fig-align="center" lightbox="true"}
+
 :::
 
-::: {.column width="50%"}
-### Is this an animal-health problem?
+:::::
 
-**Yes.**
+| Vaccine | Virus or strain | Replication in human cells |
+|---|---|---|
+| Traditional eradication-era vaccines | Live vaccinia | Replication-competent |
+| **ACAM2000** | Live vaccinia | Replication-competent |
+| **JYNNEOS** | Modified vaccinia Ankara (MVA-BN) | Does not replicate productively |
 
-### Is this an economic problem?
+**Important distinction:** JYNNEOS uses an attenuated vaccinia strain, whereas ACAM2000 contains replication-competent vaccinia.
 
-**Yes.**
+These differences matter for **vaccine safety**, particularly when considering certain medical conditions and the possibility of contact exposure to vaccine virus from a replication-competent vaccination site.
 
-### Is this an occupational problem?
+### None of these vaccines contains variola virus.
 
-**Yes.**
-
-### Is this an environmental or biological problem?
-
-**Yes.**
-
-The parts of the system are connected.
-:::
-::::::
+[Source: CDC — Smallpox Vaccines for Healthcare Professionals](https://www.cdc.gov/smallpox/hcp/vaccines/index.html)
 
 ------------------------------------------------------------------------
 
-# Two Different Scientific Problems
 
-| **Jenner** | **Bassi** |
+## Vaccination and the Prevention of Disease
+
+Vaccines have two important potential effects.
+
+**First: Individual protection**
+
+Vaccination can reduce a person's likelihood of infection, serious disease, or other adverse outcomes, depending on the vaccine and pathogen.
+
+**Second: Population protection**
+
+When vaccination substantially reduces transmission, immunity across a population can help protect people who remain susceptible.
+
+This population-level effect is often called **herd immunity** or **community immunity**.
+
+However, herd immunity does not occur equally with every vaccine or infectious disease. It depends on factors such as transmissibility, vaccine effectiveness against infection and transmission, and the distribution of immunity.
+
+For smallpox, vaccination was central to the worldwide eradication campaign.
+
+## Why Does This Matter for Occupational Health?
+
+Consider a healthcare worker who may encounter an infectious patient.
+
+The worker's occupation creates opportunities for exposure, but exposure does not necessarily result in infection or disease.
+
+Vaccination can change the worker's susceptibility or the consequences of exposure.
+
+However, vaccination does not eliminate the need for other protective measures.
+
+**Vaccination is one component of occupational biological hazard prevention—not a replacement for exposure controls.**
+
+::: {.callout-important title="Think Like an Occupational Health Professional"}
+
+When evaluating vaccination as a protective intervention, ask:
+
+1. What biological hazard may be present?
+2. Which occupational tasks create opportunities for exposure?
+3. What immune protection can vaccination provide?
+4. Does the vaccine prevent infection, reduce disease severity, reduce transmission, or some combination?
+5. What additional controls remain necessary?
+
+:::
+
+## Scientific Sources
+
+- Male, D., Brostoff, J., Roth, D. B., & Roitt, I. *Immunology* (7th ed.). Mosby Elsevier. Chapter 2, Fig. 2.2; Chapter 8, Figs. 8.5 and 8.16; Chapter 18, "Vaccination," pp. 325–326.
+- [CDC — Smallpox Vaccines](https://www.cdc.gov/smallpox/vaccines/index.html)
+- [CDC — Smallpox Vaccines for Healthcare Professionals](https://www.cdc.gov/smallpox/hcp/vaccines/index.html)
+
+
+------------------------------------------------------------------------
+
+# From Vaccination to Global Eradication
+
+Smallpox eradication required more than a vaccine. It depended on **surveillance**, recognizing cases, tracing contacts, and responding rapidly to outbreaks.
+
+The World Health Organization began a global eradication program in **1959** and intensified the campaign in **1967**.
+
+![Map showing the worldwide progression of smallpox eradication. [Source](https://www.cdc.gov/smallpox/about/history.html): Centers for Disease Control and Prevention.](global-smallpox-eradication.jpg){#fig-global-smallpox-eradication width="100%" fig-align="center" lightbox="true"}
+
+## Milestones
+
+| Year     | Milestone                                             |
+|----------|-------------------------------------------------------|
+| **1959** | WHO launches a global smallpox eradication program.   |
+| **1967** | Intensified eradication program begins.               |
+| **1977** | Last naturally acquired case of smallpox, in Somalia. |
+| **1980** | World Health Assembly declares smallpox eradicated.   |
+
+### Vaccination + surveillance + rapid intervention = global prevention.
+
+[Source: CDC — History of Smallpox](https://www.cdc.gov/smallpox/about/history.html)
+
+
+
+------------------------------------------------------------------------
+
+## The Last Naturally Acquired Case: Ali Maow Maalin
+
+::::: {.columns}
+
+::: {.column width="65%"}
+
+In **1977**, Ali Maow Maalin, a hospital cook in Somalia who also assisted with transporting patients, developed smallpox.
+
+His case demonstrates that biological exposure may occur through **specific tasks**, even when a worker's job title does not suggest direct clinical care.
+
+Public health teams investigated contacts and worked to prevent further transmission.
+
+*Historical discussion: This Podcast Will Kill You, Episode 3, “Smallpox”; compare with the [CDC history](https://www.cdc.gov/smallpox/about/history.html).*
+
+:::
+
+::: {.column width="35%"}
+
+![Ali Maow Maalin, the last person known to have acquired naturally occurring smallpox, in Somalia in 1977. [Source](https://wwwn.cdc.gov/phil/Details.aspx?pid=7083): Centers for Disease Control and Prevention, Public Health Image Library (PHIL), Image ID 7083.](ali-maow-maalin.jpg){#fig-ali-maow-maalin width="60%" fig-align="center" lightbox="true"}
+
+:::
+
+:::::
+
+
+------------------------------------------------------------------------
+
+# Eradicated, but Not Forgotten
+
+Smallpox no longer circulates naturally in human populations. Nevertheless, **biosafety**, **biosecurity**, and **emergency preparedness** remain relevant.
+
+WHO-authorized stocks of variola virus are held at two designated facilities:
+
+- **CDC**, Atlanta, United States.
+- **VECTOR**, Koltsovo, Russia.
+
+## Smallpox and Bioterrorism
+
+The possibility of an intentional release is one reason smallpox remains part of public health preparedness discussions.
+
+**Bioterrorism:** The deliberate use of a biological agent to cause illness or harm.
+
+A deliberate release of variola virus is a **potential biosecurity threat**, not evidence of a current smallpox outbreak.
+
+Although smallpox has been eradicated, public health agencies continue to maintain plans for recognizing suspected cases, protecting exposed individuals, and responding to potential emergencies.
+
+## Why Does This Matter for Occupational Health?
+
+In a suspected smallpox event, occupational health professionals may need to consider:
+
+- **Healthcare worker protection:** Recognizing possible cases and preventing occupational exposure.
+- **Safe specimen handling:** Ensuring that biological specimens are collected and handled by authorized personnel using appropriate precautions.
+- **Exposure assessment:** Identifying potentially exposed workers and conducting contact tracing.
+- **Public health response:** Coordinating isolation, vaccination decisions, and other protective measures with public health authorities.
+
+These responsibilities demonstrate how occupational health professionals contribute to protecting workers during biological emergencies.
+
+### Eradication eliminated natural transmission, not the need for preparedness.
+
+**Sources:**
+
+- [CDC — History of Smallpox](https://www.cdc.gov/smallpox/about/history.html)
+- [CDC — Smallpox](https://www.cdc.gov/smallpox/index.html)
+
+
+------------------------------------------------------------------------
+
+## Janet Parker: An Occupational Health Case Study
+
+::::: {.columns}
+
+::: {.column width="65%"}
+
+In **1978**, **Janet Parker**, a medical photographer at the University of Birmingham in England, contracted smallpox while working in a building that housed a smallpox laboratory.
+
+She died from the infection. Her case is recognized as the last fatal case of smallpox.
+
+**The exact route of exposure was not conclusively established.** It should not be presented as a proven ventilation-system failure.
+
+### A worker can face biological risk without directly conducting pathogen research.
+
+**Think back to the plague investigation:** What would an occupational exposure assessment examine in this building?
+
+*Historical discussion: This Podcast Will Kill You, Episode 3, “Smallpox”; see also [CDC — History of Smallpox](https://www.cdc.gov/smallpox/about/history.html).*
+
+:::
+
+::: {.column width="35%"}
+
+
+![Janet Parker, a medical photographer at the University of Birmingham who died after contracting smallpox in 1978. [Source](https://www.birminghammail.co.uk/news/good-turn-medical-colleagues-cost-14511601): *Birmingham Mail*.](janet-parker.jpg){#fig-janet-parker width="100%" fig-align="center" lightbox="true"}
+
+
+:::
+
+:::::
+
+------------------------------------------------------------------------
+
+
+# How Are Vaccines Developed Today?
+
+Jenner's 1796 experiment provided an early demonstration of vaccination, but it did not follow modern clinical research standards.
+
+Today, vaccine development involves **laboratory research**, **preclinical studies**, **clinical trials**, **regulatory evaluation**, **manufacturing quality controls**, and **safety monitoring after authorization**.
+
+| Stage | Central question |
 |------------------------------------|------------------------------------|
-| Can disease be prevented? | Can disease be experimentally attributed to a microorganism? |
-| Observation of population pattern | Observation of diseased animals |
-| Cowpox → apparent protection | Fungus → silkworm disease |
-| Intervention | Causal investigation |
-| Prevention before mechanism | Evidence of microbial causation |
+| Preclinical research | What immune response does the candidate generate, and what safety concerns appear? |
+| Phase 1 clinical trials | What initial safety and immune-response findings appear in a small group of participants? |
+| Phase 2 clinical trials | What doses and immune responses are observed in a larger group? |
+| Phase 3 clinical trials | How well does the vaccine prevent its intended outcomes, and what safety findings emerge in a larger population? |
+| Regulatory review and manufacturing | Does the evidence support authorization, and can the product be manufactured consistently? |
+| Post-authorization monitoring | What additional safety and effectiveness information emerges during wider use? |
 
-### Which came first?
+### Developing a vaccine means evaluating both the intervention and the evidence supporting it.
 
-In the smallpox story:
-
-## Reliable prevention came before complete mechanistic understanding.
 
 ------------------------------------------------------------------------
 
-# What Humans Could Now Do
+## Does Vaccine Development Always Take Decades?
 
-By the middle of the nineteenth century, humans had become increasingly capable of:
+::::: {.columns}
 
-## OBSERVING
+::: {.column width="65%"}
 
-patterns of disease
+A common claim is that **every vaccine must take decades to develop**.
 
-↓
+That statement confuses the time required to build a scientific foundation with the timeline of a particular vaccine's clinical development and evaluation.
 
-## FORMING HYPOTHESES
+Consider **polio**:
 
-about what caused disease
+- **Jonas Salk** developed an **inactivated poliovirus vaccine (IPV)**, which was evaluated in a major 1954 field trial and announced as effective in 1955.
+- **Albert Sabin** developed a **live, attenuated oral poliovirus vaccine (OPV)** that became widely used later.
+- Both vaccines built on earlier discoveries about poliovirus, immunity, and methods of growing the virus.
 
-↓
+The **1955 Cutter incident**, in which improperly inactivated vaccine caused cases of polio, also illustrates why manufacturing quality and independent oversight are essential.
 
-## SEEING
-
-the microscopic world
-
-↓
-
-## EXPERIMENTING
-
-with suspected causes
-
-↓
-
-## PREVENTING
-
-some diseases even before mechanisms were completely understood
-
-------------------------------------------------------------------------
-
-# But Another Tool Was Developing
-
-Scientists could also study:
-
-### patterns of disease across populations.
-
-They could ask:
-
-- Who became sick?
-- Where did they live or work?
-- When did illness occur?
-- What exposures did affected people share?
-- Were some groups affected more than others?
-
-Those patterns could provide evidence even when the hazard itself could not yet be directly identified.
-
-------------------------------------------------------------------------
-
-# From Vaccination to Occupational Health
-
-## Think Like an Occupational Health Scientist
-
-The historical cases changed.
-
-The investigative questions did not.
-
-When workers experience illness, ask:
-
-- What health outcome are we observing?
-- Who is affected?
-- What exposures do they share?
-- What tasks create opportunities for exposure?
-- What evidence supports a causal relationship?
-- Can we intervene before every mechanism is completely understood?
-- What additional evidence would strengthen our conclusion?
-
-::: {.callout-tip title="Decisions Under Uncertainty"}
-**Occupational health often requires decisions under uncertainty.**
-
-Waiting until every biological mechanism is completely understood may allow preventable exposures to continue.
 :::
 
-------------------------------------------------------------------------
+::: {.column width="35%"}
 
-# The Next Mystery
+![Historical photograph illustrating the impact of poliomyelitis and the importance of vaccination in preventing polio. [Source](https://polioeradication.org/about-polio/history-of-polio/): Global Polio Eradication Initiative, *History of Polio*.](polio.jpg){#fig-polio-history width="100%" fig-align="center" lightbox="true"}
 
-## London, 1854
+:::
 
-Thousands of people are becoming sick.
+:::::
 
-The disease is:
-
-# cholera.
-
-People disagree about what is causing it.
-
-Some blame contaminated air.
-
-Others suspect something else.
-
-You do not have modern laboratory testing.
-
-You cannot simply identify the organism in your laboratory.
-
-### How could you determine where the exposure is coming from?
-
-## Next: John Snow, Cholera, and Epidemiology
+### [The appropriate question is not simply "How many years did it take?" but "What evidence demonstrates safety, effectiveness, and manufacturing quality?"]{style="color: #C62828;"}
 
 ------------------------------------------------------------------------
 
-# Key Takeaway
 
-Humans learned to prevent some diseases **before they completely understood their causes**.
+# Key Takeaways
 
-Smallpox demonstrated that careful observation could reveal patterns of **susceptibility and protection**.
-
-Variolation showed that exposure could be deliberately manipulated to produce protection, although the practice carried substantial risk.
-
-Jenner's experiments with cowpox helped establish **vaccination** as a safer approach to preventing smallpox.
-
-Bassi's investigation of silkworm disease provided early experimental evidence that a **microorganism could cause disease in an animal**.
-
-### Scientific understanding developed incrementally.
-
-**Observation → hypothesis → intervention → experimentation → evidence**
-
-In occupational health, we often face the same challenge:
-
-### How much evidence do we need before we act to prevent harm?
+1.  **Occupational observations can lead to public health discoveries.** Jenner's investigation began with reports of cowpox among people working with cattle, especially milkmaids.
+2.  **Variolation and vaccination were different interventions.** Variolation exposed people to smallpox material; Jenner's vaccination used cowpox-associated material.
+3.  **Jenner's original preparation and later eradication-era vaccines were not identical.** The latter used vaccinia virus, not variola virus.
+4.  **Cross-protective immunity explains the biological connection.** Shared orthopoxvirus antigens can stimulate adaptive immune responses and immune memory.
+5.  **Eradication required more than vaccination.** Surveillance, case identification, contact tracing, and rapid public health response were essential.
+6.  **Job titles do not define biological exposure.** The cases of Ali Maow Maalin and Janet Parker demonstrate the importance of examining workers' actual tasks and environments.
+7.  **Eradication does not eliminate preparedness responsibilities.** Biosafety, biosecurity, and emergency planning remain relevant.
+8.  **Modern vaccine development evaluates evidence at multiple stages.** Clinical trials, manufacturing controls, and post-authorization monitoring matter more than an arbitrary number of years.
 
 ------------------------------------------------------------------------
 
-# Selected Historical Reading
-
-Riedel, S. (2005). [Edward Jenner and the history of smallpox and vaccination](https://pmc.ncbi.nlm.nih.gov/articles/PMC1200696/). *Proceedings (Baylor University Medical Center), 18*(1), 21–25.
-
-------------------------------------------------------------------------
-
-# Key Terms
+# Key Terms and Definitions
 
 | Term | Definition |
 |------------------------------------|------------------------------------|
-| **Immunity** | Protection against a particular infectious disease resulting from the body's ability to respond to the infectious agent. |
-| **Variolation** | Historical practice of deliberately exposing a person to smallpox material to produce infection and subsequent protection. |
-| **Vaccination** | Administration of a vaccine to produce protection against disease. |
-| **Vaccine** | A preparation used to stimulate protection against a particular disease. |
-| **Causation** | A relationship in which an exposure or factor contributes to producing an outcome. |
-| **Susceptible host** | A person or animal capable of becoming infected by an infectious agent. |
+| **Smallpox** | Eradicated human infectious disease caused by variola virus. |
+| **Variola virus** | The orthopoxvirus that causes smallpox. |
+| **Cowpox** | Disease associated with an orthopoxvirus that informed Jenner's original vaccination experiment. |
+| **Vaccinia virus** | Related orthopoxvirus used in traditional smallpox vaccines and eradication campaigns. |
+| **Variolation** | Historical practice of deliberately exposing someone to smallpox material to induce protection. |
+| **Vaccination** | Intervention intended to stimulate protective immunity; its name derives from Latin *vacca*, meaning cow. |
+| **Antigen** | Molecular feature recognized by the immune system. |
+| **Adaptive immunity** | Antigen-specific immune response involving B cells and T cells. |
+| **Antibody** | Protein produced by B cells that binds a specific antigen. |
+| **Immune memory** | Ability of the adaptive immune system to respond more effectively after prior antigen exposure. |
+| **Cross-protective immunity** | Immune protection against a pathogen arising from exposure to a related pathogen or its antigens. |
+| **Live, replication-competent vaccine** | Vaccine containing a live organism capable of productive replication in the recipient. |
+| **Live, attenuated vaccine** | Vaccine containing a weakened live organism; attenuation and replication competence are distinct properties. |
+| **Surveillance** | Systematic collection and analysis of health information to detect and respond to disease. |
+| **Contact tracing** | Identifying and following up with people who may have been exposed to an infected person. |
+| **Eradication** | Permanent reduction to zero of worldwide natural incidence of an infectious disease through deliberate efforts. |
+| **Biosafety** | Practices and controls that prevent accidental exposure to or release of biological agents. |
+| **Biosecurity** | Measures to prevent unauthorized access, misuse, theft, or deliberate release of biological agents. |
+| **Bioterrorism** | Intentional use or threatened use of biological agents to cause harm or fear. |
+| **Preclinical research** | Laboratory and other nonhuman studies conducted before clinical testing. |
+| **Clinical trial** | Research in human participants evaluating an intervention's safety and/or effectiveness. |
+| **Post-authorization monitoring** | Continued evaluation of safety and effectiveness after a vaccine is authorized. |
 
 ------------------------------------------------------------------------
 
-## Make your flashcards
+# Copy-and-Paste Flashcards
 
-### Copy → Paste → Study
-
-Copy the terms below to make your own **Anki or Quizlet** flashcards.
-
-**Anki:** Save as a `.txt` file → Import → Select **Semicolon** as the field separator.
+The following **tab-separated** terms and definitions can be copied into a flashcard application that supports importing term-definition pairs (including Quizlet's import tool). Each line contains **term**, followed by a tab, followed by **definition**.
 
 ``` text
-Immunity;Protection against a particular infectious disease resulting from the body's ability to respond to the infectious agent.
-Variolation;Historical practice of deliberately exposing a person to smallpox material to produce infection and subsequent protection.
-Vaccination;Administration of a vaccine to produce protection against disease.
-Vaccine;A preparation used to stimulate protection against a particular disease.
-Causation;A relationship in which an exposure or factor contributes to producing an outcome.
-Susceptible host;A person or animal capable of becoming infected by an infectious agent.
+Smallpox    Eradicated human infectious disease caused by variola virus.
+Variola virus   Orthopoxvirus responsible for smallpox.
+Cowpox  Orthopoxvirus-associated disease central to Jenner's original vaccination experiment.
+Vaccinia virus  Related orthopoxvirus used in traditional smallpox vaccines.
+Variolation Historical deliberate exposure to smallpox material to induce protection.
+Vaccination Intervention designed to induce protective immunity; name derives from Latin vacca, cow.
+Edward Jenner   Physician who tested cowpox-associated material for smallpox protection in 1796.
+Sarah Nelmes    Milkmaid whose cowpox lesion supplied material for Jenner's experiment.
+James Phipps    Eight-year-old boy inoculated in Jenner's 1796 experiment.
+Antigen Molecular feature recognized by the immune system.
+Antibody    B-cell-produced protein that binds a specific antigen.
+B cell  Adaptive immune cell that can develop into an antibody-secreting cell or memory cell.
+T cell  Adaptive immune cell that coordinates responses or recognizes infected cells.
+Immune memory   Enhanced adaptive response following prior antigen exposure.
+Cross-protective immunity   Protection against one pathogen from immune recognition of a related pathogen.
+Traditional smallpox vaccine    Live, replication-competent vaccinia vaccine; does not contain variola virus.
+ACAM2000    Replication-competent vaccinia-based smallpox vaccine.
+JYNNEOS Nonreplicating modified vaccinia Ankara-based vaccine.
+Surveillance    Systematic detection and analysis of disease information to guide response.
+Contact tracing Identification and follow-up of people potentially exposed to a case.
+Eradication Permanent worldwide reduction of natural disease incidence to zero through deliberate efforts.
+1977    Year of the last naturally acquired smallpox case.
+1980    Year the World Health Assembly declared smallpox eradicated.
+Ali Maow Maalin Somali hospital cook associated with the last naturally acquired smallpox case.
+Janet Parker    Medical photographer who died from laboratory-associated smallpox in 1978.
+Biosafety   Prevention of accidental exposure to or release of biological hazards.
+Biosecurity Prevention of unauthorized access to or deliberate misuse of biological agents.
+Bioterrorism    Intentional use of biological agents to cause harm or fear.
+Phase 1 clinical trial  Early human study emphasizing initial safety and immune responses.
+Phase 2 clinical trial  Larger study assessing dose, immune responses, and safety.
+Phase 3 clinical trial  Large study assessing effectiveness and additional safety outcomes.
+Salk polio vaccine  Inactivated poliovirus vaccine tested in a major 1954 field trial.
+Sabin polio vaccine Live, attenuated oral poliovirus vaccine.
+Cutter incident 1955 vaccine manufacturing failure demonstrating the importance of quality controls.
 ```
 
-### Copyright & Use
+------------------------------------------------------------------------
 
-**SHM 102: Occupational Health**\
-© 2026 Yoni Rodriguez
+# Copyright and Educational Use
 
-Except where otherwise noted, original course materials are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+**© 2026 Yoni Rodriguez. Central Washington University — SHM 102: Occupational Health.**
 
-Third-party materials remain subject to their respective copyright and licensing terms.
+Original lecture text and instructional organization are prepared for educational use. Third-party photographs, historical illustrations, diagrams, and other materials remain the property of their respective copyright holders and are credited where sources are identified. Inclusion of third-party material does not transfer its copyright.
+
+------------------------------------------------------------------------
