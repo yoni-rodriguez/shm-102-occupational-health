@@ -309,18 +309,25 @@ We are returning to the eighteenth century.
 **How did people learn to prevent disease before they understood its biological cause?**
 :::
 
+
 ------------------------------------------------------------------------
 
-::: {.callout-note title="Today's Window: 1717–1835"}
-Between the first observations of microorganisms and the establishment of germ theory, people were already learning how to **prevent disease** and **experimentally investigate its causes**.
+::: {.callout-note title="Today's Window: 1717–1798"}
 
-Today we are zooming in on two developments:
+Before the establishment of germ theory, people were already learning how to **prevent infectious diseases**, even though they did not fully understand their biological causes.
 
-1.  **Smallpox prevention → variolation and vaccination**
-2.  **Microbial causation → Bassi and silkworm disease**
+Today, we are focusing on three historical developments:
+
+1. **Variolation → Historical smallpox prevention practices in Asia and Africa**
+2. **1717–1721 → The introduction and promotion of variolation in Britain and colonial America**
+3. **1796–1798 → Edward Jenner's cowpox vaccination experiment and publication of his findings**
+
+These developments demonstrate how **observation, occupational exposure, and experimentation** contributed to the development of vaccination.
+
 :::
 
 ------------------------------------------------------------------------
+
 
 ::: question-highlight
 # A Question From Class
@@ -516,11 +523,12 @@ These histories demonstrate that **knowledge of disease prevention existed acros
 
 ## [The Risks of Variolation](https://pmc.ncbi.nlm.nih.gov/articles/PMC1200696/)
 
-Variolation could reduce the risk of dying from smallpox, but it was still dangerous because inefected individuals still contracted serious disease and were contagious. 
+Variolation could reduce the risk of dying from smallpox, but it was still dangerous because **infected individuals could develop serious disease and transmit smallpox to others**.
 
 Historical reports from the **1721 Boston epidemic** suggested lower mortality among variolated individuals than among those who acquired smallpox naturally.
 
-Still, doctros conintued to seek a better method of prevention. 
+Still, **doctors continued to seek a safer method of prevention**.
+
 
 
 
@@ -714,7 +722,8 @@ Deliberately exposing a child to potentially lethal smallpox would be unacceptab
 Scientific importance does not mean that every historical research method should be accepted by modern standards.
 :::
 
-## ------------------------------------------------------------------------
+
+------------------------------------------------------------------------
 
 ## Where Did "Vaccination" Come From?
 
@@ -1044,6 +1053,7 @@ The World Health Organization began a global eradication program in **1959** and
 
 
 
+
 ------------------------------------------------------------------------
 
 ## The Last Naturally Acquired Case: Ali Maow Maalin
@@ -1054,24 +1064,30 @@ The World Health Organization began a global eradication program in **1959** and
 
 In **1977**, Ali Maow Maalin, a hospital cook in Somalia who also assisted with transporting patients, developed smallpox.
 
+**Maalin made a full recovery from smallpox.** His case is recognized as the last naturally acquired case of the disease, not the last fatal case.
+
 His case demonstrates that biological exposure may occur through **specific tasks**, even when a worker's job title does not suggest direct clinical care.
 
 Public health teams investigated contacts and worked to prevent further transmission.
 
-*Historical discussion: This Podcast Will Kill You, Episode 3, “Smallpox”; compare with the [CDC history](https://www.cdc.gov/smallpox/about/history.html).*
+Following his recovery, Maalin also contributed to public health efforts aimed at eliminating **polio** in Somalia.
+
+### What task created an opportunity for exposure?
+
+*Historical discussion: This Podcast Will Kill You, Episode 3, “Smallpox”; compare with the [CDC — History of Smallpox](https://www.cdc.gov/smallpox/about/history.html) and [NPR — Last Person To Get Smallpox Dedicated His Life To Ending Polio](https://www.npr.org/sections/health-shots/2013/07/31/206947581/last-person-to-get-smallpox-dedicated-his-life-to-ending-polio).*
 
 :::
 
 ::: {.column width="35%"}
 
-![Ali Maow Maalin, the last person known to have acquired naturally occurring smallpox, in Somalia in 1977. [Source](https://wwwn.cdc.gov/phil/Details.aspx?pid=7083): Centers for Disease Control and Prevention, Public Health Image Library (PHIL), Image ID 7083.](ali-maow-maalin.jpg){#fig-ali-maow-maalin width="60%" fig-align="center" lightbox="true"}
+![Ali Maow Maalin, the last person known to have acquired naturally occurring smallpox, in Somalia in 1977. He recovered from the infection and later participated in polio eradication efforts. [Source](https://wwwn.cdc.gov/phil/Details.aspx?pid=7083): Centers for Disease Control and Prevention, Public Health Image Library (PHIL), Image ID 7083.](ali-maow-maalin.jpg){#fig-ali-maow-maalin width="60%" fig-align="center" lightbox="true"}
 
 :::
 
 :::::
 
-
 ------------------------------------------------------------------------
+
 
 # Eradicated, but Not Forgotten
 
@@ -1281,6 +1297,53 @@ Salk polio vaccine  Inactivated poliovirus vaccine tested in a major 1954 field 
 Sabin polio vaccine Live, attenuated oral poliovirus vaccine.
 Cutter incident 1955 vaccine manufacturing failure demonstrating the importance of quality controls.
 ```
+
+
+------------------------------------------------------------------------
+
+# References and Image Sources
+
+The following resources were consulted or identified during the development of Lecture 04. They include public health guidance, historical accounts, scientific literature, and image sources.
+
+## Smallpox, Vaccination, and Eradication
+
+- [Centers for Disease Control and Prevention (CDC) — History of Smallpox](https://www.cdc.gov/smallpox/about/history.html)
+- [CDC — Smallpox Vaccines](https://www.cdc.gov/smallpox/vaccines/index.html)
+- [CDC — Smallpox Vaccines for Healthcare Professionals](https://www.cdc.gov/smallpox/hcp/vaccines/index.html)
+- [CDC — Smallpox and Bioterrorism](https://www.cdc.gov/smallpox/bioterrorism/index.html)
+- [Cleveland Clinic — Smallpox Vaccine Scar](https://my.clevelandclinic.org/health/articles/smallpox-vaccine-scar)
+- [National Library of Medicine — Smallpox: A Great and Terrible Scourge, Eradication](https://www.nlm.nih.gov/exhibition/smallpox/sp_success.html)
+- [PubMed Central — Historical Scientific Article (PMC1069029)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1069029/#sec2)
+
+## Orthopoxviruses and Scientific Literature
+
+- [ScienceDirect — Research Article (PII: S1567134813003869)](https://www.sciencedirect.com/science/article/abs/pii/S1567134813003869)
+- [ScienceDirect Topics — Orthopoxvirus](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/orthopoxvirus)
+- [ResearchGate — The Poxviridae Genera of the Chordopoxvirinae of Medical Interest](https://www.researchgate.net/figure/The-Poxviridae-Genera-of-the-Chordopoxvirinae-of-Medical-Interest-13_tbl3_323945271)
+- [ResearchGate — Rapid Viral Diagnosis of Orthopoxviruses by Electron Microscopy: Optional or a Must?](https://www.researchgate.net/publication/323945271_Rapid_Viral_Diagnosis_of_Orthopoxviruses_by_Electron_Microscopy_Optional_or_a_Must)
+
+## Immunology
+
+- Male, D., Brostoff, J., Roth, D. B., & Roitt, I. *Immunology* (7th ed.). Mosby Elsevier.
+- [American Association of Immunologists — Antibodies and Antigens](https://immunologyexplained.aai.org/what-is-immunology/antibody-and-antigen/)
+- [Cleveland Clinic — Antibodies](https://my.clevelandclinic.org/health/body/22971-antibodies)
+
+
+## Historical Cases and Public Health
+
+- [CDC Public Health Image Library — Ali Maow Maalin, Image 7083](https://wwwn.cdc.gov/phil/Details.aspx?pid=7083)
+- [NPR — Last Person To Get Smallpox Dedicated His Life To Ending Polio (2013)](https://www.npr.org/sections/health-shots/2013/07/31/206947581/last-person-to-get-smallpox-dedicated-his-life-to-ending-polio)
+- [Birmingham Mail — Janet Parker](https://www.birminghammail.co.uk/news/good-turn-medical-colleagues-cost-14511601)
+- [Global Polio Eradication Initiative — History of Polio](https://polioeradication.org/about-polio/history-of-polio/)
+- [CDC — Measles Data and Research](https://www.cdc.gov/measles/data-research/index.html)
+
+
+## Additional Image References
+
+The following links point directly to image files. They are retained for source tracking; their original publication details and relationship to the lecture figures should be verified before assigning specific figure credits.
+
+- [Elsevier / ScienceDirect — Image Reference (B9780123741530000199)](https://ars.els-cdn.com/content/image/3-s2.0-B9780123741530000199-f19-02-9780123741530.jpg)
+- [Veterian Key — Image Reference (B9780723432371000705)](https://veteriankey.com/wp-content/uploads/2016/07/B9780723432371000705_f051-003-9780723432371.jpg)
 
 ------------------------------------------------------------------------
 
