@@ -1,0 +1,784 @@
+---
+title: "SHM 102: Occupational Health"
+subtitle: "Public Health History: Epidemiology"
+author: "Yoni Rodriguez"
+date: "Fall 2026"
+format:
+  html:
+    toc: true
+    toc-location: right
+    smooth-scroll: true
+    code-fold: true
+    embed-resources: true
+    lightbox: true
+  pdf:
+    toc: true
+    documentclass: scrartcl
+    geometry:
+      - margin=0.75in
+editor: visual
+---
+
+```{=html}
+<style>
+
+/* =========================================================
+   Typography
+   ========================================================= */
+
+body {
+  color: #212529;
+}
+
+
+/* =========================================================
+   Responsive Mobile Layout
+   Stack ALL Quarto columns on narrow screens
+   ========================================================= */
+
+@media (max-width: 768px) {
+
+  .columns {
+    display: block !important;
+  }
+
+  .columns > .column {
+    width: 100% !important;
+    max-width: 100% !important;
+    flex: 0 0 100% !important;
+  }
+
+  .columns > .column:empty {
+    display: none !important;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  p,
+  li,
+  figcaption {
+    overflow-wrap: anywhere;
+  }
+
+}
+
+
+/* =========================================================
+   Poll Everywhere Layout
+   Keep instructions left and QR code right
+   ========================================================= */
+
+@media (min-width: 501px) {
+
+  .poll-columns {
+    display: flex !important;
+    align-items: center !important;
+  }
+
+  .poll-columns > .column {
+    flex: initial !important;
+  }
+
+}
+
+
+/* Historical Timeline */
+.history-timeline { display: flex; overflow-x: auto; gap: 0; padding: 38px 0 20px; margin: 20px 0; }
+.history-event { flex: 1 0 115px; min-width: 115px; text-align: center; position: relative; border-top: 3px solid #8495a5; padding: 22px 7px 0; }
+.history-event::before { content: ""; position: absolute; top: -8px; left: calc(50% - 7px); width: 14px; height: 14px; border-radius: 50%; background: #8495a5; }
+.history-event.current { border-top-color: #b46c36; }
+.history-event.current::before { background: #b46c36; }
+.history-lecture { font-size: 0.78rem; font-weight: 700; color: #566b7d; }
+.history-name { font-weight: 700; font-size: 0.92rem; margin-top: 7px; }
+.history-date { font-size: 0.78rem; color: #606b74; }
+.history-current-label { position: absolute; top: -39px; left: 0; right: 0; color: #a55a22; font-weight: 800; font-size: 0.82rem; }
+@media print {
+  .history-timeline { overflow: visible; }
+  .history-event { flex: 1 1 0; min-width: 0; padding-left: 3px; padding-right: 3px; }
+  .history-name { font-size: 0.72rem; }
+  .history-date { font-size: 0.65rem; }
+}
+
+/* =========================================================
+   Featured Question Section
+   ========================================================= */
+
+.question-highlight {
+  background-color: #343a40;
+  color: #ffffff;
+  padding: 32px 38px;
+  border-radius: 12px;
+  margin: 28px 0;
+  border-left: 6px solid #f4c542;
+}
+
+.question-highlight h1,
+.question-highlight h2,
+.question-highlight h3 {
+  color: #f4c542 !important;
+}
+
+.question-highlight p,
+.question-highlight p strong {
+  color: #ffffff !important;
+}
+
+@media (max-width: 768px) {
+  .question-highlight {
+    padding: 22px 20px;
+  }
+}
+
+
+
+
+/* =========================================================
+   Smallpox Timeline
+   ========================================================= */
+
+.smallpox-timeline {
+  border-left: 3px solid #8495a5;
+  margin: 28px 0 28px 16px;
+  padding-left: 26px;
+}
+
+.smallpox-milestone {
+  position: relative;
+  margin-bottom: 23px;
+}
+
+.smallpox-milestone::before {
+  content: "";
+  position: absolute;
+  left: -35px;
+  top: 5px;
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  background: #8495a5;
+  border: 3px solid white;
+}
+
+.smallpox-century {
+  font-weight: 800;
+  color: #9a552b;
+  margin-bottom: 5px;
+}
+
+.smallpox-description {
+  color: #212529;
+  line-height: 1.55;
+}
+
+@media (max-width: 768px) {
+  .smallpox-timeline {
+    margin-left: 9px;
+    padding-left: 20px;
+  }
+
+  .smallpox-milestone::before {
+    left: -29px;
+  }
+}
+
+
+
+/* =========================================================
+   Align Historical Section Headings with Images
+   ========================================================= */
+
+.ancient-egypt-layout {
+  align-items: flex-start !important;
+}
+
+.ancient-egypt-layout .history-text-column h3:first-of-type {
+  margin-top: 0 !important;
+  margin-block-start: 0 !important;
+  padding-top: 0 !important;
+}
+
+.ancient-egypt-layout .history-text-column {
+  padding-top: 0 !important;
+}
+
+
+
+
+/* Equal-height cowpox images */
+
+img.cowpox-equal-height {
+  width: 100%;
+  height: 280px;
+  object-fit: contain;
+}
+
+
+
+</style>
+```
+
+:::::: columns
+::: {.column width="40%"}
+![Eiffel Tower in Paris, France. Photograph by Yoni Rodriguez, June 16, 2026](eiffel-tower.jpg){fig-alt="Low-angle evening photograph of the Eiffel Tower framed by trees and greenery, with sunset colors near the horizon." width="100%"}
+
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="56%"}
+## SHM 102: Occupational Health
+
+### Public Health History: Epidemiology
+
+**Lecture 05 · Fall 2026**
+
+Yoni Rodriguez\
+Engineering Technologies, Safety, and Construction\
+Central Washington University\
+[Yoni.Rodriguez@cwu.edu](mailto:Yoni.Rodriguez@cwu.edu)
+:::
+::::::
+
+
+------------------------------------------------------------------------
+
+# Where Are We in Time?
+
+Our lectures have moved across thousands of years of human history.
+
+We have examined how human societies changed, how infectious diseases spread, and how people developed methods of prevention before understanding the microorganisms responsible for disease.
+
+**Where have we been, and where are we today?**
+
+```{=html}
+<div class="history-timeline">
+
+  <div class="history-event">
+    <div class="history-lecture">Lecture 02</div>
+    <div class="history-name">Paleolithic Era</div>
+    <div class="history-date">Prehistory · Before ~10,000 BCE</div>
+  </div>
+
+  <div class="history-event">
+    <div class="history-lecture">Lecture 02</div>
+    <div class="history-name">Agricultural Revolution</div>
+    <div class="history-date">Neolithic · ~10,000 BCE</div>
+  </div>
+
+  <div class="history-event">
+    <div class="history-lecture">Lecture 03</div>
+    <div class="history-name">Black Death</div>
+    <div class="history-date">14th Century · 1347–1351</div>
+  </div>
+
+  <div class="history-event">
+    <div class="history-lecture">Lecture 03</div>
+    <div class="history-name">Microscopy</div>
+    <div class="history-date">17th Century · 1676</div>
+  </div>
+
+  <div class="history-event">
+    <div class="history-lecture">Lecture 04</div>
+    <div class="history-name">Variolation & Vaccination</div>
+    <div class="history-date">18th–19th Century · 1700s–1800s</div>
+  </div>
+
+  <div class="history-event current">
+    <div class="history-current-label">↓ WE ARE HERE</div>
+    <div class="history-lecture">Lecture 05</div>
+    <div class="history-name">Paris Cholera Epidemic</div>
+    <div class="history-date">19th Century · 1832</div>
+  </div>
+
+  <div class="history-event current">
+    <div class="history-current-label">↓ WE ARE HERE</div>
+    <div class="history-lecture">Lecture 05</div>
+    <div class="history-name">John Snow & Epidemiology</div>
+    <div class="history-date">19th Century · 1854</div>
+  </div>
+
+  <div class="history-event">
+    <div class="history-lecture">Lecture 01</div>
+    <div class="history-name">Modern Occupational Health</div>
+    <div class="history-date">21st Century · 2020–2026</div>
+  </div>
+
+</div>
+```
+
+::: {.callout-note title="Today's Historical Focus"}
+We are moving into the **nineteenth century**, when cholera epidemics challenged prevailing explanations for infectious disease.
+
+Our investigation begins in **Paris, France (1832)** and continues in **London, England (1854)**.
+
+**Can we identify an exposure pathway without seeing the hazard?**
+:::
+
+------------------------------------------------------------------------
+
+
+# Paris, France — 1832: A City Confronts Cholera
+
+In the early nineteenth century, Paris was experiencing rapid population growth and significant social and political changes.
+
+Many people had moved into the city in search of employment. Crowded neighborhoods, poverty, and concerns about sanitation were becoming increasingly visible.
+
+France had also experienced the July Revolution of 1830, leaving the capital politically divided.
+
+When cholera arrived in Paris in **1832**, the disease struck a city already struggling with these conditions.
+
+## A Disease Without a Clear Explanation
+
+Cholera caused severe illness and death, but physicians did not yet understand its microbial cause or how it spread.
+
+Medical professionals and public officials struggled to explain the outbreak.
+
+Some believed that unhealthy environments and foul air were responsible for disease. Others associated illness with poverty, personal behavior, or the conditions of urban life.
+
+As deaths increased, rumors circulated that people were deliberately poisoning the population. Distrust of public authorities and existing political tensions made the public health crisis even more difficult to manage.
+
+The epidemic demonstrated that understanding disease involved more than observing symptoms. Investigators also had to consider the environments in which people lived and the explanations being offered for their illnesses.
+
+These historical responses are discussed in [Catherine J. Kudlick, *Learning from Cholera: Medical and Social Responses to the First Great Paris Epidemic in 1832* (1999)](https://doi.org/10.1016/S1286-4579(99)80518-0) and [Maurice Samuels, *Conspiracy Theories, Class Tension, Political Intrigue* (*TIME*, 2020)](https://time.com/5837393/paris-cholera-lessons/).
+
+------------------------------------------------------------------------
+
+# Poll Everywhere: Investigating Cholera in 1832
+
+Imagine that you are living in **Paris in 1832**.
+
+People throughout the city are becoming seriously ill. Some neighborhoods appear to be suffering more than others.
+
+You do not have modern laboratory equipment, molecular testing, or a confirmed explanation for what causes cholera.
+
+However, you have the ability to observe, interview people, collect information, and compare what is happening across the city.
+
+### What would you do?
+
+**If you were responsible for investigating this cholera outbreak, what information would you collect to determine why people were becoming ill?**
+
+Consider what you could observe about the people affected, where they lived, and the conditions surrounding their illness.
+
+::: {.callout-note}
+## Class Discussion
+
+What kinds of evidence would help us distinguish between competing explanations for the outbreak?
+
+How could we determine whether a particular environmental condition or shared activity was associated with illness?
+:::
+
+![Scan to participate in Poll Everywhere.](poll-everywhere-response.jpg){width="28%" fig-align="center"}
+
+------------------------------------------------------------------------
+
+# London, England — 1854: Another Cholera Outbreak
+
+Twenty-two years after the Paris epidemic, cholera remained a serious public health problem.
+
+In **1854**, another outbreak developed in the Soho district of London.
+
+People were becoming ill, and many were dying. Physicians continued to disagree about how cholera spread.
+
+One explanation attributed the disease to contaminated air or unhealthy environmental conditions.
+
+However, a London physician named **John Snow (1813–1858)** suspected that another explanation might account for the pattern of illness.
+
+Rather than relying only on prevailing medical explanations, Snow investigated where cases occurred and how affected individuals might have encountered a common source of exposure.
+
+His investigation would become an important example of how scientists could study the distribution of disease within a population.
+
+### Our central question
+
+**Can we identify an exposure pathway without seeing the hazard?**
+
+To answer this question, we will examine the evidence from London's cholera outbreak and consider how the observations could support or challenge different explanations.
+
+------------------------------------------------------------------------
+
+
+# Patterns Before Explanations
+
+An investigator can begin by asking:
+
+- **Person:** Who is becoming ill?
+- **Place:** Where are cases occurring?
+- **Time:** When are new cases appearing?
+
+These observations do not, by themselves, identify a cause. They can reveal patterns worth investigating.
+
+### What would a cluster of cases tell us—and what would it not tell us?
+
+------------------------------------------------------------------------
+
+# John Snow and the Cholera Outbreak
+
+## John Snow (1813–1858)
+
+John Snow was a London physician who systematically investigated the 1854 cholera outbreak.
+
+He considered whether the **geographic distribution of illness** could help identify its source.
+
+He visited addresses associated with cholera cases and plotted their locations on a map.
+
+*Image placeholder: John Snow portrait. Add an image and linked caption source after selecting the source.*
+
+------------------------------------------------------------------------
+
+# Turning Addresses Into Evidence
+
+## Mapping Cholera
+
+Snow's map showed where cholera deaths were concentrated.
+
+Rather than treating the map as an illustration of a conclusion, study it as **evidence to interpret**.
+
+*Image placeholder: Snow's cholera map (Figure 28.23 in the supplied textbook). Add an appropriately credited map after sourcing it.*
+
+### What patterns would you look for?
+
+- Are cases distributed evenly?
+- Do some streets have more cases than others?
+- What shared environmental features might matter?
+
+------------------------------------------------------------------------
+
+## Poll Everywhere
+
+### What Does the Map Suggest?
+
+Look at the pattern of deaths. What **possible exposure source** would you investigate next?
+
+Explain what evidence you would still need before reaching a conclusion.
+
+*Instructor: display the course Poll Everywhere question and QR code here.*
+
+------------------------------------------------------------------------
+
+# The Broad Street Pump
+
+Water in the neighborhood came from wells serving different areas.
+
+Snow found a close association between cholera deaths and a well on **Broad Street**.
+
+This suggested a possible **common source** of exposure.
+
+But an important scientific question remains:
+
+### Does a geographic association, by itself, establish causation?
+
+No. It identifies a hypothesis to investigate further.
+
+------------------------------------------------------------------------
+
+# From a Cluster to an Exposure Pathway
+
+Consider the suspected pathway:
+
+**Water source → drinking water → person → illness**
+
+The suspected exposure involved water obtained from a shared location.
+
+We can now distinguish between:
+
+- **A pattern:** cases concentrated near a location.
+- **A hypothesis:** a shared water source may explain that pattern.
+- **An intervention:** limiting access to the suspected source.
+
+These are related, but they are not the same thing.
+
+------------------------------------------------------------------------
+
+# The Pump Handle
+
+The Broad Street pump handle was removed during the outbreak.
+
+The episode became an important historical example of investigating a possible environmental source of disease.
+
+**Interpret the outcome carefully:** removing the handle does not, on its own, prove that the action immediately ended the outbreak.
+
+The broader lesson is the value of linking **observations, an exposure hypothesis, and preventive action**.
+
+------------------------------------------------------------------------
+
+# A New Way to Investigate Disease
+
+## Epidemiology
+
+**Epidemiology** studies the distribution of disease and the factors that influence its occurrence in populations.
+
+In simpler terms, epidemiologists investigate:
+
+- Who becomes ill?
+- Where and when does illness occur?
+- What factors might explain differences between groups?
+- How can this knowledge help prevent further illness?
+
+Snow's work became an influential example of this approach.
+
+------------------------------------------------------------------------
+
+# One Source or Continuing Transmission?
+
+## Common-Source and Propagated Outbreaks
+
+A **common-source outbreak** occurs when cases arise from a shared source, such as contaminated water.
+
+A **propagated outbreak** involves transmission that continues through people or other transmission pathways, such as vectors.
+
+### Which pattern better fits the Broad Street investigation?
+
+Why does the answer matter for selecting an intervention?
+
+------------------------------------------------------------------------
+
+# How Widespread Is the Disease?
+
+## Endemic, Epidemic, and Pandemic
+
+**Endemic:** A disease is consistently present in a particular population or area at an expected level.
+
+**Epidemic:** Cases increase above what is normally expected in a population or area.
+
+**Pandemic:** An epidemic extends across a very large geographic area, often multiple countries or continents.
+
+These terms describe **patterns of occurrence and geographic spread**, not simply how severe an illness is.
+
+------------------------------------------------------------------------
+
+## Poll Everywhere
+
+### Classify the Pattern
+
+A disease is usually present at a relatively stable level in a region. Then the number of cases rises sharply above the expected level.
+
+What term best describes that increase?
+
+**Endemic, epidemic, or pandemic?** Explain your choice.
+
+*Instructor: display the course Poll Everywhere question and QR code here.*
+
+------------------------------------------------------------------------
+
+# How Do We Measure Disease?
+
+## Incidence
+
+**Incidence** describes **new cases** occurring in a specified population during a defined period.
+
+Example: A workplace records 10 new cases of an illness during one month.
+
+The number is informative, but comparisons become more meaningful when we also know the **population at risk** and the **time period**.
+
+### What does incidence help us detect?
+
+Changes in how frequently new illness occurs.
+
+------------------------------------------------------------------------
+
+# How Much Disease Is Present?
+
+## Prevalence
+
+**Prevalence** describes **existing cases** in a population at a specified time or over a specified period.
+
+It includes people whose illness began earlier and who still have the condition.
+
+**Incidence:** new cases.
+
+**Prevalence:** existing cases.
+
+### Why might a long-lasting illness have a substantial prevalence even if relatively few new cases appear?
+
+------------------------------------------------------------------------
+
+# Compare Two Workplaces
+
+Two departments have the same number of recorded illnesses, but one department employs many more workers.
+
+Would you conclude that the risk is identical?
+
+**Not necessarily.** We need a denominator: how many workers were at risk in each department?
+
+This is why population-based measures matter when interpreting patterns of disease.
+
+------------------------------------------------------------------------
+
+# How Are New Outbreaks Recognized?
+
+## Disease Surveillance
+
+Public health agencies collect reports of certain **notifiable diseases** so that patterns can be monitored and unusual increases investigated.
+
+Surveillance can also identify **clusters of unusual symptoms** before the exact cause is known.
+
+This extends the same basic investigative idea:
+
+**Observe → collect information → recognize a pattern → investigate**
+
+------------------------------------------------------------------------
+
+# From Reporting to Investigation
+
+A possible outbreak may be detected when:
+
+1.  Healthcare professionals recognize cases or unusual symptoms.
+2.  Information is reported to public health authorities.
+3.  Cases are compared across locations and time.
+4.  An unexpected cluster or increase prompts investigation.
+
+A **case count** is useful; the **pattern over time** is often even more informative.
+
+------------------------------------------------------------------------
+
+# Identifying the First Cases
+
+## Index Case and Contact Tracing
+
+An **index case** is the first case identified or reported to investigators in a particular investigation. It is **not necessarily the first person infected**.
+
+**Contact tracing** involves identifying and following up with people who may have encountered an infected person.
+
+These approaches help investigators reconstruct possible chains of transmission and identify opportunities for intervention.
+
+------------------------------------------------------------------------
+
+# What Has Changed Since Snow?
+
+## Molecular Approaches to Surveillance
+
+Modern investigators may use **PCR**, other nucleic-acid methods, and **genomic sequencing** to detect pathogens and compare microbial isolates.
+
+The supplied textbook describes molecular approaches used to investigate outbreaks associated with *Salmonella*, including outbreaks linked to eggs and raw onions.
+
+These tools can strengthen an investigation by adding biological evidence to patterns of illness and exposure.
+
+### The technology changed. The questions remain familiar.
+
+------------------------------------------------------------------------
+
+# A Workplace Case: Anthrax in the Mail
+
+In 2001, anthrax cases occurred among people exposed through the U.S. mail system.
+
+The textbook describes a postal worker who developed inhalational anthrax after working in mail sorting.
+
+This case illustrates why occupational-health investigations must ask not only **what disease occurred**, but also:
+
+### What task created the opportunity for exposure?
+
+------------------------------------------------------------------------
+
+# Investigating the Work Itself
+
+Consider a postal facility during an unusual cluster of illness.
+
+- Who became ill?
+- What jobs did affected workers perform?
+- What materials did they handle?
+- Where and when could exposure have occurred?
+- Which other workers may have encountered the same source?
+
+The occupational setting becomes an essential part of the investigation.
+
+------------------------------------------------------------------------
+
+# From Public Health to Occupational Health
+
+Epidemiological reasoning applies to infectious disease **and** other health hazards.
+
+Imagine workers developing an illness in one department of a facility.
+
+We could investigate:
+
+**Person → Place → Time → Task → Exposure → Health outcome**
+
+Comparing workers' tasks and exposure opportunities may help identify where additional investigation or preventive action is needed.
+
+------------------------------------------------------------------------
+
+## Poll Everywhere
+
+### You Are the Occupational Health Investigator
+
+Workers in one department report more respiratory symptoms than workers in another department.
+
+**What information would you collect before proposing an explanation?**
+
+How would you compare the groups fairly?
+
+*Instructor: display the course Poll Everywhere question and QR code here.*
+
+------------------------------------------------------------------------
+
+# Key Takeaways
+
+- John Snow investigated cholera by examining the **geographic distribution of cases** and a suspected shared water source.
+- Epidemiology studies **patterns and determinants of disease in populations**.
+- **Endemic, epidemic, and pandemic** describe different patterns of disease occurrence and spread.
+- **Incidence** concerns new cases; **prevalence** concerns existing cases.
+- **Surveillance** helps detect unusual changes that warrant investigation.
+- In occupational health, **job tasks and exposure opportunities** are essential to understanding differences in illness.
+
+### We may recognize an exposure pattern before we can fully explain its cause.
+
+------------------------------------------------------------------------
+
+# Key Terms and Definitions
+
+| Term | Definition |
+|------------------------------------|------------------------------------|
+| **Epidemiology** | Study of the distribution and determinants of disease in populations. |
+| **Common-source outbreak** | Outbreak in which cases share an exposure source. |
+| **Propagated outbreak** | Outbreak involving continuing transmission through people or other pathways. |
+| **Endemic** | Consistent presence of a disease at an expected level in a population or area. |
+| **Epidemic** | Occurrence of more cases than expected in a population or area. |
+| **Pandemic** | Epidemic spreading over a very wide geographic area. |
+| **Incidence** | Occurrence of new cases in a specified population over a defined period. |
+| **Prevalence** | Existing cases in a population at a specified time or during a period. |
+| **Disease surveillance** | Ongoing collection and examination of health information to identify patterns and guide response. |
+| **Notifiable disease** | Disease for which reporting to public health authorities is required. |
+| **Index case** | First case identified by investigators in a particular investigation. |
+| **Contact tracing** | Identifying and following up with people who may have been exposed to an infected person. |
+| **PCR** | Polymerase chain reaction; a technique for amplifying targeted nucleic-acid sequences. |
+
+------------------------------------------------------------------------
+
+# Copy-and-Paste Flashcards
+
+Copy the semicolon-separated terms below into your preferred flashcard workflow.
+
+``` text
+Epidemiology;Study of the distribution and determinants of disease in populations.
+Common-source outbreak;Outbreak in which cases share an exposure source.
+Propagated outbreak;Outbreak involving continuing transmission through people or other pathways.
+Endemic;Consistent presence of a disease at an expected level in a population or area.
+Epidemic;Occurrence of more cases than expected in a population or area.
+Pandemic;Epidemic spreading over a very wide geographic area.
+Incidence;Occurrence of new cases in a specified population over a defined period.
+Prevalence;Existing cases in a population at a specified time or during a period.
+Disease surveillance;Ongoing collection and examination of health information to identify patterns and guide response.
+Notifiable disease;Disease for which reporting to public health authorities is required.
+Index case;First case identified by investigators in a particular investigation.
+Contact tracing;Identifying and following up with people who may have been exposed to an infected person.
+PCR;Polymerase chain reaction; a technique for amplifying targeted nucleic-acid sequences.
+```
+
+------------------------------------------------------------------------
+
+# Source Used to Develop This Lecture
+
+Slonczewski, J., Foster, J., & Zinser, E. *Microbiology: An Evolving Science* (6th ed.), Section 28.4, **Epidemiology**, and the accompanying supplied pages on disease surveillance and bioterrorism.
+
+*Additional historical, image, and scientific sources can be added after independent review.*
+
+------------------------------------------------------------------------
+
+# Copyright and Educational Use
+
+**© 2026 Yoni Rodriguez. Central Washington University — SHM 102: Occupational Health.**
+
+Original lecture text and instructional organization are prepared for educational use. Third-party images and other materials remain the property of their respective copyright holders and should be credited when added.

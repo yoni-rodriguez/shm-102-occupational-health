@@ -103,6 +103,8 @@ The assessment structure is intentionally focused on understanding foundational 
 
 ### Midterm: Foundations
 
+The Fall 2026 midterm was scheduled for Thursday, October 22, during the regular 50-minute class period. It assesses conceptual understanding and application of material covered through the examination. Restricted exam questions and answer keys are not published in this repository.
+
 The midterm is worth **100 points** and accounts for **25% of the total course grade**.
 
 The midterm assesses foundational concepts and the ability to use them when reasoning through occupational health problems.
@@ -136,18 +138,19 @@ Engagement may include:
 - Individual or small group activities
 - Research exercises
 - Peer review
-- Audience participation during final project presentations
 - Other course application activities
 
 Engagement emphasizes meaningful participation rather than physical presence alone.
 
 ### Final Project
 
+The detailed public-facing guidelines and grading criteria are maintained in `final-project/`. The research presentation is worth 100 points, and the 10 audience feedback evaluations are worth 10 points each (100 points total).
+
 The final project is worth **200 points** and accounts for **50% of the total course grade**.
 
 The final project serves as the primary application based assessment in SHM 102.
 
-Each student will individually investigate a real occupational or environmental health problem and apply the recurring course framework:
+Students will investigate a real occupational or environmental health problem individually or in pairs and apply the recurring course framework:
 
 ```text
 What's happening?
@@ -173,7 +176,22 @@ How would you know whether the intervention worked?
 
 Students will integrate credible evidence, occupational health concepts, exposure reasoning, prevention strategies, and professional communication into their analysis.
 
-Project work will develop throughout the quarter. Final projects will be presented individually during the final week of instruction, November 30 through December 3.
+Project work will develop throughout the quarter. Individual students and pairs will present their projects November 30 through December 3. Each project has a 15-minute presentation slot, including questions and discussion. The 200 points are divided into a research presentation (100 points) and in-class audience feedback (100 points). Students evaluate the other 10 projects using printed forms submitted at the end of each presentation day; credit requires attendance, subject to applicable university policies.
+
+---
+
+## Lecture Development and Historical Case Sequence
+
+The Fall 2026 lectures use a question-driven, case-based progression. Students begin with a contemporary occupational exposure problem and then examine historical cases to understand how observation, scientific investigation, and prevention practices developed. Quarto lectures incorporate scientific sources, images, questions, and Poll Everywhere activities.
+
+| Lecture | Focus | Central connection |
+|---|---|---|
+| 01: Introduction to Occupational Health | Paraquat, pesticide drift, exposure, and the hierarchy of controls | Recognizing workers, tasks, hazards, exposure pathways, and prevention opportunities |
+| 02: History of Public Health | The arrival of plague in Sicily, quarantine, trade, and One Health | How connected environments and populations influence disease and preventive action |
+| 03: The Plague | The Black Death, germ theory, *Yersinia pestis*, and investigation of transmission | How hypotheses, observations, and evidence identify agents, reservoirs, vectors, and routes |
+| 04: Smallpox, Variolation, and Vaccination | Historical prevention practices, Jenner, immunity, and vaccination | How interventions evolve through observation, experimentation, and evaluation |
+
+This table describes the four supplied lecture sources rather than a fixed or exhaustive quarter-long schedule. Additional lectures and topics will be added as developed.
 
 ---
 
@@ -225,7 +243,7 @@ Research and evidence evaluation are integrated into SHM 102.
 
 Students will participate in a CWU Libraries session on September 28 to explore library resources, OneSearch strategies, and ScienceDirect resources relevant to occupational health.
 
-The research strategies introduced during this session will support case studies and the individual Final Project throughout the quarter.
+The research strategies introduced during this session will support case studies and the Final Project throughout the quarter.
 
 ---
 
@@ -257,7 +275,7 @@ Students may access course materials without needing to follow the Professor on 
 
 The repository provides another way to access course lectures, resources, assignment instructions, and other publicly available materials during the quarter.
 
-The repository will remain publicly accessible after the Fall 2026 quarter so that students may continue to return to SHM 102 materials as they progress through the Safety and Health Management program, other coursework, internships, and their professional careers.
+The repository will remain publicly accessible after the Fall 2026 quarter so that students may continue to return to SHM 102 materials as they progress through their academic careers, other coursework, internships, and their professional careers.
 
 Public access also allows these materials to serve as an educational resource and example for students, professors, and academic programs outside Central Washington University, subject to the copyright and licensing terms described below.
 
@@ -272,11 +290,10 @@ shm-102-occupational-health/
 │
 ├── README.md
 ├── LICENSE.md
-├── course-blueprint.qmd
+├── course-resources/
+│   └── shm-102-course-blueprint.qmd
 │
 ├── syllabus/
-│
-├── course-resources/
 │
 ├── lectures/
 │   ├── week-01/
@@ -300,12 +317,12 @@ shm-102-occupational-health/
 
 - **`README.md`**: Overview of SHM 102 and the public course repository
 - **`LICENSE.md`**: Copyright, licensing, attribution, and reuse terms
-- **`course-blueprint.qmd`**: Course purpose, teaching philosophy, organizing framework, course architecture, assessment structure, and instructional planning
+- **`course-resources/shm-102-course-blueprint.qmd`**: Course purpose, teaching philosophy, organizing framework, course architecture, assessment structure, and instructional planning
 - **`syllabus/`**: Current and archived course syllabi
-- **`course-resources/`**: Student facing course orientation and supporting materials
+- **`course-resources/`**: Course blueprint, student facing orientation, and supporting materials
 - **`lectures/`**: Quarto lecture materials organized by instructional week
 - **`assessments/`**: Publicly distributable engagement activities and assessment instructions
-- **`final-project/`**: Student facing final project instructions, rubrics, and supporting materials appropriate for public distribution
+- **`final-project/`**: Student facing final project guidelines, presentation rubric, audience feedback rubric, and supporting materials appropriate for public distribution
 - **`vocabulary/`**: Course vocabulary and study resources for foundational occupational health concepts
 - **`resources/`**: Additional course resources and reference materials
 - **`images/`**: Images and visual assets used throughout the course
