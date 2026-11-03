@@ -613,23 +613,13 @@ Please scan the QR code to submit your responses using **Poll Everywhere**. We w
 
 What does Joel Eisiminger’s experience reveal about the difficulty of identifying and addressing a possible occupational cancer?
 
-**2. Hazard Recognition**
 
-Why is a bandanna inadequate protection against the hazardous components of wildfire smoke, and what does it fail to filter?
-
-**3. Exposure Assessment**
+**2. Exposure Assessment**
 
 What measurements and work-history information would help characterize exposures across many fire seasons and distinguish short-term effects from possible long-term disease?
 
-**4. Respiratory Protection**
 
-The NYT reports that respiratory protection recommendations faced resistance for decades. What barriers did the agency identify, and how could occupational health professionals evaluate those concerns?
-
-**5. Organizational Responsibility and Equity**
-
-Joel Eisiminger was a contract firefighter. Why might federal and contract firefighters face different challenges obtaining workers’ compensation for a suspected occupational cancer?
-
-**6. Occupational Disease Prevention**
+**3. Occupational Disease Prevention**
 
 If you were advising a wildland fire agency, what exposure measurements, respiratory protection evaluations, and long-term health surveillance would you prioritize?
 :::
