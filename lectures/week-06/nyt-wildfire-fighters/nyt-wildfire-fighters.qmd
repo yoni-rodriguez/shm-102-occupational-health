@@ -1,0 +1,664 @@
+---
+title: "SHM 102: Occupational Health"
+subtitle: "Feature Lecture: Wildland Firefighters, Smoke Exposure, and Cancer"
+author: "Yoni Rodriguez"
+date: "Fall 2026"
+format:
+  html:
+    toc: true
+    toc-location: right
+    smooth-scroll: true
+    code-fold: true
+    embed-resources: true
+    lightbox: true
+  pdf:
+    toc: true
+    documentclass: scrartcl
+    geometry:
+      - margin=0.75in
+editor: visual
+---
+
+
+```{=html}
+<style>
+
+/* =========================================================
+   Typography
+   ========================================================= */
+
+body {
+  color: #212529;
+}
+
+
+/* =========================================================
+   Responsive Mobile Layout
+   Stack ALL Quarto columns on narrow screens
+   ========================================================= */
+
+@media (max-width: 768px) {
+
+  .columns {
+    display: block !important;
+  }
+
+  .columns > .column {
+    width: 100% !important;
+    max-width: 100% !important;
+    flex: 0 0 100% !important;
+  }
+
+  .columns > .column:empty {
+    display: none !important;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  p,
+  li,
+  figcaption {
+    overflow-wrap: anywhere;
+  }
+
+}
+
+
+/* =========================================================
+   Poll Everywhere Layout
+   Keep questions left and QR code right
+   ========================================================= */
+
+@media (min-width: 769px) {
+
+  .poll-columns {
+    display: flex !important;
+    align-items: flex-start !important;
+    gap: 24px;
+  }
+
+  .poll-columns > .column {
+    flex: initial !important;
+  }
+
+}
+
+
+/* =========================================================
+   Historical Timeline
+   ========================================================= */
+
+.history-timeline {
+  display: flex;
+  overflow-x: auto;
+  gap: 0;
+  padding: 38px 0 20px;
+  margin: 20px 0;
+}
+
+.history-event {
+  flex: 1 0 115px;
+  min-width: 115px;
+  text-align: center;
+  position: relative;
+  border-top: 3px solid #8495a5;
+  padding: 22px 7px 0;
+}
+
+.history-event::before {
+  content: "";
+  position: absolute;
+  top: -8px;
+  left: calc(50% - 7px);
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #8495a5;
+}
+
+.history-event.current {
+  border-top-color: #b46c36;
+}
+
+.history-event.current::before {
+  background: #b46c36;
+}
+
+.history-lecture {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: #566b7d;
+}
+
+.history-name {
+  font-weight: 700;
+  font-size: 0.92rem;
+  margin-top: 7px;
+}
+
+.history-date {
+  font-size: 0.78rem;
+  color: #606b74;
+}
+
+.history-current-label {
+  position: absolute;
+  top: -39px;
+  left: 0;
+  right: 0;
+  color: #a55a22;
+  font-weight: 800;
+  font-size: 0.82rem;
+}
+
+@media print {
+
+  .history-timeline {
+    overflow: visible;
+  }
+
+  .history-event {
+    flex: 1 1 0;
+    min-width: 0;
+    padding-left: 3px;
+    padding-right: 3px;
+  }
+
+  .history-name {
+    font-size: 0.72rem;
+  }
+
+  .history-date {
+    font-size: 0.65rem;
+  }
+
+}
+
+
+/* =========================================================
+   Feature Lecture: Central Question
+   Slate Grey and Academic Blue
+   ========================================================= */
+
+.question-highlight {
+  background-color: #303d4b;
+  color: #ffffff;
+  padding: 32px 38px;
+  border-radius: 12px;
+  margin: 28px 0;
+  border-left: 6px solid #7db7e8;
+}
+
+.question-highlight h1,
+.question-highlight h2,
+.question-highlight h3 {
+  color: #7db7e8 !important;
+  font-size: 1.65rem;
+  font-weight: 800;
+  margin-top: 0;
+  margin-bottom: 18px;
+}
+
+.question-highlight p,
+.question-highlight p strong {
+  color: #ffffff !important;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.6;
+  margin-bottom: 0;
+}
+
+@media (max-width: 768px) {
+
+  .question-highlight {
+    padding: 22px 20px;
+  }
+
+  .question-highlight p,
+  .question-highlight p strong {
+    font-size: 1.2rem;
+  }
+
+}
+
+
+/* =========================================================
+   Smallpox Timeline
+   ========================================================= */
+
+.smallpox-timeline {
+  border-left: 3px solid #8495a5;
+  margin: 28px 0 28px 16px;
+  padding-left: 26px;
+}
+
+.smallpox-milestone {
+  position: relative;
+  margin-bottom: 23px;
+}
+
+.smallpox-milestone::before {
+  content: "";
+  position: absolute;
+  left: -35px;
+  top: 5px;
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  background: #8495a5;
+  border: 3px solid white;
+}
+
+.smallpox-century {
+  font-weight: 800;
+  color: #9a552b;
+  margin-bottom: 5px;
+}
+
+.smallpox-description {
+  color: #212529;
+  line-height: 1.55;
+}
+
+@media (max-width: 768px) {
+
+  .smallpox-timeline {
+    margin-left: 9px;
+    padding-left: 20px;
+  }
+
+  .smallpox-milestone::before {
+    left: -29px;
+  }
+
+}
+
+
+/* =========================================================
+   Align Historical Section Headings with Images
+   ========================================================= */
+
+.ancient-egypt-layout {
+  align-items: flex-start !important;
+}
+
+.ancient-egypt-layout .history-text-column h3:first-of-type {
+  margin-top: 0 !important;
+  margin-block-start: 0 !important;
+  padding-top: 0 !important;
+}
+
+.ancient-egypt-layout .history-text-column {
+  padding-top: 0 !important;
+}
+
+
+/* Equal-height cowpox images */
+
+img.cowpox-equal-height {
+  width: 100%;
+  height: 280px;
+  object-fit: contain;
+}
+
+
+/* =========================================================
+   Feature Lecture: Red Content Warning Callout
+   ========================================================= */
+
+.callout.callout-warning {
+  border-color: #b42318 !important;
+  border-left: 5px solid #b42318 !important;
+}
+
+.callout.callout-warning > .callout-header {
+  background-color: #fce8e6 !important;
+  color: #8f2118 !important;
+}
+
+.callout.callout-warning .callout-title {
+  color: #8f2118 !important;
+}
+
+.callout.callout-warning .callout-icon::before {
+  color: #b42318 !important;
+}
+
+
+/* =========================================================
+   Feature Lecture: Embedded Video
+   ========================================================= */
+
+.lecture-video {
+  max-width: 900px;
+  margin: 24px auto;
+}
+
+.lecture-video video {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  background-color: #000000;
+}
+
+.video-caption {
+  font-size: 0.85rem;
+  color: #606b74;
+  margin-top: 8px;
+  line-height: 1.5;
+}
+
+
+/* =========================================================
+   Poll Everywhere QR Image
+   ========================================================= */
+
+.poll-qr img {
+  width: 100%;
+  max-width: 260px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.poll-qr {
+  text-align: center;
+}
+
+</style>
+```
+
+
+:::::: columns
+::: {.column width="40%"}
+![Joel Eisiminger in Lakeview, Oregon, September 2020. [Source: The New York Times](https://www.nytimes.com/2025/09/07/us/wildfire-firefighter-cancer.html).](nyt-joel-eisminger-lakeview-oregon-september-2020.jpg){fig-alt="Joel Eisiminger in Lakeview, Oregon, in September 2020" width="100%"}
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="56%"}
+## SHM 102: Occupational Health
+
+### Feature Lecture: New York Times: Wildland Firefighters, Smoke Exposure, and Cancer
+
+**Feature Lecture · Fall 2026**
+
+Yoni Rodriguez\
+Engineering Technologies, Safety, and Construction\
+Central Washington University\
+[Yoni.Rodriguez\@cwu.edu](mailto:Yoni.Rodriguez@cwu.edu)
+:::
+::::::
+
+------------------------------------------------------------------------
+
+::: {.callout-warning appearance="default" icon="true"}
+## Content Advisory: Cancer, Occupational Illness, and Firefighter Health
+
+This feature lecture discusses wildfire smoke exposure, cancer, occupational disease, and the health consequences of firefighting. The reporting may include personal experiences of firefighters and their families affected by serious illness.
+
+Our discussion will focus on occupational exposures, risk assessment, worker protection, and prevention rather than graphic medical details.
+
+**Alternative Participation: Background Reading**
+
+Students who would prefer not to listen to the podcast or participate in the classroom discussion may review these articles independently:
+
+1.  [*The New York Times*: Wildfire Firefighters, Masks, and Smoke (August 17, 2025)](https://www.nytimes.com/2025/08/17/us/wildfire-firefighters-masks-smoke.html)
+2.  [*The New York Times*: Wildfire Firefighters and Cancer (September 7, 2025)](https://www.nytimes.com/2025/09/07/us/wildfire-firefighter-cancer.html)
+
+**Please be aware that the readings also discuss occupational illness and cancer.** Students may step out during the podcast or discussion if needed. Please speak with Professor Rodriguez to arrange an alternative way to demonstrate your understanding.
+:::
+
+## Featured YouTube Video: Wildland Firefighter Reporting
+
+```{=html}
+<div style="max-width: 900px; margin: 24px auto;">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 10px;">
+    <iframe
+      src="https://www.youtube.com/embed/k0dSvGY6dqo"
+      title="Wildland Firefighters: Featured Video"
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
+```
+
+[Watch the video directly on YouTube](https://youtu.be/k0dSvGY6dqo)
+
+## Additional Listening Source: The New York Times Podcast
+
+**The Daily: Wildfires, Firefighters, and Cancer (October 28, 2025)**
+
+[Listen to the podcast episode on The New York Times](https://www.nytimes.com/2025/10/28/podcasts/the-daily/wildfires-firefighters-cancer.html)
+
+*The podcast player is hosted by The New York Times. Use the link above to open the episode and listen; access may depend on the publisher's availability and subscription requirements.*
+
+## [The New York Times: Hazardous Fumes and Wildland Firefighters](https://www.nytimes.com/2025/08/17/us/wildfire-firefighters-masks-smoke.html)
+
+```{=html}
+<div class="lecture-video">
+  <video controls preload="metadata">
+    <source src="nyt-hazardous-fumes.mp4" type="video/mp4">
+    Your browser does not support embedded video playback.
+  </video>
+  <div class="video-caption">
+    <strong>Video:</strong> Hazardous fumes and wildland firefighter smoke exposure.<br>
+    <strong>Source:</strong> <a href="https://www.nytimes.com/2025/08/17/us/wildfire-firefighters-masks-smoke.html">The New York Times, <em>Wildfire Fighters, Unmasked in Toxic Smoke, Are Getting Sick and Dying</em></a>.
+  </div>
+</div>
+```
+
+# Introduction: Occupational Health in Wildland Firefighting
+
+Wildland firefighters perform physically demanding work in changing environments, often close to active flames, heavy smoke, steep terrain, and extreme heat.
+
+Some hazards are immediate, such as burns, falling trees, entrapment, and heat illness. Other potential health consequences develop over longer periods and can be difficult to connect to any single incident.
+
+This lecture examines **repeated smoke exposure and concerns about long-term cancer risk** as an occupational health problem. We will distinguish evidence of exposure from evidence of disease and consider what prevention can look like when exposure cannot be eliminated entirely.
+
+
+::: {.question-highlight}
+
+## Central Question
+
+How should employers protect wildland firefighters from repeated smoke exposures when the potential health consequences may take years to become apparent?
+
+:::
+
+
+# [The Occupational Hazard: Wildfire Smoke](https://www.nytimes.com/2025/08/17/us/wildfire-firefighters-masks-smoke.html)
+
+Wildfire smoke is a complex and changing mixture of gases and airborne particles. Its composition depends on the fuel, combustion conditions, weather, and other materials burning in the fire area.
+
+Potential exposure concerns include:
+
+- **Particulate matter:** Fine particles that can be inhaled into the respiratory tract.
+- **Carbon monoxide:** A combustion gas that can interfere with oxygen delivery in the body.
+- **Volatile organic compounds:** A broad group of chemicals, some of which may be hazardous.
+- **Other combustion byproducts:** Their identities and concentrations vary with the materials burned.
+
+A visible smoke plume does not provide a reliable quantitative measure of an individual worker's exposure. Exposure can change with fire behavior, wind, task, proximity, and duration.
+
+## Exposure Pathways and Work Activities
+
+For smoke constituents, **inhalation** is a major route of occupational exposure. Skin contact with contaminated materials and surfaces may also matter for certain substances.
+
+Consider how exposure may differ among firefighters engaged in line construction, mop-up, equipment operation, and other assignments.
+
+**While listening, consider:**
+
+- What makes smoke exposure difficult to avoid during wildfire response?
+- Why might exposures accumulate across many shifts and fire seasons?
+- How could workers be exposed even when the smoke does not appear especially dense?
+
+# [The Investigation: Firefighters and Cancer](https://www.nytimes.com/2025/09/07/us/wildfire-firefighter-cancer.html)
+
+The September 7, 2025 *New York Times* investigation by Hannah Dreier follows **Joel Eisiminger**, a contract wildland firefighter in southern Oregon who had spent six seasons fighting fires. During a July 2024 deployment, he became seriously ill. Shortly before his 25th birthday, doctors diagnosed **acute myeloid leukemia (AML)**, an aggressive blood cancer.
+
+Joel had spent long shifts working in dense smoke, often wearing a bandanna rather than respiratory protection designed to filter smoke particles. The reporting describes the physically demanding work, limited information about long-term smoke hazards, and workplace expectations that shaped his experience.
+
+The article does **not** establish that wildfire smoke caused Joel's leukemia. It does document an important occupational health question: How should employers respond when a worker develops a disease that may be associated with substances encountered on the job, but individual causation is difficult to demonstrate?
+
+## [Joel Eisiminger: The Consequences Beyond Exposure](https://www.nytimes.com/2025/09/07/us/wildfire-firefighter-cancer.html)
+
+Joel needed chemotherapy, blood transfusions, and repeated hospital care. His illness also created substantial financial uncertainty. According to the reporting, his employer's workers' compensation insurer questioned whether the cancer could be established as work-related.
+
+As his health improved, Joel considered different employment and training opportunities, yet firefighting remained important to his identity. The article closes with his decision to travel to Alaska to seek another firefighting position.
+
+This case illustrates that occupational disease can affect far more than a worker's physical health. It may also influence employment, income, access to treatment, family finances, and decisions about returning to hazardous work.
+
+## [Federal Employees and Contract Firefighters: Unequal Protections](https://www.nytimes.com/2025/09/07/us/wildfire-firefighter-cancer.html)
+
+The investigation distinguishes firefighters employed directly by federal and state agencies from firefighters working for private contractors. According to the article, **roughly two-thirds of the nation's approximately 40,000 wildland firefighters** worked for government agencies, while approximately 14,000 worked for private companies.
+
+The reporting describes differences in workers' compensation protections. Federal firefighters had access to presumptive coverage for certain cancers under a 2022 law, while contract firefighters generally faced a greater burden of establishing that an illness was related to their work.
+
+This distinction raises questions about **occupational health equity**: Should workers performing comparable tasks under the same incident command structure receive different protections or benefits because of their employment classification?
+
+## Understanding Occupational Cancer and Causation
+
+Cancer can have a long latency period. An individual diagnosis generally cannot, by itself, identify a particular fire or shift as the cause. Occupational health investigations therefore consider exposure histories, disease patterns, comparison populations, and alternative explanations.
+
+Important distinctions include:
+
+- **Hazard:** A substance or exposure has the potential to cause harm.
+- **Exposure:** A worker comes into contact with that hazard, with a particular intensity, duration, and frequency.
+- **Risk:** The likelihood of an adverse outcome under specific exposure conditions.
+- **Association versus causation:** An observed relationship requires careful interpretation and does not automatically establish the cause of an individual case.
+
+The NYT reporting provides personal and policy context; epidemiologic evidence is needed to quantify cancer risks for specific groups and exposure histories.
+
+# [Respiratory Protection: A Difficult Prevention Problem](https://www.nytimes.com/2025/08/17/us/wildfire-firefighters-masks-smoke.html)
+
+In her August 17, 2025 investigation, Hannah Dreier describes firefighters working in smoke with bandannas or no respiratory protection, despite longstanding concerns about toxic combustion products. The reporting examines why the U.S. Forest Service resisted adopting respirators for crews on the fire line.
+
+The article describes a history of warnings and recommendations. After firefighters developed breathing problems during the 1988 Yellowstone fires, CDC researchers evaluated smoke hazards and recommended respiratory protection. Subsequent Forest Service researchers and safety officials continued to raise concerns about the limitations of bandannas and the need for better protection.
+
+## [Fernando Allende and Other Firefighters](https://www.nytimes.com/2025/08/17/us/wildfire-firefighters-masks-smoke.html)
+
+**Fernando Allende**, a 33-year-old Forest Service firefighter, was among the crews responding to the January 2025 Los Angeles fires. After experiencing a persistent cough and difficulty breathing, he was diagnosed with **non-Hodgkin lymphoma**. The article also describes firefighters who reported severe respiratory illness, lung damage, and other cancers after years of fire work.
+
+These experiences are important signals for occupational health investigation, but a collection of individual cases is not equivalent to a study establishing the incidence or cause of disease among all firefighters.
+
+## Why Respirators Have Been Controversial
+
+The article describes agency concerns about physical exertion, heat stress, work efficiency, logistical burdens, and whether respirators could be used safely during prolonged suppression operations. It also documents a workplace culture in which some firefighters viewed masks as uncomfortable or a sign of weakness.
+
+Wildland firefighting poses unusual challenges for respiratory protection because work can involve prolonged exertion, heat, variable smoke conditions, and limited opportunities to change equipment.
+
+Respiratory protection decisions must account for the specific contaminants and concentrations present, oxygen availability, physical workload, fit, training, and the limitations of the equipment. **A filtering facepiece or particulate filter does not protect against all hazardous gases, including carbon monoxide.**
+
+We should not assume that a particular mask is adequate for every wildfire environment or that an absence of respiratory protection means an individual worker made an uninformed choice. Equipment availability, operational requirements, and employer policies all influence exposure.
+
+## [Worker Health Surveillance and Agency Response](https://www.nytimes.com/2025/08/17/us/wildfire-firefighters-masks-smoke.html)
+
+The reporting describes calls for improved respiratory protection, personal exposure monitoring, lung-function testing, and long-term health tracking. It also reports that an effort to establish respiratory protection requirements for wildland firefighters faced resistance during the federal rulemaking process.
+
+For occupational health professionals, the question is not simply whether a respirator exists. It is whether employers have systematically characterized exposures, evaluated feasible controls, trained workers, and assessed whether prevention strategies are effective.
+
+# Occupational Health Surveillance: What Should Be Measured?
+
+**1. Exposure characterization**
+
+What pollutants are present, and how do concentrations change by task, location, and time?
+
+**2. Personal exposure assessment**
+
+Could personal air sampling, direct-reading instruments, and task-based observations help estimate exposures more accurately than area measurements alone?
+
+**3. Work history**
+
+How many seasons, incidents, shifts, and hours has a firefighter worked? Which assignments produced the greatest exposures?
+
+**4. Health surveillance**
+
+How should occupational histories, appropriate medical evaluation, and long-term follow-up be incorporated without implying that a single test can rule out future cancer?
+
+**5. Reporting and organizational responsibility**
+
+Do firefighters have practical ways to report symptoms and exposure concerns, and are employers using that information to improve protection?
+
+# Applying Occupational Health Principles
+
+| Occupational health concept | Wildland firefighting case study |
+|-----------------------------------|-----------------------------------|
+| Hazard identification | Wildfire smoke and combustion byproducts |
+| Exposure assessment | Personal sampling, exposure duration, and task histories |
+| Health effects | Respiratory effects and concerns about long-term cancer risk |
+| Surveillance | Tracking exposure histories and relevant health outcomes |
+| Risk communication | Explaining uncertainty without minimizing potential harm |
+| Prevention | Reducing exposure through operational controls and appropriate protective equipment |
+| Worker health protection | Medical access, training, reporting systems, and organizational accountability |
+
+The **hierarchy of controls** helps structure prevention, although eliminating wildfire smoke at the source is generally not possible during an active response. Operational planning, reducing unnecessary exposure, appropriate respiratory protection where feasible, and ongoing assessment must be evaluated in context.
+
+# Poll Everywhere: Wildland Firefighters and Occupational Cancer
+
+The following questions connect the reporting to occupational hazard recognition, exposure assessment, respiratory protection, and long-term worker health.
+
+Please scan the QR code to submit your responses using **Poll Everywhere**. We will discuss the responses together as a class.
+
+:::::: {.columns .poll-columns}
+::: {.column width="70%"}
+### Questions
+
+**1. Occupational Exposure and Worker Health**
+
+What does Joel Eisiminger’s experience reveal about the difficulty of identifying and addressing a possible occupational cancer?
+
+**2. Hazard Recognition**
+
+Why is a bandanna inadequate protection against the hazardous components of wildfire smoke, and what does it fail to filter?
+
+**3. Exposure Assessment**
+
+What measurements and work-history information would help characterize exposures across many fire seasons and distinguish short-term effects from possible long-term disease?
+
+**4. Respiratory Protection**
+
+The NYT reports that respiratory protection recommendations faced resistance for decades. What barriers did the agency identify, and how could occupational health professionals evaluate those concerns?
+
+**5. Organizational Responsibility and Equity**
+
+Joel Eisiminger was a contract firefighter. Why might federal and contract firefighters face different challenges obtaining workers’ compensation for a suspected occupational cancer?
+
+**6. Occupational Disease Prevention**
+
+If you were advising a wildland fire agency, what exposure measurements, respiratory protection evaluations, and long-term health surveillance would you prioritize?
+:::
+
+:::: {.column width="30%"}
+::: poll-qr
+![Scan to participate in Poll Everywhere](poll-everywhere-response.jpg){fig-alt="Poll Everywhere QR code for submitting class responses" width="100%"}
+
+**Scan to participate**
+:::
+::::
+::::::
+
+# Closing Perspective
+
+Wildland firefighting illustrates a fundamental occupational health challenge: **the absence of an immediate injury does not mean that an exposure is harmless.**
+
+When a potential disease has a long latency period, occupational health professionals must consider cumulative exposure, incomplete evidence, and the importance of prevention before every long-term outcome is known.
+
+The goal is to identify hazards, measure exposures, evaluate health evidence carefully, communicate uncertainty, and protect workers throughout their careers.
+
+------------------------------------------------------------------------
+
+## Copyright and Third-Party Materials {.unnumbered}
+
+© 2026 Yoni Rodriguez. All rights reserved.
+
+Original lecture text, instructional organization, and teaching materials were prepared by Yoni Rodriguez for SHM 102: Occupational Health at Central Washington University.
+
+**Third-party materials:** The podcast episode, articles, photograph, and NYT video produced or published by *The New York Times* remain the intellectual property of The New York Times Company and/or their respective rights holders. They are not covered by the instructor's copyright notice above. The separately linked YouTube video also remains the property of its respective rights holder.
+
+Third-party materials are linked for educational purposes. All rights remain with their respective copyright holders. Inclusion does not imply ownership, endorsement, or permission for redistribution.

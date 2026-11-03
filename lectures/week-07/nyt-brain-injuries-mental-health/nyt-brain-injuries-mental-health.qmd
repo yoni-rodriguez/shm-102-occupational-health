@@ -1,6 +1,6 @@
 ---
 title: "SHM 102: Occupational Health"
-subtitle: "Guest Lecture: Occupational Brain Injuries and Mental Health"
+subtitle: "Feature Lecture: Occupational Brain Injuries and Mental Health"
 author: "Yoni Rodriguez"
 date: "Fall 2026"
 format:
@@ -356,40 +356,34 @@ img.cowpox-equal-height {
 </style>
 ```
 
-
 :::::: columns
 ::: {.column width="40%"}
-
 ![U.S. Coast Guard rescue operations near Cape Disappointment, Washington, 2023. Source: The New York Times.](u.s-coast-guard-cape-washington-2023-nyt.jpg){fig-alt="U.S. Coast Guard rescue boat operating in coastal waters near Cape Disappointment, Washington" width="100%"}
-
 :::
 
 ::: {.column width="4%"}
 :::
 
 ::: {.column width="56%"}
-
 ## SHM 102: Occupational Health
 
-### Guest Lecture: New York Times: Occupational Brain Injuries and Mental Health
+### Feature Lecture: New York Times: Occupational Brain Injuries and Mental Health
 
 **Guest Lecture · Fall 2026**
 
 Yoni Rodriguez\
 Engineering Technologies, Safety, and Construction\
 Central Washington University\
-[Yoni.Rodriguez@cwu.edu](mailto:Yoni.Rodriguez@cwu.edu)
-
+[Yoni.Rodriguez\@cwu.edu](mailto:Yoni.Rodriguez@cwu.edu)
 :::
 ::::::
 
----
+------------------------------------------------------------------------
 
-::: {.callout-warning appearance="default" icon=true}
-
+::: {.callout-warning appearance="default" icon="true"}
 ## Content Warning: Suicide and Mental Health
 
-This guest lecture discusses suicide, psychological distress, post-traumatic stress disorder (PTSD), and possible traumatic brain injuries.
+This feature lecture discusses suicide, psychological distress, post-traumatic stress disorder (PTSD), and possible traumatic brain injuries.
 
 The accompanying reporting includes the experience of a U.S. Coast Guard veteran who died by suicide and the effects of his death on his family.
 
@@ -399,16 +393,14 @@ We will focus on occupational exposures, injury recognition, and prevention rath
 
 Students who would prefer not to watch or listen to the accompanying reporting, or participate in the classroom discussion, may instead review the following articles independently:
 
-1. [Rescue Boat Crews Show Signs of Brain Injuries, but Coast Guard Isn't Looking (July 30, 2026)](https://www.nytimes.com/2026/07/30/us/coast-guard-rescue-boat-surfmen-brain-injury.html?smid=nytcore-ios-share)
+1.  [Rescue Boat Crews Show Signs of Brain Injuries, but Coast Guard Isn't Looking (July 30, 2026)](https://www.nytimes.com/2026/07/30/us/coast-guard-rescue-boat-surfmen-brain-injury.html?smid=nytcore-ios-share)
 
-2. [Coast Guard Vows to Protect Crews From Brain Injuries Caused by Rough Seas (July 31, 2026)](https://www.nytimes.com/2026/07/31/us/31nat-coast-guard-brain-injury-boat-waves-surfmen.html?smid=nytcore-ios-share)
+2.  [Coast Guard Vows to Protect Crews From Brain Injuries Caused by Rough Seas (July 31, 2026)](https://www.nytimes.com/2026/07/31/us/31nat-coast-guard-brain-injury-boat-waves-surfmen.html?smid=nytcore-ios-share)
 
 These articles cover the same occupational health concerns discussed in the lecture and allow students to engage with the material at their own pace. **Please be aware that the first article also discusses suicide and mental health.**
 
 Students may step out during the video or discussion if needed. Please speak with Professor Rodriguez if you would like to arrange an alternative way to participate or demonstrate your understanding of the material.
-
 :::
-
 
 # Guest Lecture: Featured Media
 
@@ -436,7 +428,6 @@ The following reporting from *The New York Times* examines potential occupationa
 - [Watch directly on YouTube](https://www.youtube.com/watch?v=zZD-cGFIls8&t=1s)
 - [Listen to The Daily Podcast (September 1, 2026)](https://www.nytimes.com/2026/09/01/podcasts/the-daily/brain-injuries-coast-guard.html?rref=vanity)
 
-
 # Introduction: Occupational Brain Injuries
 
 Occupational health examines how working conditions, environmental exposures, and workplace hazards influence the health and well-being of workers.
@@ -449,12 +440,10 @@ One emerging concern involves **repetitive mechanical impacts and their potentia
 
 This guest lecture examines that concern through the experiences of U.S. Coast Guard rescue boat crews.
 
-::: {.callout-note appearance="default" icon=true}
-
+::: {.callout-note appearance="default" icon="true"}
 ## Central Question
 
 Can repeated occupational exposures cause neurological injuries that are mistaken for psychological stress or mental health conditions?
-
 :::
 
 # [The Occupational Hazard: Coast Guard Surfmen](https://www.nytimes.com/2026/07/30/us/coast-guard-rescue-boat-surfmen-brain-injury.html)
@@ -470,7 +459,6 @@ Although the boats are designed to protect their occupants from immediate hazard
 These impacts can cause rapid acceleration, deceleration, and movement of the head and neck.
 
 Importantly, a worker does not necessarily need to strike their head against a hard surface to experience potentially harmful forces.
-
 
 ## Coast Guard Training: Oregon Coast
 
@@ -496,7 +484,6 @@ Importantly, a worker does not necessarily need to strike their head against a h
 - How might repeated wave impacts affect the crew?
 - What types of injuries might not be immediately apparent?
 
-
 # [The Investigation: Recognizing a Hidden Occupational Injury](https://www.nytimes.com/2026/07/30/us/coast-guard-rescue-boat-surfmen-brain-injury.html)
 
 On July 30, 2026, *The New York Times* published an investigation by journalist Dave Philipps examining possible brain injuries among Coast Guard rescue boat crews.
@@ -514,7 +501,6 @@ Bonner died by suicide in February 2025.
 His experience raises an important occupational health question: **What happens when workers develop symptoms that may have more than one underlying cause?**
 
 The reporting does not establish that occupational brain injury caused his death. Rather, it highlights the importance of investigating possible physical and psychological contributors to changes in worker health.
-
 
 ## Kayleigh Bonner's Research
 
@@ -539,7 +525,6 @@ However, the survey was exploratory. Self-reported symptoms do not establish a d
 
 Nevertheless, the findings identified an occupational health concern that warranted further investigation.
 
-
 # Understanding Traumatic Brain Injury
 
 A **traumatic brain injury (TBI)** is an injury involving disruption of normal brain function caused by an external mechanical force.
@@ -559,13 +544,12 @@ The Coast Guard investigation raises questions about whether repeated wave impac
 
 The relationship between specific exposure levels, repeated impacts, and long-term neurological outcomes among Coast Guard surfmen requires additional research.
 
-
 ## Physical Injuries and Mental Health
 
 One challenge in recognizing brain injuries is that neurological and psychological conditions can produce overlapping symptoms.
 
 | Reported symptom | Possible neurological or psychological relevance |
-|---|---|
+|------------------------------------|------------------------------------|
 | Headaches | May occur following brain injury or with other medical conditions |
 | Memory difficulties | May involve cognitive dysfunction, stress, or other causes |
 | Sleep disturbances | Common in both neurological and mental health conditions |
@@ -578,7 +562,6 @@ These symptoms alone cannot establish a diagnosis.
 **Traumatic brain injury and PTSD are not mutually exclusive.** A worker may experience both physical injury and psychological trauma.
 
 For occupational health professionals, this emphasizes the importance of considering the complete exposure history rather than assuming that symptoms have only one explanation.
-
 
 # [Occupational Health Surveillance: What Was Missing?](https://www.nytimes.com/2026/07/30/us/coast-guard-rescue-boat-surfmen-brain-injury.html)
 
@@ -606,7 +589,6 @@ Are workers comfortable reporting symptoms that could affect their ability to co
 
 What engineering, operational, or administrative interventions could reduce exposure while maintaining rescue capabilities?
 
-
 # [Coast Guard Response: July 31, 2026](https://www.nytimes.com/2026/07/31/us/31nat-coast-guard-brain-injury-boat-waves-surfmen.html)
 
 On July 31, 2026, *The New York Times* reported that the U.S. Coast Guard had announced plans to address possible brain injuries associated with repeated wave impacts.
@@ -627,13 +609,12 @@ These efforts may help characterize the magnitude and frequency of occupational 
 
 The announcement represents an organizational response to an identified occupational health concern. It does not, by itself, establish that the proposed measures have been fully implemented or proven effective.
 
-
 # Applying Occupational Health Principles
 
 The Coast Guard case provides an opportunity to apply several concepts introduced in SHM-102.
 
 | Occupational health concept | Coast Guard case study |
-|---|---|
+|------------------------------------|------------------------------------|
 | Hazard identification | Repeated mechanical impacts from rough seas |
 | Exposure assessment | Measuring acceleration and impact forces aboard rescue boats |
 | Health effects | Reported neurological, cognitive, and psychological symptoms |
@@ -644,7 +625,6 @@ The Coast Guard case provides an opportunity to apply several concepts introduce
 
 The case also demonstrates why occupational health investigations often require collaboration among engineers, exposure scientists, physicians, epidemiologists, psychologists, and workers themselves.
 
-
 # Poll Everywhere: Occupational Brain Injuries
 
 The following questions connect the Coast Guard investigation to occupational hazard recognition, exposure assessment, neurological health, and injury prevention.
@@ -652,9 +632,7 @@ The following questions connect the Coast Guard investigation to occupational ha
 Please scan the QR code to submit your responses using **Poll Everywhere**. We will discuss the responses together as a class.
 
 :::::: {.columns .poll-columns}
-
 ::: {.column width="70%"}
-
 ### Questions
 
 **1. Occupational Exposure and Worker Health**
@@ -680,23 +658,16 @@ What responsibilities do employers have when emerging evidence suggests that rou
 **6. Occupational Injury Prevention**
 
 How could the Coast Guard reduce potential neurological risks without compromising its ability to perform rescue missions?
-
 :::
 
-::: {.column width="30%"}
-
-::: {.poll-qr}
-
+:::: {.column width="30%"}
+::: poll-qr
 ![Scan to participate in Poll Everywhere](poll-everywhere-response.jpg){fig-alt="Poll Everywhere QR code for submitting class responses" width="100%"}
 
 **Scan to participate**
-
 :::
-
-:::
-
+::::
 ::::::
-
 
 # Closing Perspective
 
@@ -712,8 +683,7 @@ For occupational health professionals, the goal is not simply to respond after i
 
 It is to recognize potential hazards, investigate exposures, identify health effects, and develop interventions that protect workers throughout their careers.
 
-
----
+------------------------------------------------------------------------
 
 ## Copyright and Third-Party Materials {.unnumbered}
 
