@@ -19,7 +19,6 @@ format:
 editor: visual
 ---
 
-
 ```{=html}
 <style>
 
@@ -371,7 +370,6 @@ img.cowpox-equal-height {
 </style>
 ```
 
-
 :::::: columns
 ::: {.column width="40%"}
 ![Joel Eisiminger in Lakeview, Oregon, September 2020. [Source: The New York Times](https://www.nytimes.com/2025/09/07/us/wildfire-firefighter-cancer.html).](nyt-joel-eisminger-lakeview-oregon-september-2020.jpg){fig-alt="Joel Eisiminger in Lakeview, Oregon, in September 2020" width="100%"}
@@ -440,20 +438,22 @@ Students who would prefer not to listen to the podcast or participate in the cla
 
 *The podcast player is hosted by The New York Times. Use the link above to open the episode and listen; access may depend on the publisher's availability and subscription requirements.*
 
-## [The New York Times: Hazardous Fumes and Wildland Firefighters](https://www.nytimes.com/2025/08/17/us/wildfire-firefighters-masks-smoke.html)
+## The New York Times: Hazardous Fumes and Wildland Firefighters
 
 ```{=html}
 <div class="lecture-video">
-  <video controls preload="metadata">
-    <source src="nyt-hazardous-fumes.mp4" type="video/mp4">
+  <video controls autoplay muted loop playsinline preload="auto">
+    <source src="chainsaw.mp4" type="video/mp4">
     Your browser does not support embedded video playback.
   </video>
   <div class="video-caption">
-    <strong>Video:</strong> Hazardous fumes and wildland firefighter smoke exposure.<br>
+    <strong>Video:</strong> Chainsaw operations during wildland firefighting.<br>
     <strong>Source:</strong> <a href="https://www.nytimes.com/2025/08/17/us/wildfire-firefighters-masks-smoke.html">The New York Times, <em>Wildfire Fighters, Unmasked in Toxic Smoke, Are Getting Sick and Dying</em></a>.
   </div>
 </div>
 ```
+
+*Source: [The New York Times](https://www.nytimes.com/2025/08/17/us/wildfire-firefighters-masks-smoke.html).*
 
 # Introduction: Occupational Health in Wildland Firefighting
 
@@ -463,17 +463,13 @@ Some hazards are immediate, such as burns, falling trees, entrapment, and heat i
 
 This lecture examines **repeated smoke exposure and concerns about long-term cancer risk** as an occupational health problem. We will distinguish evidence of exposure from evidence of disease and consider what prevention can look like when exposure cannot be eliminated entirely.
 
-
-::: {.question-highlight}
-
+::: question-highlight
 ## Central Question
 
 How should employers protect wildland firefighters from repeated smoke exposures when the potential health consequences may take years to become apparent?
-
 :::
 
-
-# [The Occupational Hazard: Wildfire Smoke](https://www.nytimes.com/2025/08/17/us/wildfire-firefighters-masks-smoke.html)
+# The Occupational Hazard: Wildfire Smoke
 
 Wildfire smoke is a complex and changing mixture of gases and airborne particles. Its composition depends on the fuel, combustion conditions, weather, and other materials burning in the fire area.
 
@@ -485,6 +481,8 @@ Potential exposure concerns include:
 - **Other combustion byproducts:** Their identities and concentrations vary with the materials burned.
 
 A visible smoke plume does not provide a reliable quantitative measure of an individual worker's exposure. Exposure can change with fire behavior, wind, task, proximity, and duration.
+
+*Source: [The New York Times](https://www.nytimes.com/2025/08/17/us/wildfire-firefighters-masks-smoke.html).*
 
 ## Exposure Pathways and Work Activities
 
@@ -498,7 +496,7 @@ Consider how exposure may differ among firefighters engaged in line construction
 - Why might exposures accumulate across many shifts and fire seasons?
 - How could workers be exposed even when the smoke does not appear especially dense?
 
-# [The Investigation: Firefighters and Cancer](https://www.nytimes.com/2025/09/07/us/wildfire-firefighter-cancer.html)
+# The Investigation: Firefighters and Cancer
 
 The September 7, 2025 *New York Times* investigation by Hannah Dreier follows **Joel Eisiminger**, a contract wildland firefighter in southern Oregon who had spent six seasons fighting fires. During a July 2024 deployment, he became seriously ill. Shortly before his 25th birthday, doctors diagnosed **acute myeloid leukemia (AML)**, an aggressive blood cancer.
 
@@ -506,7 +504,130 @@ Joel had spent long shifts working in dense smoke, often wearing a bandanna rath
 
 The article does **not** establish that wildfire smoke caused Joel's leukemia. It does document an important occupational health question: How should employers respond when a worker develops a disease that may be associated with substances encountered on the job, but individual causation is difficult to demonstrate?
 
-## [Joel Eisiminger: The Consequences Beyond Exposure](https://www.nytimes.com/2025/09/07/us/wildfire-firefighter-cancer.html)
+*Source: [The New York Times](https://www.nytimes.com/2025/09/07/us/wildfire-firefighter-cancer.html).*
+
+## What Is Acute Myeloid Leukemia (AML)?
+
+Leukemia is a cancer of blood-forming cells, typically beginning in the bone marrow. The American Cancer Society classifies leukemia according to two important characteristics:
+
+- **Acute versus chronic:** Acute leukemia progresses rapidly, while chronic leukemia generally develops more slowly.
+- **Myeloid versus lymphoid:** These classifications describe the blood-forming cell lineages in which the cancer develops.
+
+**Acute myeloid leukemia (AML)** begins in the bone marrow, where immature myeloid cells become abnormal and multiply uncontrollably. These abnormal cells, called **myeloid blasts**, interfere with the production of healthy blood cells.
+
+AML can progress rapidly and generally requires prompt medical treatment.
+
+*Source: [American Cancer Society](https://www.cancer.org/cancer/types/acute-myeloid-leukemia/about/what-is-aml.html).*
+
+## AML Incidence and Age at Diagnosis
+
+According to the Cleveland Clinic, acute myeloid leukemia affects approximately **5 in 100,000 adults annually**.
+
+AML is considerably more common among older adults, particularly those aged 65 and older. More than half of patients are at least 65 when diagnosed.
+
+Joel Eisiminger's diagnosis shortly before his 25th birthday is therefore unusual for this disease.
+
+Although AML can occur in younger adults, its occurrence in a young worker does not independently establish an occupational cause.
+
+*Source: [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/6212-acute-myeloid-leukemia-aml).*
+
+## Symptoms and Clinical Manifestations of AML
+
+AML may initially produce symptoms that resemble common illnesses, including influenza. Symptoms can develop or worsen rapidly as abnormal blood cells accumulate in the bone marrow.
+
+Common symptoms include:
+
+- **Persistent fever, chills, and night sweats**
+- **Fatigue, weakness, and reduced physical endurance**
+- **Unexplained bruising or bleeding**, including nosebleeds or bleeding gums
+- **Bone, back, or abdominal pain**
+- **Shortness of breath**
+- **Loss of appetite**
+- **Headaches**
+- **Frequent infections or wounds that do not heal**
+- **Petechiae**, which are small red or purple spots caused by bleeding beneath the skin
+
+For occupational health professionals, these symptoms illustrate an important challenge: Early manifestations of serious illness may initially resemble fatigue, infection, or other conditions commonly encountered in physically demanding work.
+
+However, these symptoms are not specific to AML and require appropriate medical evaluation.
+
+*Source: [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/6212-acute-myeloid-leukemia-aml).*
+
+## AML Complications: Effects on Blood Cell Production
+
+As abnormal myeloid blasts accumulate in the bone marrow, they interfere with the production of healthy blood cells and platelets.
+
+This can result in several important complications:
+
+| Complication | Description | Potential health effects |
+|------------------------|------------------------|------------------------|
+| **Anemia** | Reduced healthy red blood cells | Fatigue, weakness, shortness of breath |
+| **Thrombocytopenia** | Reduced platelet count | Easy bruising, bleeding, petechiae |
+| **Neutropenia** | Reduced neutrophils, a type of white blood cell | Increased susceptibility to infections |
+| **Pancytopenia** | Reduction in multiple blood cell types | Combined effects of anemia, infection risk, and bleeding |
+
+In some cases, leukemia cells may also spread beyond the bone marrow and bloodstream to other tissues and organs.
+
+*Source: [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/6212-acute-myeloid-leukemia-aml).*
+
+## AML Causes and Risk Factors
+
+AML develops when genetic changes affect the normal growth and development of blood-forming cells.
+
+Some genetic changes may be inherited, but many occur during a person's lifetime.
+
+Recognized risk factors include:
+
+- **Increasing age:** AML is more common in adults aged 65 and older.
+- **Tobacco exposure:** Smoking and exposure to secondhand tobacco smoke are associated with increased risk.
+- **Chemical carcinogens:** Long-term exposure to substances such as **benzene** and formaldehyde may increase AML risk.
+- **Previous chemotherapy:** Certain cancer treatments can increase the risk of developing therapy-related AML.
+- **High-dose ionizing radiation:** Exposure to sufficiently high radiation doses can increase the risk of leukemia.
+
+### Occupational Health Connection
+
+Wildland firefighters may encounter complex mixtures of combustion products, including particulate matter, gases, and potentially carcinogenic chemicals.
+
+However, **the presence of a hazardous chemical in smoke does not establish an individual's absorbed dose or prove that a particular exposure caused AML**.
+
+Establishing occupational cancer risk requires consideration of exposure concentrations, duration, frequency, relevant epidemiologic evidence, and other potential risk factors.
+
+*Source: [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/6212-acute-myeloid-leukemia-aml).*
+
+## AML Treatment, Remission, and the Possibility of Recurrence
+
+Chemotherapy is a common initial treatment for AML. Treatment aims to destroy leukemia cells and restore normal blood cell production.
+
+Many patients achieve **remission**, meaning that symptoms improve and medical testing no longer identifies evidence of active leukemia according to established clinical criteria.
+
+However, **remission does not necessarily mean that the disease has been permanently eliminated**. AML may recur after treatment, requiring additional therapy and long-term monitoring.
+
+An **allogeneic hematopoietic stem cell transplant**, which uses healthy blood-forming stem cells from a donor, offers a potentially curative treatment for some patients.
+
+Not all patients are candidates for transplantation. Treatment decisions depend on factors such as age, overall health, leukemia subtype, genetic findings, and response to initial therapy.
+
+*Source: [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/6212-acute-myeloid-leukemia-aml).*
+
+## Acute Myeloid Leukemia: Sweet Syndrome
+
+**Sweet syndrome**, also called acute febrile neutrophilic dermatosis, is an inflammatory skin condition that can occur in association with leukemia, including AML.
+
+It may cause:
+
+- Red or bluish skin lesions
+- Painful or tender raised bumps
+- Fever
+- Joint pain
+
+Sweet syndrome is one possible skin manifestation associated with leukemia. It does not occur in every patient with AML and is distinct from petechiae caused by low platelet counts.
+
+![Sweet syndrome can occur in association with leukemia, including AML. Symptoms may include red or bluish lesions, tender bumps, fever, and joint pain. Photograph by DermNet New Zealand. [Source: Medical News Today](https://www.medicalnewstoday.com/articles/acute-myeloid-leukemia-rash#rashes).](sweet-syndrome.jpg){fig-alt="Clinical photograph illustrating skin lesions associated with Sweet syndrome" width="65%" fig-align="center"}
+
+*This photograph illustrates a possible leukemia-associated skin condition and does not depict Joel Eisiminger.*
+
+*Source: [Medical News Today](https://www.medicalnewstoday.com/articles/acute-myeloid-leukemia-rash#rashes).*
+
+## Joel Eisiminger: The Consequences Beyond Exposure
 
 Joel needed chemotherapy, blood transfusions, and repeated hospital care. His illness also created substantial financial uncertainty. According to the reporting, his employer's workers' compensation insurer questioned whether the cancer could be established as work-related.
 
@@ -514,13 +635,18 @@ As his health improved, Joel considered different employment and training opport
 
 This case illustrates that occupational disease can affect far more than a worker's physical health. It may also influence employment, income, access to treatment, family finances, and decisions about returning to hazardous work.
 
-## [Federal Employees and Contract Firefighters: Unequal Protections](https://www.nytimes.com/2025/09/07/us/wildfire-firefighter-cancer.html)
+*Source: [The New York Times](https://www.nytimes.com/2025/09/07/us/wildfire-firefighter-cancer.html).*
+
+## Federal Employees and Contract Firefighters: Unequal Protections
 
 The investigation distinguishes firefighters employed directly by federal and state agencies from firefighters working for private contractors. According to the article, **roughly two-thirds of the nation's approximately 40,000 wildland firefighters** worked for government agencies, while approximately 14,000 worked for private companies.
 
 The reporting describes differences in workers' compensation protections. Federal firefighters had access to presumptive coverage for certain cancers under a 2022 law, while contract firefighters generally faced a greater burden of establishing that an illness was related to their work.
 
 This distinction raises questions about **occupational health equity**: Should workers performing comparable tasks under the same incident command structure receive different protections or benefits because of their employment classification?
+
+*Source: [The New York Times](https://www.nytimes.com/2025/09/07/us/wildfire-firefighter-cancer.html).*
+
 
 ## Understanding Occupational Cancer and Causation
 
@@ -535,17 +661,60 @@ Important distinctions include:
 
 The NYT reporting provides personal and policy context; epidemiologic evidence is needed to quantify cancer risks for specific groups and exposure histories.
 
-# [Respiratory Protection: A Difficult Prevention Problem](https://www.nytimes.com/2025/08/17/us/wildfire-firefighters-masks-smoke.html)
+*Source: [The New York Times, "Wildfire Fighters, Unmasked in Toxic Smoke, Are Getting Sick and Dying" (August 17, 2025)](https://www.nytimes.com/2025/08/17/us/wildfire-firefighters-masks-smoke.html).*
+
+
+# Respiratory Protection: A Difficult Prevention Problem
 
 In her August 17, 2025 investigation, Hannah Dreier describes firefighters working in smoke with bandannas or no respiratory protection, despite longstanding concerns about toxic combustion products. The reporting examines why the U.S. Forest Service resisted adopting respirators for crews on the fire line.
 
 The article describes a history of warnings and recommendations. After firefighters developed breathing problems during the 1988 Yellowstone fires, CDC researchers evaluated smoke hazards and recommended respiratory protection. Subsequent Forest Service researchers and safety officials continued to raise concerns about the limitations of bandannas and the need for better protection.
 
-## [Fernando Allende and Other Firefighters](https://www.nytimes.com/2025/08/17/us/wildfire-firefighters-masks-smoke.html)
+*Source: [The New York Times](https://www.nytimes.com/2025/08/17/us/wildfire-firefighters-masks-smoke.html).*
+
+
+## Fernando Allende and Other Firefighters
+
+![Fernando Allende undergoing chemotherapy following his cancer diagnosis. [Source: The New York Times](https://www.nytimes.com/2025/08/17/us/wildfire-firefighters-masks-smoke.html).](nyt-allende-chemotherapy.jpg){fig-alt="Fernando Allende receiving chemotherapy treatment" width="70%" fig-align="center"}
 
 **Fernando Allende**, a 33-year-old Forest Service firefighter, was among the crews responding to the January 2025 Los Angeles fires. After experiencing a persistent cough and difficulty breathing, he was diagnosed with **non-Hodgkin lymphoma**. The article also describes firefighters who reported severe respiratory illness, lung damage, and other cancers after years of fire work.
 
 These experiences are important signals for occupational health investigation, but a collection of individual cases is not equivalent to a study establishing the incidence or cause of disease among all firefighters.
+
+*Source: [The New York Times, "Wildfire Fighters, Unmasked in Toxic Smoke, Are Getting Sick and Dying" (August 17, 2025)](https://www.nytimes.com/2025/08/17/us/wildfire-firefighters-masks-smoke.html).*
+
+
+## Understanding Non-Hodgkin Lymphoma
+
+According to the **National Cancer Institute (NCI)**, non-Hodgkin lymphoma (NHL) is a group of cancers that begin in cells of the **immune system**, which normally protects the body against infections and other diseases.
+
+The **lymphatic system** is an important component of the immune system and includes:
+
+- **Lymph vessels:** A network of vessels that extends throughout the body's tissues.
+- **Lymph:** A clear fluid transported through lymphatic vessels that contains white blood cells, particularly lymphocytes such as B cells and T cells.
+- **Lymph nodes:** Small structures found throughout the body, including the neck, underarms, chest, abdomen, and groin. They contain white blood cells and help filter harmful substances.
+- **Other lymphatic organs:** The tonsils, thymus, and spleen. Lymphatic tissue is also present in the stomach, skin, and small intestine.
+
+![The human lymphatic system, showing lymph nodes above and below the diaphragm, lymph vessels, tonsils, thymus, and spleen. Source: National Cancer Institute.](lymph-nodes.jpg){fig-alt="Anatomical illustration of the human lymphatic system showing lymph nodes, lymph vessels, tonsils, thymus, diaphragm, and spleen" width="65%" fig-align="center"}
+
+*Image source: [National Cancer Institute, What You Need To Know About Non-Hodgkin Lymphoma, p. 3](https://www.govinfo.gov/content/pkg/GOVPUB-HE20_3150-PURL-LPS83617/pdf/GOVPUB-HE20_3150-PURL-LPS83617.pdf).*
+
+Because lymphatic tissue is distributed throughout the body, **non-Hodgkin lymphoma can develop in many different locations**, although it is commonly first identified in a lymph node.
+
+### How Non-Hodgkin Lymphoma Develops
+
+Non-Hodgkin lymphoma begins when a **lymphocyte**, usually a B cell, becomes abnormal.
+
+These abnormal cells begin dividing repeatedly, producing additional abnormal lymphocytes. Unlike healthy cells, they may fail to die when they should and no longer function normally in protecting the body against infections.
+
+As these abnormal cells accumulate, they can form a mass of tissue known as a **tumor**.
+
+Non-Hodgkin lymphomas include both **indolent (slow-growing)** and **aggressive (fast-growing)** forms.
+
+*Source: [National Cancer Institute, What You Need To Know About Non-Hodgkin Lymphoma, pp. 2–4 and 8](https://www.govinfo.gov/content/pkg/GOVPUB-HE20_3150-PURL-LPS83617/pdf/GOVPUB-HE20_3150-PURL-LPS83617.pdf).*
+
+
+
 
 ## Why Respirators Have Been Controversial
 
@@ -553,15 +722,22 @@ The article describes agency concerns about physical exertion, heat stress, work
 
 Wildland firefighting poses unusual challenges for respiratory protection because work can involve prolonged exertion, heat, variable smoke conditions, and limited opportunities to change equipment.
 
+![Respiratory protection equipment discussed in the context of wildland firefighter smoke exposure.](nyt-firefighter-respirator-mask.jpg){fig-alt="Respiratory protection equipment associated with wildland firefighting" width="65%" fig-align="center"}
+
+*Image source: [The New York Times, "Wildfire Fighters, Unmasked in Toxic Smoke, Are Getting Sick and Dying" (August 17, 2025)](https://www.nytimes.com/2025/08/17/us/wildfire-firefighters-masks-smoke.html).*
+
 Respiratory protection decisions must account for the specific contaminants and concentrations present, oxygen availability, physical workload, fit, training, and the limitations of the equipment. **A filtering facepiece or particulate filter does not protect against all hazardous gases, including carbon monoxide.**
 
 We should not assume that a particular mask is adequate for every wildfire environment or that an absence of respiratory protection means an individual worker made an uninformed choice. Equipment availability, operational requirements, and employer policies all influence exposure.
 
-## [Worker Health Surveillance and Agency Response](https://www.nytimes.com/2025/08/17/us/wildfire-firefighters-masks-smoke.html)
+
+## Worker Health Surveillance and Agency Response
 
 The reporting describes calls for improved respiratory protection, personal exposure monitoring, lung-function testing, and long-term health tracking. It also reports that an effort to establish respiratory protection requirements for wildland firefighters faced resistance during the federal rulemaking process.
 
 For occupational health professionals, the question is not simply whether a respirator exists. It is whether employers have systematically characterized exposures, evaluated feasible controls, trained workers, and assessed whether prevention strategies are effective.
+
+*Source: [The New York Times](https://www.nytimes.com/2025/08/17/us/wildfire-firefighters-masks-smoke.html).*
 
 # Occupational Health Surveillance: What Should Be Measured?
 
@@ -588,7 +764,7 @@ Do firefighters have practical ways to report symptoms and exposure concerns, an
 # Applying Occupational Health Principles
 
 | Occupational health concept | Wildland firefighting case study |
-|-----------------------------------|-----------------------------------|
+|------------------------------------|------------------------------------|
 | Hazard identification | Wildfire smoke and combustion byproducts |
 | Exposure assessment | Personal sampling, exposure duration, and task histories |
 | Health effects | Respiratory effects and concerns about long-term cancer risk |
@@ -613,11 +789,9 @@ Please scan the QR code to submit your responses using **Poll Everywhere**. We w
 
 What does Joel Eisiminger’s experience reveal about the difficulty of identifying and addressing a possible occupational cancer?
 
-
 **2. Exposure Assessment**
 
 What measurements and work-history information would help characterize exposures across many fire seasons and distinguish short-term effects from possible long-term disease?
-
 
 **3. Occupational Disease Prevention**
 
@@ -633,6 +807,7 @@ If you were advising a wildland fire agency, what exposure measurements, respira
 ::::
 ::::::
 
+
 # Closing Perspective
 
 Wildland firefighting illustrates a fundamental occupational health challenge: **the absence of an immediate injury does not mean that an exposure is harmless.**
@@ -640,6 +815,11 @@ Wildland firefighting illustrates a fundamental occupational health challenge: *
 When a potential disease has a long latency period, occupational health professionals must consider cumulative exposure, incomplete evidence, and the importance of prevention before every long-term outcome is known.
 
 The goal is to identify hazards, measure exposures, evaluate health evidence carefully, communicate uncertainty, and protect workers throughout their careers.
+
+![U.S. Forest Service wildland firefighting operations in San Luis Obispo, California.](nyt-u.s.-forest-service-san-luis-obispo-california.jpg){fig-alt="U.S. Forest Service wildland firefighting operations in San Luis Obispo, California" width="75%" fig-align="center"}
+
+*Image source: [The New York Times, "Wildfire Fighters, Unmasked in Toxic Smoke, Are Getting Sick and Dying" (August 17, 2025)](https://www.nytimes.com/2025/08/17/us/wildfire-firefighters-masks-smoke.html).*
+
 
 ------------------------------------------------------------------------
 
